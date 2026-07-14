@@ -1,0 +1,41 @@
+name: Daily deep scan (tournament + performance signals)
+
+on:
+  schedule:
+    # Une fois par jour à 6h UTC - ces scans font beaucoup de requêtes,
+    # pas la peine de les lancer toutes les heures comme le reste du pipeline
+    - cron: "0 6 * * *"
+  workflow_dispatch: {}
+
+jobs:
+  deep-scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run tournament signal scanner (MTGGoldfish)
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python tournament_scanner.py
+
+      - name: Run performance scanner (MTGTop8)
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python performance_scanner.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "mtg-price-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add tournament_signals.json rarity_cache.json meta_signals.json performance_signals.json
+          git diff --staged --quiet || git commit -m "Update tournament/performance signals [skip ci]"
+          git push

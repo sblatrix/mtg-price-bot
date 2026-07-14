@@ -29,6 +29,14 @@ jobs:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: python deal_scanner.py
 
+      - name: Run release calendar refresh
+        run: python release_calendar.py
+
+      - name: Run post-release systematic scanner
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python post_release_scanner.py
+
       - name: Run CardNexus history collector
         run: python cardnexus_history.py
 
@@ -44,6 +52,6 @@ jobs:
         run: |
           git config user.name "mtg-price-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add prices.db seen_deals.json product_catalog.json recent_deals.json docs/data.json
+          git add prices.db seen_deals.json product_catalog.json recent_deals.json docs/data.json set_release_cache.json post_release_watchlist.json
           git diff --staged --quiet || git commit -m "Update price data [skip ci]"
           git push

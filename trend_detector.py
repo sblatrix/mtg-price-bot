@@ -13,38 +13,31 @@ from datetime import datetime, timezone
 
 import requests
 
-from db import get_all_tracked_cards, get_latest_price, get_price_history
+from db import get_all_tracked_cards, get_latest_price
+from breakout import compute_breakout
 
 # Seuil d'écart entre sources pour alerter (en %)
 CROSS_SOURCE_THRESHOLD_PERCENT = 15.0
 
-# Seuil de variation pour déclencher une alerte (en %)
-THRESHOLD_PERCENT = 10.0
-# Sur combien des dernières collectes on compare (ex: 5 derniers relevés)
-LOOKBACK = 5
+# Seuil de rupture de tendance pour déclencher une alerte (en %)
+THRESHOLD_PERCENT = 15.0
 
 DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL", "")
 
 
-def compute_trend(card_name: str, source: str = "scryfall_cardmarket"):
-    history = get_price_history(card_name, source, limit=LOOKBACK)
-    if len(history) < 2:
+def compute_trend(card_name: str, source: str = "scryfall_cardmarket_standard"):
+    """Utilise le détecteur de rupture robuste (breakout.py) : compare une
+    moyenne récente à une moyenne de référence, plutôt qu'un simple point
+    ancien vs point récent (trop sensible à un prix aberrant isolé)."""
+    breakout = compute_breakout(card_name, source)
+    if breakout is None:
         return None
-
-    # history est trié du plus récent au plus ancien
-    latest = history[0]["price_eur"]
-    oldest = history[-1]["price_eur"]
-
-    if not oldest or oldest == 0:
-        return None
-
-    change_pct = ((latest - oldest) / oldest) * 100
     return {
         "card_name": card_name,
-        "latest_price": latest,
-        "oldest_price": oldest,
-        "change_pct": change_pct,
-        "num_points": len(history),
+        "latest_price": breakout["recent_avg"],
+        "oldest_price": breakout["baseline_avg"],
+        "change_pct": breakout["change_pct"],
+        "num_points": breakout["n_recent"] + breakout["n_baseline"],
     }
 
 

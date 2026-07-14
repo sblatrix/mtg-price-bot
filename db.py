@@ -63,6 +63,17 @@ def get_latest_price(card_name: str, source: str):
     return rows[0] if rows else None
 
 
+def get_price_history_asc(card_name: str, source: str, limit: int = 200):
+    """Historique complet, du plus ancien au plus récent - utile pour le calcul de rupture."""
+    conn = get_connection()
+    rows = conn.execute(
+        "SELECT * FROM price_history WHERE card_name = ? AND source = ? ORDER BY fetched_at ASC LIMIT ?",
+        (card_name, source, limit),
+    ).fetchall()
+    conn.close()
+    return rows
+
+
 def get_all_tracked_cards():
     conn = get_connection()
     rows = conn.execute("SELECT DISTINCT card_name FROM price_history").fetchall()
