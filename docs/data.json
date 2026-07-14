@@ -1,0 +1,465 @@
+{
+  "generated_at": "2026-07-14T07:10:20.349883+00:00",
+  "cards": [
+    {
+      "name": "Fury",
+      "finishes": {
+        "standard": {
+          "cardnexus_history": [],
+          "scryfall_history": [
+            {
+              "date": "2026-07-14T07:05:51.556379+00:00",
+              "price": 1.68
+            }
+          ],
+          "trend_pct": null,
+          "cross_source_gap_pct": null,
+          "cheaper_source": null
+        }
+      }
+    },
+    {
+      "name": "Ragavan, Nimble Pilferer",
+      "finishes": {
+        "standard": {
+          "cardnexus_history": [],
+          "scryfall_history": [
+            {
+              "date": "2026-07-14T07:05:50.479079+00:00",
+              "price": 35.06
+            }
+          ],
+          "trend_pct": null,
+          "cross_source_gap_pct": null,
+          "cheaper_source": null
+        },
+        "foil": {
+          "cardnexus_history": [],
+          "scryfall_history": [
+            {
+              "date": "2026-07-14T07:05:50.493826+00:00",
+              "price": 43.92
+            }
+          ],
+          "trend_pct": null,
+          "cross_source_gap_pct": null,
+          "cheaper_source": null
+        }
+      }
+    },
+    {
+      "name": "Solitude",
+      "finishes": {
+        "standard": {
+          "cardnexus_history": [],
+          "scryfall_history": [
+            {
+              "date": "2026-07-14T07:05:51.271388+00:00",
+              "price": 35.33
+            }
+          ],
+          "trend_pct": null,
+          "cross_source_gap_pct": null,
+          "cheaper_source": null
+        },
+        "foil": {
+          "cardnexus_history": [],
+          "scryfall_history": [
+            {
+              "date": "2026-07-14T07:05:51.296108+00:00",
+              "price": 42.89
+            }
+          ],
+          "trend_pct": null,
+          "cross_source_gap_pct": null,
+          "cheaper_source": null
+        }
+      }
+    },
+    {
+      "name": "The One Ring",
+      "finishes": {
+        "standard": {
+          "cardnexus_history": [],
+          "scryfall_history": [
+            {
+              "date": "2026-07-14T07:05:50.885737+00:00",
+              "price": 76.95
+            }
+          ],
+          "trend_pct": null,
+          "cross_source_gap_pct": null,
+          "cheaper_source": null
+        },
+        "foil": {
+          "cardnexus_history": [],
+          "scryfall_history": [
+            {
+              "date": "2026-07-14T07:05:50.907024+00:00",
+              "price": 93.95
+            }
+          ],
+          "trend_pct": null,
+          "cross_source_gap_pct": null,
+          "cheaper_source": null
+        }
+      }
+    },
+    {
+      "name": "Wrenn and Six",
+      "finishes": {
+        "standard": {
+          "cardnexus_history": [],
+          "scryfall_history": [
+            {
+              "date": "2026-07-14T07:05:52.017233+00:00",
+              "price": 11.26
+            }
+          ],
+          "trend_pct": null,
+          "cross_source_gap_pct": null,
+          "cheaper_source": null
+        },
+        "foil": {
+          "cardnexus_history": [],
+          "scryfall_history": [
+            {
+              "date": "2026-07-14T07:05:52.034620+00:00",
+              "price": 16.07
+            }
+          ],
+          "trend_pct": null,
+          "cross_source_gap_pct": null,
+          "cheaper_source": null
+        }
+      }
+    }
+  ],
+  "recent_deals": [
+    {
+      "name": "Massacre Wurm",
+      "expansion": "Foundations",
+      "finish": "Foil",
+      "language": "en",
+      "price_paid": 2.0,
+      "ref_price": 2.61,
+      "discount_pct": 23.4,
+      "confident": false,
+      "seller_country": "FR",
+      "created_at": "2026-07-10T18:48:20.721Z",
+      "url": "https://cardnexus.com/fr/explore/mtg/foundations/card/fdn-massacre-wurm-714-mythic"
+    },
+    {
+      "name": "Adeline, Resplendent Cathar",
+      "expansion": "Tarkir: Dragonstorm Commander",
+      "finish": "Standard",
+      "language": "fr",
+      "price_paid": 2.0,
+      "ref_price": 2.73,
+      "discount_pct": 26.7,
+      "confident": true,
+      "seller_country": "FR",
+      "created_at": "2026-07-10T18:48:20.721Z",
+      "url": "https://cardnexus.com/fr/explore/mtg/tarkir-dragonstorm-commander/card/tdc-adeline-resplendent-cathar-108-rare"
+    },
+    {
+      "name": "Norn's Annex",
+      "expansion": "Commander Masters",
+      "finish": "Standard",
+      "language": "fr",
+      "price_paid": 2.0,
+      "ref_price": 2.86,
+      "discount_pct": 30.1,
+      "confident": true,
+      "seller_country": "FR",
+      "created_at": "2026-07-10T18:48:20.721Z",
+      "url": "https://cardnexus.com/fr/explore/mtg/commander-masters/card/cmm-norns-annex-829-rare"
+    },
+    {
+      "name": "Staff of Compleation",
+      "expansion": "Tarkir: Dragonstorm Commander",
+      "finish": "Standard",
+      "language": "fr",
+      "price_paid": 3.0,
+      "ref_price": 3.91,
+      "discount_pct": 23.3,
+      "confident": true,
+      "seller_country": "FR",
+      "created_at": "2026-07-10T18:48:59.740Z",
+      "url": "https://cardnexus.com/fr/explore/mtg/tarkir-dragonstorm-commander/card/tdc-staff-of-compleation-326-mythic"
+    },
+    {
+      "name": "Famished Worldsire",
+      "expansion": "Edge of Eternities",
+      "finish": "Standard",
+      "language": "fr",
+      "price_paid": 3.0,
+      "ref_price": 3.81,
+      "discount_pct": 21.3,
+      "confident": true,
+      "seller_country": "FR",
+      "created_at": "2026-07-10T18:48:59.740Z",
+      "url": "https://cardnexus.com/fr/explore/mtg/edge-of-eternities/card/eoe-famished-worldsire-182-mythic"
+    },
+    {
+      "name": "Sothera, the Supervoid",
+      "expansion": "Edge of Eternities",
+      "finish": "Foil",
+      "language": "fr",
+      "price_paid": 3.0,
+      "ref_price": 3.86,
+      "discount_pct": 22.3,
+      "confident": false,
+      "seller_country": "FR",
+      "created_at": "2026-07-10T18:48:59.740Z",
+      "url": "https://cardnexus.com/fr/explore/mtg/edge-of-eternities/card/eoe-sothera-the-supervoid-115-mythic"
+    },
+    {
+      "name": "Infernal Grasp",
+      "expansion": "Marvel Universe",
+      "finish": "Standard",
+      "language": "fr",
+      "price_paid": 2.5,
+      "ref_price": 3.56,
+      "discount_pct": 29.8,
+      "confident": true,
+      "seller_country": "FR",
+      "created_at": "2026-07-10T19:30:37.580Z",
+      "url": "https://cardnexus.com/fr/explore/mtg/marvel-universe/card/mar-infernal-grasp-18-mythic"
+    },
+    {
+      "name": "Relentless Assault",
+      "expansion": "Marvel Universe",
+      "finish": "Standard",
+      "language": "fr",
+      "price_paid": 2.5,
+      "ref_price": 3.19,
+      "discount_pct": 21.6,
+      "confident": true,
+      "seller_country": "FR",
+      "created_at": "2026-07-10T19:30:37.580Z",
+      "url": "https://cardnexus.com/fr/explore/mtg/marvel-universe/card/mar-relentless-assault-25-mythic"
+    },
+    {
+      "name": "Ezio Auditore da Firenze",
+      "expansion": "Assassin's Creed",
+      "finish": "Standard",
+      "language": "en",
+      "price_paid": 7.9,
+      "ref_price": 11.42,
+      "discount_pct": 30.8,
+      "confident": true,
+      "seller_country": "US",
+      "created_at": "2026-07-11T14:54:19.211Z",
+      "url": "https://cardnexus.com/fr/explore/mtg/assassins-creed/card/acr-ezio-auditore-da-firenze-131-mythic"
+    },
+    {
+      "name": "Aurelia, the Warleader",
+      "expansion": "Foundations",
+      "finish": "Standard",
+      "language": "en",
+      "price_paid": 3.95,
+      "ref_price": 6.39,
+      "discount_pct": 38.2,
+      "confident": true,
+      "seller_country": "US",
+      "created_at": "2026-07-11T16:04:42.459Z",
+      "url": "https://cardnexus.com/fr/explore/mtg/foundations/card/fdn-aurelia-the-warleader-651-mythic"
+    },
+    {
+      "name": "Talisman of Conviction",
+      "expansion": "Secrets of Strixhaven Commander",
+      "finish": "Foil",
+      "language": "en",
+      "price_paid": 4.83,
+      "ref_price": 6.33,
+      "discount_pct": 23.7,
+      "confident": false,
+      "seller_country": "US",
+      "created_at": "2026-07-11T16:05:26.846Z",
+      "url": "https://cardnexus.com/fr/explore/mtg/secrets-of-strixhaven-commander/card/soc-talisman-of-conviction-428-mythic"
+    },
+    {
+      "name": "Emeritus of Truce // Swords to Plowshares",
+      "expansion": "Secrets of Strixhaven",
+      "finish": "Standard",
+      "language": "en",
+      "price_paid": 1.32,
+      "ref_price": 2.01,
+      "discount_pct": 34.3,
+      "confident": true,
+      "seller_country": "US",
+      "created_at": "2026-07-11T16:10:32.647Z",
+      "url": "https://cardnexus.com/fr/explore/mtg/secrets-of-strixhaven/card/sos-emeritus-of-truce-swords-to-plowshares-13-mythic"
+    },
+    {
+      "name": "Fell the Profane // Fell Mire",
+      "expansion": "Modern Horizons 3",
+      "finish": "Standard",
+      "language": "en",
+      "price_paid": 2.19,
+      "ref_price": 4.49,
+      "discount_pct": 51.2,
+      "confident": true,
+      "seller_country": "US",
+      "created_at": "2026-07-11T16:16:36.631Z",
+      "url": "https://cardnexus.com/fr/explore/mtg/modern-horizons-3/card/mh3-fell-the-profane-fell-mire-244-uncommon"
+    },
+    {
+      "name": "The Vision and Scarlet Witch",
+      "expansion": "Marvel Super Heroes Commander",
+      "finish": "Standard",
+      "language": "en",
+      "price_paid": 35.0,
+      "ref_price": 64.71,
+      "discount_pct": 45.9,
+      "confident": true,
+      "seller_country": "ES",
+      "created_at": "2026-07-11T18:13:45.769Z",
+      "url": "https://cardnexus.com/fr/explore/mtg/marvel-super-heroes-commander/card/msc-the-vision-and-scarlet-witch-707-mythic"
+    },
+    {
+      "name": "Prismatic Strands",
+      "expansion": "Judgment",
+      "finish": "Standard",
+      "language": "en",
+      "price_paid": 4.29,
+      "ref_price": 10.54,
+      "discount_pct": 59.3,
+      "confident": true,
+      "seller_country": "FR",
+      "created_at": "2026-07-12T09:00:08.100Z",
+      "url": "https://cardnexus.com/fr/explore/mtg/judgment/card/jud-prismatic-strands-18-common"
+    },
+    {
+      "name": "Fellwar Stone",
+      "expansion": "The Dark",
+      "finish": "Standard",
+      "language": "en",
+      "price_paid": 15.0,
+      "ref_price": 19.13,
+      "discount_pct": 21.6,
+      "confident": true,
+      "seller_country": "FR",
+      "created_at": "2026-07-12T11:00:10.205Z",
+      "url": "https://cardnexus.com/fr/explore/mtg/the-dark/card/drk-fellwar-stone-102-uncommon"
+    },
+    {
+      "name": "Varragoth, Bloodsky Sire",
+      "expansion": "Kaldheim",
+      "finish": "Standard",
+      "language": "fr",
+      "price_paid": 2.5,
+      "ref_price": 3.55,
+      "discount_pct": 29.6,
+      "confident": true,
+      "seller_country": "FR",
+      "created_at": "2026-07-12T14:14:56.788Z",
+      "url": "https://cardnexus.com/fr/explore/mtg/kaldheim/card/khm-varragoth-bloodsky-sire-115-rare"
+    },
+    {
+      "name": "Eradicator Valkyrie",
+      "expansion": "Kaldheim",
+      "finish": "Standard",
+      "language": "fr",
+      "price_paid": 1.5,
+      "ref_price": 2.15,
+      "discount_pct": 30.2,
+      "confident": true,
+      "seller_country": "FR",
+      "created_at": "2026-07-12T14:16:32.505Z",
+      "url": "https://cardnexus.com/fr/explore/mtg/kaldheim/card/khm-eradicator-valkyrie-94-mythic"
+    },
+    {
+      "name": "Fellwar Stone",
+      "expansion": "The Brothers' War Commander",
+      "finish": "Standard",
+      "language": "fr",
+      "price_paid": 1.9,
+      "ref_price": 2.45,
+      "discount_pct": 22.4,
+      "confident": true,
+      "seller_country": "FR",
+      "created_at": "2026-07-12T14:48:44.646Z",
+      "url": "https://cardnexus.com/fr/explore/mtg/the-brothers-war-commander/card/brc-fellwar-stone-141-uncommon"
+    },
+    {
+      "name": "Phelddagrif",
+      "expansion": "Alliances",
+      "finish": "Standard",
+      "language": "fr",
+      "price_paid": 3.0,
+      "ref_price": 4.48,
+      "discount_pct": 33.0,
+      "confident": true,
+      "seller_country": "FR",
+      "created_at": "2026-07-12T14:51:15.495Z",
+      "url": "https://cardnexus.com/fr/explore/mtg/alliances/card/all-phelddagrif-115-rare"
+    },
+    {
+      "name": "Zur, Eternal Schemer",
+      "expansion": "Dominaria United",
+      "finish": "Standard",
+      "language": "en",
+      "price_paid": 2.33,
+      "ref_price": 4.06,
+      "discount_pct": 42.6,
+      "confident": true,
+      "seller_country": "US",
+      "created_at": "2026-07-12T20:11:54.956Z",
+      "url": "https://cardnexus.com/fr/explore/mtg/dominaria-united/card/dmu-zur-eternal-schemer-327-mythic"
+    },
+    {
+      "name": "Shadowgrange Archfiend",
+      "expansion": "Crimson Vow Commander",
+      "finish": "Standard",
+      "language": "en",
+      "price_paid": 4.84,
+      "ref_price": 7.97,
+      "discount_pct": 39.3,
+      "confident": true,
+      "seller_country": "US",
+      "created_at": "2026-07-12T20:15:17.813Z",
+      "url": "https://cardnexus.com/fr/explore/mtg/crimson-vow-commander/card/voc-shadowgrange-archfiend-22-rare"
+    },
+    {
+      "name": "Aerith Gainsborough",
+      "expansion": "Final Fantasy",
+      "finish": "Foil",
+      "language": "en",
+      "price_paid": 35.0,
+      "ref_price": 45.57,
+      "discount_pct": 23.2,
+      "confident": false,
+      "seller_country": "FR",
+      "created_at": "2026-07-12T20:24:06.703Z",
+      "url": "https://cardnexus.com/fr/explore/mtg/final-fantasy/card/fin-aerith-gainsborough-519-rare"
+    },
+    {
+      "name": "Brave the Sands",
+      "expansion": "Khans of Tarkir",
+      "finish": "Standard",
+      "language": "fr",
+      "price_paid": 1.99,
+      "ref_price": 2.63,
+      "discount_pct": 24.3,
+      "confident": true,
+      "seller_country": "FR",
+      "created_at": "2026-07-13T11:02:41.710Z",
+      "url": "https://cardnexus.com/fr/explore/mtg/khans-of-tarkir/card/ktk-brave-the-sands-5-uncommon"
+    },
+    {
+      "name": "Impact Tremors",
+      "expansion": "Wilds of Eldraine: Enchanting Tales",
+      "finish": "Standard",
+      "language": "en",
+      "price_paid": 1.6,
+      "ref_price": 2.33,
+      "discount_pct": 31.3,
+      "confident": true,
+      "seller_country": "FR",
+      "created_at": "2026-07-13T14:33:11.249Z",
+      "url": "https://cardnexus.com/fr/explore/mtg/wilds-of-eldraine-enchanting-tales/card/wot-impact-tremors-44-uncommon"
+    }
+  ]
+}

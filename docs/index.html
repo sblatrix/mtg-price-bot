@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SIGNAL — Suivi de prix MTG</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+  :root{
+    --ink:#0B0E17;
+    --panel:#131826;
+    --panel-alt:#171D2C;
+    --line:#232B3D;
+    --text:#EDEFF4;
+    --muted:#8891A5;
+    --foil:#C9A227;
+    --rise:#46C08D;
+    --fall:#E2585A;
+    --arb:#3FB6C9;
+  }
+  *{box-sizing:border-box;}
+  html{-webkit-font-smoothing:antialiased;}
+  body{
+    margin:0;
+    background:var(--ink);
+    color:var(--text);
+    font-family:'Inter',sans-serif;
+    min-height:100vh;
+  }
+  .mono{font-family:'JetBrains Mono',monospace;}
+  .display{font-family:'Space Grotesk',sans-serif;}
+
+  @media (prefers-reduced-motion: reduce){
+    * { animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; }
+  }
+
+  /* --- Ticker --- */
+  .ticker-wrap{
+    background:var(--panel-alt);
+    border-bottom:1px solid var(--line);
+    overflow:hidden;
+    white-space:nowrap;
+    padding:9px 0;
+  }
+  .ticker-track{
+    display:inline-block;
+    padding-left:100%;
+    animation:scroll-left 40s linear infinite;
+  }
+  .ticker-wrap:hover .ticker-track{ animation-play-state:paused; }
+  @keyframes scroll-left{
+    0%{ transform:translateX(0); }
+    100%{ transform:translateX(-100%); }
+  }
+  .ticker-item{
+    display:inline-flex;
+    align-items:center;
+    gap:6px;
+    margin-right:36px;
+    font-size:13px;
+  }
+  .ticker-item .name{ color:var(--text); font-weight:500; }
+  .ticker-item .pct{ font-family:'JetBrains Mono',monospace; }
+  .up{ color:var(--rise); }
+  .down{ color:var(--fall); }
+  .arb-tag{ color:var(--arb); }
+
+  /* --- Header --- */
+  header{
+    max-width:1180px;
+    margin:0 auto;
+    padding:36px 24px 20px;
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-end;
+    flex-wrap:wrap;
+    gap:12px;
+    border-bottom:1px solid var(--line);
+  }
+  h1{
+    font-family:'Space Grotesk',sans-serif;
+    font-size:26px;
+    font-weight:700;
+    letter-spacing:-0.01em;
+    margin:0 0 4px;
+  }
+  h1 span{ color:var(--foil); }
+  header p{
+    margin:0;
+    color:var(--muted);
+    font-size:13.5px;
+  }
+  .updated{
+    font-family:'JetBrains Mono',monospace;
+    font-size:12px;
+    color:var(--muted);
+    text-align:right;
+  }
+  .updated b{ color:var(--text); font-weight:500; }
+
+  main{
+    max-width:1180px;
+    margin:0 auto;
+    padding:28px 24px 80px;
+    display:grid;
+    grid-template-columns:1fr 340px;
+    gap:24px;
+  }
+  @media (max-width:860px){
+    main{ grid-template-columns:1fr; }
+  }
+
+  .section-title{
+    font-family:'Space Grotesk',sans-serif;
+    font-size:13px;
+    font-weight:600;
+    text-transform:uppercase;
+    letter-spacing:0.08em;
+    color:var(--muted);
+    margin:0 0 14px;
+  }
+
+  /* --- Watchlist cards --- */
+  .cards-grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fill, minmax(260px, 1fr));
+    gap:14px;
+  }
+  .card{
+    background:var(--panel);
+    border:1px solid var(--line);
+    border-radius:10px;
+    padding:16px 16px 14px;
+  }
+  .card-name{
+    font-family:'Space Grotesk',sans-serif;
+    font-size:15px;
+    font-weight:600;
+    margin:0 0 10px;
+  }
+  .finish-row{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:8px 0;
+    border-top:1px solid var(--line);
+  }
+  .finish-row:first-of-type{ border-top:none; }
+  .finish-label{
+    font-size:11px;
+    text-transform:uppercase;
+    letter-spacing:0.06em;
+    color:var(--muted);
+  }
+  .finish-trend{
+    font-family:'JetBrains Mono',monospace;
+    font-size:13px;
+    font-weight:500;
+  }
+  .gap-badge{
+    display:inline-block;
+    margin-top:6px;
+    font-size:11px;
+    padding:2px 7px;
+    border-radius:20px;
+    background:rgba(63,182,201,0.12);
+    color:var(--arb);
+    font-family:'JetBrains Mono',monospace;
+  }
+  canvas.sparkline{ margin-top:10px; max-height:46px; }
+
+  /* --- Deals sidebar --- */
+  .deals-list{
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+    max-height:720px;
+    overflow-y:auto;
+    padding-right:2px;
+  }
+  .deal{
+    background:var(--panel);
+    border:1px solid var(--line);
+    border-radius:10px;
+    padding:12px 14px;
+  }
+  .deal-top{
+    display:flex;
+    justify-content:space-between;
+    align-items:baseline;
+    gap:8px;
+  }
+  .deal-name{ font-size:13.5px; font-weight:600; }
+  .deal-discount{
+    font-family:'JetBrains Mono',monospace;
+    font-size:13px;
+    color:var(--rise);
+    white-space:nowrap;
+  }
+  .deal-meta{
+    margin-top:4px;
+    font-size:11.5px;
+    color:var(--muted);
+  }
+  .deal-unconfirmed{
+    display:inline-block;
+    margin-top:6px;
+    font-size:10.5px;
+    color:var(--foil);
+    border:1px solid rgba(201,162,39,0.35);
+    padding:1px 6px;
+    border-radius:20px;
+  }
+  .deal a{ color:var(--arb); text-decoration:none; font-size:11.5px; }
+  .deal a:hover{ text-decoration:underline; }
+
+  .empty{
+    color:var(--muted);
+    font-size:13.5px;
+    line-height:1.6;
+    padding:20px 0;
+  }
+  .empty code{
+    background:var(--panel-alt);
+    border:1px solid var(--line);
+    border-radius:4px;
+    padding:1px 6px;
+    font-family:'JetBrains Mono',monospace;
+    color:var(--text);
+  }
+
+  ::-webkit-scrollbar{ width:8px; }
+  ::-webkit-scrollbar-thumb{ background:var(--line); border-radius:8px; }
+
+  a:focus-visible, .card:focus-visible{ outline:2px solid var(--arb); outline-offset:2px; }
+</style>
+</head>
+<body>
+
+<div class="ticker-wrap">
+  <div class="ticker-track" id="ticker"></div>
+</div>
+
+<header>
+  <div>
+    <h1>SIGNAL <span>/ MTG</span></h1>
+    <p>Suivi de prix, écarts Cardmarket / CardNexus, et bonnes affaires en direct.</p>
+  </div>
+  <div class="updated" id="updated">chargement…</div>
+</header>
+
+<main>
+  <div>
+    <p class="section-title">Watchlist</p>
+    <div class="cards-grid" id="cards-grid"></div>
+  </div>
+
+  <div>
+    <p class="section-title">Bonnes affaires récentes</p>
+    <div class="deals-list" id="deals-list"></div>
+  </div>
+</main>
+
+<script>
+const RISE = getComputedStyle(document.documentElement).getPropertyValue('--rise').trim();
+const FALL = getComputedStyle(document.documentElement).getPropertyValue('--fall').trim();
+const ARB  = getComputedStyle(document.documentElement).getPropertyValue('--arb').trim();
+const MUTED= getComputedStyle(document.documentElement).getPropertyValue('--muted').trim();
+
+function fmtDate(iso){
+  if(!iso) return '';
+  const d = new Date(iso);
+  return d.toLocaleString('fr-FR', {day:'2-digit', month:'short', hour:'2-digit', minute:'2-digit'});
+}
+
+function pctColor(pct){
+  if(pct === null || pct === undefined) return MUTED;
+  return pct >= 0 ? RISE : FALL;
+}
+
+function renderSparkline(canvas, series){
+  if(!series || series.length < 2) return;
+  new Chart(canvas, {
+    type:'line',
+    data:{
+      labels: series.map(p=>p.date),
+      datasets:[{
+        data: series.map(p=>p.price),
+        borderColor: ARB,
+        borderWidth:1.5,
+        pointRadius:0,
+        tension:0.25,
+        fill:false,
+      }]
+    },
+    options:{
+      responsive:true,
+      maintainAspectRatio:false,
+      plugins:{ legend:{display:false}, tooltip:{enabled:false} },
+      scales:{ x:{display:false}, y:{display:false} },
+      animation:false,
+    }
+  });
+}
+
+function buildCard(card){
+  const el = document.createElement('div');
+  el.className = 'card';
+
+  let rowsHtml = '';
+  const finishLabels = { standard: 'Standard', foil: 'Foil' };
+
+  for(const [finish, data] of Object.entries(card.finishes)){
+    const trend = data.trend_pct;
+    const trendTxt = trend === null || trend === undefined ? '—' : `${trend > 0 ? '+' : ''}${trend}%`;
+    const gapHtml = data.cross_source_gap_pct
+      ? `<div class="gap-badge">écart ${data.cross_source_gap_pct}% · moins cher : ${data.cheaper_source === 'cardnexus' ? 'CardNexus' : 'Cardmarket'}</div>`
+      : '';
+    rowsHtml += `
+      <div class="finish-row">
+        <span class="finish-label">${finishLabels[finish] || finish}</span>
+        <span class="finish-trend" style="color:${pctColor(trend)}">${trendTxt}</span>
+      </div>
+      ${gapHtml}
+    `;
+  }
+
+  el.innerHTML = `<p class="card-name">${card.name}</p>${rowsHtml}`;
+
+  // sparkline sur la première finition disponible avec assez de points
+  const firstFinish = Object.values(card.finishes)[0];
+  const series = firstFinish?.cardnexus_history?.length >= 2
+    ? firstFinish.cardnexus_history
+    : firstFinish?.scryfall_history;
+
+  if(series && series.length >= 2){
+    const canvas = document.createElement('canvas');
+    canvas.className = 'sparkline';
+    canvas.height = 46;
+    el.appendChild(canvas);
+    requestAnimationFrame(()=>renderSparkline(canvas, series));
+  }
+
+  return el;
+}
+
+function buildDeal(deal){
+  const el = document.createElement('div');
+  el.className = 'deal';
+  const unconfirmed = deal.confident === false
+    ? `<span class="deal-unconfirmed">à vérifier — foil</span>`
+    : '';
+  el.innerHTML = `
+    <div class="deal-top">
+      <span class="deal-name">${deal.name}</span>
+      <span class="deal-discount">-${deal.discount_pct}%</span>
+    </div>
+    <div class="deal-meta">${deal.expansion || ''} · ${deal.finish || ''} · ${deal.language || '?'} · ${deal.price_paid}€ (réf. ${deal.ref_price}€)</div>
+    <div class="deal-meta">${fmtDate(deal.created_at)} · vendeur ${deal.seller_country || '?'}</div>
+    ${unconfirmed}
+    ${deal.url ? `<div style="margin-top:6px;"><a href="${deal.url}" target="_blank" rel="noopener">Voir l'annonce →</a></div>` : ''}
+  `;
+  return el;
+}
+
+function buildTicker(cards, deals){
+  const items = [];
+
+  cards.forEach(card=>{
+    Object.entries(card.finishes).forEach(([finish, data])=>{
+      if(data.trend_pct !== null && data.trend_pct !== undefined && Math.abs(data.trend_pct) >= 1){
+        const cls = data.trend_pct >= 0 ? 'up' : 'down';
+        const sign = data.trend_pct >= 0 ? '+' : '';
+        items.push(`<span class="ticker-item"><span class="name">${card.name} (${finish})</span><span class="pct ${cls}">${sign}${data.trend_pct}%</span></span>`);
+      }
+      if(data.cross_source_gap_pct){
+        items.push(`<span class="ticker-item"><span class="name">${card.name}</span><span class="pct arb-tag">écart ${data.cross_source_gap_pct}%</span></span>`);
+      }
+    });
+  });
+
+  deals.slice(0, 15).forEach(d=>{
+    items.push(`<span class="ticker-item"><span class="name">${d.name}</span><span class="pct up">-${d.discount_pct}%</span></span>`);
+  });
+
+  return items.length ? items.join('') : `<span class="ticker-item"><span class="name">Aucune donnée pour le moment — lance le collecteur pour démarrer le suivi.</span></span>`;
+}
+
+fetch('./data.json?_=' + Date.now())
+  .then(r => r.json())
+  .then(data => {
+    document.getElementById('updated').innerHTML = `Mis à jour <b>${fmtDate(data.generated_at)}</b>`;
+    document.getElementById('ticker').innerHTML = buildTicker(data.cards, data.recent_deals) + buildTicker(data.cards, data.recent_deals);
+
+    const grid = document.getElementById('cards-grid');
+    if(data.cards.length === 0){
+      grid.innerHTML = `<p class="empty">Aucune carte suivie pour l'instant. Lance <code>python collector.py</code> et <code>python deal_scanner.py</code> au moins une fois pour peupler le dashboard.</p>`;
+    } else {
+      data.cards.forEach(card => grid.appendChild(buildCard(card)));
+    }
+
+    const dealsList = document.getElementById('deals-list');
+    if(data.recent_deals.length === 0){
+      dealsList.innerHTML = `<p class="empty">Pas encore de bonne affaire détectée. Le scanner tourne toutes les heures via GitHub Actions.</p>`;
+    } else {
+      data.recent_deals.forEach(deal => dealsList.appendChild(buildDeal(deal)));
+    }
+  })
+  .catch(err => {
+    document.getElementById('updated').textContent = 'Erreur de chargement';
+    document.getElementById('cards-grid').innerHTML =
+      `<p class="empty">Impossible de charger data.json. Vérifie que le fichier existe dans /docs et que GitHub Pages est activé (Settings → Pages → source: /docs).</p>`;
+    console.error(err);
+  });
+</script>
+
+</body>
+</html>

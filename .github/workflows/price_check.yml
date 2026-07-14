@@ -1,0 +1,49 @@
+name: Price check MTG
+
+on:
+  schedule:
+    # Toutes les heures. Ajuste la fréquence selon tes besoins (voir crontab.guru)
+    - cron: "0 * * * *"
+  workflow_dispatch: {}  # permet de lancer manuellement depuis l'onglet Actions
+
+jobs:
+  check-prices:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Scryfall/Cardmarket collector
+        run: python collector.py
+
+      - name: Run CardNexus deal scanner
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python deal_scanner.py
+
+      - name: Run CardNexus history collector
+        run: python cardnexus_history.py
+
+      - name: Run trend detector
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python trend_detector.py
+
+      - name: Export dashboard data
+        run: python export_dashboard_data.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "mtg-price-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add prices.db seen_deals.json product_catalog.json recent_deals.json docs/data.json
+          git diff --staged --quiet || git commit -m "Update price data [skip ci]"
+          git push
