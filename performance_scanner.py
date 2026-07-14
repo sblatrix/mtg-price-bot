@@ -157,6 +157,9 @@ def get_card_rarity(card_name: str, cache: dict) -> str | None:
         return None
     finally:
         time.sleep(0.1)
+
+
+def load_json(path: Path) -> dict:
     if path.exists():
         return json.loads(path.read_text())
     return {}
