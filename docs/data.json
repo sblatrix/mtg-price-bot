@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T07:10:20.349883+00:00",
+  "generated_at": "2026-07-14T08:12:41.628893+00:00",
   "cards": [
     {
       "name": "Fury",
@@ -10,9 +10,13 @@
             {
               "date": "2026-07-14T07:05:51.556379+00:00",
               "price": 1.68
+            },
+            {
+              "date": "2026-07-14T08:12:38.556702+00:00",
+              "price": 1.65
             }
           ],
-          "trend_pct": null,
+          "trend_pct": -1.8,
           "cross_source_gap_pct": null,
           "cheaper_source": null
         }
@@ -27,9 +31,13 @@
             {
               "date": "2026-07-14T07:05:50.479079+00:00",
               "price": 35.06
+            },
+            {
+              "date": "2026-07-14T08:12:37.962232+00:00",
+              "price": 35.06
             }
           ],
-          "trend_pct": null,
+          "trend_pct": 0.0,
           "cross_source_gap_pct": null,
           "cheaper_source": null
         },
@@ -39,9 +47,13 @@
             {
               "date": "2026-07-14T07:05:50.493826+00:00",
               "price": 43.92
+            },
+            {
+              "date": "2026-07-14T08:12:37.964804+00:00",
+              "price": 43.92
             }
           ],
-          "trend_pct": null,
+          "trend_pct": 0.0,
           "cross_source_gap_pct": null,
           "cheaper_source": null
         }
@@ -56,9 +68,13 @@
             {
               "date": "2026-07-14T07:05:51.271388+00:00",
               "price": 35.33
+            },
+            {
+              "date": "2026-07-14T08:12:38.359204+00:00",
+              "price": 35.33
             }
           ],
-          "trend_pct": null,
+          "trend_pct": 0.0,
           "cross_source_gap_pct": null,
           "cheaper_source": null
         },
@@ -68,9 +84,13 @@
             {
               "date": "2026-07-14T07:05:51.296108+00:00",
               "price": 42.89
+            },
+            {
+              "date": "2026-07-14T08:12:38.360925+00:00",
+              "price": 42.89
             }
           ],
-          "trend_pct": null,
+          "trend_pct": 0.0,
           "cross_source_gap_pct": null,
           "cheaper_source": null
         }
@@ -85,9 +105,13 @@
             {
               "date": "2026-07-14T07:05:50.885737+00:00",
               "price": 76.95
+            },
+            {
+              "date": "2026-07-14T08:12:38.160779+00:00",
+              "price": 76.95
             }
           ],
-          "trend_pct": null,
+          "trend_pct": 0.0,
           "cross_source_gap_pct": null,
           "cheaper_source": null
         },
@@ -97,9 +121,13 @@
             {
               "date": "2026-07-14T07:05:50.907024+00:00",
               "price": 93.95
+            },
+            {
+              "date": "2026-07-14T08:12:38.162359+00:00",
+              "price": 93.95
             }
           ],
-          "trend_pct": null,
+          "trend_pct": 0.0,
           "cross_source_gap_pct": null,
           "cheaper_source": null
         }
@@ -114,9 +142,13 @@
             {
               "date": "2026-07-14T07:05:52.017233+00:00",
               "price": 11.26
+            },
+            {
+              "date": "2026-07-14T08:12:38.761331+00:00",
+              "price": 11.26
             }
           ],
-          "trend_pct": null,
+          "trend_pct": 0.0,
           "cross_source_gap_pct": null,
           "cheaper_source": null
         },
@@ -126,9 +158,13 @@
             {
               "date": "2026-07-14T07:05:52.034620+00:00",
               "price": 16.07
+            },
+            {
+              "date": "2026-07-14T08:12:38.762752+00:00",
+              "price": 16.07
             }
           ],
-          "trend_pct": null,
+          "trend_pct": 0.0,
           "cross_source_gap_pct": null,
           "cheaper_source": null
         }
