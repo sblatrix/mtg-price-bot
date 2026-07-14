@@ -161,7 +161,7 @@ def get_card_rarity(card_name: str, cache: dict) -> str | None:
 
 def load_json(path: Path) -> dict:
     if path.exists():
-        return json.loads(path.read_text())
+        return json.loads(path.read_text(encoding="utf-8"))
     return {}
 
 
@@ -256,8 +256,8 @@ def run_scan():
     existing = load_json(PERFORMANCE_SIGNALS_PATH)
     existing_list = existing if isinstance(existing, list) else []
     all_signals = (signals + existing_list)[:200]
-    PERFORMANCE_SIGNALS_PATH.write_text(json.dumps(all_signals, ensure_ascii=False, indent=2))
-    RARITY_CACHE_PATH.write_text(json.dumps(rarity_cache, ensure_ascii=False, indent=2))
+    PERFORMANCE_SIGNALS_PATH.write_text(json.dumps(all_signals, ensure_ascii=False, indent=2), encoding="utf-8")
+    RARITY_CACHE_PATH.write_text(json.dumps(rarity_cache, ensure_ascii=False, indent=2), encoding="utf-8")
 
     print(f"\n{len(signals)} signal(aux) de performance sous-évaluée détecté(s).")
     return signals

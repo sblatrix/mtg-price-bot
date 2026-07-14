@@ -31,19 +31,19 @@ MAX_PAGES = 5
 
 def load_seen_deals() -> set:
     if SEEN_DEALS_PATH.exists():
-        return set(json.loads(SEEN_DEALS_PATH.read_text()))
+        return set(json.loads(SEEN_DEALS_PATH.read_text(encoding="utf-8")))
     return set()
 
 
 def save_seen_deals(seen: set):
     # on garde large mais borné pour éviter que le fichier grossisse indéfiniment
     trimmed = list(seen)[-5000:]
-    SEEN_DEALS_PATH.write_text(json.dumps(trimmed))
+    SEEN_DEALS_PATH.write_text(json.dumps(trimmed), encoding="utf-8")
 
 
 def load_catalog() -> dict:
     if CATALOG_PATH.exists():
-        return json.loads(CATALOG_PATH.read_text())
+        return json.loads(CATALOG_PATH.read_text(encoding="utf-8"))
     return {}
 
 
@@ -106,10 +106,10 @@ def record_deal_for_dashboard(listing: dict, discount_pct: float, confident: boo
 
     deals = []
     if RECENT_DEALS_PATH.exists():
-        deals = json.loads(RECENT_DEALS_PATH.read_text())
+        deals = json.loads(RECENT_DEALS_PATH.read_text(encoding="utf-8"))
     deals.insert(0, entry)
     deals = deals[:MAX_RECENT_DEALS]
-    RECENT_DEALS_PATH.write_text(json.dumps(deals, ensure_ascii=False, indent=2))
+    RECENT_DEALS_PATH.write_text(json.dumps(deals, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
 def send_discord_deal_alert(listing: dict, discount_pct: float, confident: bool):
@@ -200,7 +200,7 @@ def run_scan():
             break
 
     save_seen_deals(new_seen)
-    CATALOG_PATH.write_text(json.dumps(catalog, ensure_ascii=False, indent=2))
+    CATALOG_PATH.write_text(json.dumps(catalog, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"\n{mtg_deals_found} annonce(s) MTG scannée(s), {alerts_sent} alerte(s) envoyée(s), "
           f"{len(catalog)} produit(s) MTG au catalogue.")
 

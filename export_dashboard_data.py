@@ -60,7 +60,7 @@ def run():
 
     recent_deals = []
     if DEALS_PATH.exists():
-        recent_deals = json.loads(DEALS_PATH.read_text())
+        recent_deals = json.loads(DEALS_PATH.read_text(encoding="utf-8"))
 
     output = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
@@ -69,7 +69,7 @@ def run():
     }
 
     OUTPUT_PATH.parent.mkdir(exist_ok=True)
-    OUTPUT_PATH.write_text(json.dumps(output, ensure_ascii=False, indent=2))
+    OUTPUT_PATH.write_text(json.dumps(output, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"Dashboard data exporté : {len(card_entries)} carte(s), {len(recent_deals)} bonne(s) affaire(s).")
 
 

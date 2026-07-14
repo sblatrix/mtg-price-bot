@@ -26,7 +26,7 @@ LOOKBACK_DAYS = 30
 def load_catalog() -> dict:
     if not CATALOG_PATH.exists():
         return {}
-    return json.loads(CATALOG_PATH.read_text())
+    return json.loads(CATALOG_PATH.read_text(encoding="utf-8"))
 
 
 def find_product_id(card_name: str, catalog: dict) -> str | None:

@@ -23,12 +23,12 @@ POST_RELEASE_WINDOW_DAYS = 35
 
 def load_release_cache() -> dict:
     if CACHE_PATH.exists():
-        return json.loads(CACHE_PATH.read_text())
+        return json.loads(CACHE_PATH.read_text(encoding="utf-8"))
     return {}
 
 
 def _save_cache(cache: dict):
-    CACHE_PATH.write_text(json.dumps(cache, ensure_ascii=False, indent=2))
+    CACHE_PATH.write_text(json.dumps(cache, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
 def refresh_set_cache() -> dict:

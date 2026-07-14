@@ -105,7 +105,7 @@ def run():
 
     auto_watchlist = set()
     if AUTO_WATCHLIST_PATH.exists():
-        auto_watchlist = set(json.loads(AUTO_WATCHLIST_PATH.read_text()))
+        auto_watchlist = set(json.loads(AUTO_WATCHLIST_PATH.read_text(encoding="utf-8")))
 
     breakouts_found = 0
 
@@ -133,7 +133,7 @@ def run():
                     send_breakout_alert(breakout, set_code)
                     breakouts_found += 1
 
-    AUTO_WATCHLIST_PATH.write_text(json.dumps(sorted(auto_watchlist), ensure_ascii=False, indent=2))
+    AUTO_WATCHLIST_PATH.write_text(json.dumps(sorted(auto_watchlist), ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"\n{len(auto_watchlist)} carte(s) au total dans la watchlist auto-générée. "
           f"{breakouts_found} rupture(s) de tendance détectée(s).")
 

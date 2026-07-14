@@ -100,7 +100,7 @@ def fetch_staples(format_name: str) -> list[dict]:
 
 def load_rarity_cache() -> dict:
     if RARITY_CACHE_PATH.exists():
-        return json.loads(RARITY_CACHE_PATH.read_text())
+        return json.loads(RARITY_CACHE_PATH.read_text(encoding="utf-8"))
     return {}
 
 
@@ -136,7 +136,7 @@ def get_card_rarity(name: str, set_code: str | None, cache: dict) -> str | None:
 
 def load_history() -> dict:
     if HISTORY_PATH.exists():
-        return json.loads(HISTORY_PATH.read_text())
+        return json.loads(HISTORY_PATH.read_text(encoding="utf-8"))
     return {}
 
 
@@ -217,15 +217,15 @@ def run_scan():
 
         history[fmt] = {"updated_at": now, "entries": entries}
 
-    HISTORY_PATH.write_text(json.dumps(history, ensure_ascii=False, indent=2))
-    RARITY_CACHE_PATH.write_text(json.dumps(rarity_cache, ensure_ascii=False, indent=2))
+    HISTORY_PATH.write_text(json.dumps(history, ensure_ascii=False, indent=2), encoding="utf-8")
+    RARITY_CACHE_PATH.write_text(json.dumps(rarity_cache, ensure_ascii=False, indent=2), encoding="utf-8")
 
     signals_path = Path(__file__).parent / "meta_signals.json"
     existing_signals = []
     if signals_path.exists():
-        existing_signals = json.loads(signals_path.read_text())
+        existing_signals = json.loads(signals_path.read_text(encoding="utf-8"))
     all_signals = (signals + existing_signals)[:200]
-    signals_path.write_text(json.dumps(all_signals, ensure_ascii=False, indent=2))
+    signals_path.write_text(json.dumps(all_signals, ensure_ascii=False, indent=2), encoding="utf-8")
 
     print(f"\n{len(signals)} nouveau(x) signal(aux) rare/mythique détecté(s).")
     return signals
