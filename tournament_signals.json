@@ -1,0 +1,1527 @@
+{
+  "standard": {
+    "updated_at": "2026-07-14T10:51:07.940943+00:00",
+    "entries": [
+      {
+        "name": "Flashfreeze",
+        "set_code": "fdn",
+        "pct_of_decks": 49,
+        "avg_copies": 1.7
+      },
+      {
+        "name": "Soul-Guide Lantern",
+        "set_code": "fdn",
+        "pct_of_decks": 42,
+        "avg_copies": 1.4
+      },
+      {
+        "name": "Spell Pierce",
+        "set_code": "neo",
+        "pct_of_decks": 40,
+        "avg_copies": 2.2
+      },
+      {
+        "name": "Disdainful Stroke",
+        "set_code": "grn",
+        "pct_of_decks": 39,
+        "avg_copies": 1.2
+      },
+      {
+        "name": "Stock Up <019d409c-b382-7c98-b4e8-fd38a29e9b0a>",
+        "set_code": "soa",
+        "pct_of_decks": 36,
+        "avg_copies": 3.1
+      },
+      {
+        "name": "Ghost Vacuum",
+        "set_code": "dsk",
+        "pct_of_decks": 34,
+        "avg_copies": 1.3
+      },
+      {
+        "name": "Ral, Crackling Wit",
+        "set_code": "blb",
+        "pct_of_decks": 32,
+        "avg_copies": 1.4
+      },
+      {
+        "name": "Burst Lightning",
+        "set_code": "mm2",
+        "pct_of_decks": 30,
+        "avg_copies": 3.2
+      },
+      {
+        "name": "Badgermole Cub",
+        "set_code": "tla",
+        "pct_of_decks": 28,
+        "avg_copies": 4.0
+      },
+      {
+        "name": "Erode <019d5451-a4a1-724b-9256-2979fafca34b>",
+        "set_code": "sos",
+        "pct_of_decks": 28,
+        "avg_copies": 2.2
+      },
+      {
+        "name": "Llanowar Elves",
+        "set_code": "evg",
+        "pct_of_decks": 27,
+        "avg_copies": 4.0
+      },
+      {
+        "name": "Emeritus of Ideation <019d44ec-bf16-71d9-bc23-8fce3a2ff61c>",
+        "set_code": "sos",
+        "pct_of_decks": 26,
+        "avg_copies": 1.8
+      },
+      {
+        "name": "Slagstorm",
+        "set_code": "fdn",
+        "pct_of_decks": 26,
+        "avg_copies": 1.6
+      },
+      {
+        "name": "Tablet of Discovery <019d77ec-8df4-7634-aa8f-69653837689b>",
+        "set_code": "sos",
+        "pct_of_decks": 26,
+        "avg_copies": 4.0
+      },
+      {
+        "name": "Surrak, Elusive Hunter <borderless>",
+        "set_code": "tdm",
+        "pct_of_decks": 25,
+        "avg_copies": 2.8
+      },
+      {
+        "name": "Sear",
+        "set_code": "ecl",
+        "pct_of_decks": 25,
+        "avg_copies": 1.7
+      },
+      {
+        "name": "Jeskai Revelation <borderless>",
+        "set_code": "tdm",
+        "pct_of_decks": 25,
+        "avg_copies": 4.0
+      },
+      {
+        "name": "Opt <beginner box>",
+        "set_code": "fdn",
+        "pct_of_decks": 24,
+        "avg_copies": 3.9
+      },
+      {
+        "name": "Sleight of Hand",
+        "set_code": "woe",
+        "pct_of_decks": 24,
+        "avg_copies": 4.0
+      },
+      {
+        "name": "Seam Rip",
+        "set_code": "eoe",
+        "pct_of_decks": 23,
+        "avg_copies": 2.3
+      },
+      {
+        "name": "Annul",
+        "set_code": "khm",
+        "pct_of_decks": 23,
+        "avg_copies": 1.4
+      },
+      {
+        "name": "Leatherhead, Swamp Stalker [TMT] (F)",
+        "set_code": null,
+        "pct_of_decks": 23,
+        "avg_copies": 3.3
+      },
+      {
+        "name": "Practiced Offense <019d6369-0788-7197-81a6-b13cf4edf411>",
+        "set_code": "sos",
+        "pct_of_decks": 23,
+        "avg_copies": 3.6
+      },
+      {
+        "name": "Eddymurk Crab [BLB] (F)",
+        "set_code": null,
+        "pct_of_decks": 22,
+        "avg_copies": 3.8
+      },
+      {
+        "name": "Meltstrider's Resolve",
+        "set_code": "eoe",
+        "pct_of_decks": 22,
+        "avg_copies": 2.4
+      },
+      {
+        "name": "Negate",
+        "set_code": "aer",
+        "pct_of_decks": 22,
+        "avg_copies": 1.2
+      },
+      {
+        "name": "Flashback <019d53dd-f5a8-76ed-bca8-20691032a5b7>",
+        "set_code": "sos",
+        "pct_of_decks": 22,
+        "avg_copies": 1.6
+      },
+      {
+        "name": "Flow State <019d6394-b0e1-70a8-9334-218ee0c030d7>",
+        "set_code": "sos",
+        "pct_of_decks": 21,
+        "avg_copies": 3.3
+      },
+      {
+        "name": "Colorstorm Stallion <019d4501-1fd8-7561-992c-898750fc77ea>",
+        "set_code": "sos",
+        "pct_of_decks": 21,
+        "avg_copies": 3.3
+      },
+      {
+        "name": "Rest in Peace <extended>",
+        "set_code": "acr",
+        "pct_of_decks": 21,
+        "avg_copies": 2.5
+      },
+      {
+        "name": "Firebending Lesson",
+        "set_code": "tla",
+        "pct_of_decks": 20,
+        "avg_copies": 3.5
+      },
+      {
+        "name": "Impractical Joke <019d67bf-36dc-7032-ae9a-de0ea5aada1b>",
+        "set_code": "sos",
+        "pct_of_decks": 20,
+        "avg_copies": 1.6
+      },
+      {
+        "name": "Strategic Betrayal",
+        "set_code": "tdm",
+        "pct_of_decks": 20,
+        "avg_copies": 2.1
+      },
+      {
+        "name": "Sheltered by Ghosts <019d4a19-e046-7393-9633-eb82f4d355fa>",
+        "set_code": "soc",
+        "pct_of_decks": 20,
+        "avg_copies": 3.4
+      },
+      {
+        "name": "Get Out",
+        "set_code": "dsk",
+        "pct_of_decks": 20,
+        "avg_copies": 1.8
+      },
+      {
+        "name": "Broadside Barrage",
+        "set_code": "dft",
+        "pct_of_decks": 19,
+        "avg_copies": 1.2
+      },
+      {
+        "name": "Stormchaser's Talent",
+        "set_code": "blb",
+        "pct_of_decks": 19,
+        "avg_copies": 3.9
+      },
+      {
+        "name": "Ouroboroid",
+        "set_code": "eoe",
+        "pct_of_decks": 18,
+        "avg_copies": 2.4
+      },
+      {
+        "name": "Spell Snare",
+        "set_code": "ecl",
+        "pct_of_decks": 18,
+        "avg_copies": 1.5
+      },
+      {
+        "name": "Boomerang Basics",
+        "set_code": "tla",
+        "pct_of_decks": 17,
+        "avg_copies": 3.9
+      },
+      {
+        "name": "Brightglass Gearhulk",
+        "set_code": "dft",
+        "pct_of_decks": 16,
+        "avg_copies": 4.0
+      },
+      {
+        "name": "Slickshot Show-Off",
+        "set_code": "otj",
+        "pct_of_decks": 16,
+        "avg_copies": 4.0
+      },
+      {
+        "name": "Pawpatch Recruit",
+        "set_code": "blb",
+        "pct_of_decks": 16,
+        "avg_copies": 4.0
+      },
+      {
+        "name": "Day of Judgment",
+        "set_code": "fdn",
+        "pct_of_decks": 16,
+        "avg_copies": 2.6
+      },
+      {
+        "name": "Elspeth, Storm Slayer",
+        "set_code": "tdm",
+        "pct_of_decks": 16,
+        "avg_copies": 1.9
+      },
+      {
+        "name": "Three Steps Ahead <019eaf14-0b42-76ae-a6c6-b346f603bb64>",
+        "set_code": "mar",
+        "pct_of_decks": 16,
+        "avg_copies": 1.4
+      },
+      {
+        "name": "Gran-Gran",
+        "set_code": "tla",
+        "pct_of_decks": 15,
+        "avg_copies": 3.8
+      },
+      {
+        "name": "Keen-Eyed Curator",
+        "set_code": "blb",
+        "pct_of_decks": 15,
+        "avg_copies": 2.1
+      },
+      {
+        "name": "Iroh's Demonstration",
+        "set_code": "tla",
+        "pct_of_decks": 15,
+        "avg_copies": 1.9
+      },
+      {
+        "name": "Duress",
+        "set_code": "m14",
+        "pct_of_decks": 14,
+        "avg_copies": 3.5
+      }
+    ]
+  },
+  "modern": {
+    "updated_at": "2026-07-14T10:51:07.940943+00:00",
+    "entries": [
+      {
+        "name": "Consign to Memory",
+        "set_code": "mh3",
+        "pct_of_decks": 48,
+        "avg_copies": 3.5
+      },
+      {
+        "name": "Vexing Bauble",
+        "set_code": "mh3",
+        "pct_of_decks": 46,
+        "avg_copies": 1.7
+      },
+      {
+        "name": "Mystical Dispute",
+        "set_code": "eld",
+        "pct_of_decks": 41,
+        "avg_copies": 2.3
+      },
+      {
+        "name": "Wrath of the Skies",
+        "set_code": "mh3",
+        "pct_of_decks": 36,
+        "avg_copies": 2.8
+      },
+      {
+        "name": "High Noon",
+        "set_code": "otj",
+        "pct_of_decks": 26,
+        "avg_copies": 2.2
+      },
+      {
+        "name": "Surgical Extraction <showcase>",
+        "set_code": "otp",
+        "pct_of_decks": 26,
+        "avg_copies": 1.4
+      },
+      {
+        "name": "Tormod's Crypt",
+        "set_code": "c14",
+        "pct_of_decks": 25,
+        "avg_copies": 2.0
+      },
+      {
+        "name": "Solitude",
+        "set_code": "mh2",
+        "pct_of_decks": 24,
+        "avg_copies": 3.6
+      },
+      {
+        "name": "Thoughtseize",
+        "set_code": "ths",
+        "pct_of_decks": 23,
+        "avg_copies": 3.5
+      },
+      {
+        "name": "Wear // Tear",
+        "set_code": "dgm",
+        "pct_of_decks": 23,
+        "avg_copies": 1.8
+      },
+      {
+        "name": "Prismatic Ending",
+        "set_code": "mh2",
+        "pct_of_decks": 23,
+        "avg_copies": 2.6
+      },
+      {
+        "name": "Force of Negation <borderless>",
+        "set_code": "tle",
+        "pct_of_decks": 22,
+        "avg_copies": 2.5
+      },
+      {
+        "name": "Damping Sphere",
+        "set_code": "dom",
+        "pct_of_decks": 21,
+        "avg_copies": 1.7
+      },
+      {
+        "name": "Galvanic Discharge",
+        "set_code": "mh3",
+        "pct_of_decks": 20,
+        "avg_copies": 3.8
+      },
+      {
+        "name": "Teferi, Time Raveler",
+        "set_code": "war",
+        "pct_of_decks": 19,
+        "avg_copies": 2.1
+      },
+      {
+        "name": "Blood Moon",
+        "set_code": "a25",
+        "pct_of_decks": 19,
+        "avg_copies": 1.7
+      },
+      {
+        "name": "Fatal Push <foil etched>",
+        "set_code": "acr",
+        "pct_of_decks": 18,
+        "avg_copies": 3.2
+      },
+      {
+        "name": "Quantum Riddler [EOE] (F)",
+        "set_code": null,
+        "pct_of_decks": 18,
+        "avg_copies": 3.5
+      },
+      {
+        "name": "Pithing Needle",
+        "set_code": "mid",
+        "pct_of_decks": 18,
+        "avg_copies": 1.1
+      },
+      {
+        "name": "Lightning Bolt <019ea50c-0071-7b15-a2ab-ea088041978e>",
+        "set_code": "msc",
+        "pct_of_decks": 17,
+        "avg_copies": 2.9
+      },
+      {
+        "name": "Mishra's Bauble",
+        "set_code": "ima",
+        "pct_of_decks": 17,
+        "avg_copies": 4.0
+      },
+      {
+        "name": "Sink into Stupor",
+        "set_code": "mh3",
+        "pct_of_decks": 17,
+        "avg_copies": 1.9
+      },
+      {
+        "name": "Spell Snare",
+        "set_code": "ecl",
+        "pct_of_decks": 17,
+        "avg_copies": 2.0
+      },
+      {
+        "name": "Ragavan, Nimble Pilferer <Zidane Tribal>",
+        "set_code": "fca",
+        "pct_of_decks": 16,
+        "avg_copies": 3.7
+      },
+      {
+        "name": "Meltdown",
+        "set_code": "mh3",
+        "pct_of_decks": 16,
+        "avg_copies": 1.9
+      },
+      {
+        "name": "Psychic Frog",
+        "set_code": "mh3",
+        "pct_of_decks": 16,
+        "avg_copies": 3.9
+      },
+      {
+        "name": "Orim's Chant",
+        "set_code": "mh3",
+        "pct_of_decks": 16,
+        "avg_copies": 2.9
+      },
+      {
+        "name": "Rest in Peace <extended>",
+        "set_code": "acr",
+        "pct_of_decks": 16,
+        "avg_copies": 2.0
+      },
+      {
+        "name": "Dismember <019db241-c33e-7993-900f-16ee0bbe07c7> [SOA] (F)",
+        "set_code": null,
+        "pct_of_decks": 15,
+        "avg_copies": 2.0
+      },
+      {
+        "name": "Guide of Souls",
+        "set_code": "mh3",
+        "pct_of_decks": 15,
+        "avg_copies": 4.0
+      },
+      {
+        "name": "Ocelot Pride",
+        "set_code": "mh3",
+        "pct_of_decks": 15,
+        "avg_copies": 4.0
+      },
+      {
+        "name": "Kozilek's Command",
+        "set_code": "mh3",
+        "pct_of_decks": 14,
+        "avg_copies": 4.0
+      },
+      {
+        "name": "Engineered Explosives",
+        "set_code": "uma",
+        "pct_of_decks": 14,
+        "avg_copies": 2.9
+      },
+      {
+        "name": "Trinisphere <Fallout Vault Boy>",
+        "set_code": "sld",
+        "pct_of_decks": 14,
+        "avg_copies": 2.2
+      },
+      {
+        "name": "Preordain",
+        "set_code": "tdc",
+        "pct_of_decks": 14,
+        "avg_copies": 3.2
+      },
+      {
+        "name": "Obsidian Charmaw",
+        "set_code": "mh2",
+        "pct_of_decks": 13,
+        "avg_copies": 2.4
+      },
+      {
+        "name": "Celestial Purge",
+        "set_code": "m11",
+        "pct_of_decks": 13,
+        "avg_copies": 1.3
+      },
+      {
+        "name": "Nihil Spellbomb",
+        "set_code": "plist",
+        "pct_of_decks": 13,
+        "avg_copies": 1.5
+      },
+      {
+        "name": "Goblin Bombardment",
+        "set_code": "mh2",
+        "pct_of_decks": 13,
+        "avg_copies": 3.0
+      },
+      {
+        "name": "Ajani, Nacatl Pariah",
+        "set_code": "mh3",
+        "pct_of_decks": 13,
+        "avg_copies": 4.0
+      },
+      {
+        "name": "Malevolent Rumble",
+        "set_code": "mh3",
+        "pct_of_decks": 13,
+        "avg_copies": 3.6
+      },
+      {
+        "name": "Ephemerate <borderless>",
+        "set_code": "mar",
+        "pct_of_decks": 12,
+        "avg_copies": 3.5
+      },
+      {
+        "name": "Thraben Charm",
+        "set_code": "mh3",
+        "pct_of_decks": 12,
+        "avg_copies": 2.2
+      },
+      {
+        "name": "Voice of Victory",
+        "set_code": "tdm",
+        "pct_of_decks": 12,
+        "avg_copies": 2.8
+      },
+      {
+        "name": "Grafdigger's Cage",
+        "set_code": "dka",
+        "pct_of_decks": 11,
+        "avg_copies": 1.1
+      },
+      {
+        "name": "The Legend of Roku",
+        "set_code": "tla",
+        "pct_of_decks": 11,
+        "avg_copies": 1.6
+      },
+      {
+        "name": "Glaring Fleshraker",
+        "set_code": "mh3",
+        "pct_of_decks": 11,
+        "avg_copies": 3.5
+      },
+      {
+        "name": "Ranger-Captain of Eos",
+        "set_code": "plist",
+        "pct_of_decks": 11,
+        "avg_copies": 2.1
+      },
+      {
+        "name": "Devourer of Destiny",
+        "set_code": "mh3",
+        "pct_of_decks": 11,
+        "avg_copies": 3.5
+      },
+      {
+        "name": "Emrakul, the Promised End",
+        "set_code": "emn",
+        "pct_of_decks": 11,
+        "avg_copies": 2.2
+      }
+    ]
+  },
+  "pioneer": {
+    "updated_at": "2026-07-14T10:51:07.940943+00:00",
+    "entries": [
+      {
+        "name": "Thoughtseize",
+        "set_code": "ths",
+        "pct_of_decks": 40,
+        "avg_copies": 4.0
+      },
+      {
+        "name": "Fatal Push <foil etched>",
+        "set_code": "acr",
+        "pct_of_decks": 36,
+        "avg_copies": 3.8
+      },
+      {
+        "name": "Duress",
+        "set_code": "m14",
+        "pct_of_decks": 34,
+        "avg_copies": 2.4
+      },
+      {
+        "name": "Spell Pierce",
+        "set_code": "neo",
+        "pct_of_decks": 22,
+        "avg_copies": 1.9
+      },
+      {
+        "name": "Sheoldred, the Apocalypse",
+        "set_code": "dmu",
+        "pct_of_decks": 21,
+        "avg_copies": 2.5
+      },
+      {
+        "name": "Unlicensed Hearse <showcase>",
+        "set_code": "otp",
+        "pct_of_decks": 21,
+        "avg_copies": 1.8
+      },
+      {
+        "name": "Badgermole Cub",
+        "set_code": "tla",
+        "pct_of_decks": 21,
+        "avg_copies": 3.8
+      },
+      {
+        "name": "Abrupt Decay <showcase>",
+        "set_code": "otp",
+        "pct_of_decks": 20,
+        "avg_copies": 2.8
+      },
+      {
+        "name": "Bitter Triumph <019d68fa-4a91-7da8-bed4-13d4367abe7c>",
+        "set_code": "soa",
+        "pct_of_decks": 20,
+        "avg_copies": 2.1
+      },
+      {
+        "name": "Monastery Swiftspear",
+        "set_code": "bro",
+        "pct_of_decks": 20,
+        "avg_copies": 4.0
+      },
+      {
+        "name": "Reckless Rage",
+        "set_code": "plist",
+        "pct_of_decks": 20,
+        "avg_copies": 3.6
+      },
+      {
+        "name": "Burst Lightning",
+        "set_code": "mm2",
+        "pct_of_decks": 19,
+        "avg_copies": 3.8
+      },
+      {
+        "name": "Soul-Scar Mage",
+        "set_code": "akh",
+        "pct_of_decks": 19,
+        "avg_copies": 4.0
+      },
+      {
+        "name": "Emberheart Challenger",
+        "set_code": "blb",
+        "pct_of_decks": 19,
+        "avg_copies": 3.8
+      },
+      {
+        "name": "Disdainful Stroke",
+        "set_code": "grn",
+        "pct_of_decks": 19,
+        "avg_copies": 1.5
+      },
+      {
+        "name": "Unholy Annex // Ritual Chamber",
+        "set_code": "dsk",
+        "pct_of_decks": 18,
+        "avg_copies": 3.8
+      },
+      {
+        "name": "Graveyard Trespasser",
+        "set_code": "mid",
+        "pct_of_decks": 17,
+        "avg_copies": 2.4
+      },
+      {
+        "name": "Redcap Melee",
+        "set_code": "eld",
+        "pct_of_decks": 17,
+        "avg_copies": 2.1
+      },
+      {
+        "name": "Rest in Peace <extended>",
+        "set_code": "acr",
+        "pct_of_decks": 17,
+        "avg_copies": 2.6
+      },
+      {
+        "name": "Soul-Guide Lantern",
+        "set_code": "fdn",
+        "pct_of_decks": 16,
+        "avg_copies": 1.9
+      },
+      {
+        "name": "Screaming Nemesis",
+        "set_code": "dsk",
+        "pct_of_decks": 15,
+        "avg_copies": 3.5
+      },
+      {
+        "name": "Beza, the Bounding Spring",
+        "set_code": "blb",
+        "pct_of_decks": 15,
+        "avg_copies": 2.9
+      },
+      {
+        "name": "Pyroclasm",
+        "set_code": "ddl",
+        "pct_of_decks": 15,
+        "avg_copies": 1.8
+      },
+      {
+        "name": "Scorching Shot",
+        "set_code": "otj",
+        "pct_of_decks": 15,
+        "avg_copies": 2.5
+      },
+      {
+        "name": "Boomerang Basics",
+        "set_code": "tla",
+        "pct_of_decks": 14,
+        "avg_copies": 3.6
+      },
+      {
+        "name": "Go for the Throat",
+        "set_code": "j25",
+        "pct_of_decks": 14,
+        "avg_copies": 1.7
+      },
+      {
+        "name": "Ray of Enfeeblement",
+        "set_code": "afr",
+        "pct_of_decks": 14,
+        "avg_copies": 2.0
+      },
+      {
+        "name": "Iroh's Demonstration",
+        "set_code": "tla",
+        "pct_of_decks": 13,
+        "avg_copies": 1.2
+      },
+      {
+        "name": "Professor Dellian Fel <019d44f1-46bd-7279-984e-0d3cba0ddfd4>",
+        "set_code": "sos",
+        "pct_of_decks": 13,
+        "avg_copies": 3.1
+      },
+      {
+        "name": "Go Blank",
+        "set_code": "plist",
+        "pct_of_decks": 13,
+        "avg_copies": 1.8
+      },
+      {
+        "name": "Invoke Despair <bundle> [NEO] (F)",
+        "set_code": null,
+        "pct_of_decks": 13,
+        "avg_copies": 2.9
+      },
+      {
+        "name": "Mystical Dispute",
+        "set_code": "eld",
+        "pct_of_decks": 13,
+        "avg_copies": 2.1
+      },
+      {
+        "name": "Firebending Lesson",
+        "set_code": "tla",
+        "pct_of_decks": 13,
+        "avg_copies": 1.7
+      },
+      {
+        "name": "Magebane Lizard",
+        "set_code": "otj",
+        "pct_of_decks": 13,
+        "avg_copies": 3.9
+      },
+      {
+        "name": "Monstrous Rage <019d6911-873e-741a-962f-c71b58f94970>",
+        "set_code": "soa",
+        "pct_of_decks": 12,
+        "avg_copies": 3.8
+      },
+      {
+        "name": "Stormchaser's Talent",
+        "set_code": "blb",
+        "pct_of_decks": 12,
+        "avg_copies": 4.0
+      },
+      {
+        "name": "Parhelion II",
+        "set_code": "war",
+        "pct_of_decks": 12,
+        "avg_copies": 4.0
+      },
+      {
+        "name": "Quantum Riddler [EOE] (F)",
+        "set_code": null,
+        "pct_of_decks": 12,
+        "avg_copies": 2.5
+      },
+      {
+        "name": "Greasefang, Okiba Boss",
+        "set_code": "neo",
+        "pct_of_decks": 12,
+        "avg_copies": 4.0
+      },
+      {
+        "name": "Culling Ritual <019d4a1a-731e-763d-9ed3-94050df8be23>",
+        "set_code": "soc",
+        "pct_of_decks": 12,
+        "avg_copies": 2.6
+      },
+      {
+        "name": "The Legend of Roku",
+        "set_code": "tla",
+        "pct_of_decks": 12,
+        "avg_copies": 1.6
+      },
+      {
+        "name": "Tear Asunder",
+        "set_code": "tdc",
+        "pct_of_decks": 12,
+        "avg_copies": 1.4
+      },
+      {
+        "name": "Kumano Faces Kakkazan",
+        "set_code": "neo",
+        "pct_of_decks": 12,
+        "avg_copies": 4.0
+      },
+      {
+        "name": "Sunspine Lynx",
+        "set_code": "blb",
+        "pct_of_decks": 11,
+        "avg_copies": 4.0
+      },
+      {
+        "name": "Dovin's Veto <Shadowbringers>",
+        "set_code": "fca",
+        "pct_of_decks": 11,
+        "avg_copies": 2.8
+      },
+      {
+        "name": "Sleight of Hand",
+        "set_code": "woe",
+        "pct_of_decks": 11,
+        "avg_copies": 4.0
+      },
+      {
+        "name": "Get Lost <borderless>",
+        "set_code": "lci",
+        "pct_of_decks": 11,
+        "avg_copies": 3.4
+      },
+      {
+        "name": "It'll Quench Ya!",
+        "set_code": "tla",
+        "pct_of_decks": 11,
+        "avg_copies": 1.4
+      },
+      {
+        "name": "Change the Equation",
+        "set_code": "mom",
+        "pct_of_decks": 11,
+        "avg_copies": 2.4
+      },
+      {
+        "name": "Formidable Speaker",
+        "set_code": "ecl",
+        "pct_of_decks": 11,
+        "avg_copies": 3.5
+      }
+    ]
+  },
+  "legacy": {
+    "updated_at": "2026-07-14T10:51:07.940943+00:00",
+    "entries": [
+      {
+        "name": "Force of Will <borderless>",
+        "set_code": "dmr",
+        "pct_of_decks": 55,
+        "avg_copies": 4.0
+      },
+      {
+        "name": "Consign to Memory",
+        "set_code": "mh3",
+        "pct_of_decks": 54,
+        "avg_copies": 2.4
+      },
+      {
+        "name": "Force of Negation <borderless>",
+        "set_code": "tle",
+        "pct_of_decks": 49,
+        "avg_copies": 2.0
+      },
+      {
+        "name": "Brainstorm <Endwalker>",
+        "set_code": "fca",
+        "pct_of_decks": 49,
+        "avg_copies": 4.0
+      },
+      {
+        "name": "Ponder",
+        "set_code": "who",
+        "pct_of_decks": 46,
+        "avg_copies": 3.8
+      },
+      {
+        "name": "Lotus Petal",
+        "set_code": "te",
+        "pct_of_decks": 43,
+        "avg_copies": 3.8
+      },
+      {
+        "name": "Thoughtseize",
+        "set_code": "ths",
+        "pct_of_decks": 42,
+        "avg_copies": 3.6
+      },
+      {
+        "name": "Surgical Extraction <showcase>",
+        "set_code": "otp",
+        "pct_of_decks": 39,
+        "avg_copies": 1.5
+      },
+      {
+        "name": "Daze <019db241-b010-77d9-8377-3304a31c1b3d> [SOA] (F)",
+        "set_code": null,
+        "pct_of_decks": 34,
+        "avg_copies": 3.1
+      },
+      {
+        "name": "Flow State <019d6394-b0e1-70a8-9334-218ee0c030d7>",
+        "set_code": "sos",
+        "pct_of_decks": 32,
+        "avg_copies": 3.6
+      },
+      {
+        "name": "Disruptor Flute",
+        "set_code": "mh3",
+        "pct_of_decks": 30,
+        "avg_copies": 2.3
+      },
+      {
+        "name": "Hydroblast",
+        "set_code": "ice",
+        "pct_of_decks": 28,
+        "avg_copies": 1.7
+      },
+      {
+        "name": "Mishra's Bauble",
+        "set_code": "ima",
+        "pct_of_decks": 24,
+        "avg_copies": 3.6
+      },
+      {
+        "name": "Dark Ritual",
+        "set_code": "4ed",
+        "pct_of_decks": 24,
+        "avg_copies": 4.0
+      },
+      {
+        "name": "Swords to Plowshares <019edced-0bad-779c-a4a2-31239f9b2d49>",
+        "set_code": "msc",
+        "pct_of_decks": 24,
+        "avg_copies": 3.9
+      },
+      {
+        "name": "Tamiyo, Inquisitive Student",
+        "set_code": "mh3",
+        "pct_of_decks": 23,
+        "avg_copies": 3.6
+      },
+      {
+        "name": "Murktide Regent",
+        "set_code": "mh2",
+        "pct_of_decks": 23,
+        "avg_copies": 2.1
+      },
+      {
+        "name": "Barrowgoyf",
+        "set_code": "m3c",
+        "pct_of_decks": 21,
+        "avg_copies": 2.9
+      },
+      {
+        "name": "Pyroblast",
+        "set_code": "ice",
+        "pct_of_decks": 20,
+        "avg_copies": 2.3
+      },
+      {
+        "name": "Grafdigger's Cage",
+        "set_code": "dka",
+        "pct_of_decks": 20,
+        "avg_copies": 1.2
+      },
+      {
+        "name": "Containment Priest",
+        "set_code": "m21",
+        "pct_of_decks": 19,
+        "avg_copies": 1.8
+      },
+      {
+        "name": "Fatal Push <foil etched>",
+        "set_code": "acr",
+        "pct_of_decks": 19,
+        "avg_copies": 2.8
+      },
+      {
+        "name": "Orcish Bowmasters",
+        "set_code": "ltr",
+        "pct_of_decks": 19,
+        "avg_copies": 3.3
+      },
+      {
+        "name": "Null Rod",
+        "set_code": "wl",
+        "pct_of_decks": 17,
+        "avg_copies": 1.4
+      },
+      {
+        "name": "Atraxa, Grand Unifier",
+        "set_code": "one",
+        "pct_of_decks": 16,
+        "avg_copies": 3.3
+      },
+      {
+        "name": "The Fantasticar <019ead6f-2bc6-7c16-91ea-d135a8b2dc48>",
+        "set_code": "msc",
+        "pct_of_decks": 16,
+        "avg_copies": 3.8
+      },
+      {
+        "name": "Pithing Needle",
+        "set_code": "mid",
+        "pct_of_decks": 16,
+        "avg_copies": 1.2
+      },
+      {
+        "name": "Cabal Therapy",
+        "set_code": "mb1",
+        "pct_of_decks": 15,
+        "avg_copies": 2.7
+      },
+      {
+        "name": "Dauthi Voidwalker",
+        "set_code": "mh2",
+        "pct_of_decks": 15,
+        "avg_copies": 2.3
+      },
+      {
+        "name": "Deafening Silence",
+        "set_code": "eld",
+        "pct_of_decks": 15,
+        "avg_copies": 2.6
+      },
+      {
+        "name": "Wrath of the Skies",
+        "set_code": "mh3",
+        "pct_of_decks": 15,
+        "avg_copies": 2.3
+      },
+      {
+        "name": "Show and Tell <019e8978-843e-7a2e-abe0-cb033ea59429>",
+        "set_code": "mar",
+        "pct_of_decks": 15,
+        "avg_copies": 4.0
+      },
+      {
+        "name": "Mox Opal",
+        "set_code": "2xm",
+        "pct_of_decks": 14,
+        "avg_copies": 3.3
+      },
+      {
+        "name": "Hexing Squelcher",
+        "set_code": "ecl",
+        "pct_of_decks": 13,
+        "avg_copies": 2.7
+      },
+      {
+        "name": "Leyline of the Void",
+        "set_code": "dsk",
+        "pct_of_decks": 13,
+        "avg_copies": 3.7
+      },
+      {
+        "name": "Brazen Borrower <019d4a19-f767-7231-8932-36581084f3d5>",
+        "set_code": "soc",
+        "pct_of_decks": 13,
+        "avg_copies": 1.3
+      },
+      {
+        "name": "Tormod's Crypt",
+        "set_code": "c14",
+        "pct_of_decks": 12,
+        "avg_copies": 1.6
+      },
+      {
+        "name": "Mindbreak Trap",
+        "set_code": "mar",
+        "pct_of_decks": 11,
+        "avg_copies": 2.3
+      },
+      {
+        "name": "Lion's Eye Diamond",
+        "set_code": "mi",
+        "pct_of_decks": 11,
+        "avg_copies": 2.5
+      },
+      {
+        "name": "Force of Vigor <borderless>",
+        "set_code": "mar",
+        "pct_of_decks": 11,
+        "avg_copies": 2.6
+      },
+      {
+        "name": "Lightning Bolt <019ea50c-0071-7b15-a2ab-ea088041978e>",
+        "set_code": "msc",
+        "pct_of_decks": 11,
+        "avg_copies": 3.6
+      },
+      {
+        "name": "Phelia, Exuberant Shepherd",
+        "set_code": "mh3",
+        "pct_of_decks": 11,
+        "avg_copies": 3.6
+      },
+      {
+        "name": "Prismatic Ending",
+        "set_code": "mh2",
+        "pct_of_decks": 11,
+        "avg_copies": 1.8
+      },
+      {
+        "name": "Meltdown",
+        "set_code": "mh3",
+        "pct_of_decks": 11,
+        "avg_copies": 1.2
+      },
+      {
+        "name": "Flusterstorm <buy-a-box>",
+        "set_code": "mh3",
+        "pct_of_decks": 10,
+        "avg_copies": 1.6
+      },
+      {
+        "name": "Spell Pierce",
+        "set_code": "neo",
+        "pct_of_decks": 10,
+        "avg_copies": 1.3
+      },
+      {
+        "name": "Skateboard",
+        "set_code": "tmt",
+        "pct_of_decks": 10,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Faerie Macabre",
+        "set_code": "mma",
+        "pct_of_decks": 10,
+        "avg_copies": 1.9
+      },
+      {
+        "name": "Unmask <Introducing: Kaito Shizuki>",
+        "set_code": "sld",
+        "pct_of_decks": 10,
+        "avg_copies": 3.8
+      },
+      {
+        "name": "Snuff Out",
+        "set_code": "fic",
+        "pct_of_decks": 10,
+        "avg_copies": 1.4
+      }
+    ]
+  },
+  "commander": {
+    "updated_at": "2026-07-14T10:51:07.940943+00:00",
+    "entries": [
+      {
+        "name": "Sol Ring <019eb7eb-bcf5-7c0f-a6d5-17d64c4112b3>",
+        "set_code": "msc",
+        "pct_of_decks": 82,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Arcane Signet <019eb7eb-ad83-7593-9e09-12d4b8c885b1>",
+        "set_code": "msc",
+        "pct_of_decks": 70,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Swiftfoot Boots <retro>",
+        "set_code": "brc",
+        "pct_of_decks": 27,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Swords to Plowshares <019edced-0bad-779c-a4a2-31239f9b2d49>",
+        "set_code": "msc",
+        "pct_of_decks": 26,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Lightning Greaves <019edceb-dd2c-7fb4-9bf1-866da5e7b403>",
+        "set_code": "msc",
+        "pct_of_decks": 23,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Counterspell <retro>",
+        "set_code": "dmr",
+        "pct_of_decks": 21,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Path to Exile <019edcec-57a0-7bde-8dc3-5b79b3c629f3>",
+        "set_code": "msc",
+        "pct_of_decks": 21,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Cultivate <019edcea-bd6c-76f9-b96e-70784c050a57>",
+        "set_code": "msc",
+        "pct_of_decks": 21,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Fellwar Stone <019d4a1a-977c-7b91-9bdb-b20bc0201d4b>",
+        "set_code": "soc",
+        "pct_of_decks": 19,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Blasphemous Act <019d4a1a-2d77-7b9c-8ece-baaa415eaaf3>",
+        "set_code": "soc",
+        "pct_of_decks": 17,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Thought Vessel <019edced-400c-7ff2-8ce2-511b55c2b5a6>",
+        "set_code": "msc",
+        "pct_of_decks": 17,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Farseek <019edceb-258f-7720-a781-e84a800c405b>",
+        "set_code": "msc",
+        "pct_of_decks": 16,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Rampant Growth",
+        "set_code": "c15",
+        "pct_of_decks": 16,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Mind Stone <retro>",
+        "set_code": "dmr",
+        "pct_of_decks": 16,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Beast Within <019edce9-a3a6-7cbb-936b-5bb815f0119f>",
+        "set_code": "msc",
+        "pct_of_decks": 14,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Chaos Warp <019d4a1a-2e61-740b-996f-cc1b117d906c>",
+        "set_code": "soc",
+        "pct_of_decks": 14,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Nature's Lore <019d4a1a-5324-7918-947d-0b532326302b>",
+        "set_code": "soc",
+        "pct_of_decks": 14,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Heroic Intervention <79 - borderless>",
+        "set_code": "mar",
+        "pct_of_decks": 13,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Negate",
+        "set_code": "aer",
+        "pct_of_decks": 12,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Skullclamp <019edcec-cd37-7c5f-a57a-0401c06af715>",
+        "set_code": "msc",
+        "pct_of_decks": 12,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Kodama's Reach",
+        "set_code": "ecc",
+        "pct_of_decks": 12,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Solemn Simulacrum <019edcec-d607-7ce9-97bd-5beb5981b6ce>",
+        "set_code": "msc",
+        "pct_of_decks": 12,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Dark Ritual",
+        "set_code": "4ed",
+        "pct_of_decks": 12,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "An Offer You Can't Refuse",
+        "set_code": "fdn",
+        "pct_of_decks": 11,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Llanowar Elves",
+        "set_code": "evg",
+        "pct_of_decks": 11,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Birds of Paradise <019edce9-acb3-7f46-bc39-d3437785ad45>",
+        "set_code": "msc",
+        "pct_of_decks": 11,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Three Visits <019edced-4265-7c81-afb0-4b420b78bc9a>",
+        "set_code": "msc",
+        "pct_of_decks": 10,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Arcane Denial <019d4a19-f51c-7751-bc28-897b00cbe4ed>",
+        "set_code": "soc",
+        "pct_of_decks": 10,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Commander's Sphere",
+        "set_code": "voc",
+        "pct_of_decks": 9,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Chromatic Lantern <019edce9-f65f-71ee-82cf-d6e4c1b66233>",
+        "set_code": "msc",
+        "pct_of_decks": 9,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Elvish Mystic <019d4a1a-4abd-7a94-92b2-d9bafb852f32>",
+        "set_code": "soc",
+        "pct_of_decks": 9,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Reanimate",
+        "set_code": "fic",
+        "pct_of_decks": 9,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Generous Gift <019edceb-52b0-7615-bcf0-8dadaca0c073>",
+        "set_code": "msc",
+        "pct_of_decks": 8,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Propaganda <019edcec-7550-7d35-bf84-34346405f4fa>",
+        "set_code": "msc",
+        "pct_of_decks": 8,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Brainstorm <Endwalker>",
+        "set_code": "fca",
+        "pct_of_decks": 8,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Toxic Deluge <019edced-5a5a-7613-8f98-4c3a622f2aed>",
+        "set_code": "msc",
+        "pct_of_decks": 8,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Sakura-Tribe Elder <019d4a1a-5821-7f99-9d4e-2be3f235dc9e>",
+        "set_code": "soc",
+        "pct_of_decks": 8,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Cyclonic Rift",
+        "set_code": "rtr",
+        "pct_of_decks": 8,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Vandalblast <019edced-7a2e-78bd-bcfa-78a982538996>",
+        "set_code": "msc",
+        "pct_of_decks": 8,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Rhystic Study",
+        "set_code": "pr",
+        "pct_of_decks": 8,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Frantic Search <retro>",
+        "set_code": "dmr",
+        "pct_of_decks": 8,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Wayfarer's Bauble",
+        "set_code": "tdc",
+        "pct_of_decks": 7,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Eternal Witness",
+        "set_code": "scd",
+        "pct_of_decks": 7,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Faithless Looting",
+        "set_code": "lcc",
+        "pct_of_decks": 7,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Talisman of Dominance <019edced-1115-7559-8722-927d20c2dd4a>",
+        "set_code": "msc",
+        "pct_of_decks": 7,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Feed the Swarm [FDN] (F)",
+        "set_code": null,
+        "pct_of_decks": 7,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Talisman of Creativity <019edced-0fa0-7973-bcd0-50ca0188123d>",
+        "set_code": "msc",
+        "pct_of_decks": 7,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Demonic Tutor",
+        "set_code": "mb1",
+        "pct_of_decks": 7,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Deadly Dispute <019ea50b-717a-7d5b-8440-7496db10e238>",
+        "set_code": "msc",
+        "pct_of_decks": 7,
+        "avg_copies": 1.0
+      },
+      {
+        "name": "Smothering Tithe",
+        "set_code": "rna",
+        "pct_of_decks": 7,
+        "avg_copies": 1.0
+      }
+    ]
+  }
+}
