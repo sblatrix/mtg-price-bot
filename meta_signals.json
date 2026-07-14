@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Ghost Vacuum",
+    "format": "standard",
+    "rarity": "rare",
+    "pct_of_decks": 34,
+    "pct_change": 34,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-07-14T10:32:39.481545+00:00"
+  },
+  {
+    "name": "Ral, Crackling Wit",
+    "format": "standard",
+    "rarity": "mythic",
+    "pct_of_decks": 32,
+    "pct_change": 32,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-07-14T10:32:39.481545+00:00"
+  },
+  {
+    "name": "Badgermole Cub",
+    "format": "standard",
+    "rarity": "mythic",
+    "pct_of_decks": 28,
+    "pct_change": 28,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-07-14T10:32:39.481545+00:00"
+  },
+  {
+    "name": "Slagstorm",
+    "format": "standard",
+    "rarity": "rare",
+    "pct_of_decks": 26,
+    "pct_change": 26,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-07-14T10:32:39.481545+00:00"
+  },
+  {
+    "name": "Badgermole Cub",
+    "format": "pioneer",
+    "rarity": "mythic",
+    "pct_of_decks": 21,
+    "pct_change": 21,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-07-14T10:32:39.481545+00:00"
+  }
+]
