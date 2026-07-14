@@ -305,5 +305,58 @@
       "Standard",
       "Foil"
     ]
+  },
+  "6850322e59fa7240095675dd": {
+    "name": "Tyvar Kell",
+    "slug": "khm-tyvar-kell-198-mythic",
+    "nameSlug": "tyvar-kell",
+    "expansion": "Kaldheim",
+    "expansionSlug": "kaldheim",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d0459fa724009550842": {
+    "name": "Elvish Champion",
+    "slug": "psal-elvish-champion-b49-rare",
+    "nameSlug": "elvish-champion",
+    "expansion": "Salvat 2005",
+    "expansionSlug": "salvat-2005",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502e6d59fa7240095594cb": {
+    "name": "Joraga Warcaller",
+    "slug": "pwwk-joraga-warcaller-106star-rare",
+    "nameSlug": "joraga-warcaller",
+    "expansion": "Worldwake Promos",
+    "expansionSlug": "worldwake-promos",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "68502d0459fa724009550c39": {
+    "name": "Elvish Promenade",
+    "slug": "lrw-elvish-promenade-208-uncommon",
+    "nameSlug": "elvish-promenade",
+    "expansion": "Lorwyn",
+    "expansionSlug": "lorwyn",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "685030bd59fa72400956178b": {
+    "name": "Scattershot Archer",
+    "slug": "con-scattershot-archer-90-common",
+    "nameSlug": "scattershot-archer",
+    "expansion": "Conflux",
+    "expansionSlug": "conflux",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
