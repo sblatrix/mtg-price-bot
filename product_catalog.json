@@ -273,5 +273,37 @@
     "finishes": [
       "Foil"
     ]
+  },
+  "685030bf59fa724009562e52": {
+    "name": "Seeker of Skybreak",
+    "slug": "tmp-seeker-of-skybreak-254-common",
+    "nameSlug": "seeker-of-skybreak",
+    "expansion": "Tempest",
+    "expansionSlug": "tempest",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502d0559fa724009551b18": {
+    "name": "Elves of Deep Shadow",
+    "slug": "rav-elves-of-deep-shadow-161-common",
+    "nameSlug": "elves-of-deep-shadow",
+    "expansion": "Ravnica: City of Guilds",
+    "expansionSlug": "ravnica-city-of-guilds",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502d7b59fa724009554a10": {
+    "name": "Godsire",
+    "slug": "ala-godsire-170-mythic",
+    "nameSlug": "godsire",
+    "expansion": "Shards of Alara",
+    "expansionSlug": "shards-of-alara",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
