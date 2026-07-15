@@ -7,7 +7,6 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-adapter-date-fns/3.0.0/chartjs-adapter-date-fns.bundle.min.js"></script>
 <style>
   :root{
     --ink:#0B0E17;
@@ -577,44 +576,72 @@ function toggleDetailRow(rowId){
   requestAnimationFrame(() => renderDetailChart(canvas, row));
 }
 
+function formatDateLabel(iso){
+  const d = new Date(iso);
+  return d.toLocaleDateString('fr-FR', { day: '2-digit', month: 'short' });
+}
+
+function alignSeriesToLabels(series, allDates, valueKey){
+  // series: [{date, [valueKey]: number}, ...] -> tableau aligné sur allDates (null si absent ce jour-là)
+  const byDate = {};
+  (series || []).forEach(p => {
+    const day = p.date.slice(0, 10); // YYYY-MM-DD, ignore l'heure pour aligner par jour
+    byDate[day] = p[valueKey] !== undefined ? p[valueKey] : p.price;
+  });
+  return allDates.map(day => (day in byDate ? byDate[day] : null));
+}
+
 function renderDetailChart(canvas, row){
+  // fusionne toutes les dates (par jour) de toutes les séries disponibles pour cette ligne
+  const allDaysSet = new Set();
+  (row._cardnexus_history || []).forEach(p => allDaysSet.add(p.date.slice(0, 10)));
+  (row._scryfall_history || []).forEach(p => allDaysSet.add(p.date.slice(0, 10)));
+  (row._cm_official_history || []).forEach(p => allDaysSet.add(p.date.slice(0, 10)));
+
+  if(allDaysSet.size === 0){
+    canvas.parentElement.innerHTML = `<p class="empty">Pas assez d'historique pour tracer un graphique sur cette ligne.</p>`;
+    return;
+  }
+
+  const allDays = Array.from(allDaysSet).sort();
+  const labels = allDays.map(d => formatDateLabel(d));
   const datasets = [];
 
   if(row._cardnexus_history && row._cardnexus_history.length){
     datasets.push({
       label: 'CardNexus (quotidien)',
-      data: row._cardnexus_history.map(p => ({ x: p.date, y: p.price })),
-      borderColor: ARB, backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, tension: 0.2,
+      data: alignSeriesToLabels(row._cardnexus_history, allDays, 'price'),
+      borderColor: ARB, backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 2, tension: 0.2, spanGaps: true,
     });
   }
   if(row._scryfall_history && row._scryfall_history.length){
     datasets.push({
       label: 'Scryfall/Cardmarket (relevé)',
-      data: row._scryfall_history.map(p => ({ x: p.date, y: p.price })),
-      borderColor: RISE, backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, tension: 0.2,
+      data: alignSeriesToLabels(row._scryfall_history, allDays, 'price'),
+      borderColor: RISE, backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 2, tension: 0.2, spanGaps: true,
     });
   }
   if(row._cm_official_history && row._cm_official_history.length){
     datasets.push({
       label: 'CM Low (officiel)',
-      data: row._cm_official_history.filter(p => p.low !== null).map(p => ({ x: p.date, y: p.low })),
-      borderColor: FOIL, backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, tension: 0.2, borderDash: [4, 3],
+      data: alignSeriesToLabels(row._cm_official_history, allDays, 'low'),
+      borderColor: FOIL, backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 2, tension: 0.2, borderDash: [4, 3], spanGaps: true,
     });
     datasets.push({
       label: 'CM Avg (officiel)',
-      data: row._cm_official_history.filter(p => p.avg !== null).map(p => ({ x: p.date, y: p.avg })),
-      borderColor: FOIL, backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, tension: 0.2,
+      data: alignSeriesToLabels(row._cm_official_history, allDays, 'avg'),
+      borderColor: FOIL, backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 2, tension: 0.2, spanGaps: true,
     });
   }
 
-  if(datasets.length === 0){
+  if(datasets.every(ds => ds.data.every(v => v === null))){
     canvas.parentElement.innerHTML = `<p class="empty">Pas assez d'historique pour tracer un graphique sur cette ligne.</p>`;
     return;
   }
 
   detailChartInstance = new Chart(canvas, {
     type: 'line',
-    data: { datasets },
+    data: { labels, datasets },
     options: {
       responsive: true,
       maintainAspectRatio: false,
@@ -624,7 +651,7 @@ function renderDetailChart(canvas, row){
         tooltip: { mode: 'nearest', intersect: false },
       },
       scales: {
-        x: { type: 'time', time: { unit: 'day' }, ticks: { color: MUTED, font: { size: 10 } }, grid: { color: 'rgba(255,255,255,0.05)' } },
+        x: { ticks: { color: MUTED, font: { size: 10 }, maxRotation: 0, autoSkip: true }, grid: { color: 'rgba(255,255,255,0.05)' } },
         y: { ticks: { color: MUTED, font: { size: 10 }, callback: v => `${v}€` }, grid: { color: 'rgba(255,255,255,0.05)' } },
       },
     },
