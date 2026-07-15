@@ -16,6 +16,8 @@ from trend_detector import compute_trend, compute_cross_source_gap
 
 ROOT = Path(__file__).parent
 DEALS_PATH = ROOT / "recent_deals.json"
+META_SIGNALS_PATH = ROOT / "meta_signals.json"
+PERFORMANCE_SIGNALS_PATH = ROOT / "performance_signals.json"
 OUTPUT_PATH = ROOT / "docs" / "data.json"
 
 
@@ -163,6 +165,29 @@ def build_card_entry(card_name: str) -> dict:
     return entry
 
 
+def load_competitive_signals() -> list[dict]:
+    """Fusionne meta_signals.json (MTGGoldfish) et performance_signals.json
+    (MTGTop8) en une seule liste normalisée, triée du plus récent au plus
+    ancien, dédupliquée par (nom, format, source)."""
+    signals = []
+
+    if META_SIGNALS_PATH.exists():
+        signals.extend(json.loads(META_SIGNALS_PATH.read_text(encoding="utf-8")))
+    if PERFORMANCE_SIGNALS_PATH.exists():
+        signals.extend(json.loads(PERFORMANCE_SIGNALS_PATH.read_text(encoding="utf-8")))
+
+    seen = set()
+    deduped = []
+    for s in sorted(signals, key=lambda x: x.get("detected_at", ""), reverse=True):
+        key = (s.get("name"), s.get("format"), s.get("source"))
+        if key in seen:
+            continue
+        seen.add(key)
+        deduped.append(s)
+
+    return deduped[:150]
+
+
 def run():
     cards = get_all_tracked_cards()
     card_entries = [build_card_entry(name) for name in cards]
@@ -173,15 +198,24 @@ def run():
     if DEALS_PATH.exists():
         recent_deals = json.loads(DEALS_PATH.read_text(encoding="utf-8"))
 
+    competitive_signals = load_competitive_signals()
+    signal_card_names = {s["name"] for s in competitive_signals}
+
+    # croisement : marque chaque carte suivie qui a aussi un signal compétitif actif
+    for entry in card_entries:
+        entry["has_competitive_signal"] = entry["name"] in signal_card_names
+
     output = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "cards": card_entries,
         "recent_deals": recent_deals,
+        "competitive_signals": competitive_signals,
     }
 
     OUTPUT_PATH.parent.mkdir(exist_ok=True)
     OUTPUT_PATH.write_text(json.dumps(output, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"Dashboard data exporté : {len(card_entries)} carte(s), {len(recent_deals)} bonne(s) affaire(s).")
+    print(f"Dashboard data exporté : {len(card_entries)} carte(s), {len(recent_deals)} bonne(s) affaire(s), "
+          f"{len(competitive_signals)} signal(aux) compétitif(s).")
 
 
 if __name__ == "__main__":

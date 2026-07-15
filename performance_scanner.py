@@ -226,11 +226,14 @@ def run_scan():
                 except requests.RequestException:
                     continue
                 for card_name in set(cards):  # set : une carte ne compte qu'une fois par deck
-                    card_appearances[card_name] = card_appearances.get(card_name, 0) + 1
+                    if card_name not in card_appearances:
+                        card_appearances[card_name] = {"count": 0, "example_event_id": event_id, "example_deck_id": deck_id}
+                    card_appearances[card_name]["count"] += 1
 
         print(f"  {len(event_ids)} événement(s) scanné(s), {len(card_appearances)} carte(s) distinctes vues.")
 
-        for card_name, count in card_appearances.items():
+        for card_name, info in card_appearances.items():
+            count = info["count"]
             if count < MIN_APPEARANCES:
                 continue
 
@@ -242,6 +245,13 @@ def run_scan():
             if baseline_pct is not None and baseline_pct > MAX_BASELINE_PCT:
                 continue  # déjà un staple connu, pas un signal précoce
 
+            baseline_txt = f"{baseline_pct}%" if baseline_pct is not None else "hors top 50"
+            summary = (
+                f"Performe en {format_name} sans être largement adoptée : vue dans {count} deck(s) "
+                f"classé(s) récemment, adoption globale {baseline_txt}."
+            )
+            event_url = f"{BASE_URL}/event?e={info['example_event_id']}&d={info['example_deck_id']}&f={format_code}"
+
             signal = {
                 "name": card_name,
                 "format": format_name,
@@ -249,6 +259,9 @@ def run_scan():
                 "appearances": count,
                 "baseline_pct": baseline_pct,
                 "detected_at": datetime.now(timezone.utc).isoformat(),
+                "url": event_url,
+                "summary": summary,
+                "source": "MTGTop8",
             }
             signals.append(signal)
             send_performance_alert(signal)

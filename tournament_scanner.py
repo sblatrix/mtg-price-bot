@@ -72,6 +72,9 @@ def fetch_staples(format_name: str) -> list[dict]:
         else:
             name, set_code = card_id.strip(), None
 
+        href = link.get("href", "")
+        card_url = f"https://www.mtggoldfish.com{href}" if href.startswith("/") else href
+
         cells = row.find_all("td")
         pct = None
         copies = None
@@ -93,6 +96,7 @@ def fetch_staples(format_name: str) -> list[dict]:
                 "set_code": set_code,
                 "pct_of_decks": pct,
                 "avg_copies": copies,
+                "url": card_url,
             })
 
     return entries
@@ -202,6 +206,11 @@ def run_scan():
                         (not is_new and pct_change >= MIN_PCT_INCREASE)
 
             if triggered:
+                if is_new:
+                    summary = f"Nouvelle entrée en {fmt} : {entry['pct_of_decks']}% des decks du classement."
+                else:
+                    summary = f"Progression en {fmt} : +{pct_change:.0f} points, désormais {entry['pct_of_decks']}% des decks."
+
                 signal = {
                     "name": name,
                     "format": fmt,
@@ -211,6 +220,9 @@ def run_scan():
                     "is_new_entry": is_new,
                     "in_post_release_window": in_window,
                     "detected_at": now,
+                    "url": entry.get("url"),
+                    "summary": summary,
+                    "source": "MTGGoldfish",
                 }
                 signals.append(signal)
                 send_signal_alert(signal)

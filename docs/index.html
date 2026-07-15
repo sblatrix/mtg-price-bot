@@ -318,6 +318,7 @@
     <label>Prix min <input type="number" id="price-min" placeholder="0" min="0" step="0.5" style="width:70px"></label>
     <label>Prix max <input type="number" id="price-max" placeholder="∞" min="0" step="0.5" style="width:70px"></label>
     <label><input type="checkbox" id="signal-only"> Signal seulement (tendance ou écart)</label>
+    <label><input type="checkbox" id="competitive-only"> 🎯 Signal compétitif seulement</label>
     <span class="row-count" id="row-count"></span>
   </div>
 
@@ -326,6 +327,7 @@
       <table id="watchlist-table">
         <thead>
           <tr>
+            <th data-key="has_competitive_signal">🎯</th>
             <th data-key="name">Carte</th>
             <th data-key="finish">Fin.</th>
             <th data-key="cm_low">Low CM</th>
@@ -352,6 +354,11 @@
       <p class="section-title">Bonnes affaires récentes</p>
       <div class="deals-list" id="deals-list"></div>
     </div>
+  </div>
+
+  <div style="margin-top:28px;">
+    <p class="section-title">🎯 Signaux compétitifs (tournois)</p>
+    <div class="deals-list" id="competitive-signals-list"></div>
   </div>
 </main>
 
@@ -417,6 +424,23 @@ function buildDeal(deal){
   return el;
 }
 
+function buildCompetitiveSignal(signal){
+  const el = document.createElement('div');
+  el.className = 'deal';
+  const badge = signal.source === 'MTGGoldfish' ? '📈' : '🚀';
+  el.innerHTML = `
+    <div class="deal-top">
+      <span class="deal-name">${badge} ${signal.name}</span>
+      <span class="deal-discount" style="color:var(--arb)">${signal.rarity || ''}</span>
+    </div>
+    <div class="deal-meta">${signal.format || ''} · source ${signal.source || '?'}</div>
+    <div class="deal-meta" style="color:var(--text);margin-top:4px;">${signal.summary || ''}</div>
+    <div class="deal-meta">${fmtDate(signal.detected_at)}</div>
+    ${signal.url ? `<div style="margin-top:6px;"><a href="${signal.url}" target="_blank" rel="noopener">Voir la source →</a></div>` : ''}
+  `;
+  return el;
+}
+
 function buildTicker(cards, deals){
   const items = [];
 
@@ -455,6 +479,7 @@ function flattenRows(cards){
         _id: rowId++,
         name: card.name,
         finish,
+        has_competitive_signal: card.has_competitive_signal || false,
         cm_low: f.cm_low, cm_avg: f.cm_avg, cm_trend: f.cm_trend, cm_avg7: f.cm_avg7,
         cn_latest: f.cn_latest, cn_avg7: f.cn_avg7,
         low_vs_avg_pct: f.low_vs_avg_pct, low_vs_avg_diff: f.low_vs_avg_diff,
@@ -494,6 +519,7 @@ function filterRows(rows){
   const q = document.getElementById('search-input').value.trim().toLowerCase();
   const finishFilter = document.getElementById('finish-filter').value;
   const signalOnly = document.getElementById('signal-only').checked;
+  const competitiveOnly = document.getElementById('competitive-only').checked;
   const priceMinRaw = document.getElementById('price-min').value;
   const priceMaxRaw = document.getElementById('price-max').value;
   const priceMin = priceMinRaw !== '' ? parseFloat(priceMinRaw) : null;
@@ -503,6 +529,7 @@ function filterRows(rows){
     if(q && !r.name.toLowerCase().includes(q)) return false;
     if(finishFilter !== 'all' && r.finish !== finishFilter) return false;
     if(signalOnly && r.trend_pct === null && r.cross_source_gap_pct === null) return false;
+    if(competitiveOnly && !r.has_competitive_signal) return false;
     if(priceMin !== null || priceMax !== null){
       // référence : la meilleure estimation de prix dispo pour cette ligne
       const refPrice = r.cm_avg ?? r.cn_latest ?? r.cm_low;
@@ -679,7 +706,7 @@ function renderTable(){
   document.getElementById('row-count').textContent = `${sorted.length} / ${allRows.length} ligne(s)`;
 
   if(sorted.length === 0){
-    tbody.innerHTML = `<tr><td colspan="16" class="empty">Aucune ligne ne correspond aux filtres.</td></tr>`;
+    tbody.innerHTML = `<tr><td colspan="17" class="empty">Aucune ligne ne correspond aux filtres.</td></tr>`;
     return;
   }
 
@@ -687,6 +714,7 @@ function renderTable(){
 
   tbody.innerHTML = sorted.map(r => `
     <tr data-row-id="${r._id}">
+      <td class="cell-muted" style="text-align:center;">${r.has_competitive_signal ? '🎯' : ''}</td>
       <td class="name-cell" data-name="${escapeHtml(r.name)}">${r.name}</td>
       <td class="cell-muted">${r.finish === 'foil' ? 'Foil' : 'Std'}</td>
       <td>${fmtEur(r.cm_low)}</td>
@@ -719,7 +747,7 @@ document.querySelectorAll('#watchlist-table thead th').forEach(th=>{
   });
 });
 
-['search-input', 'finish-filter', 'signal-only', 'price-min', 'price-max'].forEach(id=>{
+['search-input', 'finish-filter', 'signal-only', 'competitive-only', 'price-min', 'price-max'].forEach(id=>{
   document.getElementById(id).addEventListener('input', renderTable);
 });
 
@@ -754,7 +782,7 @@ fetch('./data.json?_=' + Date.now())
     allRows = flattenRows(data.cards);
     if(allRows.length === 0){
       document.getElementById('watchlist-tbody').innerHTML =
-        `<tr><td colspan="16" class="empty">Aucune carte suivie pour l'instant. Lance <code>python collector.py</code> et <code>python deal_scanner.py</code> au moins une fois pour peupler le dashboard.</td></tr>`;
+        `<tr><td colspan="17" class="empty">Aucune carte suivie pour l'instant. Lance <code>python collector.py</code> et <code>python deal_scanner.py</code> au moins une fois pour peupler le dashboard.</td></tr>`;
     } else {
       renderTable();
     }
@@ -765,11 +793,19 @@ fetch('./data.json?_=' + Date.now())
     } else {
       data.recent_deals.forEach(deal => dealsList.appendChild(buildDeal(deal)));
     }
+
+    const signalsList = document.getElementById('competitive-signals-list');
+    const signals = data.competitive_signals || [];
+    if(signals.length === 0){
+      signalsList.innerHTML = `<p class="empty">Pas encore de signal compétitif détecté. Le scanner tourne une fois par jour via GitHub Actions (workflow "Daily deep scan").</p>`;
+    } else {
+      signals.forEach(s => signalsList.appendChild(buildCompetitiveSignal(s)));
+    }
   })
   .catch(err => {
     document.getElementById('updated').textContent = 'Erreur de chargement';
     document.getElementById('watchlist-tbody').innerHTML =
-      `<tr><td colspan="16" class="empty">Impossible de charger data.json. Vérifie que le fichier existe dans /docs et que GitHub Pages est activé (Settings → Pages → source: /docs).</td></tr>`;
+      `<tr><td colspan="17" class="empty">Impossible de charger data.json. Vérifie que le fichier existe dans /docs et que GitHub Pages est activé (Settings → Pages → source: /docs).</td></tr>`;
     console.error(err);
   });
 </script>
