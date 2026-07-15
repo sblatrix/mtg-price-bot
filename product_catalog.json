@@ -390,5 +390,136 @@
       "Foil",
       "Standard"
     ]
+  },
+  "68502f7e59fa72400955e48e": {
+    "name": "Nihil Spellbomb",
+    "slug": "som-nihil-spellbomb-187-common",
+    "nameSlug": "nihil-spellbomb",
+    "expansion": "Scars of Mirrodin",
+    "expansionSlug": "scars-of-mirrodin",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6850317559fa7240095657ee": {
+    "name": "Sphere of Safety",
+    "slug": "rtr-sphere-of-safety-24-uncommon",
+    "nameSlug": "sphere-of-safety",
+    "expansion": "Return to Ravnica",
+    "expansionSlug": "return-to-ravnica",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685030c059fa72400956364a": {
+    "name": "Soul's Attendant",
+    "slug": "roe-souls-attendant-44-common",
+    "nameSlug": "souls-attendant",
+    "expansion": "Rise of the Eldrazi",
+    "expansionSlug": "rise-of-the-eldrazi",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502bca59fa72400954b768": {
+    "name": "Battle Hymn",
+    "slug": "avr-battle-hymn-128-common",
+    "nameSlug": "battle-hymn",
+    "expansion": "Avacyn Restored",
+    "expansionSlug": "avacyn-restored",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502bc859fa72400954a034": {
+    "name": "Axebane Guardian",
+    "slug": "rtr-axebane-guardian-115-common",
+    "nameSlug": "axebane-guardian",
+    "expansion": "Return to Ravnica",
+    "expansionSlug": "return-to-ravnica",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6850301559fa72400955fa12": {
+    "name": "Sacred Foundry",
+    "slug": "gtc-sacred-foundry-245-rare",
+    "nameSlug": "sacred-foundry",
+    "expansion": "Gatecrash",
+    "expansionSlug": "gatecrash",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502d7959fa7240095537b8": {
+    "name": "Gavony Township",
+    "slug": "isd-gavony-township-239-rare",
+    "nameSlug": "gavony-township",
+    "expansion": "Innistrad",
+    "expansionSlug": "innistrad",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685032e559fa724009569e2f": {
+    "name": "Whispering Madness",
+    "slug": "gtc-whispering-madness-207-rare",
+    "nameSlug": "whispering-madness",
+    "expansion": "Gatecrash",
+    "expansionSlug": "gatecrash",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502e6e59fa724009559ca1": {
+    "name": "Liliana's Caress",
+    "slug": "m11-lilianas-caress-103-uncommon",
+    "nameSlug": "lilianas-caress",
+    "expansion": "Magic 2011",
+    "expansionSlug": "magic-2011",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850301759fa7240095613ca": {
+    "name": "Ring of Three Wishes",
+    "slug": "m14-ring-of-three-wishes-216-mythic",
+    "nameSlug": "ring-of-three-wishes",
+    "expansion": "Magic 2014",
+    "expansionSlug": "magic-2014",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d7959fa72400955333d": {
+    "name": "Ghostly Prison",
+    "slug": "pc2-ghostly-prison-7-uncommon",
+    "nameSlug": "ghostly-prison",
+    "expansion": "Planechase 2012",
+    "expansionSlug": "planechase-2012",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850323059fa7240095683f2": {
+    "name": "Umbra Mystic",
+    "slug": "roe-umbra-mystic-52-rare",
+    "nameSlug": "umbra-mystic",
+    "expansion": "Rise of the Eldrazi",
+    "expansionSlug": "rise-of-the-eldrazi",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
