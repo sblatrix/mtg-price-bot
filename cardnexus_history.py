@@ -16,7 +16,7 @@ from pathlib import Path
 import requests
 
 from cardnexus_client import get_product_prices
-from db import init_db, insert_price
+from db import init_db, insert_price_dated
 
 CATALOG_PATH = Path(__file__).parent / "product_catalog.json"
 WATCHLIST_PATH = Path(__file__).parent / "watchlist.json"
@@ -73,7 +73,7 @@ def run():
             points = data.get("marketplaces", {}).get("Cardmarket", [])
             source = f"cardnexus_{finish.lower()}"
             for point in points:
-                insert_price(name, None, source, point.get("price"))
+                insert_price_dated(name, None, source, point.get("price"), point.get("date"))
 
             print(f"  -> {finish} : {len(points)} points de prix enregistrés")
 

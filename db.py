@@ -92,6 +92,31 @@ def insert_price(card_name: str, set_code: str | None, source: str, price_eur: f
     conn.close()
 
 
+def insert_price_dated(card_name: str, set_code: str | None, source: str,
+                        price_eur: float | None, dated_at_iso: str | None):
+    """Comme insert_price, mais utilise la vraie date fournie par la source
+    (ex: CardNexus donne une date par point d'historique) au lieu de 'maintenant'.
+    Évite aussi les doublons : si un point existe déjà pour ce jour exact, on
+    ne le réinsère pas - important quand le script tourne plus souvent que la
+    source ne se met à jour (CardNexus = 1x/jour, notre collecteur = 1x/heure)."""
+    if price_eur is None or not dated_at_iso:
+        return
+    conn = get_connection()
+    existing = conn.execute(
+        "SELECT id FROM price_history WHERE card_name = ? AND source = ? AND fetched_at = ?",
+        (card_name, source, dated_at_iso),
+    ).fetchone()
+    if existing:
+        conn.close()
+        return
+    conn.execute(
+        "INSERT INTO price_history (card_name, set_code, source, price_eur, fetched_at) VALUES (?, ?, ?, ?, ?)",
+        (card_name, set_code, source, price_eur, dated_at_iso),
+    )
+    conn.commit()
+    conn.close()
+
+
 def get_price_history(card_name: str, source: str, limit: int = 50):
     conn = get_connection()
     rows = conn.execute(
