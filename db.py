@@ -78,6 +78,9 @@ def get_latest_cardmarket_official_price(card_name: str):
     ).fetchone()
     conn.close()
     return row
+
+
+def insert_price(card_name: str, set_code: str | None, source: str, price_eur: float | None):
     if price_eur is None:
         return
     conn = get_connection()
