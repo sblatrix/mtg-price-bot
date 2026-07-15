@@ -6,16 +6,25 @@ Scryfall demande un throttle de ~50-100ms entre requêtes -> on respecte ça.
 """
 import json
 import time
+from datetime import datetime, timezone
 from pathlib import Path
 
 import requests
 
-from db import init_db, insert_price
+from db import init_db, insert_price_dated
 import cardmarket_ids
 
 SCRYFALL_SEARCH_URL = "https://api.scryfall.com/cards/named"
 USER_AGENT = "MTGPriceTrendBot/1.0 (personal project)"
 REQUEST_DELAY = 0.15  # secondes entre requêtes, recommandation Scryfall
+
+
+def today_iso_midnight() -> str:
+    """Scryfall ne remet à jour son prix qu'1x/jour côté source - on force donc
+    1 seul point enregistré par jour même si ce script tourne toutes les
+    heures (insert_price_dated dédoublonne sur cette clé)."""
+    now = datetime.now(timezone.utc)
+    return now.replace(hour=0, minute=0, second=0, microsecond=0).isoformat().replace("+00:00", "Z")
 
 
 def fetch_card_price(name: str, set_code: str | None = None):
@@ -71,12 +80,13 @@ def run_collection(watchlist_path: Path):
 
         if data:
             cardmarket_ids.update(cm_ids, data["name"], data.get("cardmarket_id"))
+            today = today_iso_midnight()
             if data["eur"] is not None:
-                insert_price(data["name"], data["set"], "scryfall_cardmarket_standard", data["eur"])
+                insert_price_dated(data["name"], data["set"], "scryfall_cardmarket_standard", data["eur"], today)
                 print(f"  -> Standard : {data['eur']} EUR")
                 results.append(data)
             if data.get("eur_foil") is not None:
-                insert_price(data["name"], data["set"], "scryfall_cardmarket_foil", data["eur_foil"])
+                insert_price_dated(data["name"], data["set"], "scryfall_cardmarket_foil", data["eur_foil"], today)
                 print(f"  -> Foil : {data['eur_foil']} EUR")
             if data["eur"] is None and data.get("eur_foil") is None:
                 print(f"  [!] Pas de prix EUR disponible pour {name}")

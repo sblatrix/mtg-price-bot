@@ -17,11 +17,12 @@ CardNexus supplémentaire non encore identifié.
 import json
 import os
 import time
+from datetime import datetime, timezone
 from pathlib import Path
 
 import requests
 
-from db import init_db, insert_price
+from db import init_db, insert_price_dated
 from release_calendar import load_release_cache, is_in_post_release_window, refresh_set_cache
 from breakout import compute_breakout
 import cardmarket_ids
@@ -34,6 +35,14 @@ DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL", "")
 AUTO_WATCHLIST_PATH = Path(__file__).parent / "post_release_watchlist.json"
 
 BREAKOUT_THRESHOLD_PCT = 15.0
+
+
+def today_iso_midnight() -> str:
+    """Scryfall ne remet à jour son prix qu'1x/jour côté source - on force donc
+    1 seul point enregistré par jour même si ce script tourne toutes les
+    heures (insert_price_dated dédoublonne sur cette clé)."""
+    now = datetime.now(timezone.utc)
+    return now.replace(hour=0, minute=0, second=0, microsecond=0).isoformat().replace("+00:00", "Z")
 
 
 def get_post_release_set_codes(release_cache: dict) -> list[str]:
@@ -121,15 +130,16 @@ def run():
             continue
 
         print(f"  {len(cards)} rare(s)/mythique(s) trouvée(s)")
+        today = today_iso_midnight()
 
         for card in cards:
             auto_watchlist.add(card["name"])
             cardmarket_ids.update(cm_ids, card["name"], card.get("cardmarket_id"))
 
             if card["eur"] is not None:
-                insert_price(card["name"], card["set"], "scryfall_cardmarket_standard", card["eur"])
+                insert_price_dated(card["name"], card["set"], "scryfall_cardmarket_standard", card["eur"], today)
             if card["eur_foil"] is not None:
-                insert_price(card["name"], card["set"], "scryfall_cardmarket_foil", card["eur_foil"])
+                insert_price_dated(card["name"], card["set"], "scryfall_cardmarket_foil", card["eur_foil"], today)
 
             for source in ("scryfall_cardmarket_standard", "scryfall_cardmarket_foil"):
                 breakout = compute_breakout(card["name"], source)
