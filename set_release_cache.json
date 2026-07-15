@@ -3,16 +3,16 @@
     "name": "Star Trek Commander",
     "released_at": "2026-11-13"
   },
-  "trk": {
-    "name": "Star Trek",
-    "released_at": "2026-11-13"
-  },
   "ttrk": {
     "name": "Star Trek Tokens",
     "released_at": "2026-11-13"
   },
   "sds": {
     "name": "Stardates",
+    "released_at": "2026-11-13"
+  },
+  "trk": {
+    "name": "Star Trek",
     "released_at": "2026-11-13"
   },
   "fra": {
@@ -31,28 +31,28 @@
     "name": "The Hobbit Tokens",
     "released_at": "2026-08-14"
   },
-  "amsh": {
-    "name": "Marvel Super Heroes Art Series",
+  "tmsc": {
+    "name": "Marvel Super Heroes Commander Tokens",
+    "released_at": "2026-06-26"
+  },
+  "fmsc": {
+    "name": "Marvel Super Heroes Jumpstart Front Cards",
     "released_at": "2026-06-26"
   },
   "msh": {
     "name": "Marvel Super Heroes",
     "released_at": "2026-06-26"
   },
-  "tmsc": {
-    "name": "Marvel Super Heroes Commander Tokens",
+  "tmsh": {
+    "name": "Marvel Super Heroes Tokens",
     "released_at": "2026-06-26"
   },
   "msc": {
     "name": "Marvel Super Heroes Commander",
     "released_at": "2026-06-26"
   },
-  "tmsh": {
-    "name": "Marvel Super Heroes Tokens",
-    "released_at": "2026-06-26"
-  },
-  "fmsc": {
-    "name": "Marvel Super Heroes Jumpstart Front Cards",
+  "amsh": {
+    "name": "Marvel Super Heroes Art Series",
     "released_at": "2026-06-26"
   },
   "ysos": {
@@ -67,52 +67,52 @@
     "name": "Secrets of Strixhaven Art Series",
     "released_at": "2026-04-24"
   },
-  "tsoc": {
-    "name": "Secrets of Strixhaven Commander Tokens",
+  "sos": {
+    "name": "Secrets of Strixhaven",
     "released_at": "2026-04-24"
   },
   "tsos": {
     "name": "Secrets of Strixhaven Tokens",
     "released_at": "2026-04-24"
   },
-  "soa": {
-    "name": "Secrets of Strixhaven Mystical Archive",
-    "released_at": "2026-04-24"
-  },
   "soc": {
     "name": "Secrets of Strixhaven Commander",
     "released_at": "2026-04-24"
   },
-  "sos": {
-    "name": "Secrets of Strixhaven",
+  "tsoc": {
+    "name": "Secrets of Strixhaven Commander Tokens",
+    "released_at": "2026-04-24"
+  },
+  "soa": {
+    "name": "Secrets of Strixhaven Mystical Archive",
     "released_at": "2026-04-24"
   },
   "ttmt": {
     "name": "Teenage Mutant Ninja Turtles Tokens",
     "released_at": "2026-03-06"
   },
-  "pza": {
-    "name": "Teenage Mutant Ninja Turtles Source Material",
-    "released_at": "2026-03-06"
-  },
-  "ttmc": {
-    "name": "Teenage Mutant Ninja Turtles Eternal Tokens",
-    "released_at": "2026-03-06"
-  },
   "tmt": {
     "name": "Teenage Mutant Ninja Turtles",
     "released_at": "2026-03-06"
   },
-  "atmt": {
-    "name": "Teenage Mutant Ninja Turtles Art Series",
+  "tmc": {
+    "name": "Teenage Mutant Ninja Turtles Eternal",
     "released_at": "2026-03-06"
   },
   "ftmc": {
     "name": "Teenage Mutant Ninja Turtles Eternal Front Cards",
     "released_at": "2026-03-06"
   },
-  "tmc": {
-    "name": "Teenage Mutant Ninja Turtles Eternal",
+  "atmt": {
+    "name": "Teenage Mutant Ninja Turtles Art Series",
+    "released_at": "2026-03-06"
+  },
+  "ttmc": {
+    "name": "Teenage Mutant Ninja Turtles Eternal Tokens",
+    "released_at": "2026-03-06"
+  },
+  "pza": {
+    "name": "Teenage Mutant Ninja Turtles Source Material",
     "released_at": "2026-03-06"
   },
   "pl26": {
@@ -127,10 +127,6 @@
     "name": "Lorwyn Eclipsed Promos",
     "released_at": "2026-01-23"
   },
-  "tecc": {
-    "name": "Lorwyn Eclipsed Commander Tokens",
-    "released_at": "2026-01-23"
-  },
   "tecl": {
     "name": "Lorwyn Eclipsed Tokens",
     "released_at": "2026-01-23"
@@ -139,12 +135,16 @@
     "name": "Lorwyn Eclipsed",
     "released_at": "2026-01-23"
   },
-  "aecl": {
-    "name": "Lorwyn Eclipsed Art Series",
-    "released_at": "2026-01-23"
-  },
   "ecc": {
     "name": "Lorwyn Eclipsed Commander",
+    "released_at": "2026-01-23"
+  },
+  "tecc": {
+    "name": "Lorwyn Eclipsed Commander Tokens",
+    "released_at": "2026-01-23"
+  },
+  "aecl": {
+    "name": "Lorwyn Eclipsed Art Series",
     "released_at": "2026-01-23"
   },
   "pf26": {
@@ -163,22 +163,6 @@
     "name": "Avatar: The Last Airbender Promos",
     "released_at": "2025-11-21"
   },
-  "ttla": {
-    "name": "Avatar: The Last Airbender Tokens",
-    "released_at": "2025-11-21"
-  },
-  "tla": {
-    "name": "Avatar: The Last Airbender",
-    "released_at": "2025-11-21"
-  },
-  "atla": {
-    "name": "Avatar: the Last Airbender Art Series",
-    "released_at": "2025-11-21"
-  },
-  "ftla": {
-    "name": "Avatar: The Last Airbender Beginner Box Front Cards",
-    "released_at": "2025-11-21"
-  },
   "jtla": {
     "name": "Avatar: The Last Airbender Jumpstart Front Cards",
     "released_at": "2025-11-21"
@@ -187,8 +171,24 @@
     "name": "Avatar: The Last Airbender Eternal",
     "released_at": "2025-11-21"
   },
+  "atla": {
+    "name": "Avatar: the Last Airbender Art Series",
+    "released_at": "2025-11-21"
+  },
+  "ttla": {
+    "name": "Avatar: The Last Airbender Tokens",
+    "released_at": "2025-11-21"
+  },
   "ttle": {
     "name": "Avatar: The Last Airbender Eternal Tokens",
+    "released_at": "2025-11-21"
+  },
+  "tla": {
+    "name": "Avatar: The Last Airbender",
+    "released_at": "2025-11-21"
+  },
+  "ftla": {
+    "name": "Avatar: The Last Airbender Beginner Box Front Cards",
     "released_at": "2025-11-21"
   },
   "atle": {
@@ -211,10 +211,6 @@
     "name": "Marvel's Spider-Man Tokens",
     "released_at": "2025-09-26"
   },
-  "mar": {
-    "name": "Marvel Universe",
-    "released_at": "2025-09-26"
-  },
   "spe": {
     "name": "Marvel's Spider-Man Eternal",
     "released_at": "2025-09-26"
@@ -223,12 +219,12 @@
     "name": "Marvel's Spider-Man",
     "released_at": "2025-09-26"
   },
+  "mar": {
+    "name": "Marvel Universe",
+    "released_at": "2025-09-26"
+  },
   "aa4": {
     "name": "Arena Anthology 4",
-    "released_at": "2025-09-23"
-  },
-  "omb": {
-    "name": "Through the Omenpaths Bonus Sheet",
     "released_at": "2025-09-23"
   },
   "aa3": {
@@ -237,6 +233,10 @@
   },
   "om1": {
     "name": "Through the Omenpaths",
+    "released_at": "2025-09-23"
+  },
+  "omb": {
+    "name": "Through the Omenpaths Bonus Sheet",
     "released_at": "2025-09-23"
   },
   "ph23": {
@@ -267,16 +267,8 @@
     "name": "Edge of Eternities Tokens",
     "released_at": "2025-08-01"
   },
-  "eoc": {
-    "name": "Edge of Eternities Commander",
-    "released_at": "2025-08-01"
-  },
   "eoe": {
     "name": "Edge of Eternities",
-    "released_at": "2025-08-01"
-  },
-  "pbig": {
-    "name": "The Big Score Promos",
     "released_at": "2025-08-01"
   },
   "teoc": {
@@ -287,6 +279,14 @@
     "name": "Edge of Eternities: Stellar Sights",
     "released_at": "2025-08-01"
   },
+  "pbig": {
+    "name": "The Big Score Promos",
+    "released_at": "2025-08-01"
+  },
+  "eoc": {
+    "name": "Edge of Eternities Commander",
+    "released_at": "2025-08-01"
+  },
   "rfin": {
     "name": "Final Fantasy Regional Promos",
     "released_at": "2025-06-13"
@@ -295,28 +295,24 @@
     "name": "Final Fantasy Tokens",
     "released_at": "2025-06-13"
   },
-  "tfic": {
-    "name": "Final Fantasy Commander Tokens",
+  "pfin": {
+    "name": "Final Fantasy Promos",
     "released_at": "2025-06-13"
   },
   "fic": {
     "name": "Final Fantasy Commander",
     "released_at": "2025-06-13"
   },
-  "pfin": {
-    "name": "Final Fantasy Promos",
-    "released_at": "2025-06-13"
-  },
-  "afin": {
-    "name": "Final Fantasy Art Series",
-    "released_at": "2025-06-13"
-  },
   "fca": {
     "name": "Final Fantasy: Through the Ages",
     "released_at": "2025-06-13"
   },
-  "wfin": {
-    "name": "FIN Asia WPN Promo Tokens",
+  "tfic": {
+    "name": "Final Fantasy Commander Tokens",
+    "released_at": "2025-06-13"
+  },
+  "afin": {
+    "name": "Final Fantasy Art Series",
     "released_at": "2025-06-13"
   },
   "fin": {
@@ -327,6 +323,10 @@
     "name": "FIN Standard Showdown",
     "released_at": "2025-06-13"
   },
+  "wfin": {
+    "name": "FIN Asia WPN Promo Tokens",
+    "released_at": "2025-06-13"
+  },
   "pa1": {
     "name": "Pioneer Anthology 1",
     "released_at": "2025-05-05"
@@ -334,10 +334,6 @@
   "ytdm": {
     "name": "Alchemy: Tarkir",
     "released_at": "2025-04-29"
-  },
-  "ttdc": {
-    "name": "Tarkir: Dragonstorm Commander Tokens",
-    "released_at": "2025-04-11"
   },
   "ttdm": {
     "name": "Tarkir: Dragonstorm Tokens",
@@ -349,6 +345,10 @@
   },
   "atdm": {
     "name": "Tarkir: Dragonstorm Art Series",
+    "released_at": "2025-04-11"
+  },
+  "ttdc": {
+    "name": "Tarkir: Dragonstorm Commander Tokens",
     "released_at": "2025-04-11"
   },
   "tdc": {
@@ -379,24 +379,24 @@
     "name": "Aetherdrift Promos",
     "released_at": "2025-02-14"
   },
-  "dft": {
-    "name": "Aetherdrift",
-    "released_at": "2025-02-14"
-  },
   "tdrc": {
     "name": "Aetherdrift Commander Tokens",
-    "released_at": "2025-02-14"
-  },
-  "pl25": {
-    "name": "Year of the Snake 2025",
     "released_at": "2025-02-14"
   },
   "tdft": {
     "name": "Aetherdrift Tokens",
     "released_at": "2025-02-14"
   },
+  "pl25": {
+    "name": "Year of the Snake 2025",
+    "released_at": "2025-02-14"
+  },
   "drc": {
     "name": "Aetherdrift Commander",
+    "released_at": "2025-02-14"
+  },
+  "dft": {
+    "name": "Aetherdrift",
     "released_at": "2025-02-14"
   },
   "pjsc": {
@@ -431,36 +431,36 @@
     "name": "Pioneer Masters",
     "released_at": "2024-12-10"
   },
-  "pfdn": {
-    "name": "Foundations Promos",
-    "released_at": "2024-11-15"
-  },
   "afdn": {
     "name": "Foundations Art Series",
     "released_at": "2024-11-15"
   },
-  "fdn": {
-    "name": "Foundations",
-    "released_at": "2024-11-15"
-  },
-  "fdc": {
-    "name": "Foundations Commander",
+  "pfdn": {
+    "name": "Foundations Promos",
     "released_at": "2024-11-15"
   },
   "ffdn": {
     "name": "Foundations Front Cards",
     "released_at": "2024-11-15"
   },
+  "fdc": {
+    "name": "Foundations Commander",
+    "released_at": "2024-11-15"
+  },
   "fj25": {
     "name": "Foundations Jumpstart Front Cards",
     "released_at": "2024-11-15"
   },
-  "j25": {
-    "name": "Foundations Jumpstart",
-    "released_at": "2024-11-15"
-  },
   "tfdn": {
     "name": "Foundations Tokens",
+    "released_at": "2024-11-15"
+  },
+  "fdn": {
+    "name": "Foundations",
+    "released_at": "2024-11-15"
+  },
+  "j25": {
+    "name": "Foundations Jumpstart",
     "released_at": "2024-11-15"
   },
   "pltc": {
@@ -471,12 +471,16 @@
     "name": "Alchemy: Duskmourn",
     "released_at": "2024-10-15"
   },
-  "dsc": {
-    "name": "Duskmourn: House of Horror Commander",
-    "released_at": "2024-09-27"
-  },
   "pdsk": {
     "name": "Duskmourn: House of Horror Promos",
+    "released_at": "2024-09-27"
+  },
+  "adsk": {
+    "name": "Duskmourn: House of Horror Art Series",
+    "released_at": "2024-09-27"
+  },
+  "dsc": {
+    "name": "Duskmourn: House of Horror Commander",
     "released_at": "2024-09-27"
   },
   "tdsk": {
@@ -485,10 +489,6 @@
   },
   "tdsc": {
     "name": "Duskmourn Commander Tokens",
-    "released_at": "2024-09-27"
-  },
-  "adsk": {
-    "name": "Duskmourn: House of Horror Art Series",
     "released_at": "2024-09-27"
   },
   "dsk": {
@@ -503,36 +503,36 @@
     "name": "Love Your LGS 2024",
     "released_at": "2024-08-06"
   },
-  "tblc": {
-    "name": "Bloomburrow Commander Tokens",
-    "released_at": "2024-08-02"
-  },
   "pblb": {
     "name": "Bloomburrow Promos",
-    "released_at": "2024-08-02"
-  },
-  "ablb": {
-    "name": "Bloomburrow Art Series",
     "released_at": "2024-08-02"
   },
   "tblb": {
     "name": "Bloomburrow Tokens",
     "released_at": "2024-08-02"
   },
-  "blb": {
-    "name": "Bloomburrow",
+  "ablb": {
+    "name": "Bloomburrow Art Series",
+    "released_at": "2024-08-02"
+  },
+  "tblc": {
+    "name": "Bloomburrow Commander Tokens",
     "released_at": "2024-08-02"
   },
   "blc": {
     "name": "Bloomburrow Commander",
     "released_at": "2024-08-02"
   },
+  "mb2": {
+    "name": "Mystery Booster 2",
+    "released_at": "2024-08-02"
+  },
   "pcbb": {
     "name": "Cowboy Bebop",
     "released_at": "2024-08-02"
   },
-  "mb2": {
-    "name": "Mystery Booster 2",
+  "blb": {
+    "name": "Bloomburrow",
     "released_at": "2024-08-02"
   },
   "macr": {
@@ -559,12 +559,16 @@
     "name": "Modern Horizons 3 Promos",
     "released_at": "2024-06-14"
   },
-  "mh3": {
-    "name": "Modern Horizons 3",
+  "tm3c": {
+    "name": "Modern Horizons 3 Commander Tokens",
     "released_at": "2024-06-14"
   },
-  "m3c": {
-    "name": "Modern Horizons 3 Commander",
+  "h2r": {
+    "name": "Modern Horizons 2 Timeshifts",
+    "released_at": "2024-06-14"
+  },
+  "mh3": {
+    "name": "Modern Horizons 3",
     "released_at": "2024-06-14"
   },
   "amh3": {
@@ -575,12 +579,8 @@
     "name": "Modern Horizons 3 Tokens",
     "released_at": "2024-06-14"
   },
-  "h2r": {
-    "name": "Modern Horizons 2 Timeshifts",
-    "released_at": "2024-06-14"
-  },
-  "tm3c": {
-    "name": "Modern Horizons 3 Commander Tokens",
+  "m3c": {
+    "name": "Modern Horizons 3 Commander",
     "released_at": "2024-06-14"
   },
   "yotj": {
@@ -599,32 +599,32 @@
     "name": "Outlaws of Thunder Junction Art Series",
     "released_at": "2024-04-19"
   },
-  "totp": {
-    "name": "Breaking News Tokens",
-    "released_at": "2024-04-19"
-  },
-  "tbig": {
-    "name": "The Big Score Tokens",
+  "otp": {
+    "name": "Breaking News",
     "released_at": "2024-04-19"
   },
   "totc": {
     "name": "Outlaws of Thunder Junction Commander Tokens",
     "released_at": "2024-04-19"
   },
-  "otc": {
-    "name": "Outlaws of Thunder Junction Commander",
-    "released_at": "2024-04-19"
-  },
-  "otp": {
-    "name": "Breaking News",
-    "released_at": "2024-04-19"
-  },
-  "big": {
-    "name": "The Big Score",
+  "totp": {
+    "name": "Breaking News Tokens",
     "released_at": "2024-04-19"
   },
   "otj": {
     "name": "Outlaws of Thunder Junction",
+    "released_at": "2024-04-19"
+  },
+  "tbig": {
+    "name": "The Big Score Tokens",
+    "released_at": "2024-04-19"
+  },
+  "otc": {
+    "name": "Outlaws of Thunder Junction Commander",
+    "released_at": "2024-04-19"
+  },
+  "big": {
+    "name": "The Big Score",
     "released_at": "2024-04-19"
   },
   "pip": {
@@ -643,25 +643,17 @@
     "name": "Black Lotus Unknown Planechase",
     "released_at": "2024-02-24"
   },
-  "fclu": {
-    "name": "Ravnica: Clue Edition Front Cards",
-    "released_at": "2024-02-23"
-  },
   "clu": {
     "name": "Ravnica: Clue Edition",
+    "released_at": "2024-02-23"
+  },
+  "fclu": {
+    "name": "Ravnica: Clue Edition Front Cards",
     "released_at": "2024-02-23"
   },
   "pss4": {
     "name": "MKM Standard Showdown",
     "released_at": "2024-02-10"
-  },
-  "tmkc": {
-    "name": "Murders at Karlov Manor Commander Tokens",
-    "released_at": "2024-02-09"
-  },
-  "pmkm": {
-    "name": "Murders at Karlov Manor Promos",
-    "released_at": "2024-02-09"
   },
   "tmkm": {
     "name": "Murders at Karlov Manor Tokens",
@@ -671,36 +663,44 @@
     "name": "Murders at Karlov Manor Art Series",
     "released_at": "2024-02-09"
   },
-  "mkc": {
-    "name": "Murders at Karlov Manor Commander",
+  "tmkc": {
+    "name": "Murders at Karlov Manor Commander Tokens",
     "released_at": "2024-02-09"
   },
-  "wmkm": {
-    "name": "MKM Japanese Promo Tokens",
+  "pmkm": {
+    "name": "Murders at Karlov Manor Promos",
+    "released_at": "2024-02-09"
+  },
+  "mkc": {
+    "name": "Murders at Karlov Manor Commander",
     "released_at": "2024-02-09"
   },
   "mkm": {
     "name": "Murders at Karlov Manor",
     "released_at": "2024-02-09"
   },
+  "wmkm": {
+    "name": "MKM Japanese Promo Tokens",
+    "released_at": "2024-02-09"
+  },
   "pl24": {
     "name": "Year of the Dragon 2024",
     "released_at": "2024-02-08"
-  },
-  "trvr": {
-    "name": "Ravnica Remastered Tokens",
-    "released_at": "2024-01-12"
   },
   "rvr": {
     "name": "Ravnica Remastered",
     "released_at": "2024-01-12"
   },
-  "pf24": {
-    "name": "MagicFest 2024",
-    "released_at": "2024-01-01"
+  "trvr": {
+    "name": "Ravnica Remastered Tokens",
+    "released_at": "2024-01-12"
   },
   "pw24": {
     "name": "Wizards Play Network 2024",
+    "released_at": "2024-01-01"
+  },
+  "pf24": {
+    "name": "MagicFest 2024",
     "released_at": "2024-01-01"
   },
   "ylci": {
@@ -719,20 +719,12 @@
     "name": "Special Guests",
     "released_at": "2023-11-17"
   },
-  "trex": {
-    "name": "Jurassic World Collection Tokens",
-    "released_at": "2023-11-17"
-  },
   "lcc": {
     "name": "The Lost Caverns of Ixalan Commander",
     "released_at": "2023-11-17"
   },
-  "pmat": {
-    "name": "March of the Machine: The Aftermath Promos",
-    "released_at": "2023-11-17"
-  },
-  "rex": {
-    "name": "Jurassic World Collection",
+  "tlcc": {
+    "name": "The Lost Caverns of Ixalan Commander Tokens",
     "released_at": "2023-11-17"
   },
   "slci": {
@@ -743,8 +735,16 @@
     "name": "The Lost Caverns of Ixalan Tokens",
     "released_at": "2023-11-17"
   },
-  "tlcc": {
-    "name": "The Lost Caverns of Ixalan Commander Tokens",
+  "trex": {
+    "name": "Jurassic World Collection Tokens",
+    "released_at": "2023-11-17"
+  },
+  "pmat": {
+    "name": "March of the Machine: The Aftermath Promos",
+    "released_at": "2023-11-17"
+  },
+  "rex": {
+    "name": "Jurassic World Collection",
     "released_at": "2023-11-17"
   },
   "lci": {
@@ -771,10 +771,6 @@
     "name": "Wilds of Eldraine Promos",
     "released_at": "2023-09-08"
   },
-  "awoe": {
-    "name": "Wilds of Eldraine Art Series",
-    "released_at": "2023-09-08"
-  },
   "woc": {
     "name": "Wilds of Eldraine Commander",
     "released_at": "2023-09-08"
@@ -787,16 +783,16 @@
     "name": "WOE Japanese Promo Tokens",
     "released_at": "2023-09-08"
   },
-  "twoc": {
-    "name": "Wilds of Eldraine Commander Tokens",
-    "released_at": "2023-09-08"
-  },
   "twoe": {
     "name": "Wilds of Eldraine Tokens",
     "released_at": "2023-09-08"
   },
-  "ptsr": {
-    "name": "Time Spiral Remastered Promos",
+  "twoc": {
+    "name": "Wilds of Eldraine Commander Tokens",
+    "released_at": "2023-09-08"
+  },
+  "awoe": {
+    "name": "Wilds of Eldraine Art Series",
     "released_at": "2023-09-08"
   },
   "woe": {
@@ -807,16 +803,20 @@
     "name": "Magic × Duel Masters Promos",
     "released_at": "2023-09-08"
   },
+  "ptsr": {
+    "name": "Time Spiral Remastered Promos",
+    "released_at": "2023-09-08"
+  },
   "p30t": {
     "name": "30th Anniversary Celebration Tokyo",
     "released_at": "2023-09-01"
   },
-  "tcmm": {
-    "name": "Commander Masters Tokens",
-    "released_at": "2023-08-04"
-  },
   "acmm": {
     "name": "Commander Masters Art Series",
+    "released_at": "2023-08-04"
+  },
+  "tcmm": {
+    "name": "Commander Masters Tokens",
     "released_at": "2023-08-04"
   },
   "cmm": {
@@ -827,12 +827,12 @@
     "name": "2022 Heroes of the Realm",
     "released_at": "2023-08-01"
   },
-  "ea3": {
-    "name": "Explorer Anthology 3",
-    "released_at": "2023-07-18"
-  },
   "ha7": {
     "name": "Historic Anthology 7",
+    "released_at": "2023-07-18"
+  },
+  "ea3": {
+    "name": "Explorer Anthology 3",
     "released_at": "2023-07-18"
   },
   "pf23": {
@@ -847,16 +847,12 @@
     "name": "Tales of Middle-earth Commander",
     "released_at": "2023-06-23"
   },
-  "altr": {
-    "name": "Tales of Middle-earth Art Series",
-    "released_at": "2023-06-23"
-  },
   "tltc": {
     "name": "Tales of Middle-earth Commander Tokens",
     "released_at": "2023-06-23"
   },
-  "ltr": {
-    "name": "The Lord of the Rings: Tales of Middle-earth",
+  "altr": {
+    "name": "Tales of Middle-earth Art Series",
     "released_at": "2023-06-23"
   },
   "fltr": {
@@ -865,6 +861,10 @@
   },
   "mltr": {
     "name": "The Lord of the Rings: Tales of Middle-earth Minigames",
+    "released_at": "2023-06-23"
+  },
+  "ltr": {
+    "name": "The Lord of the Rings: Tales of Middle-earth",
     "released_at": "2023-06-23"
   },
   "tltr": {
@@ -883,14 +883,6 @@
     "name": "March of the Machine Commander Tokens",
     "released_at": "2023-04-21"
   },
-  "wmom": {
-    "name": "MOM Japanese Promo Tokens",
-    "released_at": "2023-04-21"
-  },
-  "tmul": {
-    "name": "Multiverse Legends Tokens",
-    "released_at": "2023-04-21"
-  },
   "tmom": {
     "name": "March of the Machine Tokens",
     "released_at": "2023-04-21"
@@ -899,24 +891,32 @@
     "name": "Multiverse Legends",
     "released_at": "2023-04-21"
   },
-  "moc": {
-    "name": "March of the Machine Commander",
+  "amom": {
+    "name": "March of the Machine Art Series",
+    "released_at": "2023-04-21"
+  },
+  "wmom": {
+    "name": "MOM Japanese Promo Tokens",
+    "released_at": "2023-04-21"
+  },
+  "tmul": {
+    "name": "Multiverse Legends Tokens",
     "released_at": "2023-04-21"
   },
   "pmom": {
     "name": "March of the Machine Promos",
     "released_at": "2023-04-21"
   },
-  "smom": {
-    "name": "March of the Machine Substitute Cards",
-    "released_at": "2023-04-21"
-  },
   "mom": {
     "name": "March of the Machine",
     "released_at": "2023-04-21"
   },
-  "amom": {
-    "name": "March of the Machine Art Series",
+  "moc": {
+    "name": "March of the Machine Commander",
+    "released_at": "2023-04-21"
+  },
+  "smom": {
+    "name": "March of the Machine Substitute Cards",
     "released_at": "2023-04-21"
   },
   "sis": {
@@ -939,32 +939,32 @@
     "name": "Unknown Event",
     "released_at": "2023-02-15"
   },
-  "one": {
-    "name": "Phyrexia: All Will Be One",
-    "released_at": "2023-02-10"
-  },
-  "pl23": {
-    "name": "Year of the Rabbit 2023",
+  "onc": {
+    "name": "Phyrexia: All Will Be One Commander",
     "released_at": "2023-02-10"
   },
   "aone": {
     "name": "Phyrexia: All Will Be One Art Series",
     "released_at": "2023-02-10"
   },
+  "pl23": {
+    "name": "Year of the Rabbit 2023",
+    "released_at": "2023-02-10"
+  },
   "pone": {
     "name": "Phyrexia: All Will Be One Promos",
     "released_at": "2023-02-10"
   },
-  "mone": {
-    "name": "Phyrexia: All Will Be One Minigames",
-    "released_at": "2023-02-10"
-  },
-  "onc": {
-    "name": "Phyrexia: All Will Be One Commander",
+  "one": {
+    "name": "Phyrexia: All Will Be One",
     "released_at": "2023-02-10"
   },
   "fone": {
     "name": "Phyrexia: All Will Be One Jumpstart Front Cards",
+    "released_at": "2023-02-10"
+  },
+  "mone": {
+    "name": "Phyrexia: All Will Be One Minigames",
     "released_at": "2023-02-10"
   },
   "tonc": {
@@ -979,24 +979,24 @@
     "name": "ONE Japanese Promo Tokens",
     "released_at": "2023-01-27"
   },
-  "dmr": {
-    "name": "Dominaria Remastered",
-    "released_at": "2023-01-13"
-  },
   "tdmr": {
     "name": "Dominaria Remastered Tokens",
+    "released_at": "2023-01-13"
+  },
+  "dmr": {
+    "name": "Dominaria Remastered",
     "released_at": "2023-01-13"
   },
   "pr23": {
     "name": "Regional Championship Qualifiers 2023",
     "released_at": "2023-01-07"
   },
-  "p23": {
-    "name": "Judge Gift Cards 2023",
-    "released_at": "2023-01-01"
-  },
   "pw23": {
     "name": "Wizards Play Network 2023",
+    "released_at": "2023-01-01"
+  },
+  "p23": {
+    "name": "Judge Gift Cards 2023",
     "released_at": "2023-01-01"
   },
   "ybro": {
@@ -1023,12 +1023,12 @@
     "name": "Jumpstart 2022",
     "released_at": "2022-12-02"
   },
-  "30a": {
-    "name": "30th Anniversary Edition",
-    "released_at": "2022-11-28"
-  },
   "t30a": {
     "name": "30th Anniversary Tokens",
+    "released_at": "2022-11-28"
+  },
+  "30a": {
+    "name": "30th Anniversary Edition",
     "released_at": "2022-11-28"
   },
   "pewk": {
@@ -1051,24 +1051,16 @@
     "name": "Transformers Tokens",
     "released_at": "2022-11-18"
   },
-  "ptbro": {
-    "name": "The Brothers' War Southeast Asia Tokens",
-    "released_at": "2022-11-18"
-  },
   "bot": {
     "name": "Transformers",
     "released_at": "2022-11-18"
   },
+  "ptbro": {
+    "name": "The Brothers' War Southeast Asia Tokens",
+    "released_at": "2022-11-18"
+  },
   "tbrc": {
     "name": "The Brothers' War Commander Tokens",
-    "released_at": "2022-11-18"
-  },
-  "abro": {
-    "name": "The Brothers' War Art Series",
-    "released_at": "2022-11-18"
-  },
-  "fbro": {
-    "name": "The Brothers' War Jumpstart Front Cards",
     "released_at": "2022-11-18"
   },
   "mbro": {
@@ -1079,12 +1071,20 @@
     "name": "The Brothers' War Substitute Cards",
     "released_at": "2022-11-18"
   },
+  "tbro": {
+    "name": "The Brothers' War Tokens",
+    "released_at": "2022-11-18"
+  },
+  "fbro": {
+    "name": "The Brothers' War Jumpstart Front Cards",
+    "released_at": "2022-11-18"
+  },
   "bro": {
     "name": "The Brothers' War",
     "released_at": "2022-11-18"
   },
-  "tbro": {
-    "name": "The Brothers' War Tokens",
+  "abro": {
+    "name": "The Brothers' War Art Series",
     "released_at": "2022-11-18"
   },
   "slc": {
@@ -1103,24 +1103,24 @@
     "name": "The List (Unfinity Foil Edition)",
     "released_at": "2022-10-07"
   },
-  "sunf": {
-    "name": "Unfinity Sticker Sheets",
-    "released_at": "2022-10-07"
-  },
   "unf": {
     "name": "Unfinity",
+    "released_at": "2022-10-07"
+  },
+  "sunf": {
+    "name": "Unfinity Sticker Sheets",
     "released_at": "2022-10-07"
   },
   "tunf": {
     "name": "Unfinity Tokens",
     "released_at": "2022-10-07"
   },
-  "40k": {
-    "name": "Warhammer 40,000 Commander",
-    "released_at": "2022-10-07"
-  },
   "t40k": {
     "name": "Warhammer 40,000 Tokens",
+    "released_at": "2022-10-07"
+  },
+  "40k": {
+    "name": "Warhammer 40,000 Commander",
     "released_at": "2022-10-07"
   },
   "ydmu": {
@@ -1143,16 +1143,16 @@
     "name": "Dominaria United Southeast Asia Tokens",
     "released_at": "2022-09-09"
   },
-  "tdmu": {
-    "name": "Dominaria United Tokens",
+  "wdmu": {
+    "name": "DMU Japanese Promo Tokens",
     "released_at": "2022-09-09"
   },
   "mdmu": {
     "name": "Dominaria United Minigames",
     "released_at": "2022-09-09"
   },
-  "dmc": {
-    "name": "Dominaria United Commander",
+  "fdmu": {
+    "name": "Dominaria United Jumpstart Front Cards",
     "released_at": "2022-09-09"
   },
   "dmu": {
@@ -1163,16 +1163,16 @@
     "name": "Dominaria United Art Series",
     "released_at": "2022-09-09"
   },
-  "fdmu": {
-    "name": "Dominaria United Jumpstart Front Cards",
-    "released_at": "2022-09-09"
-  },
   "tdmc": {
     "name": "Dominaria United Commander Tokens",
     "released_at": "2022-09-09"
   },
-  "wdmu": {
-    "name": "DMU Japanese Promo Tokens",
+  "dmc": {
+    "name": "Dominaria United Commander",
+    "released_at": "2022-09-09"
+  },
+  "tdmu": {
+    "name": "Dominaria United Tokens",
     "released_at": "2022-09-09"
   },
   "p30m": {
@@ -1191,12 +1191,12 @@
     "name": "2021 Heroes of the Realm",
     "released_at": "2022-08-01"
   },
-  "ea1": {
-    "name": "Explorer Anthology 1",
-    "released_at": "2022-07-28"
-  },
   "ha6": {
     "name": "Historic Anthology 6",
+    "released_at": "2022-07-28"
+  },
+  "ea1": {
+    "name": "Explorer Anthology 1",
     "released_at": "2022-07-28"
   },
   "sch": {
@@ -1227,20 +1227,20 @@
     "name": "Commander Legends: Battle for Baldur's Gate Minigames",
     "released_at": "2022-06-10"
   },
-  "tclb": {
-    "name": "Battle for Baldur's Gate Tokens",
-    "released_at": "2022-06-10"
-  },
-  "oclb": {
-    "name": "Battle for Baldur's Gate Oversized Cards",
-    "released_at": "2022-06-10"
-  },
   "clb": {
     "name": "Commander Legends: Battle for Baldur's Gate",
     "released_at": "2022-06-10"
   },
   "aclb": {
     "name": "Battle for Baldur's Gate Art Series",
+    "released_at": "2022-06-10"
+  },
+  "tclb": {
+    "name": "Battle for Baldur's Gate Tokens",
+    "released_at": "2022-06-10"
+  },
+  "oclb": {
+    "name": "Battle for Baldur's Gate Oversized Cards",
     "released_at": "2022-06-10"
   },
   "ysnc": {
@@ -1263,12 +1263,12 @@
     "name": "Streets of New Capenna",
     "released_at": "2022-04-29"
   },
-  "ncc": {
-    "name": "New Capenna Commander",
-    "released_at": "2022-04-29"
-  },
   "tncc": {
     "name": "New Capenna Commander Tokens",
+    "released_at": "2022-04-29"
+  },
+  "ncc": {
+    "name": "New Capenna Commander",
     "released_at": "2022-04-29"
   },
   "psnc": {
@@ -1359,16 +1359,16 @@
     "name": "Innistrad: Crimson Vow Promos",
     "released_at": "2021-11-19"
   },
-  "ovoc": {
-    "name": "Crimson Vow Commander Display Commanders",
+  "tvoc": {
+    "name": "Crimson Vow Commander Tokens",
     "released_at": "2021-11-19"
   },
   "tvow": {
     "name": "Innistrad: Crimson Vow Tokens",
     "released_at": "2021-11-19"
   },
-  "tvoc": {
-    "name": "Crimson Vow Commander Tokens",
+  "ovoc": {
+    "name": "Crimson Vow Commander Display Commanders",
     "released_at": "2021-11-19"
   },
   "mvow": {
@@ -1399,28 +1399,28 @@
     "name": "Innistrad: Midnight Hunt Substitute Cards",
     "released_at": "2021-09-24"
   },
-  "pmid": {
-    "name": "Innistrad: Midnight Hunt Promos",
+  "tmid": {
+    "name": "Innistrad: Midnight Hunt Tokens",
     "released_at": "2021-09-24"
   },
   "tmic": {
     "name": "Midnight Hunt Commander Tokens",
     "released_at": "2021-09-24"
   },
-  "tmid": {
-    "name": "Innistrad: Midnight Hunt Tokens",
-    "released_at": "2021-09-24"
-  },
-  "amid": {
-    "name": "Midnight Hunt Art Series",
+  "omic": {
+    "name": "Midnight Hunt Commander Display Commanders",
     "released_at": "2021-09-24"
   },
   "mic": {
     "name": "Midnight Hunt Commander",
     "released_at": "2021-09-24"
   },
-  "omic": {
-    "name": "Midnight Hunt Commander Display Commanders",
+  "amid": {
+    "name": "Midnight Hunt Art Series",
+    "released_at": "2021-09-24"
+  },
+  "pmid": {
+    "name": "Innistrad: Midnight Hunt Promos",
     "released_at": "2021-09-24"
   },
   "mmid": {
@@ -1463,12 +1463,12 @@
     "name": "Adventures in the Forgotten Realms Art Series",
     "released_at": "2021-07-23"
   },
-  "tafr": {
-    "name": "Adventures in the Forgotten Realms Tokens",
-    "released_at": "2021-07-23"
-  },
   "tafc": {
     "name": "Forgotten Realms Commander Tokens",
+    "released_at": "2021-07-23"
+  },
+  "tafr": {
+    "name": "Adventures in the Forgotten Realms Tokens",
     "released_at": "2021-07-23"
   },
   "mafr": {
@@ -1483,14 +1483,6 @@
     "name": "Love Your LGS 2021",
     "released_at": "2021-06-22"
   },
-  "mmh2": {
-    "name": "Modern Horizons 2 Minigames",
-    "released_at": "2021-06-18"
-  },
-  "pmh2": {
-    "name": "Modern Horizons 2 Promos",
-    "released_at": "2021-06-18"
-  },
   "amh2": {
     "name": "Modern Horizons 2 Art Series",
     "released_at": "2021-06-18"
@@ -1499,12 +1491,20 @@
     "name": "Modern Horizons 2 Tokens",
     "released_at": "2021-06-18"
   },
-  "h1r": {
-    "name": "Modern Horizons 1 Timeshifts",
+  "pmh2": {
+    "name": "Modern Horizons 2 Promos",
+    "released_at": "2021-06-18"
+  },
+  "mmh2": {
+    "name": "Modern Horizons 2 Minigames",
     "released_at": "2021-06-18"
   },
   "pw21": {
     "name": "Wizards Play Network 2021",
+    "released_at": "2021-06-18"
+  },
+  "h1r": {
+    "name": "Modern Horizons 1 Timeshifts",
     "released_at": "2021-06-18"
   },
   "mh2": {
@@ -1519,12 +1519,12 @@
     "name": "Strixhaven: School of Mages Promos",
     "released_at": "2021-04-23"
   },
-  "tc21": {
-    "name": "Commander 2021 Tokens",
-    "released_at": "2021-04-23"
-  },
   "tstx": {
     "name": "Strixhaven: School of Mages Tokens",
+    "released_at": "2021-04-23"
+  },
+  "tc21": {
+    "name": "Commander 2021 Tokens",
     "released_at": "2021-04-23"
   },
   "sstx": {
@@ -1547,12 +1547,12 @@
     "name": "Commander 2021",
     "released_at": "2021-04-23"
   },
-  "oc21": {
-    "name": "Commander 2021 Display Commanders",
-    "released_at": "2021-04-23"
-  },
   "stx": {
     "name": "Strixhaven: School of Mages",
+    "released_at": "2021-04-23"
+  },
+  "oc21": {
+    "name": "Commander 2021 Display Commanders",
     "released_at": "2021-04-23"
   },
   "ttsr": {
@@ -1579,24 +1579,24 @@
     "name": "Kaldheim Substitute Cards",
     "released_at": "2021-02-05"
   },
-  "tkhm": {
-    "name": "Kaldheim Tokens",
+  "khc": {
+    "name": "Kaldheim Commander",
+    "released_at": "2021-02-05"
+  },
+  "khm": {
+    "name": "Kaldheim",
     "released_at": "2021-02-05"
   },
   "akhm": {
     "name": "Kaldheim Art Series",
     "released_at": "2021-02-05"
   },
-  "khc": {
-    "name": "Kaldheim Commander",
+  "tkhm": {
+    "name": "Kaldheim Tokens",
     "released_at": "2021-02-05"
   },
   "tkhc": {
     "name": "Kaldheim Commander Tokens",
-    "released_at": "2021-02-05"
-  },
-  "khm": {
-    "name": "Kaldheim",
     "released_at": "2021-02-05"
   },
   "pl21": {
@@ -1611,12 +1611,12 @@
     "name": "Commander Collection: Green",
     "released_at": "2020-12-04"
   },
-  "pcmr": {
-    "name": "Commander Legends Promos",
-    "released_at": "2020-11-20"
-  },
   "tcmr": {
     "name": "Commander Legends Tokens",
+    "released_at": "2020-11-20"
+  },
+  "pcmr": {
+    "name": "Commander Legends Promos",
     "released_at": "2020-11-20"
   },
   "cmr": {
@@ -1647,24 +1647,24 @@
     "name": "Zendikar Rising Substitute Cards",
     "released_at": "2020-09-25"
   },
-  "aznr": {
-    "name": "Zendikar Rising Art Series",
+  "zne": {
+    "name": "Zendikar Rising Expeditions",
     "released_at": "2020-09-25"
   },
   "mznr": {
     "name": "Zendikar Rising Minigames",
     "released_at": "2020-09-25"
   },
+  "tznr": {
+    "name": "Zendikar Rising Tokens",
+    "released_at": "2020-09-25"
+  },
   "znc": {
     "name": "Zendikar Rising Commander",
     "released_at": "2020-09-25"
   },
-  "zne": {
-    "name": "Zendikar Rising Expeditions",
-    "released_at": "2020-09-25"
-  },
-  "tznr": {
-    "name": "Zendikar Rising Tokens",
+  "aznr": {
+    "name": "Zendikar Rising Art Series",
     "released_at": "2020-09-25"
   },
   "anb": {
@@ -1743,12 +1743,12 @@
     "name": "Commander 2020 Oversized",
     "released_at": "2020-04-17"
   },
-  "c20": {
-    "name": "Commander 2020",
-    "released_at": "2020-04-17"
-  },
   "tc20": {
     "name": "Commander 2020 Tokens",
+    "released_at": "2020-04-17"
+  },
+  "c20": {
+    "name": "Commander 2020",
     "released_at": "2020-04-17"
   },
   "ha2": {
@@ -1775,12 +1775,12 @@
     "name": "Theros Beyond Death",
     "released_at": "2020-01-24"
   },
-  "pf20": {
-    "name": "MagicFest 2020",
-    "released_at": "2020-01-01"
-  },
   "j20": {
     "name": "Judge Gift Cards 2020",
+    "released_at": "2020-01-01"
+  },
+  "pf20": {
+    "name": "MagicFest 2020",
     "released_at": "2020-01-01"
   },
   "sld": {
@@ -1807,12 +1807,12 @@
     "name": "Ponies: The Galloping",
     "released_at": "2019-10-22"
   },
-  "teld": {
-    "name": "Throne of Eldraine Tokens",
-    "released_at": "2019-10-04"
-  },
   "peld": {
     "name": "Throne of Eldraine Promos",
+    "released_at": "2019-10-04"
+  },
+  "teld": {
+    "name": "Throne of Eldraine Tokens",
     "released_at": "2019-10-04"
   },
   "eld": {
@@ -1823,12 +1823,12 @@
     "name": "Planeswalker Championship Promos",
     "released_at": "2019-10-01"
   },
-  "oc19": {
-    "name": "Commander 2019 Oversized",
-    "released_at": "2019-08-23"
-  },
   "c19": {
     "name": "Commander 2019",
+    "released_at": "2019-08-23"
+  },
+  "oc19": {
+    "name": "Commander 2019 Oversized",
     "released_at": "2019-08-23"
   },
   "tc19": {
@@ -1843,16 +1843,16 @@
     "name": "San Diego Comic-Con 2019",
     "released_at": "2019-07-18"
   },
-  "pm20": {
-    "name": "Core Set 2020 Promos",
-    "released_at": "2019-07-12"
-  },
   "tm20": {
     "name": "Core Set 2020 Tokens",
     "released_at": "2019-07-12"
   },
   "ppp1": {
     "name": "M20 Promo Packs",
+    "released_at": "2019-07-12"
+  },
+  "pm20": {
+    "name": "Core Set 2020 Promos",
     "released_at": "2019-07-12"
   },
   "m20": {
@@ -1899,12 +1899,12 @@
     "name": "RNA Ravnica Weekend",
     "released_at": "2019-02-16"
   },
-  "gk2": {
-    "name": "RNA Guild Kit",
-    "released_at": "2019-02-15"
-  },
   "tgk2": {
     "name": "RNA Guild Kit Tokens",
+    "released_at": "2019-02-15"
+  },
+  "gk2": {
+    "name": "RNA Guild Kit",
     "released_at": "2019-02-15"
   },
   "prna": {
@@ -1975,12 +1975,12 @@
     "name": "Mythic Edition",
     "released_at": "2018-10-05"
   },
-  "oc18": {
-    "name": "Commander 2018 Oversized",
-    "released_at": "2018-08-10"
-  },
   "c18": {
     "name": "Commander 2018",
+    "released_at": "2018-08-10"
+  },
+  "oc18": {
+    "name": "Commander 2018 Oversized",
     "released_at": "2018-08-10"
   },
   "tc18": {
@@ -2047,12 +2047,12 @@
     "name": "Battlebond",
     "released_at": "2018-06-08"
   },
-  "tcm2": {
-    "name": "Commander Anthology Volume II Tokens",
-    "released_at": "2018-06-08"
-  },
   "cm2": {
     "name": "Commander Anthology Volume II",
+    "released_at": "2018-06-08"
+  },
+  "tcm2": {
+    "name": "Commander Anthology Volume II Tokens",
     "released_at": "2018-06-08"
   },
   "pdom": {
@@ -2187,12 +2187,12 @@
     "name": "Commander 2017 Oversized",
     "released_at": "2017-08-25"
   },
-  "c17": {
-    "name": "Commander 2017",
-    "released_at": "2017-08-25"
-  },
   "tc17": {
     "name": "Commander 2017 Tokens",
+    "released_at": "2017-08-25"
+  },
+  "c17": {
+    "name": "Commander 2017",
     "released_at": "2017-08-25"
   },
   "ps17": {
@@ -2247,12 +2247,12 @@
     "name": "Welcome Deck 2017",
     "released_at": "2017-04-15"
   },
-  "tdds": {
-    "name": "Duel Decks: Mind vs. Might Tokens",
-    "released_at": "2017-03-31"
-  },
   "dds": {
     "name": "Duel Decks: Mind vs. Might",
+    "released_at": "2017-03-31"
+  },
+  "tdds": {
+    "name": "Duel Decks: Mind vs. Might Tokens",
     "released_at": "2017-03-31"
   },
   "tmm3": {
@@ -2279,17 +2279,13 @@
     "name": "League Tokens 2017",
     "released_at": "2017-01-01"
   },
-  "f17": {
-    "name": "Friday Night Magic 2017",
-    "released_at": "2017-01-01"
-  },
   "j17": {
     "name": "Judge Gift Cards 2017",
     "released_at": "2017-01-01"
   },
-  "opca": {
-    "name": "Planechase Anthology Planes",
-    "released_at": "2016-11-25"
+  "f17": {
+    "name": "Friday Night Magic 2017",
+    "released_at": "2017-01-01"
   },
   "tpca": {
     "name": "Planechase Anthology Tokens",
@@ -2297,6 +2293,10 @@
   },
   "pca": {
     "name": "Planechase Anthology",
+    "released_at": "2016-11-25"
+  },
+  "opca": {
+    "name": "Planechase Anthology Planes",
     "released_at": "2016-11-25"
   },
   "pz2": {
@@ -2307,12 +2307,12 @@
     "name": "Commander 2016 Oversized",
     "released_at": "2016-11-11"
   },
-  "tc16": {
-    "name": "Commander 2016 Tokens",
-    "released_at": "2016-11-11"
-  },
   "c16": {
     "name": "Commander 2016",
+    "released_at": "2016-11-11"
+  },
+  "tc16": {
+    "name": "Commander 2016 Tokens",
     "released_at": "2016-11-11"
   },
   "ps16": {
@@ -2419,6 +2419,10 @@
     "name": "Legendary Cube Prize Pack",
     "released_at": "2015-11-18"
   },
+  "tc15": {
+    "name": "Commander 2015 Tokens",
+    "released_at": "2015-11-13"
+  },
   "c15": {
     "name": "Commander 2015",
     "released_at": "2015-11-13"
@@ -2427,28 +2431,24 @@
     "name": "Commander 2015 Oversized",
     "released_at": "2015-11-13"
   },
-  "tc15": {
-    "name": "Commander 2015 Tokens",
-    "released_at": "2015-11-13"
+  "pbfz": {
+    "name": "Battle for Zendikar Promos",
+    "released_at": "2015-10-02"
   },
   "tbfz": {
     "name": "Battle for Zendikar Tokens",
-    "released_at": "2015-10-02"
-  },
-  "pbfz": {
-    "name": "Battle for Zendikar Promos",
     "released_at": "2015-10-02"
   },
   "pss1": {
     "name": "BFZ Standard Series",
     "released_at": "2015-10-02"
   },
-  "bfz": {
-    "name": "Battle for Zendikar",
-    "released_at": "2015-10-02"
-  },
   "exp": {
     "name": "Zendikar Expeditions",
+    "released_at": "2015-10-02"
+  },
+  "bfz": {
+    "name": "Battle for Zendikar",
     "released_at": "2015-10-02"
   },
   "ddp": {
@@ -2467,24 +2467,24 @@
     "name": "Magic Origins Promos",
     "released_at": "2015-07-17"
   },
-  "tori": {
-    "name": "Magic Origins Tokens",
-    "released_at": "2015-07-17"
-  },
   "ori": {
     "name": "Magic Origins",
+    "released_at": "2015-07-17"
+  },
+  "tori": {
+    "name": "Magic Origins Tokens",
     "released_at": "2015-07-17"
   },
   "ps15": {
     "name": "San Diego Comic-Con 2015",
     "released_at": "2015-07-09"
   },
-  "mm2": {
-    "name": "Modern Masters 2015",
-    "released_at": "2015-05-22"
-  },
   "tmm2": {
     "name": "Modern Masters 2015 Tokens",
+    "released_at": "2015-05-22"
+  },
+  "mm2": {
+    "name": "Modern Masters 2015",
     "released_at": "2015-05-22"
   },
   "tpr": {
@@ -2499,12 +2499,12 @@
     "name": "Dragons of Tarkir Promos",
     "released_at": "2015-03-27"
   },
-  "tdtk": {
-    "name": "Dragons of Tarkir Tokens",
-    "released_at": "2015-03-27"
-  },
   "dtk": {
     "name": "Dragons of Tarkir",
+    "released_at": "2015-03-27"
+  },
+  "tdtk": {
+    "name": "Dragons of Tarkir Tokens",
     "released_at": "2015-03-27"
   },
   "ddo": {
@@ -2519,12 +2519,12 @@
     "name": "Fate Reforged Clash Pack",
     "released_at": "2015-01-23"
   },
-  "frf": {
-    "name": "Fate Reforged",
-    "released_at": "2015-01-23"
-  },
   "tfrf": {
     "name": "Fate Reforged Tokens",
+    "released_at": "2015-01-23"
+  },
+  "frf": {
+    "name": "Fate Reforged",
     "released_at": "2015-01-23"
   },
   "ugin": {
@@ -2555,24 +2555,24 @@
     "name": "Duel Decks Anthology: Garruk vs. Liliana Tokens",
     "released_at": "2014-12-05"
   },
-  "gvl": {
-    "name": "Duel Decks Anthology: Garruk vs. Liliana",
-    "released_at": "2014-12-05"
-  },
-  "dvd": {
-    "name": "Duel Decks Anthology: Divine vs. Demonic",
+  "evg": {
+    "name": "Duel Decks Anthology: Elves vs. Goblins",
     "released_at": "2014-12-05"
   },
   "tevg": {
     "name": "Duel Decks Anthology: Elves vs. Goblins Tokens",
     "released_at": "2014-12-05"
   },
-  "evg": {
-    "name": "Duel Decks Anthology: Elves vs. Goblins",
-    "released_at": "2014-12-05"
-  },
   "jvc": {
     "name": "Duel Decks Anthology: Jace vs. Chandra",
+    "released_at": "2014-12-05"
+  },
+  "dvd": {
+    "name": "Duel Decks Anthology: Divine vs. Demonic",
+    "released_at": "2014-12-05"
+  },
+  "gvl": {
+    "name": "Duel Decks Anthology: Garruk vs. Liliana",
     "released_at": "2014-12-05"
   },
   "oc14": {
@@ -2607,16 +2607,16 @@
     "name": "From the Vault: Annihilation",
     "released_at": "2014-08-22"
   },
+  "tm15": {
+    "name": "Magic 2015 Tokens",
+    "released_at": "2014-07-18"
+  },
   "cp1": {
     "name": "Magic 2015 Clash Pack",
     "released_at": "2014-07-18"
   },
   "m15": {
     "name": "Magic 2015",
-    "released_at": "2014-07-18"
-  },
-  "tm15": {
-    "name": "Magic 2015 Tokens",
     "released_at": "2014-07-18"
   },
   "pm15": {
@@ -2663,16 +2663,16 @@
     "name": "Defeat a God",
     "released_at": "2014-05-25"
   },
+  "jou": {
+    "name": "Journey into Nyx",
+    "released_at": "2014-05-02"
+  },
   "tjou": {
     "name": "Journey into Nyx Tokens",
     "released_at": "2014-05-02"
   },
   "thp3": {
     "name": "Journey into Nyx Hero's Path",
-    "released_at": "2014-05-02"
-  },
-  "jou": {
-    "name": "Journey into Nyx",
     "released_at": "2014-05-02"
   },
   "pjou": {
@@ -2731,28 +2731,28 @@
     "name": "Face the Hydra",
     "released_at": "2013-10-19"
   },
-  "tths": {
-    "name": "Theros Tokens",
+  "thp1": {
+    "name": "Theros Hero's Path",
     "released_at": "2013-09-27"
   },
   "ths": {
     "name": "Theros",
     "released_at": "2013-09-27"
   },
-  "thp1": {
-    "name": "Theros Hero's Path",
+  "tths": {
+    "name": "Theros Tokens",
     "released_at": "2013-09-27"
   },
   "pths": {
     "name": "Theros Promos",
     "released_at": "2013-09-21"
   },
-  "ddl": {
-    "name": "Duel Decks: Heroes vs. Monsters",
-    "released_at": "2013-09-06"
-  },
   "tddl": {
     "name": "Duel Decks: Heroes vs. Monsters Tokens",
+    "released_at": "2013-09-06"
+  },
+  "ddl": {
+    "name": "Duel Decks: Heroes vs. Monsters",
     "released_at": "2013-09-06"
   },
   "v13": {
@@ -2775,12 +2775,12 @@
     "name": "San Diego Comic-Con 2013",
     "released_at": "2013-07-18"
   },
-  "mma": {
-    "name": "Modern Masters",
-    "released_at": "2013-06-07"
-  },
   "tmma": {
     "name": "Modern Masters Tokens",
+    "released_at": "2013-06-07"
+  },
+  "mma": {
+    "name": "Modern Masters",
     "released_at": "2013-06-07"
   },
   "dgm": {
@@ -2855,12 +2855,12 @@
     "name": "Return to Ravnica Tokens",
     "released_at": "2012-10-05"
   },
-  "tddj": {
-    "name": "Duel Decks: Izzet vs. Golgari Tokens",
-    "released_at": "2012-09-07"
-  },
   "ddj": {
     "name": "Duel Decks: Izzet vs. Golgari",
+    "released_at": "2012-09-07"
+  },
+  "tddj": {
+    "name": "Duel Decks: Izzet vs. Golgari Tokens",
     "released_at": "2012-09-07"
   },
   "v12": {
@@ -2887,12 +2887,12 @@
     "name": "Planechase 2012",
     "released_at": "2012-06-01"
   },
-  "tavr": {
-    "name": "Avacyn Restored Tokens",
-    "released_at": "2012-05-04"
-  },
   "avr": {
     "name": "Avacyn Restored",
+    "released_at": "2012-05-04"
+  },
+  "tavr": {
+    "name": "Avacyn Restored Tokens",
     "released_at": "2012-05-04"
   },
   "phel": {
@@ -2911,12 +2911,12 @@
     "name": "Duel Decks: Venser vs. Koth Tokens",
     "released_at": "2012-03-30"
   },
-  "dka": {
-    "name": "Dark Ascension",
-    "released_at": "2012-02-03"
-  },
   "tdka": {
     "name": "Dark Ascension Tokens",
+    "released_at": "2012-02-03"
+  },
+  "dka": {
+    "name": "Dark Ascension",
     "released_at": "2012-02-03"
   },
   "pdka": {
@@ -2951,12 +2951,12 @@
     "name": "Premium Deck Series: Graveborn",
     "released_at": "2011-11-18"
   },
-  "tisd": {
-    "name": "Innistrad Tokens",
-    "released_at": "2011-09-30"
-  },
   "isd": {
     "name": "Innistrad",
+    "released_at": "2011-09-30"
+  },
+  "tisd": {
+    "name": "Innistrad Tokens",
     "released_at": "2011-09-30"
   },
   "pisd": {
@@ -3003,24 +3003,24 @@
     "name": "Duel Decks: Mirrodin Pure vs. New Phyrexia",
     "released_at": "2011-05-14"
   },
-  "tnph": {
-    "name": "New Phyrexia Tokens",
-    "released_at": "2011-05-13"
-  },
   "nph": {
     "name": "New Phyrexia",
+    "released_at": "2011-05-13"
+  },
+  "tnph": {
+    "name": "New Phyrexia Tokens",
     "released_at": "2011-05-13"
   },
   "pnph": {
     "name": "New Phyrexia Promos",
     "released_at": "2011-05-12"
   },
-  "ddg": {
-    "name": "Duel Decks: Knights vs. Dragons",
-    "released_at": "2011-04-01"
-  },
   "tddg": {
     "name": "Duel Decks: Knights vs. Dragons Tokens",
+    "released_at": "2011-04-01"
+  },
+  "ddg": {
+    "name": "Duel Decks: Knights vs. Dragons",
     "released_at": "2011-04-01"
   },
   "tmbs": {
@@ -3051,14 +3051,6 @@
     "name": "Duels of the Planeswalkers 2012 Promos",
     "released_at": "2011-01-01"
   },
-  "g11": {
-    "name": "Judge Gift Cards 2011",
-    "released_at": "2011-01-01"
-  },
-  "ps11": {
-    "name": "Salvat 2011",
-    "released_at": "2011-01-01"
-  },
   "f11": {
     "name": "Friday Night Magic 2011",
     "released_at": "2011-01-01"
@@ -3069,6 +3061,14 @@
   },
   "p11": {
     "name": "Magic Player Rewards 2011",
+    "released_at": "2011-01-01"
+  },
+  "g11": {
+    "name": "Judge Gift Cards 2011",
+    "released_at": "2011-01-01"
+  },
+  "ps11": {
+    "name": "Salvat 2011",
     "released_at": "2011-01-01"
   },
   "pd2": {
@@ -3091,12 +3091,12 @@
     "name": "Scars of Mirrodin Promos",
     "released_at": "2010-09-30"
   },
-  "tddf": {
-    "name": "Duel Decks: Elspeth vs. Tezzeret Tokens",
-    "released_at": "2010-09-03"
-  },
   "ddf": {
     "name": "Duel Decks: Elspeth vs. Tezzeret",
+    "released_at": "2010-09-03"
+  },
+  "tddf": {
+    "name": "Duel Decks: Elspeth vs. Tezzeret Tokens",
     "released_at": "2010-09-03"
   },
   "v10": {
@@ -3139,24 +3139,24 @@
     "name": "Rise of the Eldrazi",
     "released_at": "2010-04-23"
   },
-  "dde": {
-    "name": "Duel Decks: Phyrexia vs. the Coalition",
-    "released_at": "2010-03-19"
-  },
   "tdde": {
     "name": "Duel Decks: Phyrexia vs. the Coalition Tokens",
+    "released_at": "2010-03-19"
+  },
+  "dde": {
+    "name": "Duel Decks: Phyrexia vs. the Coalition",
     "released_at": "2010-03-19"
   },
   "pwwk": {
     "name": "Worldwake Promos",
     "released_at": "2010-02-05"
   },
-  "twwk": {
-    "name": "Worldwake Tokens",
-    "released_at": "2010-02-05"
-  },
   "wwk": {
     "name": "Worldwake",
+    "released_at": "2010-02-05"
+  },
+  "twwk": {
+    "name": "Worldwake Tokens",
     "released_at": "2010-02-05"
   },
   "pdp10": {
@@ -3171,12 +3171,12 @@
     "name": "Magic Player Rewards 2010",
     "released_at": "2010-01-01"
   },
-  "f10": {
-    "name": "Friday Night Magic 2010",
-    "released_at": "2010-01-01"
-  },
   "g10": {
     "name": "Judge Gift Cards 2010",
+    "released_at": "2010-01-01"
+  },
+  "f10": {
+    "name": "Friday Night Magic 2010",
     "released_at": "2010-01-01"
   },
   "h09": {
@@ -3195,12 +3195,12 @@
     "name": "Zendikar Promos",
     "released_at": "2009-10-02"
   },
-  "tzen": {
-    "name": "Zendikar Tokens",
-    "released_at": "2009-10-02"
-  },
   "zen": {
     "name": "Zendikar",
+    "released_at": "2009-10-02"
+  },
+  "tzen": {
+    "name": "Zendikar Tokens",
     "released_at": "2009-10-02"
   },
   "me3": {
@@ -3223,12 +3223,12 @@
     "name": "From the Vault: Exiled",
     "released_at": "2009-08-28"
   },
-  "m10": {
-    "name": "Magic 2010",
-    "released_at": "2009-07-17"
-  },
   "tm10": {
     "name": "Magic 2010 Tokens",
+    "released_at": "2009-07-17"
+  },
+  "m10": {
+    "name": "Magic 2010",
     "released_at": "2009-07-17"
   },
   "pm10": {
@@ -3239,12 +3239,12 @@
     "name": "Alara Reborn Promos",
     "released_at": "2009-04-30"
   },
-  "tarb": {
-    "name": "Alara Reborn Tokens",
-    "released_at": "2009-04-30"
-  },
   "arb": {
     "name": "Alara Reborn",
+    "released_at": "2009-04-30"
+  },
+  "tarb": {
+    "name": "Alara Reborn Tokens",
     "released_at": "2009-04-30"
   },
   "ddc": {
@@ -3263,12 +3263,12 @@
     "name": "Conflux Promos",
     "released_at": "2009-02-06"
   },
-  "con": {
-    "name": "Conflux",
-    "released_at": "2009-02-06"
-  },
   "tcon": {
     "name": "Conflux Tokens",
+    "released_at": "2009-02-06"
+  },
+  "con": {
+    "name": "Conflux",
     "released_at": "2009-02-06"
   },
   "pdtp": {
@@ -3291,12 +3291,12 @@
     "name": "Friday Night Magic 2009",
     "released_at": "2009-01-01"
   },
-  "dd2": {
-    "name": "Duel Decks: Jace vs. Chandra",
-    "released_at": "2008-11-07"
-  },
   "tdd2": {
     "name": "Duel Decks: Jace vs. Chandra Tokens",
+    "released_at": "2008-11-07"
+  },
+  "dd2": {
+    "name": "Duel Decks: Jace vs. Chandra",
     "released_at": "2008-11-07"
   },
   "pala": {
@@ -3323,24 +3323,24 @@
     "name": "Eventide Promos",
     "released_at": "2008-07-25"
   },
-  "teve": {
-    "name": "Eventide Tokens",
-    "released_at": "2008-07-25"
-  },
   "eve": {
     "name": "Eventide",
+    "released_at": "2008-07-25"
+  },
+  "teve": {
+    "name": "Eventide Tokens",
     "released_at": "2008-07-25"
   },
   "pshm": {
     "name": "Shadowmoor Promos",
     "released_at": "2008-05-02"
   },
-  "shm": {
-    "name": "Shadowmoor",
-    "released_at": "2008-05-02"
-  },
   "tshm": {
     "name": "Shadowmoor Tokens",
+    "released_at": "2008-05-02"
+  },
+  "shm": {
+    "name": "Shadowmoor",
     "released_at": "2008-05-02"
   },
   "p15a": {
@@ -3367,12 +3367,12 @@
     "name": "Magic Player Rewards 2008",
     "released_at": "2008-01-01"
   },
-  "g08": {
-    "name": "Judge Gift Cards 2008",
-    "released_at": "2008-01-01"
-  },
   "f08": {
     "name": "Friday Night Magic 2008",
+    "released_at": "2008-01-01"
+  },
+  "g08": {
+    "name": "Judge Gift Cards 2008",
     "released_at": "2008-01-01"
   },
   "dd1": {
@@ -3435,16 +3435,16 @@
     "name": "Planar Chaos",
     "released_at": "2007-02-02"
   },
-  "g07": {
-    "name": "Judge Gift Cards 2007",
-    "released_at": "2007-01-01"
-  },
   "p07": {
     "name": "Magic Player Rewards 2007",
     "released_at": "2007-01-01"
   },
   "f07": {
     "name": "Friday Night Magic 2007",
+    "released_at": "2007-01-01"
+  },
+  "g07": {
+    "name": "Judge Gift Cards 2007",
     "released_at": "2007-01-01"
   },
   "pmps07": {
@@ -3511,12 +3511,12 @@
     "name": "Junior APAC Series",
     "released_at": "2006-01-01"
   },
-  "g06": {
-    "name": "Judge Gift Cards 2006",
+  "dci": {
+    "name": "DCI Promos",
     "released_at": "2006-01-01"
   },
-  "phuk": {
-    "name": "Hachette UK",
+  "g06": {
+    "name": "Judge Gift Cards 2006",
     "released_at": "2006-01-01"
   },
   "p06": {
@@ -3527,8 +3527,8 @@
     "name": "Friday Night Magic 2006",
     "released_at": "2006-01-01"
   },
-  "dci": {
-    "name": "DCI Promos",
+  "phuk": {
+    "name": "Hachette UK",
     "released_at": "2006-01-01"
   },
   "p2hg": {
@@ -3583,16 +3583,16 @@
     "name": "Junior Series Europe",
     "released_at": "2005-01-01"
   },
+  "p05": {
+    "name": "Magic Player Rewards 2005",
+    "released_at": "2005-01-01"
+  },
   "f05": {
     "name": "Friday Night Magic 2005",
     "released_at": "2005-01-01"
   },
   "g05": {
     "name": "Judge Gift Cards 2005",
-    "released_at": "2005-01-01"
-  },
-  "p05": {
-    "name": "Magic Player Rewards 2005",
     "released_at": "2005-01-01"
   },
   "punh": {
@@ -3751,16 +3751,16 @@
     "name": "Arena League 2002",
     "released_at": "2002-01-01"
   },
-  "pr2": {
-    "name": "Magic Player Rewards 2002",
+  "g02": {
+    "name": "Judge Gift Cards 2002",
     "released_at": "2002-01-01"
   },
   "f02": {
     "name": "Friday Night Magic 2002",
     "released_at": "2002-01-01"
   },
-  "g02": {
-    "name": "Judge Gift Cards 2002",
+  "pr2": {
+    "name": "Magic Player Rewards 2002",
     "released_at": "2002-01-01"
   },
   "dkm": {
@@ -3807,16 +3807,16 @@
     "name": "Arena League 2001",
     "released_at": "2001-01-01"
   },
+  "mpr": {
+    "name": "Magic Player Rewards 2001",
+    "released_at": "2001-01-01"
+  },
   "f01": {
     "name": "Friday Night Magic 2001",
     "released_at": "2001-01-01"
   },
   "g01": {
     "name": "Judge Gift Cards 2001",
-    "released_at": "2001-01-01"
-  },
-  "mpr": {
-    "name": "Magic Player Rewards 2001",
     "released_at": "2001-01-01"
   },
   "pinv": {
@@ -3863,12 +3863,12 @@
     "name": "Arena League 2000",
     "released_at": "2000-01-01"
   },
-  "g00": {
-    "name": "Judge Gift Cards 2000",
-    "released_at": "2000-01-01"
-  },
   "fnm": {
     "name": "Friday Night Magic 2000",
+    "released_at": "2000-01-01"
+  },
+  "g00": {
+    "name": "Judge Gift Cards 2000",
     "released_at": "2000-01-01"
   },
   "psus": {
@@ -4015,12 +4015,12 @@
     "name": "Oversized League Prizes",
     "released_at": "1997-05-30"
   },
-  "por": {
-    "name": "Portal",
-    "released_at": "1997-05-01"
-  },
   "pvan": {
     "name": "Vanguard Series",
+    "released_at": "1997-05-01"
+  },
+  "por": {
+    "name": "Portal",
     "released_at": "1997-05-01"
   },
   "pmic": {
@@ -4087,20 +4087,20 @@
     "name": "Homelands",
     "released_at": "1995-10-01"
   },
-  "rin": {
-    "name": "Rinascimento",
-    "released_at": "1995-08-01"
-  },
   "ren": {
     "name": "Renaissance",
     "released_at": "1995-08-01"
   },
-  "bchr": {
-    "name": "Chronicles Foreign Black Border",
-    "released_at": "1995-07-01"
+  "rin": {
+    "name": "Rinascimento",
+    "released_at": "1995-08-01"
   },
   "chr": {
     "name": "Chronicles",
+    "released_at": "1995-07-01"
+  },
+  "bchr": {
+    "name": "Chronicles Foreign Black Border",
     "released_at": "1995-07-01"
   },
   "ice": {
@@ -4143,12 +4143,12 @@
     "name": "Legends",
     "released_at": "1994-06-01"
   },
-  "fbb": {
-    "name": "Foreign Black Border",
-    "released_at": "1994-04-11"
-  },
   "3ed": {
     "name": "Revised Edition",
+    "released_at": "1994-04-11"
+  },
+  "fbb": {
+    "name": "Foreign Black Border",
     "released_at": "1994-04-11"
   },
   "atq": {
