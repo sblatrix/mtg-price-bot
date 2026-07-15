@@ -108,6 +108,12 @@ def build_card_entry(card_name: str) -> dict:
 
         cn_stats = compute_cn_window_stats(cardnexus_history)
 
+        # vrai Low CN (annonces actives réelles, cf. cardnexus_live_listings.py)
+        live_low_history = get_history_series(card_name, f"cardnexus_live_low_{finish}")
+        cn_real_low = live_low_history[-1]["price"] if live_low_history else None
+        cn_real_low7_vals = [p["price"] for p in live_low_history[-7:] if p["price"] is not None]
+        cn_real_low7 = round(min(cn_real_low7_vals), 2) if cn_real_low7_vals else None
+
         # métriques Cardmarket officielles, selon la finition
         official = entry["cardmarket_official"]
         if official:
@@ -130,10 +136,8 @@ def build_card_entry(card_name: str) -> dict:
             "volatility_pct": compute_volatility_pct(combined_history),
             "cm_low": cm_low, "cm_avg": cm_avg, "cm_trend": cm_trend, "cm_avg7": cm_avg7,
             "cn_latest": cn_stats["cn_latest"], "cn_avg7": cn_stats["cn_avg7"],
-            # "vrai" Low CN (prix de l'annonce active la moins chère) : pas encore
-            # collecté, en attente de l'endpoint listings CardNexus. None pour l'instant.
-            "cn_real_low": None,
-            "cn_real_low7": None,
+            "cn_real_low": cn_real_low,
+            "cn_real_low7": cn_real_low7,
             "low_vs_avg_pct": pct_diff(cm_low, cm_avg),
             "cm_vs_cn_pct": pct_diff(cm_avg, cn_stats["cn_latest"]),
         }
