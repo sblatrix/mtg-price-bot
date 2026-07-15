@@ -315,6 +315,8 @@
       <option value="standard">Standard</option>
       <option value="foil">Foil</option>
     </select>
+    <label>Prix min <input type="number" id="price-min" placeholder="0" min="0" step="0.5" style="width:70px"></label>
+    <label>Prix max <input type="number" id="price-max" placeholder="∞" min="0" step="0.5" style="width:70px"></label>
     <label><input type="checkbox" id="signal-only"> Signal seulement (tendance ou écart)</label>
     <span class="row-count" id="row-count"></span>
   </div>
@@ -492,11 +494,22 @@ function filterRows(rows){
   const q = document.getElementById('search-input').value.trim().toLowerCase();
   const finishFilter = document.getElementById('finish-filter').value;
   const signalOnly = document.getElementById('signal-only').checked;
+  const priceMinRaw = document.getElementById('price-min').value;
+  const priceMaxRaw = document.getElementById('price-max').value;
+  const priceMin = priceMinRaw !== '' ? parseFloat(priceMinRaw) : null;
+  const priceMax = priceMaxRaw !== '' ? parseFloat(priceMaxRaw) : null;
 
   return rows.filter(r=>{
     if(q && !r.name.toLowerCase().includes(q)) return false;
     if(finishFilter !== 'all' && r.finish !== finishFilter) return false;
     if(signalOnly && r.trend_pct === null && r.cross_source_gap_pct === null) return false;
+    if(priceMin !== null || priceMax !== null){
+      // référence : la meilleure estimation de prix dispo pour cette ligne
+      const refPrice = r.cm_avg ?? r.cn_latest ?? r.cm_low;
+      if(refPrice === null || refPrice === undefined) return false; // pas de prix connu = exclu si un filtre prix est actif
+      if(priceMin !== null && refPrice < priceMin) return false;
+      if(priceMax !== null && refPrice > priceMax) return false;
+    }
     return true;
   });
 }
@@ -706,7 +719,7 @@ document.querySelectorAll('#watchlist-table thead th').forEach(th=>{
   });
 });
 
-['search-input', 'finish-filter', 'signal-only'].forEach(id=>{
+['search-input', 'finish-filter', 'signal-only', 'price-min', 'price-max'].forEach(id=>{
   document.getElementById(id).addEventListener('input', renderTable);
 });
 
