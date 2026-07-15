@@ -35,6 +35,9 @@ jobs:
       - name: Run official Cardmarket price guide sync
         run: python cardmarket_official.py
 
+      - name: Run CardNexus live listings scanner (real Low)
+        run: python cardnexus_live_listings.py
+
       - name: Commit updated data
         run: |
           git config user.name "mtg-price-bot"
@@ -42,3 +45,4 @@ jobs:
           git add tournament_signals.json rarity_cache.json meta_signals.json performance_signals.json prices.db cardmarket_ids.json
           git diff --staged --quiet || git commit -m "Update tournament/performance signals + official Cardmarket prices [skip ci]"
           git push
+          
