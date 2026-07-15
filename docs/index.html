@@ -219,10 +219,10 @@
   .card-image-preview{
     position:fixed;
     z-index:1000;
-    width:224px;
-    border-radius:12px;
+    width:340px;
+    border-radius:16px;
     border:1px solid var(--line);
-    box-shadow:0 12px 32px rgba(0,0,0,0.5);
+    box-shadow:0 16px 40px rgba(0,0,0,0.55);
     display:none;
     pointer-events:none;
   }
@@ -529,10 +529,11 @@ function showCardImage(evt, name){
 function positionImagePreview(evt){
   if(!imagePreviewEl) return;
   const margin = 16;
+  const w = 340, h = 474; // largeur de la vignette + hauteur estimée (ratio carte ~1.4)
   let x = evt.clientX + margin;
   let y = evt.clientY + margin;
-  if(x + 244 > window.innerWidth) x = evt.clientX - 244 - margin;
-  if(y + 340 > window.innerHeight) y = window.innerHeight - 340 - margin;
+  if(x + w > window.innerWidth) x = evt.clientX - w - margin;
+  if(y + h > window.innerHeight) y = window.innerHeight - h - margin;
   imagePreviewEl.style.left = `${x}px`;
   imagePreviewEl.style.top = `${y}px`;
 }
