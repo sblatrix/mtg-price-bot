@@ -11,7 +11,7 @@ import statistics
 from datetime import datetime, timezone
 from pathlib import Path
 
-from db import get_connection, get_all_tracked_cards, get_latest_cardmarket_official_price
+from db import get_connection, get_all_tracked_cards, get_latest_cardmarket_official_price, get_cardmarket_official_history
 from trend_detector import compute_trend, compute_cross_source_gap
 
 ROOT = Path(__file__).parent
@@ -70,6 +70,29 @@ def pct_diff(a: float | None, b: float | None) -> float | None:
     if a is None or b is None or b == 0:
         return None
     return round(((a - b) / b) * 100, 1)
+
+
+def abs_diff(a: float | None, b: float | None) -> float | None:
+    """Écart brut en euros : a - b."""
+    if a is None or b is None:
+        return None
+    return round(a - b, 2)
+
+
+def build_cm_history_series(card_name: str, finish: str) -> list[dict]:
+    """Historique complet Low/Avg/Trend Cardmarket officiel, pour le graphique
+    détaillé au clic sur une ligne."""
+    suffix = "_foil" if finish == "foil" else ""
+    rows = get_cardmarket_official_history(card_name)
+    return [
+        {
+            "date": r["fetched_at"],
+            "low": r[f"low{suffix}"],
+            "avg": r[f"avg{suffix}"],
+            "trend": r[f"trend{suffix}"],
+        }
+        for r in rows
+    ]
 
 
 def build_cardmarket_official_block(card_name: str):
@@ -131,7 +154,10 @@ def build_card_entry(card_name: str) -> dict:
             "cm_low": cm_low, "cm_avg": cm_avg, "cm_trend": cm_trend, "cm_avg7": cm_avg7,
             "cn_latest": cn_stats["cn_latest"], "cn_avg7": cn_stats["cn_avg7"],
             "low_vs_avg_pct": pct_diff(cm_low, cm_avg),
+            "low_vs_avg_diff": abs_diff(cm_low, cm_avg),
             "cm_vs_cn_pct": pct_diff(cm_avg, cn_stats["cn_latest"]),
+            "cm_vs_cn_diff": abs_diff(cm_avg, cn_stats["cn_latest"]),
+            "cm_official_history": build_cm_history_series(card_name, finish),
         }
 
     return entry

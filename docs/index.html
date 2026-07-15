@@ -7,6 +7,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-adapter-date-fns/3.0.0/chartjs-adapter-date-fns.bundle.min.js"></script>
 <style>
   :root{
     --ink:#0B0E17;
@@ -208,6 +209,23 @@
     margin-left:6px;
   }
   .cell-muted{ color:var(--muted); }
+  tbody tr[data-row-id]{ cursor:pointer; }
+  tbody tr.detail-row{ cursor:default; background:var(--panel-alt); }
+  tbody tr.detail-row:hover{ background:var(--panel-alt); }
+  .detail-chart-wrap{
+    padding:16px 10px;
+    height:260px;
+  }
+  .card-image-preview{
+    position:fixed;
+    z-index:1000;
+    width:224px;
+    border-radius:12px;
+    border:1px solid var(--line);
+    box-shadow:0 12px 32px rgba(0,0,0,0.5);
+    display:none;
+    pointer-events:none;
+  }
 
   /* --- Deals sidebar --- */
   .deals-list{
@@ -316,7 +334,9 @@
             <th data-key="cn_latest">CN dernier</th>
             <th data-key="cn_avg7">CN 7 jours</th>
             <th data-key="low_vs_avg_pct">Low vs Avg</th>
+            <th data-key="low_vs_avg_diff">Écart L/A (€)</th>
             <th data-key="cm_vs_cn_pct">CM vs CN</th>
+            <th data-key="cm_vs_cn_diff">Écart CM/CN (€)</th>
             <th data-key="trend_pct">Tendance</th>
             <th data-key="volatility_pct">Volat.</th>
             <th data-key="foil_premium">Prime foil</th>
@@ -339,6 +359,7 @@ const RISE = getComputedStyle(document.documentElement).getPropertyValue('--rise
 const FALL = getComputedStyle(document.documentElement).getPropertyValue('--fall').trim();
 const ARB  = getComputedStyle(document.documentElement).getPropertyValue('--arb').trim();
 const MUTED= getComputedStyle(document.documentElement).getPropertyValue('--muted').trim();
+const FOIL = getComputedStyle(document.documentElement).getPropertyValue('--foil').trim();
 
 function fmtDate(iso){
   if(!iso) return '';
@@ -420,23 +441,30 @@ function buildTicker(cards, deals){
 
 // --- Tableau watchlist : aplatit chaque carte x finition en une ligne ---
 let allRows = [];
+let currentSortedRows = [];
 let sortKey = 'trend_pct';
 let sortDir = -1; // -1 = desc
 
 function flattenRows(cards){
   const rows = [];
+  let rowId = 0;
   cards.forEach(card=>{
     Object.entries(card.finishes).forEach(([finish, f])=>{
       rows.push({
+        _id: rowId++,
         name: card.name,
         finish,
         cm_low: f.cm_low, cm_avg: f.cm_avg, cm_trend: f.cm_trend, cm_avg7: f.cm_avg7,
         cn_latest: f.cn_latest, cn_avg7: f.cn_avg7,
-        low_vs_avg_pct: f.low_vs_avg_pct, cm_vs_cn_pct: f.cm_vs_cn_pct,
+        low_vs_avg_pct: f.low_vs_avg_pct, low_vs_avg_diff: f.low_vs_avg_diff,
+        cm_vs_cn_pct: f.cm_vs_cn_pct, cm_vs_cn_diff: f.cm_vs_cn_diff,
         trend_pct: f.trend_pct,
         volatility_pct: f.volatility_pct,
         foil_premium: finish === 'foil' ? (card.cardmarket_official ? card.cardmarket_official.foil_premium : null) : null,
         days_since_update: f.days_since_update,
+        _cardnexus_history: f.cardnexus_history,
+        _scryfall_history: f.scryfall_history,
+        _cm_official_history: f.cm_official_history,
       });
     });
   });
@@ -474,6 +502,134 @@ function filterRows(rows){
   });
 }
 
+function escapeHtml(str){
+  const div = document.createElement('div');
+  div.textContent = str;
+  return div.innerHTML;
+}
+
+// --- Survol : aperçu image de la carte (via Scryfall, aucune donnée à stocker nous-mêmes) ---
+let imagePreviewEl = null;
+
+function ensureImagePreviewEl(){
+  if(imagePreviewEl) return imagePreviewEl;
+  imagePreviewEl = document.createElement('img');
+  imagePreviewEl.className = 'card-image-preview';
+  document.body.appendChild(imagePreviewEl);
+  return imagePreviewEl;
+}
+
+function showCardImage(evt, name){
+  const img = ensureImagePreviewEl();
+  img.src = `https://api.scryfall.com/cards/named?exact=${encodeURIComponent(name)}&format=image&version=normal`;
+  img.style.display = 'block';
+  positionImagePreview(evt);
+}
+
+function positionImagePreview(evt){
+  if(!imagePreviewEl) return;
+  const margin = 16;
+  let x = evt.clientX + margin;
+  let y = evt.clientY + margin;
+  if(x + 244 > window.innerWidth) x = evt.clientX - 244 - margin;
+  if(y + 340 > window.innerHeight) y = window.innerHeight - 340 - margin;
+  imagePreviewEl.style.left = `${x}px`;
+  imagePreviewEl.style.top = `${y}px`;
+}
+
+function hideCardImage(){
+  if(imagePreviewEl) imagePreviewEl.style.display = 'none';
+}
+
+// --- Clic sur une ligne : graphique détaillé de l'historique ---
+let openDetailRowId = null;
+let detailChartInstance = null;
+
+function toggleDetailRow(rowId){
+  const existing = document.querySelector('.detail-row');
+  const wasOpenForThisRow = openDetailRowId === rowId;
+
+  if(existing) existing.remove();
+  if(detailChartInstance){ detailChartInstance.destroy(); detailChartInstance = null; }
+
+  if(wasOpenForThisRow){
+    openDetailRowId = null;
+    return;
+  }
+
+  const row = currentSortedRows.find(r => r._id === rowId);
+  if(!row) return;
+  openDetailRowId = rowId;
+
+  const tr = document.querySelector(`tr[data-row-id="${rowId}"]`);
+  if(!tr) return;
+
+  const detailTr = document.createElement('tr');
+  detailTr.className = 'detail-row';
+  const td = document.createElement('td');
+  td.colSpan = 16;
+  td.innerHTML = `<div class="detail-chart-wrap"><canvas class="detail-chart"></canvas></div>`;
+  detailTr.appendChild(td);
+  tr.insertAdjacentElement('afterend', detailTr);
+
+  const canvas = td.querySelector('canvas');
+  requestAnimationFrame(() => renderDetailChart(canvas, row));
+}
+
+function renderDetailChart(canvas, row){
+  const datasets = [];
+
+  if(row._cardnexus_history && row._cardnexus_history.length){
+    datasets.push({
+      label: 'CardNexus (quotidien)',
+      data: row._cardnexus_history.map(p => ({ x: p.date, y: p.price })),
+      borderColor: ARB, backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, tension: 0.2,
+    });
+  }
+  if(row._scryfall_history && row._scryfall_history.length){
+    datasets.push({
+      label: 'Scryfall/Cardmarket (relevé)',
+      data: row._scryfall_history.map(p => ({ x: p.date, y: p.price })),
+      borderColor: RISE, backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, tension: 0.2,
+    });
+  }
+  if(row._cm_official_history && row._cm_official_history.length){
+    datasets.push({
+      label: 'CM Low (officiel)',
+      data: row._cm_official_history.filter(p => p.low !== null).map(p => ({ x: p.date, y: p.low })),
+      borderColor: FOIL, backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, tension: 0.2, borderDash: [4, 3],
+    });
+    datasets.push({
+      label: 'CM Avg (officiel)',
+      data: row._cm_official_history.filter(p => p.avg !== null).map(p => ({ x: p.date, y: p.avg })),
+      borderColor: FOIL, backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, tension: 0.2,
+    });
+  }
+
+  if(datasets.length === 0){
+    canvas.parentElement.innerHTML = `<p class="empty">Pas assez d'historique pour tracer un graphique sur cette ligne.</p>`;
+    return;
+  }
+
+  detailChartInstance = new Chart(canvas, {
+    type: 'line',
+    data: { datasets },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      interaction: { mode: 'nearest', intersect: false },
+      plugins: {
+        legend: { labels: { color: MUTED, font: { family: 'Inter', size: 11 } } },
+        tooltip: { mode: 'nearest', intersect: false },
+      },
+      scales: {
+        x: { type: 'time', time: { unit: 'day' }, ticks: { color: MUTED, font: { size: 10 } }, grid: { color: 'rgba(255,255,255,0.05)' } },
+        y: { ticks: { color: MUTED, font: { size: 10 }, callback: v => `${v}€` }, grid: { color: 'rgba(255,255,255,0.05)' } },
+      },
+    },
+  });
+}
+
 function renderTable(){
   const filtered = filterRows(allRows);
   const sorted = sortRows(filtered);
@@ -482,13 +638,15 @@ function renderTable(){
   document.getElementById('row-count').textContent = `${sorted.length} / ${allRows.length} ligne(s)`;
 
   if(sorted.length === 0){
-    tbody.innerHTML = `<tr><td colspan="13" class="empty">Aucune ligne ne correspond aux filtres.</td></tr>`;
+    tbody.innerHTML = `<tr><td colspan="16" class="empty">Aucune ligne ne correspond aux filtres.</td></tr>`;
     return;
   }
 
+  currentSortedRows = sorted;
+
   tbody.innerHTML = sorted.map(r => `
-    <tr>
-      <td class="name-cell">${r.name}</td>
+    <tr data-row-id="${r._id}">
+      <td class="name-cell" data-name="${escapeHtml(r.name)}">${r.name}</td>
       <td class="cell-muted">${r.finish === 'foil' ? 'Foil' : 'Std'}</td>
       <td>${fmtEur(r.cm_low)}</td>
       <td>${fmtEur(r.cm_avg)}</td>
@@ -497,7 +655,9 @@ function renderTable(){
       <td>${fmtEur(r.cn_latest)}</td>
       <td>${fmtEur(r.cn_avg7)}</td>
       <td>${fmtPct(r.low_vs_avg_pct)}</td>
+      <td class="cell-muted">${fmtEur(r.low_vs_avg_diff)}</td>
       <td>${fmtPct(r.cm_vs_cn_pct)}</td>
+      <td class="cell-muted">${fmtEur(r.cm_vs_cn_diff)}</td>
       <td>${fmtPct(r.trend_pct)}</td>
       <td>${r.volatility_pct !== null && r.volatility_pct !== undefined ? `${r.volatility_pct}%` : '<span class="cell-muted">—</span>'}</td>
       <td>${r.foil_premium ? `${r.foil_premium}×` : '<span class="cell-muted">—</span>'}</td>
@@ -522,6 +682,28 @@ document.querySelectorAll('#watchlist-table thead th').forEach(th=>{
   document.getElementById(id).addEventListener('input', renderTable);
 });
 
+// Survol : aperçu image (délégation d'événements, le tbody est stable même si son contenu change)
+const tbodyEl = document.getElementById('watchlist-tbody');
+tbodyEl.addEventListener('mouseover', (evt)=>{
+  const cell = evt.target.closest('.name-cell');
+  if(cell) showCardImage(evt, cell.dataset.name);
+});
+tbodyEl.addEventListener('mousemove', (evt)=>{
+  const cell = evt.target.closest('.name-cell');
+  if(cell) positionImagePreview(evt);
+});
+tbodyEl.addEventListener('mouseout', (evt)=>{
+  const cell = evt.target.closest('.name-cell');
+  if(cell) hideCardImage();
+});
+
+// Clic sur une ligne (hors lignes de détail elles-mêmes) : ouvre/ferme le graphique
+tbodyEl.addEventListener('click', (evt)=>{
+  const tr = evt.target.closest('tr[data-row-id]');
+  if(!tr) return;
+  toggleDetailRow(Number(tr.dataset.rowId));
+});
+
 fetch('./data.json?_=' + Date.now())
   .then(r => r.json())
   .then(data => {
@@ -531,7 +713,7 @@ fetch('./data.json?_=' + Date.now())
     allRows = flattenRows(data.cards);
     if(allRows.length === 0){
       document.getElementById('watchlist-tbody').innerHTML =
-        `<tr><td colspan="13" class="empty">Aucune carte suivie pour l'instant. Lance <code>python collector.py</code> et <code>python deal_scanner.py</code> au moins une fois pour peupler le dashboard.</td></tr>`;
+        `<tr><td colspan="16" class="empty">Aucune carte suivie pour l'instant. Lance <code>python collector.py</code> et <code>python deal_scanner.py</code> au moins une fois pour peupler le dashboard.</td></tr>`;
     } else {
       renderTable();
     }
@@ -546,7 +728,7 @@ fetch('./data.json?_=' + Date.now())
   .catch(err => {
     document.getElementById('updated').textContent = 'Erreur de chargement';
     document.getElementById('watchlist-tbody').innerHTML =
-      `<tr><td colspan="13" class="empty">Impossible de charger data.json. Vérifie que le fichier existe dans /docs et que GitHub Pages est activé (Settings → Pages → source: /docs).</td></tr>`;
+      `<tr><td colspan="16" class="empty">Impossible de charger data.json. Vérifie que le fichier existe dans /docs et que GitHub Pages est activé (Settings → Pages → source: /docs).</td></tr>`;
     console.error(err);
   });
 </script>

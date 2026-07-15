@@ -80,6 +80,18 @@ def get_latest_cardmarket_official_price(card_name: str):
     return row
 
 
+def get_cardmarket_official_history(card_name: str, limit: int = 90):
+    """Historique complet (pas juste le dernier snapshot) - utilisé pour les
+    graphiques détaillés du dashboard."""
+    conn = get_connection()
+    rows = conn.execute(
+        "SELECT * FROM cardmarket_official_prices WHERE card_name = ? ORDER BY fetched_at ASC LIMIT ?",
+        (card_name, limit),
+    ).fetchall()
+    conn.close()
+    return rows
+
+
 def insert_price(card_name: str, set_code: str | None, source: str, price_eur: float | None):
     if price_eur is None:
         return
