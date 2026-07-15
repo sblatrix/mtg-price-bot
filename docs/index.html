@@ -171,6 +171,29 @@
   }
   canvas.sparkline{ margin-top:10px; max-height:46px; }
 
+  .official-block{
+    margin-top:10px;
+    padding-top:10px;
+    border-top:1px dashed var(--line);
+  }
+  .official-title{
+    font-size:10px;
+    text-transform:uppercase;
+    letter-spacing:0.06em;
+    color:var(--foil);
+    margin-bottom:6px;
+  }
+  .official-row{
+    display:grid;
+    grid-template-columns:auto 1fr auto 1fr auto 1fr;
+    gap:4px 6px;
+    font-size:11px;
+    color:var(--muted);
+    padding:2px 0;
+  }
+  .official-row.foil{ color:#a08a5c; }
+  .official-row .mono{ font-family:'JetBrains Mono',monospace; color:var(--text); text-align:right; }
+
   /* --- Deals sidebar --- */
   .deals-list{
     display:flex;
@@ -328,6 +351,18 @@ function buildCard(card){
   }
 
   el.innerHTML = `<p class="card-name">${card.name}</p>${rowsHtml}`;
+
+  if(card.cardmarket_official){
+    const o = card.cardmarket_official;
+    const official = document.createElement('div');
+    official.className = 'official-block';
+    official.innerHTML = `
+      <div class="official-title">Cardmarket officiel</div>
+      <div class="official-row"><span>Low</span><span class="mono">${o.low ?? '—'}€</span><span>Avg</span><span class="mono">${o.avg ?? '—'}€</span><span>Trend</span><span class="mono">${o.trend ?? '—'}€</span></div>
+      ${o.low_foil !== null ? `<div class="official-row foil"><span>Low foil</span><span class="mono">${o.low_foil ?? '—'}€</span><span>Avg foil</span><span class="mono">${o.avg_foil ?? '—'}€</span><span>Trend foil</span><span class="mono">${o.trend_foil ?? '—'}€</span></div>` : ''}
+    `;
+    el.appendChild(official);
+  }
 
   // sparkline sur la première finition disponible avec assez de points
   const firstFinish = Object.values(card.finishes)[0];

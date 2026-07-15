@@ -10,7 +10,7 @@ import json
 from datetime import datetime, timezone
 from pathlib import Path
 
-from db import get_connection, get_all_tracked_cards
+from db import get_connection, get_all_tracked_cards, get_latest_cardmarket_official_price
 from trend_detector import compute_trend, compute_cross_source_gap
 
 ROOT = Path(__file__).parent
@@ -29,8 +29,20 @@ def get_history_series(card_name: str, source: str, limit: int = 60):
     return [{"date": r["fetched_at"], "price": r["price_eur"]} for r in rows]
 
 
+def build_cardmarket_official_block(card_name: str):
+    row = get_latest_cardmarket_official_price(card_name)
+    if not row:
+        return None
+    return {
+        "low": row["low"], "avg": row["avg"], "trend": row["trend"],
+        "avg1": row["avg1"], "avg7": row["avg7"], "avg30": row["avg30"],
+        "low_foil": row["low_foil"], "avg_foil": row["avg_foil"], "trend_foil": row["trend_foil"],
+        "avg1_foil": row["avg1_foil"], "avg7_foil": row["avg7_foil"], "avg30_foil": row["avg30_foil"],
+    }
+
+
 def build_card_entry(card_name: str) -> dict:
-    entry = {"name": card_name, "finishes": {}}
+    entry = {"name": card_name, "finishes": {}, "cardmarket_official": build_cardmarket_official_block(card_name)}
 
     for finish in ("standard", "foil"):
         cardnexus_history = get_history_series(card_name, f"cardnexus_{finish}")

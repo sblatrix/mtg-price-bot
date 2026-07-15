@@ -24,6 +24,7 @@ import requests
 from db import init_db, insert_price
 from release_calendar import load_release_cache, is_in_post_release_window, refresh_set_cache
 from breakout import compute_breakout
+import cardmarket_ids
 
 SCRYFALL_SEARCH_URL = "https://api.scryfall.com/cards/search"
 USER_AGENT = "MTGPriceTrendBot/1.0 (personal project)"
@@ -60,6 +61,7 @@ def fetch_rares_mythics(set_code: str) -> list[dict]:
                 "rarity": card.get("rarity"),
                 "eur": float(prices["eur"]) if prices.get("eur") else None,
                 "eur_foil": float(prices["eur_foil"]) if prices.get("eur_foil") else None,
+                "cardmarket_id": card.get("cardmarket_id"),
             })
 
         url = data.get("next_page")
@@ -107,6 +109,7 @@ def run():
     if AUTO_WATCHLIST_PATH.exists():
         auto_watchlist = set(json.loads(AUTO_WATCHLIST_PATH.read_text(encoding="utf-8")))
 
+    cm_ids = cardmarket_ids.load()
     breakouts_found = 0
 
     for set_code in set_codes:
@@ -121,6 +124,7 @@ def run():
 
         for card in cards:
             auto_watchlist.add(card["name"])
+            cardmarket_ids.update(cm_ids, card["name"], card.get("cardmarket_id"))
 
             if card["eur"] is not None:
                 insert_price(card["name"], card["set"], "scryfall_cardmarket_standard", card["eur"])
@@ -134,6 +138,7 @@ def run():
                     breakouts_found += 1
 
     AUTO_WATCHLIST_PATH.write_text(json.dumps(sorted(auto_watchlist), ensure_ascii=False, indent=2), encoding="utf-8")
+    cardmarket_ids.save(cm_ids)
     print(f"\n{len(auto_watchlist)} carte(s) au total dans la watchlist auto-générée. "
           f"{breakouts_found} rupture(s) de tendance détectée(s).")
 

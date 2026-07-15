@@ -32,11 +32,52 @@ def init_db():
         CREATE INDEX IF NOT EXISTS idx_card_source_time
         ON price_history (card_name, source, fetched_at)
     """)
+    conn.execute("""
+        CREATE TABLE IF NOT EXISTS cardmarket_official_prices (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            card_name TEXT NOT NULL,
+            cardmarket_id INTEGER,
+            fetched_at TEXT NOT NULL,
+            low REAL, avg REAL, trend REAL, avg1 REAL, avg7 REAL, avg30 REAL,
+            low_foil REAL, avg_foil REAL, trend_foil REAL,
+            avg1_foil REAL, avg7_foil REAL, avg30_foil REAL
+        )
+    """)
+    conn.execute("""
+        CREATE INDEX IF NOT EXISTS idx_cardmarket_official_name_time
+        ON cardmarket_official_prices (card_name, fetched_at)
+    """)
     conn.commit()
     conn.close()
 
 
-def insert_price(card_name: str, set_code: str | None, source: str, price_eur: float | None):
+def insert_cardmarket_official_price(card_name: str, cardmarket_id: int, data: dict):
+    conn = get_connection()
+    conn.execute(
+        """INSERT INTO cardmarket_official_prices
+           (card_name, cardmarket_id, fetched_at, low, avg, trend, avg1, avg7, avg30,
+            low_foil, avg_foil, trend_foil, avg1_foil, avg7_foil, avg30_foil)
+           VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
+        (
+            card_name, cardmarket_id, datetime.now(timezone.utc).isoformat(),
+            data.get("low"), data.get("avg"), data.get("trend"),
+            data.get("avg1"), data.get("avg7"), data.get("avg30"),
+            data.get("low-foil"), data.get("avg-foil"), data.get("trend-foil"),
+            data.get("avg1-foil"), data.get("avg7-foil"), data.get("avg30-foil"),
+        ),
+    )
+    conn.commit()
+    conn.close()
+
+
+def get_latest_cardmarket_official_price(card_name: str):
+    conn = get_connection()
+    row = conn.execute(
+        "SELECT * FROM cardmarket_official_prices WHERE card_name = ? ORDER BY fetched_at DESC LIMIT 1",
+        (card_name,),
+    ).fetchone()
+    conn.close()
+    return row
     if price_eur is None:
         return
     conn = get_connection()

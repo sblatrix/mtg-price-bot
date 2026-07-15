@@ -11,6 +11,7 @@ from pathlib import Path
 import requests
 
 from db import init_db, insert_price
+import cardmarket_ids
 
 SCRYFALL_SEARCH_URL = "https://api.scryfall.com/cards/named"
 USER_AGENT = "MTGPriceTrendBot/1.0 (personal project)"
@@ -46,12 +47,14 @@ def fetch_card_price(name: str, set_code: str | None = None):
         "set": data.get("set"),
         "eur": float(eur) if eur else None,
         "eur_foil": float(eur_foil) if eur_foil else None,
+        "cardmarket_id": data.get("cardmarket_id"),
     }
 
 
 def run_collection(watchlist_path: Path):
     init_db()
     watchlist = json.loads(watchlist_path.read_text(encoding="utf-8"))
+    cm_ids = cardmarket_ids.load()
 
     results = []
     for entry in watchlist["cards"]:
@@ -67,6 +70,7 @@ def run_collection(watchlist_path: Path):
             continue
 
         if data:
+            cardmarket_ids.update(cm_ids, data["name"], data.get("cardmarket_id"))
             if data["eur"] is not None:
                 insert_price(data["name"], data["set"], "scryfall_cardmarket_standard", data["eur"])
                 print(f"  -> Standard : {data['eur']} EUR")
@@ -81,6 +85,7 @@ def run_collection(watchlist_path: Path):
 
         time.sleep(REQUEST_DELAY)
 
+    cardmarket_ids.save(cm_ids)
     return results
 
 
