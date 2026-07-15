@@ -50,15 +50,17 @@ def days_since(iso_str: str | None) -> float | None:
 
 
 def compute_cn_window_stats(cardnexus_history: list, window: int = 7):
-    """CardNexus ne donne qu'un seul prix par jour (pas de Low/Avg officiel comme
-    Cardmarket) - on reconstruit nous-mêmes un Low7/Avg7 à partir des derniers
-    jours de notre propre historique collecté."""
+    """CardNexus donne un seul prix par jour (méthodologie non documentée -
+    probablement pas un vrai "prix le plus bas"). On calcule ici uniquement
+    une moyenne sur 7 jours de cette donnée brute. Le vrai "Low CN" (prix de
+    l'annonce la moins chère réellement active) nécessite un autre endpoint,
+    pas encore branché - cf. real_low / real_low7 ci-dessous, à None pour
+    l'instant."""
     recent = [p["price"] for p in cardnexus_history[-window:] if p["price"] is not None]
     if not recent:
-        return {"cn_latest": None, "cn_low7": None, "cn_avg7": None}
+        return {"cn_latest": None, "cn_avg7": None}
     return {
         "cn_latest": cardnexus_history[-1]["price"],
-        "cn_low7": round(min(recent), 2),
         "cn_avg7": round(statistics.mean(recent), 2),
     }
 
@@ -127,7 +129,11 @@ def build_card_entry(card_name: str) -> dict:
             "days_since_update": days_since(latest_point["date"]) if latest_point else None,
             "volatility_pct": compute_volatility_pct(combined_history),
             "cm_low": cm_low, "cm_avg": cm_avg, "cm_trend": cm_trend, "cm_avg7": cm_avg7,
-            "cn_latest": cn_stats["cn_latest"], "cn_low7": cn_stats["cn_low7"], "cn_avg7": cn_stats["cn_avg7"],
+            "cn_latest": cn_stats["cn_latest"], "cn_avg7": cn_stats["cn_avg7"],
+            # "vrai" Low CN (prix de l'annonce active la moins chère) : pas encore
+            # collecté, en attente de l'endpoint listings CardNexus. None pour l'instant.
+            "cn_real_low": None,
+            "cn_real_low7": None,
             "low_vs_avg_pct": pct_diff(cm_low, cm_avg),
             "cm_vs_cn_pct": pct_diff(cm_avg, cn_stats["cn_latest"]),
         }

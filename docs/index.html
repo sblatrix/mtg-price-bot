@@ -314,8 +314,9 @@
             <th data-key="cm_trend">Trend CM</th>
             <th data-key="cm_avg7">Avg7 CM</th>
             <th data-key="cn_latest">CN dernier</th>
-            <th data-key="cn_low7">Low7 CN</th>
-            <th data-key="cn_avg7">Avg7 CN</th>
+            <th data-key="cn_avg7">CN 7 jours</th>
+            <th data-key="cn_real_low">Low CN</th>
+            <th data-key="cn_real_low7">Low CN 7j</th>
             <th data-key="low_vs_avg_pct">Low vs Avg</th>
             <th data-key="cm_vs_cn_pct">CM vs CN</th>
             <th data-key="trend_pct">Tendance</th>
@@ -432,7 +433,8 @@ function flattenRows(cards){
         name: card.name,
         finish,
         cm_low: f.cm_low, cm_avg: f.cm_avg, cm_trend: f.cm_trend, cm_avg7: f.cm_avg7,
-        cn_latest: f.cn_latest, cn_low7: f.cn_low7, cn_avg7: f.cn_avg7,
+        cn_latest: f.cn_latest, cn_avg7: f.cn_avg7,
+        cn_real_low: f.cn_real_low, cn_real_low7: f.cn_real_low7,
         low_vs_avg_pct: f.low_vs_avg_pct, cm_vs_cn_pct: f.cm_vs_cn_pct,
         trend_pct: f.trend_pct,
         volatility_pct: f.volatility_pct,
@@ -496,8 +498,9 @@ function renderTable(){
       <td>${fmtEur(r.cm_trend)}</td>
       <td>${fmtEur(r.cm_avg7)}</td>
       <td>${fmtEur(r.cn_latest)}</td>
-      <td>${fmtEur(r.cn_low7)}</td>
       <td>${fmtEur(r.cn_avg7)}</td>
+      <td>${fmtEur(r.cn_real_low)}</td>
+      <td>${fmtEur(r.cn_real_low7)}</td>
       <td>${fmtPct(r.low_vs_avg_pct)}</td>
       <td>${fmtPct(r.cm_vs_cn_pct)}</td>
       <td>${fmtPct(r.trend_pct)}</td>
