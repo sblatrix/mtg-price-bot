@@ -842,5 +842,73 @@
   "Smothering Tithe|rna": {
     "rarity": null,
     "set": "rna"
+  },
+  "Spell Pierce|xln": {
+    "rarity": "common",
+    "set": "xln"
+  },
+  "Disdainful Stroke|khm": {
+    "rarity": "common",
+    "set": "khm"
+  },
+  "Practiced Offense <019d5524-cd71-77cc-9bb8-9324fe64d239>|sos": {
+    "rarity": null,
+    "set": "sos"
+  },
+  "Negate|m10": {
+    "rarity": "common",
+    "set": "m10"
+  },
+  "High Noon [OTJ] (F)|": {
+    "rarity": null,
+    "set": null
+  },
+  "Damping Sphere|dmr": {
+    "rarity": "uncommon",
+    "set": "dmr"
+  },
+  "Dismember <019d6908-58b6-70b8-8a26-a5b025091963>|soa": {
+    "rarity": null,
+    "set": "soa"
+  },
+  "Graveyard Trespasser <showcase>|mid": {
+    "rarity": null,
+    "set": "mid"
+  },
+  "Pyroclasm|a25": {
+    "rarity": "uncommon",
+    "set": "a25"
+  },
+  "Go for the Throat <foil etched>|acr": {
+    "rarity": null,
+    "set": "acr"
+  },
+  "Tear Asunder|eoc": {
+    "rarity": "uncommon",
+    "set": "eoc"
+  },
+  "Blasphemous Act|tmc": {
+    "rarity": "rare",
+    "set": "tmc"
+  },
+  "Rampant Growth|9ed": {
+    "rarity": "common",
+    "set": "9ed"
+  },
+  "Commander's Sphere|scd": {
+    "rarity": "common",
+    "set": "scd"
+  },
+  "Wayfarer's Bauble|fic": {
+    "rarity": "common",
+    "set": "fic"
+  },
+  "Swan Song|eoc": {
+    "rarity": "rare",
+    "set": "eoc"
+  },
+  "Deflecting Swat|cmm": {
+    "rarity": "rare",
+    "set": "cmm"
   }
 }

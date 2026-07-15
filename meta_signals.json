@@ -1,5 +1,15 @@
 [
   {
+    "name": "Blasphemous Act",
+    "format": "commander",
+    "rarity": "rare",
+    "pct_of_decks": 17,
+    "pct_change": 17,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-07-15T07:34:40.126388+00:00"
+  },
+  {
     "name": "Ghost Vacuum",
     "format": "standard",
     "rarity": "rare",
