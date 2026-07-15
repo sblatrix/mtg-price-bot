@@ -7,6 +7,7 @@ des fichiers statiques (pas de Python/SQLite en live), donc on regénère ce
 JSON à chaque run du bot et on le commit avec le reste des données.
 """
 import json
+import statistics
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -29,16 +30,40 @@ def get_history_series(card_name: str, source: str, limit: int = 60):
     return [{"date": r["fetched_at"], "price": r["price_eur"]} for r in rows]
 
 
+def compute_volatility_pct(history: list) -> float | None:
+    """Écart-type / moyenne, en % - repère les cartes dont le prix bouge beaucoup."""
+    prices = [p["price"] for p in history if p["price"] is not None]
+    if len(prices) < 3:
+        return None
+    mean = statistics.mean(prices)
+    if mean == 0:
+        return None
+    stdev = statistics.stdev(prices)
+    return round((stdev / mean) * 100, 1)
+
+
+def days_since(iso_str: str | None) -> float | None:
+    if not iso_str:
+        return None
+    dt = datetime.fromisoformat(iso_str.replace("Z", "+00:00"))
+    return round((datetime.now(timezone.utc) - dt).total_seconds() / 86400, 1)
+
+
 def build_cardmarket_official_block(card_name: str):
     row = get_latest_cardmarket_official_price(card_name)
     if not row:
         return None
-    return {
+    block = {
         "low": row["low"], "avg": row["avg"], "trend": row["trend"],
         "avg1": row["avg1"], "avg7": row["avg7"], "avg30": row["avg30"],
         "low_foil": row["low_foil"], "avg_foil": row["avg_foil"], "trend_foil": row["trend_foil"],
         "avg1_foil": row["avg1_foil"], "avg7_foil": row["avg7_foil"], "avg30_foil": row["avg30_foil"],
     }
+    if row["avg"] and row["avg_foil"] and row["avg"] > 0:
+        block["foil_premium"] = round(row["avg_foil"] / row["avg"], 1)
+    else:
+        block["foil_premium"] = None
+    return block
 
 
 def build_card_entry(card_name: str) -> dict:
@@ -53,12 +78,20 @@ def build_card_entry(card_name: str) -> dict:
         if not cardnexus_history and not scryfall_history:
             continue
 
+        # prix courant + fraîcheur : priorité à la source la plus récente
+        candidates = [h[-1] for h in (cardnexus_history, scryfall_history) if h]
+        latest_point = max(candidates, key=lambda p: p["date"]) if candidates else None
+        combined_history = sorted(cardnexus_history + scryfall_history, key=lambda p: p["date"])
+
         entry["finishes"][finish] = {
             "cardnexus_history": cardnexus_history,
             "scryfall_history": scryfall_history,
             "trend_pct": round(trend["change_pct"], 1) if trend else None,
             "cross_source_gap_pct": round(gap["gap_pct"], 1) if gap else None,
             "cheaper_source": gap["cheaper_source"] if gap else None,
+            "current_price": latest_point["price"] if latest_point else None,
+            "days_since_update": days_since(latest_point["date"]) if latest_point else None,
+            "volatility_pct": compute_volatility_pct(combined_history),
         }
 
     return entry
