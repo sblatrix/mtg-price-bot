@@ -49,6 +49,27 @@ def days_since(iso_str: str | None) -> float | None:
     return round((datetime.now(timezone.utc) - dt).total_seconds() / 86400, 1)
 
 
+def compute_cn_window_stats(cardnexus_history: list, window: int = 7):
+    """CardNexus ne donne qu'un seul prix par jour (pas de Low/Avg officiel comme
+    Cardmarket) - on reconstruit nous-mêmes un Low7/Avg7 à partir des derniers
+    jours de notre propre historique collecté."""
+    recent = [p["price"] for p in cardnexus_history[-window:] if p["price"] is not None]
+    if not recent:
+        return {"cn_latest": None, "cn_low7": None, "cn_avg7": None}
+    return {
+        "cn_latest": cardnexus_history[-1]["price"],
+        "cn_low7": round(min(recent), 2),
+        "cn_avg7": round(statistics.mean(recent), 2),
+    }
+
+
+def pct_diff(a: float | None, b: float | None) -> float | None:
+    """Écart en % de a par rapport à b : (a - b) / b * 100."""
+    if a is None or b is None or b == 0:
+        return None
+    return round(((a - b) / b) * 100, 1)
+
+
 def build_cardmarket_official_block(card_name: str):
     row = get_latest_cardmarket_official_price(card_name)
     if not row:
@@ -83,6 +104,19 @@ def build_card_entry(card_name: str) -> dict:
         latest_point = max(candidates, key=lambda p: p["date"]) if candidates else None
         combined_history = sorted(cardnexus_history + scryfall_history, key=lambda p: p["date"])
 
+        cn_stats = compute_cn_window_stats(cardnexus_history)
+
+        # métriques Cardmarket officielles, selon la finition
+        official = entry["cardmarket_official"]
+        if official:
+            suffix = "_foil" if finish == "foil" else ""
+            cm_low = official.get(f"low{suffix}")
+            cm_avg = official.get(f"avg{suffix}")
+            cm_trend = official.get(f"trend{suffix}")
+            cm_avg7 = official.get(f"avg7{suffix}")
+        else:
+            cm_low = cm_avg = cm_trend = cm_avg7 = None
+
         entry["finishes"][finish] = {
             "cardnexus_history": cardnexus_history,
             "scryfall_history": scryfall_history,
@@ -92,6 +126,10 @@ def build_card_entry(card_name: str) -> dict:
             "current_price": latest_point["price"] if latest_point else None,
             "days_since_update": days_since(latest_point["date"]) if latest_point else None,
             "volatility_pct": compute_volatility_pct(combined_history),
+            "cm_low": cm_low, "cm_avg": cm_avg, "cm_trend": cm_trend, "cm_avg7": cm_avg7,
+            "cn_latest": cn_stats["cn_latest"], "cn_low7": cn_stats["cn_low7"], "cn_avg7": cn_stats["cn_avg7"],
+            "low_vs_avg_pct": pct_diff(cm_low, cm_avg),
+            "cm_vs_cn_pct": pct_diff(cm_avg, cn_stats["cn_latest"]),
         }
 
     return entry

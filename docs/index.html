@@ -313,12 +313,18 @@
           <tr>
             <th data-key="name">Carte</th>
             <th data-key="finish">Fin.</th>
-            <th data-key="current_price">Prix</th>
+            <th data-key="cm_low">Low CM</th>
+            <th data-key="cm_avg">Avg CM</th>
+            <th data-key="cm_trend">Trend CM</th>
+            <th data-key="cm_avg7">Avg7 CM</th>
+            <th data-key="cn_latest">CN dernier</th>
+            <th data-key="cn_low7">Low7 CN</th>
+            <th data-key="cn_avg7">Avg7 CN</th>
+            <th data-key="low_vs_avg_pct">Low vs Avg</th>
+            <th data-key="cm_vs_cn_pct">CM vs CN</th>
             <th data-key="trend_pct">Tendance</th>
-            <th data-key="cross_source_gap_pct">Écart CN</th>
-            <th data-key="low">Low</th>
+            <th data-key="volatility_pct">Volat.</th>
             <th data-key="foil_premium">Prime foil</th>
-            <th data-key="volatility_pct">Volatilité</th>
             <th data-key="days_since_update">Maj</th>
           </tr>
         </thead>
@@ -425,18 +431,16 @@ let sortDir = -1; // -1 = desc
 function flattenRows(cards){
   const rows = [];
   cards.forEach(card=>{
-    const official = card.cardmarket_official;
     Object.entries(card.finishes).forEach(([finish, f])=>{
       rows.push({
         name: card.name,
         finish,
-        current_price: f.current_price,
+        cm_low: f.cm_low, cm_avg: f.cm_avg, cm_trend: f.cm_trend, cm_avg7: f.cm_avg7,
+        cn_latest: f.cn_latest, cn_low7: f.cn_low7, cn_avg7: f.cn_avg7,
+        low_vs_avg_pct: f.low_vs_avg_pct, cm_vs_cn_pct: f.cm_vs_cn_pct,
         trend_pct: f.trend_pct,
-        cross_source_gap_pct: f.cross_source_gap_pct,
-        cheaper_source: f.cheaper_source,
-        low: official ? (finish === 'foil' ? official.low_foil : official.low) : null,
-        foil_premium: finish === 'foil' ? (official ? official.foil_premium : null) : null,
         volatility_pct: f.volatility_pct,
+        foil_premium: finish === 'foil' ? (card.cardmarket_official ? card.cardmarket_official.foil_premium : null) : null,
         days_since_update: f.days_since_update,
       });
     });
@@ -483,7 +487,7 @@ function renderTable(){
   document.getElementById('row-count').textContent = `${sorted.length} / ${allRows.length} ligne(s)`;
 
   if(sorted.length === 0){
-    tbody.innerHTML = `<tr><td colspan="9" class="empty">Aucune ligne ne correspond aux filtres.</td></tr>`;
+    tbody.innerHTML = `<tr><td colspan="15" class="empty">Aucune ligne ne correspond aux filtres.</td></tr>`;
     return;
   }
 
@@ -491,12 +495,18 @@ function renderTable(){
     <tr>
       <td class="name-cell">${r.name}</td>
       <td class="cell-muted">${r.finish === 'foil' ? 'Foil' : 'Std'}</td>
-      <td>${fmtEur(r.current_price)}</td>
+      <td>${fmtEur(r.cm_low)}</td>
+      <td>${fmtEur(r.cm_avg)}</td>
+      <td>${fmtEur(r.cm_trend)}</td>
+      <td>${fmtEur(r.cm_avg7)}</td>
+      <td>${fmtEur(r.cn_latest)}</td>
+      <td>${fmtEur(r.cn_low7)}</td>
+      <td>${fmtEur(r.cn_avg7)}</td>
+      <td>${fmtPct(r.low_vs_avg_pct)}</td>
+      <td>${fmtPct(r.cm_vs_cn_pct)}</td>
       <td>${fmtPct(r.trend_pct)}</td>
-      <td>${r.cross_source_gap_pct !== null ? `<span style="color:var(--arb)">${r.cross_source_gap_pct}%</span>` : '<span class="cell-muted">—</span>'}</td>
-      <td>${fmtEur(r.low)}</td>
-      <td>${r.foil_premium ? `${r.foil_premium}×` : '<span class="cell-muted">—</span>'}</td>
       <td>${r.volatility_pct !== null && r.volatility_pct !== undefined ? `${r.volatility_pct}%` : '<span class="cell-muted">—</span>'}</td>
+      <td>${r.foil_premium ? `${r.foil_premium}×` : '<span class="cell-muted">—</span>'}</td>
       <td class="cell-muted">${fmtDays(r.days_since_update)}</td>
     </tr>
   `).join('');
@@ -527,7 +537,7 @@ fetch('./data.json?_=' + Date.now())
     allRows = flattenRows(data.cards);
     if(allRows.length === 0){
       document.getElementById('watchlist-tbody').innerHTML =
-        `<tr><td colspan="9" class="empty">Aucune carte suivie pour l'instant. Lance <code>python collector.py</code> et <code>python deal_scanner.py</code> au moins une fois pour peupler le dashboard.</td></tr>`;
+        `<tr><td colspan="15" class="empty">Aucune carte suivie pour l'instant. Lance <code>python collector.py</code> et <code>python deal_scanner.py</code> au moins une fois pour peupler le dashboard.</td></tr>`;
     } else {
       renderTable();
     }
@@ -542,7 +552,7 @@ fetch('./data.json?_=' + Date.now())
   .catch(err => {
     document.getElementById('updated').textContent = 'Erreur de chargement';
     document.getElementById('watchlist-tbody').innerHTML =
-      `<tr><td colspan="9" class="empty">Impossible de charger data.json. Vérifie que le fichier existe dans /docs et que GitHub Pages est activé (Settings → Pages → source: /docs).</td></tr>`;
+      `<tr><td colspan="15" class="empty">Impossible de charger data.json. Vérifie que le fichier existe dans /docs et que GitHub Pages est activé (Settings → Pages → source: /docs).</td></tr>`;
     console.error(err);
   });
 </script>
