@@ -521,5 +521,49 @@
       "Standard",
       "Foil"
     ]
+  },
+  "6a3449464183a96a30be48c2": {
+    "name": "Hidden Lair",
+    "slug": "msh-hidden-lair-269-rare",
+    "nameSlug": "hidden-lair",
+    "expansion": "Marvel Super Heroes",
+    "expansionSlug": "marvel-super-heroes",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "685032e459fa724009569551": {
+    "name": "Vilis, Broker of Blood",
+    "slug": "m20-vilis-broker-of-blood-122-rare",
+    "nameSlug": "vilis-broker-of-blood",
+    "expansion": "Core Set 2020",
+    "expansionSlug": "core-set-2020",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850322f59fa724009568367": {
+    "name": "Thoughtseize",
+    "slug": "ths-thoughtseize-107-rare",
+    "nameSlug": "thoughtseize",
+    "expansion": "Theros",
+    "expansionSlug": "theros",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502bc959fa72400954acdd": {
+    "name": "Anim Pakal, Thousandth Moon",
+    "slug": "lci-anim-pakal-thousandth-moon-300-rare",
+    "nameSlug": "anim-pakal-thousandth-moon",
+    "expansion": "The Lost Caverns of Ixalan",
+    "expansionSlug": "the-lost-caverns-of-ixalan",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
