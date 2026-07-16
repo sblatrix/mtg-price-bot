@@ -22,6 +22,7 @@ import os
 import re
 import time
 from pathlib import Path
+from urllib.parse import urlparse, parse_qs
 from datetime import datetime, timezone
 
 import requests
@@ -93,7 +94,11 @@ def get_recent_event_ids(format_code: str, limit: int = MAX_EVENTS_PER_FORMAT) -
 
 
 def get_event_deck_ids(event_id: str, format_code: str) -> list[tuple[str, str]]:
-    """Retourne [(deck_id, archetype_name), ...] pour les decks classés de l'événement."""
+    """Retourne [(deck_id, archetype_name), ...] pour les decks classés de l'événement.
+
+    Parse les paramètres de l'URL proprement (via urlparse/parse_qs) plutôt
+    que par regex sur l'ordre exact des paramètres - plus robuste si le site
+    ne les met pas toujours dans le même ordre (e=...&d=... vs e=...&f=...&d=...)."""
     url = f"{BASE_URL}/event?e={event_id}&f={format_code}"
     resp = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=20)
     resp.raise_for_status()
@@ -101,14 +106,31 @@ def get_event_deck_ids(event_id: str, format_code: str) -> list[tuple[str, str]]
 
     decks = []
     seen = set()
+    all_hrefs_sample = []
+
     for link in soup.find_all("a", href=True):
-        m = re.search(rf"event\?e={event_id}&d=(\d+)", link["href"])
-        if m:
-            deck_id = m.group(1)
-            name = link.get_text(strip=True)
-            if deck_id not in seen and name:
-                seen.add(deck_id)
-                decks.append((deck_id, name))
+        href = link["href"]
+        if "d=" in href or "/deck" in href:
+            all_hrefs_sample.append(href)
+
+        qs = parse_qs(urlparse(href).query)
+        d_vals = qs.get("d")
+        if not d_vals:
+            continue
+        e_vals = qs.get("e")
+        if e_vals and e_vals[0] != str(event_id):
+            continue  # lien vers un deck d'un AUTRE événement (pub, "voir aussi"...)
+
+        deck_id = d_vals[0]
+        name = link.get_text(strip=True)
+        if deck_id not in seen and name:
+            seen.add(deck_id)
+            decks.append((deck_id, name))
+
+    if not decks and all_hrefs_sample:
+        print(f"      [diagnostic] 0 deck matché mais {len(all_hrefs_sample)} lien(s) contenant 'd=' vus, exemples : "
+              f"{all_hrefs_sample[:3]}")
+
     return decks[:MAX_DECKS_PER_EVENT]
 
 
