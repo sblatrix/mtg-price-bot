@@ -219,12 +219,15 @@ def run_scan():
                 print(f"  [!] Erreur événement {event_id} : {e}")
                 continue
 
+            print(f"    événement {event_id} : {len(decks)} deck(s) trouvé(s)")
+
             for deck_id, archetype in decks:
                 time.sleep(REQUEST_DELAY)
                 try:
                     cards = get_deck_cards(event_id, deck_id, format_code)
                 except requests.RequestException:
                     continue
+                print(f"      deck {deck_id} ({archetype[:30]}) : {len(cards)} carte(s) trouvée(s)")
                 for card_name in set(cards):  # set : une carte ne compte qu'une fois par deck
                     if card_name not in card_appearances:
                         card_appearances[card_name] = {"count": 0, "example_event_id": event_id, "example_deck_id": deck_id}
