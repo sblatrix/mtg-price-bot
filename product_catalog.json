@@ -565,5 +565,101 @@
       "Standard",
       "Foil"
     ]
+  },
+  "6850317359fa724009564a0d": {
+    "name": "Stony Silence",
+    "slug": "isd-stony-silence-36-rare",
+    "nameSlug": "stony-silence",
+    "expansion": "Innistrad",
+    "expansionSlug": "innistrad",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502bc859fa724009549e8e": {
+    "name": "Bear Umbra",
+    "slug": "roe-bear-umbra-177-rare",
+    "nameSlug": "bear-umbra",
+    "expansion": "Rise of the Eldrazi",
+    "expansionSlug": "rise-of-the-eldrazi",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c9659fa72400954eaf5": {
+    "name": "Cunning Lethemancer",
+    "slug": "ala-cunning-lethemancer-69-rare",
+    "nameSlug": "cunning-lethemancer",
+    "expansion": "Shards of Alara",
+    "expansionSlug": "shards-of-alara",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d0559fa7240095514d9": {
+    "name": "Fate Unraveler",
+    "slug": "bng-fate-unraveler-68-rare",
+    "nameSlug": "fate-unraveler",
+    "expansion": "Born of the Gods",
+    "expansionSlug": "born-of-the-gods",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502f7e59fa72400955e552": {
+    "name": "Phyrexian Marauder",
+    "slug": "vis-phyrexian-marauder-151-rare",
+    "nameSlug": "phyrexian-marauder",
+    "expansion": "Visions",
+    "expansionSlug": "visions",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850317359fa724009564a98": {
+    "name": "Sylvan Anthem",
+    "slug": "pmh2-sylvan-anthem-176s-rare",
+    "nameSlug": "sylvan-anthem",
+    "expansion": "Modern Horizons 2 Promos",
+    "expansionSlug": "modern-horizons-2-promos",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "68502c2d59fa72400954b8ec": {
+    "name": "Cinder Glade",
+    "slug": "pss1-cinder-glade-235-rare",
+    "nameSlug": "cinder-glade",
+    "expansion": "BFZ Standard Series",
+    "expansionSlug": "bfz-standard-series",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502f7f59fa72400955ecc6": {
+    "name": "Nissa Revane",
+    "slug": "zen-nissa-revane-170-mythic",
+    "nameSlug": "nissa-revane",
+    "expansion": "Zendikar",
+    "expansionSlug": "zendikar",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "687262e3620a85f87e0fe6ab": {
+    "name": "Frenzied Baloth",
+    "slug": "eoe-frenzied-baloth-183-rare",
+    "nameSlug": "frenzied-baloth",
+    "expansion": "Edge of Eternities",
+    "expansionSlug": "edge-of-eternities",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
