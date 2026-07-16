@@ -112,8 +112,11 @@ def run():
     print(f"{len(all_card_names)} carte(s) Magic connue(s) au total ({len(tracked_names)} déjà suivie(s)).")
 
     existing = load_existing_signals()
-    seen_ids = {s.get("article_id") for s in existing if s.get("article_id")}
-    new_signals = []
+    existing_by_id = {s["article_id"]: s for s in existing if s.get("article_id")}
+    already_alerted_ids = set(existing_by_id.keys())
+
+    current_run_signals = {}
+    new_alert_count = 0
 
     for source_name, feed_url in FEEDS.items():
         print(f"Scan {source_name}...")
@@ -132,12 +135,13 @@ def run():
 
         for item in items:
             article_id = item["guid"]
-            if article_id in seen_ids:
-                continue
 
             full_text = f"{item['title']} {item['description']}"
             full_text = re.sub(r"<[^>]+>", " ", full_text)
 
+            # on retraite TOUJOURS avec la logique de détection actuelle (pas
+            # de "déjà vu = ignoré" - sinon un article passé en revue avant
+            # une amélioration de l'algo reste bloqué avec un résultat obsolète)
             matched_cards, matched_keywords = find_matches(full_text, all_card_names)
             if not matched_cards and not matched_keywords:
                 continue
@@ -152,17 +156,23 @@ def run():
                 "detected_at": datetime.now(timezone.utc).isoformat(),
                 "source": source_name,
             }
-            new_signals.append(signal)
-            send_web_signal_alert(signal)
-            seen_ids.add(article_id)
+            current_run_signals[article_id] = signal
+
+            if article_id not in already_alerted_ids:
+                send_web_signal_alert(signal)
+                new_alert_count += 1
 
         time.sleep(REQUEST_DELAY)
 
-    all_signals = (new_signals + existing)[:300]
+    # fusionne : résultats frais de ce run + anciennes entrées dont l'article
+    # n'est plus dans le flux actuel (RSS ne garde que les ~10-20 derniers)
+    merged = dict(existing_by_id)
+    merged.update(current_run_signals)
+    all_signals = sorted(merged.values(), key=lambda s: s.get("detected_at", ""), reverse=True)[:300]
     OUTPUT_PATH.write_text(json.dumps(all_signals, ensure_ascii=False, indent=2), encoding="utf-8")
 
-    print(f"\n{len(new_signals)} nouveau(x) article(s) pertinent(s) détecté(s).")
-    return new_signals
+    print(f"\n{len(current_run_signals)} article(s) pertinent(s) au total ce run, {new_alert_count} nouvelle(s) alerte(s).")
+    return list(current_run_signals.values())
 
 
 if __name__ == "__main__":
