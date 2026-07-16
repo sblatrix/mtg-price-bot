@@ -683,5 +683,27 @@
       "Standard",
       "Foil"
     ]
+  },
+  "69e1040993c168406dc0b6e1": {
+    "name": "Emeritus of Ideation // Ancestral Recall",
+    "slug": "sos-emeritus-of-ideation-ancestral-recall-45-mythic",
+    "nameSlug": "emeritus-of-ideation-ancestral-recall",
+    "expansion": "Secrets of Strixhaven",
+    "expansionSlug": "secrets-of-strixhaven",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "69e1040993c168406dc0b6dd": {
+    "name": "Emeritus of Conflict // Lightning Bolt",
+    "slug": "sos-emeritus-of-conflict-lightning-bolt-113-mythic",
+    "nameSlug": "emeritus-of-conflict-lightning-bolt",
+    "expansion": "Secrets of Strixhaven",
+    "expansionSlug": "secrets-of-strixhaven",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
   }
 }
