@@ -30,6 +30,8 @@ FINANCE_KEYWORDS = [
     "chase", "skyrocket", "tripled", "doubled", "playable", "meta",
 ]
 
+import scryfall_catalog
+
 WATCHLIST_PATH = Path(__file__).parent / "watchlist.json"
 CATALOG_PATH = Path(__file__).parent / "product_catalog.json"
 AUTO_WATCHLIST_PATH = Path(__file__).parent / "post_release_watchlist.json"
@@ -41,6 +43,7 @@ MIN_CARD_NAME_LEN = 6
 
 
 def load_tracked_card_names() -> set[str]:
+    """Cartes qu'on suit déjà (pour distinguer 'découverte' de 'déjà suivie')."""
     names = set()
     if WATCHLIST_PATH.exists():
         data = json.loads(WATCHLIST_PATH.read_text(encoding="utf-8"))
@@ -50,7 +53,7 @@ def load_tracked_card_names() -> set[str]:
         names.update(v["name"] for v in data.values() if v.get("name"))
     if AUTO_WATCHLIST_PATH.exists():
         names.update(json.loads(AUTO_WATCHLIST_PATH.read_text(encoding="utf-8")))
-    return {n for n in names if len(n) >= MIN_CARD_NAME_LEN}
+    return names
 
 
 def fetch_rss_items(feed_url: str) -> list[dict]:
@@ -104,8 +107,9 @@ def load_existing_signals() -> list[dict]:
 
 
 def run():
-    card_names = load_tracked_card_names()
-    print(f"{len(card_names)} carte(s) suivie(s) à surveiller dans les articles.")
+    tracked_names = load_tracked_card_names()
+    all_card_names = scryfall_catalog.get_all_card_names(min_length=MIN_CARD_NAME_LEN)
+    print(f"{len(all_card_names)} carte(s) Magic connue(s) au total ({len(tracked_names)} déjà suivie(s)).")
 
     existing = load_existing_signals()
     seen_ids = {s.get("article_id") for s in existing if s.get("article_id")}
@@ -134,7 +138,7 @@ def run():
             full_text = f"{item['title']} {item['description']}"
             full_text = re.sub(r"<[^>]+>", " ", full_text)
 
-            matched_cards, matched_keywords = find_matches(full_text, card_names)
+            matched_cards, matched_keywords = find_matches(full_text, all_card_names)
             if not matched_cards and not matched_keywords:
                 continue
 
@@ -143,6 +147,7 @@ def run():
                 "title": item["title"],
                 "url": item["link"],
                 "matched_cards": matched_cards,
+                "matched_cards_tracked": [c in tracked_names for c in matched_cards],
                 "matched_keywords": matched_keywords,
                 "detected_at": datetime.now(timezone.utc).isoformat(),
                 "source": source_name,

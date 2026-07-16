@@ -151,7 +151,12 @@ def build_cardmarket_official_block(card_name: str):
 
 
 def build_card_entry(card_name: str) -> dict:
-    entry = {"name": card_name, "finishes": {}, "cardmarket_official": build_cardmarket_official_block(card_name)}
+    entry = {
+        "name": card_name,
+        "finishes": {},
+        "cardmarket_official": build_cardmarket_official_block(card_name),
+        "card_links": build_card_links(card_name),
+    }
 
     for finish in ("standard", "foil"):
         cardnexus_history = get_history_series(card_name, f"cardnexus_{finish}")

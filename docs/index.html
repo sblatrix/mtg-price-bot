@@ -232,6 +232,21 @@
     margin-top:8px;
     flex-wrap:wrap;
   }
+  .inline-actions{
+    display:inline-flex;
+    gap:5px;
+    margin-left:8px;
+  }
+  .inline-actions a{
+    font-size:9.5px;
+    color:var(--muted);
+    text-decoration:none;
+    border:1px solid var(--line);
+    border-radius:4px;
+    padding:1px 4px;
+    font-family:'JetBrains Mono',monospace;
+  }
+  .inline-actions a:hover{ color:var(--arb); border-color:var(--arb); }
   .action-btn{
     background:var(--panel-alt);
     border:1px solid var(--line);
@@ -662,6 +677,7 @@ function flattenRows(cards){
         _id: rowId++,
         name: card.name,
         finish,
+        _card_links: card.card_links,
         has_competitive_signal: card.has_competitive_signal || false,
         has_web_signal: card.has_web_signal || false,
         cm_low: f.cm_low, cm_avg: f.cm_avg, cm_trend: f.cm_trend, cm_avg7: f.cm_avg7,
@@ -902,7 +918,13 @@ function renderTable(){
     <tr data-row-id="${r._id}">
       <td class="cell-muted" style="text-align:center;">${r.has_competitive_signal ? '🎯' : ''}</td>
       <td class="cell-muted" style="text-align:center;">${r.has_web_signal ? '💬' : ''}</td>
-      <td class="name-cell" data-name="${escapeHtml(r.name)}">${r.name}</td>
+      <td class="name-cell" data-name="${escapeHtml(r.name)}">
+        ${r.name}
+        <span class="inline-actions">
+          <a href="${r._card_links ? r._card_links.cardmarket_url : '#'}" target="_blank" rel="noopener" title="Voir sur Cardmarket">CM</a>
+          <a href="${r._card_links ? r._card_links.cardnexus_url : '#'}" target="_blank" rel="noopener" title="Voir sur CardNexus">CN</a>
+        </span>
+      </td>
       <td class="cell-muted">${r.finish === 'foil' ? 'Foil' : 'Std'}</td>
       <td>${fmtEur(r.cm_low)}</td>
       <td>${fmtEur(r.cm_avg)}</td>
@@ -1018,6 +1040,7 @@ document.body.addEventListener('mouseout', (evt)=>{
 // Clic sur une ligne du tableau (hors lignes de détail elles-mêmes) : ouvre/ferme le graphique
 const tbodyEl = document.getElementById('watchlist-tbody');
 tbodyEl.addEventListener('click', (evt)=>{
+  if(evt.target.closest('.inline-actions')) return; // laisse les liens CM/CN s'ouvrir sans toggler la ligne
   const tr = evt.target.closest('tr[data-row-id]');
   if(!tr) return;
   toggleDetailRow(Number(tr.dataset.rowId));
