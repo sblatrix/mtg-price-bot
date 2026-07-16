@@ -958,5 +958,841 @@
   "Sakura-Tribe Elder|dsc": {
     "rarity": "common",
     "set": "dsc"
+  },
+  "Ancient Vendetta|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Mistrise Village|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Emeritus of Ideation|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "North Wind Avatar|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Stormcarved Coast|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Floodfarm Verge|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Shattered Sanctum|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Fire Magic|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Inevitable Defeat|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Plains|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Lightning Helix|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Tablet of Discovery|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Outrageous Robbery|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Great Hall of the Biblioplex|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Three Steps Ahead|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Steam Vents|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Mountain|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Cori Mountain Monastery|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Hallowed Fountain|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Flashback|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "No More Lies|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Multiversal Passage|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Watery Grave|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Get Lost|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Jeskai Revelation|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Riverpyre Verge|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Consult the Star Charts|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Stock Up|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Petrified Hamlet|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Sacred Foundry|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Abrade|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Winternight Stories|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Flow State|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Opt|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Hearth Elemental|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Sunderflock|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Cavern of Souls|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Prismari Charm|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Spirebluff Canal|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Traumatic Critique|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Eddymurk Crab|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Impractical Joke|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Colorstorm Stallion|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Island|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Sundown Pass|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Quantum Riddler|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Abandon Attachments|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Accumulate Wisdom|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Price of Freedom|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Surrak, Elusive Hunter|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Godless Shrine|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Arid Mesa|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Raucous Theater|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Temple Garden|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Rest in Peace|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Ragavan, Nimble Pilferer|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Stubborn Denial|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Wear / Tear|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Wooded Foothills|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Fatal Push|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Flooded Strand|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Arena of Glory|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Blood Crypt|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Surgical Extraction|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Thundering Falls|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Lightning Bolt|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Scalding Tarn|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Valakut Awakening|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Pyretic Ritual|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Desperate Ritual|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Wish|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Ral, Monsoon Mage|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Elegant Parlor|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Brotherhood's End|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Reckless Impulse|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Past in Flames|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Artist's Talent|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Ruby Medallion|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Wrenn's Resolve|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Bloodstained Mire|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Gemstone Caverns|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Sunbaked Canyon|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Hex Magic|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Manamorphose|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Grapeshot|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Seasoned Pyromancer|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Dalkovan Encampment|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Marsh Flats|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Shadowy Backstreet|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Swamp|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Fallaji Archaeologist|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Goryo's Vengeance|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Undercity Sewers|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Superior Spider-Man|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Otherworldly Gaze|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Ephemerate|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Force of Negation|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Mutavault|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Unholy Annex / Ritual Chamber|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Darkslick Shores|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Kaito, Bane of Nightmares|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Bitter Triumph|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Languish|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Gloomlake Verge|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Nowhere to Run|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Otawara, Soaring City|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Takenuma, Abandoned Mire|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Forest|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Blooming Marsh|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Restless Cottage|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Withering Curse|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Llanowar Wastes|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "End of the Hunt|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Invoke Despair|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Professor Dellian Fel|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Abrupt Decay|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Urborg, Tomb of Yawgmoth|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Unlicensed Hearse|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Culling Ritual|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Overgrown Tomb|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Necromentia|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Sheoldred's Edict|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Elegy Acolyte|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Sentinel of the Nameless City|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Wastewood Verge|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Boseiju, Who Endures|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Emeritus of Abundance|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Lessons from Life|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Hedge Maze|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Starting Town|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Scapeshift|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Kaervek, the Spiteful|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "M.O.D.O.K.|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Spelunking|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Underground Mortuary|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Kenrith, the Returned King|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Port of Karfell|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Arboreal Grazer|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Crumbling Vestige|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Arid Archway|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Lotus Field|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Lumra, Bellow of the Woods|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Castle Garenbrig|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Aftermath Analyst|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "The Wandering Minstrel|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Glasspool Mimic|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Abandoned Air Temple|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Street Wraith|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Brainstorm|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Daze|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Thassa's Oracle|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Long Goodbye|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Consider|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Misty Rainforest|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Force of Will|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Jace, Wielder of Mysteries|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Verdant Catacombs|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "The Fantasticar|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Edge of Autumn|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Underground Sea|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Polluted Delta|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Doomsday|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Nethergoyf|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Wasteland|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Brazen Borrower|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Harbinger of the Seas|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Urza's Saga|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Chromatic Star|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Urza's Bauble|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Haywire Mite|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Kappa Cannoneer|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Twinshot Sniper|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Great Furnace|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Portable Hole|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Sewer-veillance Cam|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Phyrexian Dragon Engine|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Rip Apart|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Remand|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Mental Misstep|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Wilderness Reclamation|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Counterspell|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Mystic Sanctuary|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Spider-Man 2099|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Underground River|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Wash Away|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Prismatic Vista|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Gitaxian Probe|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Snow-Covered Island|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Bad River|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Mental Note|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Shadow of Doubt|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Force Spike|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Toxic Deluge|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Cling to Dust|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Archmage's Charm|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Willowrush Verge|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Brainsurge|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "River of Tears|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Shipwreck Marsh|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Thought Scour|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Drowned Catacomb|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Dismember|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Hinterland Harbor|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Tainted Pact|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Maze of Ith|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Sauron's Ransom|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Command Tower|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Bayou|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Requiting Hex|": {
+    "rarity": "uncommon",
+    "set": null
   }
 }
