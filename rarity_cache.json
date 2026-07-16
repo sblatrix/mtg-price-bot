@@ -910,5 +910,37 @@
   "Deflecting Swat|cmm": {
     "rarity": "rare",
     "set": "cmm"
+  },
+  "Leatherhead, Swamp Stalker|tmt": {
+    "rarity": "rare",
+    "set": "tmt"
+  },
+  "Slickshot Show-Off <extended>|otj": {
+    "rarity": null,
+    "set": "otj"
+  },
+  "Ponder|tdc": {
+    "rarity": "common",
+    "set": "tdc"
+  },
+  "Swords to Plowshares|drc": {
+    "rarity": "uncommon",
+    "set": "drc"
+  },
+  "Leyline of the Void <extended>|dsk": {
+    "rarity": null,
+    "set": "dsk"
+  },
+  "Cultivate <019d4a1a-4a0e-71ab-9524-890a194494f3>|soc": {
+    "rarity": null,
+    "set": "soc"
+  },
+  "Nature's Lore <019edcec-3936-79e0-921f-7e2b380e7e1a>|msc": {
+    "rarity": null,
+    "set": "msc"
+  },
+  "Arcane Denial <019edce9-844c-794c-afc4-285894fc0d65>|msc": {
+    "rarity": null,
+    "set": "msc"
   }
 }
