@@ -35,10 +35,20 @@ jobs:
       - name: Run official Cardmarket price guide sync
         run: python cardmarket_official.py
 
+      - name: Run Reddit scanner
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python reddit_scanner.py
+
+      - name: Run article scanner (Draftsim, MTGRocks)
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python article_scanner.py
+
       - name: Commit updated data
         run: |
           git config user.name "mtg-price-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add tournament_signals.json rarity_cache.json meta_signals.json performance_signals.json prices.db cardmarket_ids.json
-          git diff --staged --quiet || git commit -m "Update tournament/performance signals + official Cardmarket prices [skip ci]"
+          git add tournament_signals.json rarity_cache.json meta_signals.json performance_signals.json prices.db cardmarket_ids.json web_signals.json
+          git diff --staged --quiet || git commit -m "Update tournament/performance/web signals + official Cardmarket prices [skip ci]"
           git push
