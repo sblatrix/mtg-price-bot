@@ -360,6 +360,11 @@
     <p class="section-title">🎯 Signaux compétitifs (tournois)</p>
     <div class="deals-list" id="competitive-signals-list"></div>
   </div>
+
+  <div style="margin-top:28px;">
+    <p class="section-title">💬 Signaux web (Reddit, articles)</p>
+    <div class="deals-list" id="web-signals-list"></div>
+  </div>
 </main>
 
 <script>
@@ -420,6 +425,28 @@ function buildDeal(deal){
     <div class="deal-meta">${fmtDate(deal.created_at)} · vendeur ${deal.seller_country || '?'}</div>
     ${unconfirmed}
     ${deal.url ? `<div style="margin-top:6px;"><a href="${deal.url}" target="_blank" rel="noopener">Voir l'annonce →</a></div>` : ''}
+  `;
+  return el;
+}
+
+function buildWebSignal(signal){
+  const el = document.createElement('div');
+  el.className = 'deal';
+  const cardsTxt = signal.matched_cards && signal.matched_cards.length
+    ? signal.matched_cards.join(', ')
+    : 'aucune carte suivie citée';
+  const keywordsTxt = signal.matched_keywords && signal.matched_keywords.length
+    ? signal.matched_keywords.slice(0, 5).join(', ')
+    : '';
+  el.innerHTML = `
+    <div class="deal-top">
+      <span class="deal-name">${signal.source === 'Reddit' ? '💬' : '📰'} ${escapeHtml(signal.title)}</span>
+    </div>
+    <div class="deal-meta">${signal.source}${signal.subreddit ? ' · r/' + signal.subreddit : ''}</div>
+    <div class="deal-meta" style="color:var(--text);margin-top:4px;">Cartes suivies : ${cardsTxt}</div>
+    ${keywordsTxt ? `<div class="deal-meta">Mots-clés : ${keywordsTxt}</div>` : ''}
+    <div class="deal-meta">${fmtDate(signal.detected_at)}</div>
+    <div style="margin-top:6px;"><a href="${signal.url}" target="_blank" rel="noopener">Voir la source →</a></div>
   `;
   return el;
 }
@@ -800,6 +827,14 @@ fetch('./data.json?_=' + Date.now())
       signalsList.innerHTML = `<p class="empty">Pas encore de signal compétitif détecté. Le scanner tourne une fois par jour via GitHub Actions (workflow "Daily deep scan").</p>`;
     } else {
       signals.forEach(s => signalsList.appendChild(buildCompetitiveSignal(s)));
+    }
+
+    const webSignalsList = document.getElementById('web-signals-list');
+    const webSignals = data.web_signals || [];
+    if(webSignals.length === 0){
+      webSignalsList.innerHTML = `<p class="empty">Pas encore de signal web détecté. Le scanner tourne une fois par jour via GitHub Actions (workflow "Daily deep scan").</p>`;
+    } else {
+      webSignals.forEach(s => webSignalsList.appendChild(buildWebSignal(s)));
     }
   })
   .catch(err => {

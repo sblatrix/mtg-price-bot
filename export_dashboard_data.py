@@ -18,6 +18,7 @@ ROOT = Path(__file__).parent
 DEALS_PATH = ROOT / "recent_deals.json"
 META_SIGNALS_PATH = ROOT / "meta_signals.json"
 PERFORMANCE_SIGNALS_PATH = ROOT / "performance_signals.json"
+WEB_SIGNALS_PATH = ROOT / "web_signals.json"
 OUTPUT_PATH = ROOT / "docs" / "data.json"
 
 
@@ -188,6 +189,13 @@ def load_competitive_signals() -> list[dict]:
     return deduped[:150]
 
 
+def load_web_signals() -> list[dict]:
+    if not WEB_SIGNALS_PATH.exists():
+        return []
+    signals = json.loads(WEB_SIGNALS_PATH.read_text(encoding="utf-8"))
+    return sorted(signals, key=lambda x: x.get("detected_at", ""), reverse=True)[:100]
+
+
 def run():
     cards = get_all_tracked_cards()
     card_entries = [build_card_entry(name) for name in cards]
@@ -199,9 +207,12 @@ def run():
         recent_deals = json.loads(DEALS_PATH.read_text(encoding="utf-8"))
 
     competitive_signals = load_competitive_signals()
+    web_signals = load_web_signals()
     signal_card_names = {s["name"] for s in competitive_signals}
+    for s in web_signals:
+        signal_card_names.update(s.get("matched_cards", []))
 
-    # croisement : marque chaque carte suivie qui a aussi un signal compétitif actif
+    # croisement : marque chaque carte suivie qui a aussi un signal actif (tournoi ou web)
     for entry in card_entries:
         entry["has_competitive_signal"] = entry["name"] in signal_card_names
 
@@ -210,12 +221,13 @@ def run():
         "cards": card_entries,
         "recent_deals": recent_deals,
         "competitive_signals": competitive_signals,
+        "web_signals": web_signals,
     }
 
     OUTPUT_PATH.parent.mkdir(exist_ok=True)
     OUTPUT_PATH.write_text(json.dumps(output, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"Dashboard data exporté : {len(card_entries)} carte(s), {len(recent_deals)} bonne(s) affaire(s), "
-          f"{len(competitive_signals)} signal(aux) compétitif(s).")
+          f"{len(competitive_signals)} signal(aux) compétitif(s), {len(web_signals)} signal(aux) web.")
 
 
 if __name__ == "__main__":
