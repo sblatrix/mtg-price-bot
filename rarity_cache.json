@@ -942,5 +942,21 @@
   "Arcane Denial <019edce9-844c-794c-afc4-285894fc0d65>|msc": {
     "rarity": null,
     "set": "msc"
+  },
+  "Combustion Technique|tla": {
+    "rarity": "uncommon",
+    "set": "tla"
+  },
+  "Cabal Therapy|ema": {
+    "rarity": "uncommon",
+    "set": "ema"
+  },
+  "Griselbrand <retro>|inr": {
+    "rarity": null,
+    "set": "inr"
+  },
+  "Sakura-Tribe Elder|dsc": {
+    "rarity": "common",
+    "set": "dsc"
   }
 }
