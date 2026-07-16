@@ -362,7 +362,13 @@
   </div>
 
   <div style="margin-top:28px;">
-    <p class="section-title">💬 Signaux web (Reddit, articles)</p>
+    <div style="display:flex; align-items:center; gap:12px; margin-bottom:14px;">
+      <p class="section-title" style="margin:0;">💬 Signaux web (Reddit, articles)</p>
+      <label style="display:flex; align-items:center; gap:5px; font-size:12px; color:var(--muted);">
+        <input type="checkbox" id="web-signals-watchlist-only"> Seulement les cartes de ma watchlist
+      </label>
+      <span class="row-count" id="web-signals-count"></span>
+    </div>
     <div class="deals-list" id="web-signals-list"></div>
   </div>
 </main>
@@ -451,6 +457,27 @@ function buildWebSignal(signal){
   return el;
 }
 
+function renderWebSignals(){
+  const watchlistOnly = document.getElementById('web-signals-watchlist-only').checked;
+  const filtered = watchlistOnly
+    ? allWebSignals.filter(s => s.matched_cards && s.matched_cards.length > 0)
+    : allWebSignals;
+
+  document.getElementById('web-signals-count').textContent = `${filtered.length} / ${allWebSignals.length} signal(aux)`;
+
+  const webSignalsList = document.getElementById('web-signals-list');
+  if(filtered.length === 0){
+    webSignalsList.innerHTML = allWebSignals.length === 0
+      ? `<p class="empty">Pas encore de signal web détecté. Le scanner tourne une fois par jour via GitHub Actions (workflow "Daily deep scan").</p>`
+      : `<p class="empty">Aucun signal web ne cite une carte de ta watchlist pour l'instant.</p>`;
+  } else {
+    webSignalsList.innerHTML = '';
+    filtered.forEach(s => webSignalsList.appendChild(buildWebSignal(s)));
+  }
+}
+
+document.getElementById('web-signals-watchlist-only').addEventListener('change', renderWebSignals);
+
 function buildCompetitiveSignal(signal){
   const el = document.createElement('div');
   el.className = 'deal';
@@ -493,6 +520,7 @@ function buildTicker(cards, deals){
 
 // --- Tableau watchlist : aplatit chaque carte x finition en une ligne ---
 let allRows = [];
+let allWebSignals = [];
 let currentSortedRows = [];
 let sortKey = 'trend_pct';
 let sortDir = -1; // -1 = desc
@@ -829,13 +857,8 @@ fetch('./data.json?_=' + Date.now())
       signals.forEach(s => signalsList.appendChild(buildCompetitiveSignal(s)));
     }
 
-    const webSignalsList = document.getElementById('web-signals-list');
-    const webSignals = data.web_signals || [];
-    if(webSignals.length === 0){
-      webSignalsList.innerHTML = `<p class="empty">Pas encore de signal web détecté. Le scanner tourne une fois par jour via GitHub Actions (workflow "Daily deep scan").</p>`;
-    } else {
-      webSignals.forEach(s => webSignalsList.appendChild(buildWebSignal(s)));
-    }
+    allWebSignals = data.web_signals || [];
+    renderWebSignals();
   })
   .catch(err => {
     document.getElementById('updated').textContent = 'Erreur de chargement';
