@@ -10,6 +10,7 @@ import json
 import statistics
 from datetime import datetime, timezone
 from pathlib import Path
+from urllib.parse import quote
 
 from db import get_connection, get_all_tracked_cards, get_latest_cardmarket_official_price, get_cardmarket_official_history
 from trend_detector import compute_trend, compute_cross_source_gap
@@ -19,7 +20,41 @@ DEALS_PATH = ROOT / "recent_deals.json"
 META_SIGNALS_PATH = ROOT / "meta_signals.json"
 PERFORMANCE_SIGNALS_PATH = ROOT / "performance_signals.json"
 WEB_SIGNALS_PATH = ROOT / "web_signals.json"
+CATALOG_PATH = ROOT / "product_catalog.json"
 OUTPUT_PATH = ROOT / "docs" / "data.json"
+
+_catalog_by_name = None
+
+
+def load_catalog_by_name() -> dict:
+    """Index product_catalog.json par nom de carte (au lieu de productId),
+    pour retrouver rapidement le slug CardNexus d'une carte donnée."""
+    global _catalog_by_name
+    if _catalog_by_name is not None:
+        return _catalog_by_name
+    _catalog_by_name = {}
+    if CATALOG_PATH.exists():
+        data = json.loads(CATALOG_PATH.read_text(encoding="utf-8"))
+        for info in data.values():
+            name = info.get("name")
+            if name:
+                _catalog_by_name[name] = info
+    return _catalog_by_name
+
+
+def build_card_links(card_name: str) -> dict:
+    """Lien Cardmarket (recherche, toujours dispo) + lien CardNexus (précis
+    si on a le slug en catalogue, sinon page d'accueil de recherche)."""
+    cardmarket_url = f"https://www.cardmarket.com/en/Magic/Products/Search?searchString={quote(card_name)}"
+
+    catalog = load_catalog_by_name()
+    info = catalog.get(card_name)
+    if info and info.get("slug") and info.get("expansionSlug"):
+        cardnexus_url = f"https://cardnexus.com/fr/explore/mtg/{info['expansionSlug']}/card/{info['slug']}"
+    else:
+        cardnexus_url = f"https://cardnexus.com/fr/explore/mtg?search={quote(card_name)}"
+
+    return {"cardmarket_url": cardmarket_url, "cardnexus_url": cardnexus_url}
 
 
 def get_history_series(card_name: str, source: str, limit: int = 60):
@@ -184,6 +219,7 @@ def load_competitive_signals() -> list[dict]:
         if key in seen:
             continue
         seen.add(key)
+        s["card_links"] = build_card_links(s["name"])
         deduped.append(s)
 
     return deduped[:150]
@@ -193,7 +229,12 @@ def load_web_signals() -> list[dict]:
     if not WEB_SIGNALS_PATH.exists():
         return []
     signals = json.loads(WEB_SIGNALS_PATH.read_text(encoding="utf-8"))
-    return sorted(signals, key=lambda x: x.get("detected_at", ""), reverse=True)[:100]
+    signals = sorted(signals, key=lambda x: x.get("detected_at", ""), reverse=True)[:100]
+    for s in signals:
+        s["matched_card_links"] = [
+            {"name": name, **build_card_links(name)} for name in s.get("matched_cards", [])[:3]
+        ]
+    return signals
 
 
 def run():
@@ -208,13 +249,15 @@ def run():
 
     competitive_signals = load_competitive_signals()
     web_signals = load_web_signals()
-    signal_card_names = {s["name"] for s in competitive_signals}
+    competitive_card_names = {s["name"] for s in competitive_signals}
+    web_card_names = set()
     for s in web_signals:
-        signal_card_names.update(s.get("matched_cards", []))
+        web_card_names.update(s.get("matched_cards", []))
 
-    # croisement : marque chaque carte suivie qui a aussi un signal actif (tournoi ou web)
+    # croisement : marque chaque carte suivie qui a un signal tournoi et/ou web actif
     for entry in card_entries:
-        entry["has_competitive_signal"] = entry["name"] in signal_card_names
+        entry["has_competitive_signal"] = entry["name"] in competitive_card_names
+        entry["has_web_signal"] = entry["name"] in web_card_names
 
     output = {
         "generated_at": datetime.now(timezone.utc).isoformat(),

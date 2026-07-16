@@ -226,6 +226,101 @@
     pointer-events:none;
   }
 
+  .card-actions{
+    display:flex;
+    gap:6px;
+    margin-top:8px;
+    flex-wrap:wrap;
+  }
+  .action-btn{
+    background:var(--panel-alt);
+    border:1px solid var(--line);
+    color:var(--muted);
+    font-size:11px;
+    padding:4px 9px;
+    border-radius:20px;
+    text-decoration:none;
+    cursor:pointer;
+    font-family:'Inter',sans-serif;
+  }
+  .action-btn:hover{ color:var(--text); border-color:var(--arb); }
+  .action-btn-primary{
+    background:var(--arb);
+    color:var(--ink);
+    border-color:var(--arb);
+    font-weight:600;
+    width:100%;
+    margin-top:8px;
+    text-align:center;
+  }
+  .matched-card-block{
+    margin-top:8px;
+    padding-top:8px;
+    border-top:1px dashed var(--line);
+  }
+  .matched-card-block .name-cell{
+    font-size:12.5px;
+    font-weight:500;
+    cursor:default;
+  }
+
+  .pending-panel{
+    position:fixed;
+    right:20px;
+    bottom:20px;
+    z-index:900;
+    width:280px;
+    background:var(--panel);
+    border:1px solid var(--line);
+    border-radius:12px;
+    padding:14px;
+    box-shadow:0 12px 32px rgba(0,0,0,0.5);
+  }
+  .pending-header{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    font-size:12.5px;
+    font-weight:600;
+    margin-bottom:8px;
+  }
+  .pending-items{
+    max-height:160px;
+    overflow-y:auto;
+    display:flex;
+    flex-direction:column;
+    gap:4px;
+    margin-bottom:8px;
+  }
+  .pending-item{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    font-size:12px;
+    background:var(--panel-alt);
+    border-radius:6px;
+    padding:4px 8px;
+  }
+  .pending-item button{
+    background:none;
+    border:none;
+    color:var(--fall);
+    cursor:pointer;
+    font-size:14px;
+    line-height:1;
+  }
+  .pending-hint{
+    font-size:10.5px;
+    color:var(--muted);
+    margin:8px 0 0;
+    line-height:1.4;
+  }
+  .pending-hint code{
+    background:var(--panel-alt);
+    border-radius:3px;
+    padding:0 3px;
+  }
+
   /* --- Deals sidebar --- */
   .deals-list{
     display:grid;
@@ -319,6 +414,7 @@
     <label>Prix max <input type="number" id="price-max" placeholder="∞" min="0" step="0.5" style="width:70px"></label>
     <label><input type="checkbox" id="signal-only"> Signal seulement (tendance ou écart)</label>
     <label><input type="checkbox" id="competitive-only"> 🎯 Signal compétitif seulement</label>
+    <label><input type="checkbox" id="web-only"> 💬 Signal web seulement</label>
     <span class="row-count" id="row-count"></span>
   </div>
 
@@ -328,6 +424,7 @@
         <thead>
           <tr>
             <th data-key="has_competitive_signal">🎯</th>
+            <th data-key="has_web_signal">💬</th>
             <th data-key="name">Carte</th>
             <th data-key="finish">Fin.</th>
             <th data-key="cm_low">Low CM</th>
@@ -435,6 +532,18 @@ function buildDeal(deal){
   return el;
 }
 
+function buildCardActionButtons(name, links){
+  const cmUrl = (links && links.cardmarket_url) || `https://www.cardmarket.com/en/Magic/Products/Search?searchString=${encodeURIComponent(name)}`;
+  const cnUrl = (links && links.cardnexus_url) || `https://cardnexus.com/fr/explore/mtg?search=${encodeURIComponent(name)}`;
+  return `
+    <div class="card-actions">
+      <a href="${cmUrl}" target="_blank" rel="noopener" class="action-btn">Voir sur CM</a>
+      <a href="${cnUrl}" target="_blank" rel="noopener" class="action-btn">Voir sur CN</a>
+      <button class="action-btn add-watchlist-btn" data-card-name="${escapeHtml(name)}">+ Watchlist</button>
+    </div>
+  `;
+}
+
 function buildWebSignal(signal){
   const el = document.createElement('div');
   el.className = 'deal';
@@ -444,6 +553,12 @@ function buildWebSignal(signal){
   const keywordsTxt = signal.matched_keywords && signal.matched_keywords.length
     ? signal.matched_keywords.slice(0, 5).join(', ')
     : '';
+  const cardLinksHtml = (signal.matched_card_links || []).map(cl => `
+    <div class="matched-card-block">
+      <span class="name-cell" data-name="${escapeHtml(cl.name)}">${escapeHtml(cl.name)}</span>
+      ${buildCardActionButtons(cl.name, cl)}
+    </div>
+  `).join('');
   el.innerHTML = `
     <div class="deal-top">
       <span class="deal-name">${signal.source === 'Reddit' ? '💬' : '📰'} ${escapeHtml(signal.title)}</span>
@@ -453,6 +568,7 @@ function buildWebSignal(signal){
     ${keywordsTxt ? `<div class="deal-meta">Mots-clés : ${keywordsTxt}</div>` : ''}
     <div class="deal-meta">${fmtDate(signal.detected_at)}</div>
     <div style="margin-top:6px;"><a href="${signal.url}" target="_blank" rel="noopener">Voir la source →</a></div>
+    ${cardLinksHtml}
   `;
   return el;
 }
@@ -481,16 +597,18 @@ document.getElementById('web-signals-watchlist-only').addEventListener('change',
 function buildCompetitiveSignal(signal){
   const el = document.createElement('div');
   el.className = 'deal';
-  const badge = signal.source === 'MTGGoldfish' ? '📈' : '🚀';
+  const badge = signal.source === 'MTGGoldfish' ? '📈' : (signal.source === 'MTGTop8' ? '🚀' : '🎯');
+  const sourceTxt = signal.source || 'source inconnue (ancien signal, sera propre après le prochain scan)';
   el.innerHTML = `
     <div class="deal-top">
-      <span class="deal-name">${badge} ${signal.name}</span>
+      <span class="deal-name name-cell" data-name="${escapeHtml(signal.name)}">${badge} ${escapeHtml(signal.name)}</span>
       <span class="deal-discount" style="color:var(--arb)">${signal.rarity || ''}</span>
     </div>
-    <div class="deal-meta">${signal.format || ''} · source ${signal.source || '?'}</div>
+    <div class="deal-meta">${signal.format || ''} · ${sourceTxt}</div>
     <div class="deal-meta" style="color:var(--text);margin-top:4px;">${signal.summary || ''}</div>
     <div class="deal-meta">${fmtDate(signal.detected_at)}</div>
     ${signal.url ? `<div style="margin-top:6px;"><a href="${signal.url}" target="_blank" rel="noopener">Voir la source →</a></div>` : ''}
+    ${buildCardActionButtons(signal.name, signal.card_links)}
   `;
   return el;
 }
@@ -535,6 +653,7 @@ function flattenRows(cards){
         name: card.name,
         finish,
         has_competitive_signal: card.has_competitive_signal || false,
+        has_web_signal: card.has_web_signal || false,
         cm_low: f.cm_low, cm_avg: f.cm_avg, cm_trend: f.cm_trend, cm_avg7: f.cm_avg7,
         cn_latest: f.cn_latest, cn_avg7: f.cn_avg7,
         low_vs_avg_pct: f.low_vs_avg_pct, low_vs_avg_diff: f.low_vs_avg_diff,
@@ -575,6 +694,7 @@ function filterRows(rows){
   const finishFilter = document.getElementById('finish-filter').value;
   const signalOnly = document.getElementById('signal-only').checked;
   const competitiveOnly = document.getElementById('competitive-only').checked;
+  const webOnly = document.getElementById('web-only').checked;
   const priceMinRaw = document.getElementById('price-min').value;
   const priceMaxRaw = document.getElementById('price-max').value;
   const priceMin = priceMinRaw !== '' ? parseFloat(priceMinRaw) : null;
@@ -585,6 +705,7 @@ function filterRows(rows){
     if(finishFilter !== 'all' && r.finish !== finishFilter) return false;
     if(signalOnly && r.trend_pct === null && r.cross_source_gap_pct === null) return false;
     if(competitiveOnly && !r.has_competitive_signal) return false;
+    if(webOnly && !r.has_web_signal) return false;
     if(priceMin !== null || priceMax !== null){
       // référence : la meilleure estimation de prix dispo pour cette ligne
       const refPrice = r.cm_avg ?? r.cn_latest ?? r.cm_low;
@@ -761,7 +882,7 @@ function renderTable(){
   document.getElementById('row-count').textContent = `${sorted.length} / ${allRows.length} ligne(s)`;
 
   if(sorted.length === 0){
-    tbody.innerHTML = `<tr><td colspan="17" class="empty">Aucune ligne ne correspond aux filtres.</td></tr>`;
+    tbody.innerHTML = `<tr><td colspan="18" class="empty">Aucune ligne ne correspond aux filtres.</td></tr>`;
     return;
   }
 
@@ -770,6 +891,7 @@ function renderTable(){
   tbody.innerHTML = sorted.map(r => `
     <tr data-row-id="${r._id}">
       <td class="cell-muted" style="text-align:center;">${r.has_competitive_signal ? '🎯' : ''}</td>
+      <td class="cell-muted" style="text-align:center;">${r.has_web_signal ? '💬' : ''}</td>
       <td class="name-cell" data-name="${escapeHtml(r.name)}">${r.name}</td>
       <td class="cell-muted">${r.finish === 'foil' ? 'Foil' : 'Std'}</td>
       <td>${fmtEur(r.cm_low)}</td>
@@ -790,6 +912,67 @@ function renderTable(){
   `).join('');
 }
 
+// --- Watchlist en attente (localStorage - ce dashboard est statique, pas de
+// backend pour écrire directement dans watchlist.json, donc on prépare une
+// liste que tu copies-colles toi-même) ---
+const PENDING_KEY = 'mtg_pending_watchlist_additions';
+
+function getPendingWatchlist(){
+  try { return JSON.parse(localStorage.getItem(PENDING_KEY) || '[]'); }
+  catch(e){ return []; }
+}
+
+function savePendingWatchlist(list){
+  try { localStorage.setItem(PENDING_KEY, JSON.stringify(list)); } catch(e){ /* stockage indisponible, tant pis */ }
+  renderPendingPanel();
+}
+
+function addToPendingWatchlist(name){
+  const list = getPendingWatchlist();
+  if(!list.includes(name)) list.push(name);
+  savePendingWatchlist(list);
+}
+
+function removeFromPendingWatchlist(name){
+  savePendingWatchlist(getPendingWatchlist().filter(n => n !== name));
+}
+
+function renderPendingPanel(){
+  const list = getPendingWatchlist();
+  const panel = document.getElementById('pending-watchlist-panel');
+  document.getElementById('pending-watchlist-count').textContent = list.length;
+  panel.style.display = list.length > 0 ? 'block' : 'none';
+  document.getElementById('pending-watchlist-items').innerHTML = list.map(n => `
+    <div class="pending-item">
+      <span>${escapeHtml(n)}</span>
+      <button data-remove-name="${escapeHtml(n)}">×</button>
+    </div>
+  `).join('');
+}
+
+document.body.addEventListener('click', (evt)=>{
+  const addBtn = evt.target.closest('.add-watchlist-btn');
+  if(addBtn){ addToPendingWatchlist(addBtn.dataset.cardName); return; }
+
+  const removeBtn = evt.target.closest('[data-remove-name]');
+  if(removeBtn){ removeFromPendingWatchlist(removeBtn.dataset.removeName); return; }
+
+  if(evt.target.id === 'pending-clear-btn'){ savePendingWatchlist([]); return; }
+
+  if(evt.target.id === 'pending-copy-btn'){
+    const list = getPendingWatchlist();
+    const snippet = JSON.stringify(list.map(n => ({ name: n, set: null })), null, 2);
+    navigator.clipboard.writeText(snippet).then(()=>{
+      evt.target.textContent = 'Copié !';
+      setTimeout(()=>{ evt.target.textContent = 'Copier au format watchlist.json'; }, 1500);
+    }).catch(()=>{
+      alert('Impossible de copier automatiquement. Voici le résultat :\n\n' + snippet);
+    });
+  }
+});
+
+renderPendingPanel();
+
 document.querySelectorAll('#watchlist-table thead th').forEach(th=>{
   th.addEventListener('click', ()=>{
     const key = th.dataset.key;
@@ -802,26 +985,27 @@ document.querySelectorAll('#watchlist-table thead th').forEach(th=>{
   });
 });
 
-['search-input', 'finish-filter', 'signal-only', 'competitive-only', 'price-min', 'price-max'].forEach(id=>{
+['search-input', 'finish-filter', 'signal-only', 'competitive-only', 'web-only', 'price-min', 'price-max'].forEach(id=>{
   document.getElementById(id).addEventListener('input', renderTable);
 });
 
-// Survol : aperçu image (délégation d'événements, le tbody est stable même si son contenu change)
-const tbodyEl = document.getElementById('watchlist-tbody');
-tbodyEl.addEventListener('mouseover', (evt)=>{
+// Survol : aperçu image, sur toute la page (fonctionne aussi dans les sections
+// bonnes affaires / signaux, pas juste le tableau principal)
+document.body.addEventListener('mouseover', (evt)=>{
   const cell = evt.target.closest('.name-cell');
   if(cell) showCardImage(evt, cell.dataset.name);
 });
-tbodyEl.addEventListener('mousemove', (evt)=>{
+document.body.addEventListener('mousemove', (evt)=>{
   const cell = evt.target.closest('.name-cell');
   if(cell) positionImagePreview(evt);
 });
-tbodyEl.addEventListener('mouseout', (evt)=>{
+document.body.addEventListener('mouseout', (evt)=>{
   const cell = evt.target.closest('.name-cell');
   if(cell) hideCardImage();
 });
 
-// Clic sur une ligne (hors lignes de détail elles-mêmes) : ouvre/ferme le graphique
+// Clic sur une ligne du tableau (hors lignes de détail elles-mêmes) : ouvre/ferme le graphique
+const tbodyEl = document.getElementById('watchlist-tbody');
 tbodyEl.addEventListener('click', (evt)=>{
   const tr = evt.target.closest('tr[data-row-id]');
   if(!tr) return;
@@ -837,7 +1021,7 @@ fetch('./data.json?_=' + Date.now())
     allRows = flattenRows(data.cards);
     if(allRows.length === 0){
       document.getElementById('watchlist-tbody').innerHTML =
-        `<tr><td colspan="17" class="empty">Aucune carte suivie pour l'instant. Lance <code>python collector.py</code> et <code>python deal_scanner.py</code> au moins une fois pour peupler le dashboard.</td></tr>`;
+        `<tr><td colspan="18" class="empty">Aucune carte suivie pour l'instant. Lance <code>python collector.py</code> et <code>python deal_scanner.py</code> au moins une fois pour peupler le dashboard.</td></tr>`;
     } else {
       renderTable();
     }
@@ -863,10 +1047,20 @@ fetch('./data.json?_=' + Date.now())
   .catch(err => {
     document.getElementById('updated').textContent = 'Erreur de chargement';
     document.getElementById('watchlist-tbody').innerHTML =
-      `<tr><td colspan="17" class="empty">Impossible de charger data.json. Vérifie que le fichier existe dans /docs et que GitHub Pages est activé (Settings → Pages → source: /docs).</td></tr>`;
+      `<tr><td colspan="18" class="empty">Impossible de charger data.json. Vérifie que le fichier existe dans /docs et que GitHub Pages est activé (Settings → Pages → source: /docs).</td></tr>`;
     console.error(err);
   });
 </script>
+
+<div id="pending-watchlist-panel" class="pending-panel" style="display:none;">
+  <div class="pending-header">
+    <span>À ajouter à la watchlist (<span id="pending-watchlist-count">0</span>)</span>
+    <button id="pending-clear-btn" class="action-btn">Vider</button>
+  </div>
+  <div id="pending-watchlist-items" class="pending-items"></div>
+  <button id="pending-copy-btn" class="action-btn action-btn-primary">Copier au format watchlist.json</button>
+  <p class="pending-hint">Colle ce résultat dans le tableau "cards" de <code>watchlist.json</code> sur GitHub.</p>
+</div>
 
 </body>
 </html>
