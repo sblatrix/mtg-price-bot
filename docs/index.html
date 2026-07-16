@@ -470,6 +470,16 @@
   </div>
 </main>
 
+<div id="pending-watchlist-panel" class="pending-panel" style="display:none;">
+  <div class="pending-header">
+    <span>À ajouter à la watchlist (<span id="pending-watchlist-count">0</span>)</span>
+    <button id="pending-clear-btn" class="action-btn">Vider</button>
+  </div>
+  <div id="pending-watchlist-items" class="pending-items"></div>
+  <button id="pending-copy-btn" class="action-btn action-btn-primary">Copier au format watchlist.json</button>
+  <p class="pending-hint">Colle ce résultat dans le tableau "cards" de <code>watchlist.json</code> sur GitHub.</p>
+</div>
+
 <script>
 const RISE = getComputedStyle(document.documentElement).getPropertyValue('--rise').trim();
 const FALL = getComputedStyle(document.documentElement).getPropertyValue('--fall').trim();
@@ -938,8 +948,9 @@ function removeFromPendingWatchlist(name){
 }
 
 function renderPendingPanel(){
-  const list = getPendingWatchlist();
   const panel = document.getElementById('pending-watchlist-panel');
+  if(!panel) return; // sécurité : évite de casser tout le script si l'élément n'existe pas encore
+  const list = getPendingWatchlist();
   document.getElementById('pending-watchlist-count').textContent = list.length;
   panel.style.display = list.length > 0 ? 'block' : 'none';
   document.getElementById('pending-watchlist-items').innerHTML = list.map(n => `
@@ -1051,16 +1062,6 @@ fetch('./data.json?_=' + Date.now())
     console.error(err);
   });
 </script>
-
-<div id="pending-watchlist-panel" class="pending-panel" style="display:none;">
-  <div class="pending-header">
-    <span>À ajouter à la watchlist (<span id="pending-watchlist-count">0</span>)</span>
-    <button id="pending-clear-btn" class="action-btn">Vider</button>
-  </div>
-  <div id="pending-watchlist-items" class="pending-items"></div>
-  <button id="pending-copy-btn" class="action-btn action-btn-primary">Copier au format watchlist.json</button>
-  <p class="pending-hint">Colle ce résultat dans le tableau "cards" de <code>watchlist.json</code> sur GitHub.</p>
-</div>
 
 </body>
 </html>
