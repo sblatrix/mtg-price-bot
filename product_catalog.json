@@ -661,5 +661,27 @@
       "Standard",
       "Foil"
     ]
+  },
+  "68502d0459fa724009550b7e": {
+    "name": "Door of Destinies",
+    "slug": "m14-door-of-destinies-208-rare",
+    "nameSlug": "door-of-destinies",
+    "expansion": "Magic 2014",
+    "expansionSlug": "magic-2014",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6850322f59fa724009567a41": {
+    "name": "Titanic Ultimatum",
+    "slug": "ala-titanic-ultimatum-204-rare",
+    "nameSlug": "titanic-ultimatum",
+    "expansion": "Shards of Alara",
+    "expansionSlug": "shards-of-alara",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }

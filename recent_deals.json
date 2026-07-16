@@ -1,5 +1,44 @@
 [
   {
+    "name": "Nissa Revane",
+    "expansion": "Zendikar",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 3.0,
+    "ref_price": 3.77,
+    "discount_pct": 20.4,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-07-16T06:48:27.977Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/zendikar/card/zen-nissa-revane-170-mythic"
+  },
+  {
+    "name": "Titanic Ultimatum",
+    "expansion": "Shards of Alara",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 1.0,
+    "ref_price": 2.27,
+    "discount_pct": 55.9,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-07-16T06:52:18.389Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/shards-of-alara/card/ala-titanic-ultimatum-204-rare"
+  },
+  {
+    "name": "Door of Destinies",
+    "expansion": "Magic 2014",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 4.0,
+    "ref_price": 6.36,
+    "discount_pct": 37.1,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-07-16T06:53:28.200Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/magic-2014/card/m14-door-of-destinies-208-rare"
+  },
+  {
     "name": "Frenzied Baloth",
     "expansion": "Edge of Eternities",
     "finish": "Standard",
