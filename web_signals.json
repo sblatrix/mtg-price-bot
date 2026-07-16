@@ -1,104 +1,16 @@
 [
   {
-    "article_id": "https://draftsim.com/?p=313213",
-    "title": "The Hobbit MTG Teaser Promises Tweaks on Old Mechanics and New Territory for Red",
-    "url": "https://draftsim.com/mtg-maro-hobbit-teaser/",
+    "article_id": "https://mtgrocks.com/?p=177604",
+    "title": "Forgotten $1 MTG Uncommon Enables Multiple 2-Card Infinite Mana Combos",
+    "url": "https://mtgrocks.com/mtg-ley-weaver/",
     "matched_cards": [
-      "Color Pie"
+      "Two-Headed Giant"
     ],
     "matched_cards_tracked": [
       false
     ],
     "matched_keywords": [],
-    "detected_at": "2026-07-16T20:51:08.676716+00:00",
-    "source": "Draftsim"
-  },
-  {
-    "article_id": "https://draftsim.com/?p=313233",
-    "title": "Misunderstood Bear Commander Turns Vanilla Creatures Into Real Monsters",
-    "url": "https://draftsim.com/mtg-ruxa-commander/",
-    "matched_cards": [
-      "Sunder"
-    ],
-    "matched_cards_tracked": [
-      false
-    ],
-    "matched_keywords": [],
-    "detected_at": "2026-07-16T20:51:08.705530+00:00",
-    "source": "Draftsim"
-  },
-  {
-    "article_id": "https://draftsim.com/?p=312934",
-    "title": "“Cali Commander” Reimagines High-Power EDH with a Curated Banlist",
-    "url": "https://draftsim.com/mtg-cali-commander-announcement/",
-    "matched_cards": [
-      "Curate"
-    ],
-    "matched_cards_tracked": [
-      false
-    ],
-    "matched_keywords": [],
-    "detected_at": "2026-07-16T20:51:08.731454+00:00",
-    "source": "Draftsim"
-  },
-  {
-    "article_id": "https://draftsim.com/?p=312965",
-    "title": "MTG’s Upcoming Reveals Include The Hobbit, Reality Fracture, and Three New Sets",
-    "url": "https://draftsim.com/mtg-magiccon-amsterdam-previews/",
-    "matched_cards": [
-      "Fracture",
-      "Formation"
-    ],
-    "matched_cards_tracked": [
-      false,
-      false
-    ],
-    "matched_keywords": [],
-    "detected_at": "2026-07-16T20:51:08.746971+00:00",
-    "source": "Draftsim"
-  },
-  {
-    "article_id": "https://mtgrocks.com/?p=178022",
-    "title": "Early MTG Reality Fracture Spoiler Is A Terrifying Commander Angel",
-    "url": "https://mtgrocks.com/darksteel-angel-mtg/",
-    "matched_cards": [
-      "Fracture",
-      "Blast from the Past"
-    ],
-    "matched_cards_tracked": [
-      false,
-      false
-    ],
-    "matched_keywords": [],
-    "detected_at": "2026-07-16T20:51:10.014383+00:00",
-    "source": "MTGRocks"
-  },
-  {
-    "article_id": "https://mtgrocks.com/?p=177865",
-    "title": "MTG Insect Typal Legend Wins by Sacrificing Bugs Infinitely",
-    "url": "https://mtgrocks.com/mtg-zask-skittering-swarmlord/",
-    "matched_cards": [
-      "Zask, Skittering Swarmlord"
-    ],
-    "matched_cards_tracked": [
-      false
-    ],
-    "matched_keywords": [],
-    "detected_at": "2026-07-16T20:51:10.065156+00:00",
-    "source": "MTGRocks"
-  },
-  {
-    "article_id": "https://mtgrocks.com/?p=177768",
-    "title": "Boros Artificer Crushes Multiple Events by Drawing Your Whole Deck",
-    "url": "https://mtgrocks.com/mtg-sami-wildcat-captain-cedh/",
-    "matched_cards": [
-      "Sami, Wildcat Captain"
-    ],
-    "matched_cards_tracked": [
-      false
-    ],
-    "matched_keywords": [],
-    "detected_at": "2026-07-16T20:51:10.081184+00:00",
+    "detected_at": "2026-07-16T20:57:30.136124+00:00",
     "source": "MTGRocks"
   },
   {
@@ -116,133 +28,7 @@
       false
     ],
     "matched_keywords": [],
-    "detected_at": "2026-07-16T20:51:10.131187+00:00",
-    "source": "MTGRocks"
-  },
-  {
-    "article_id": "https://mtgrocks.com/?p=177604",
-    "title": "Forgotten $1 MTG Uncommon Enables Multiple 2-Card Infinite Mana Combos",
-    "url": "https://mtgrocks.com/mtg-ley-weaver/",
-    "matched_cards": [
-      "Two-Headed Giant"
-    ],
-    "matched_cards_tracked": [
-      false
-    ],
-    "matched_keywords": [],
-    "detected_at": "2026-07-16T20:51:10.148215+00:00",
-    "source": "MTGRocks"
-  },
-  {
-    "article_id": "https://draftsim.com/?p=313177",
-    "title": "MTG Players Rediscover Banned Card Perfect For Star Trek Decks",
-    "url": "https://draftsim.com/mtg-star-trek-far-out/",
-    "matched_cards": [],
-    "matched_keywords": [
-      "banned"
-    ],
-    "detected_at": "2026-07-16T18:57:05.932501+00:00",
-    "source": "Draftsim"
-  },
-  {
-    "article_id": "https://draftsim.com/?p=313082",
-    "title": "15 Filler Marvel Legends with Zero Decklists Online",
-    "url": "https://draftsim.com/mtg-msh-16-unplayed-commanders/",
-    "matched_cards": [],
-    "matched_keywords": [
-      "playable"
-    ],
-    "detected_at": "2026-07-16T18:57:05.932851+00:00",
-    "source": "Draftsim"
-  },
-  {
-    "article_id": "https://draftsim.com/?p=313050",
-    "title": "MTG Reveals 26 New Star Trek Spoilers, EDH Precons, and Shock Land Reprints",
-    "url": "https://draftsim.com/mtg-star-trek-first-look/",
-    "matched_cards": [],
-    "matched_keywords": [
-      "reprint"
-    ],
-    "detected_at": "2026-07-16T18:57:05.933000+00:00",
-    "source": "Draftsim"
-  },
-  {
-    "article_id": "https://mtgrocks.com/?p=178029",
-    "title": "Drawf Typal Tutor Spikes 362% After MTG Hobbit Teaser",
-    "url": "https://mtgrocks.com/mtg-dwarven-recruiter-price-spike/",
-    "matched_cards": [],
-    "matched_keywords": [
-      "spike",
-      "price"
-    ],
-    "detected_at": "2026-07-16T18:57:07.119298+00:00",
-    "source": "MTGRocks"
-  },
-  {
-    "article_id": "https://mtgrocks.com/?p=177901",
-    "title": "Wizards Reveals 8 MTG Star Trek Promos",
-    "url": "https://mtgrocks.com/wizards-reveals-8-mtg-star-trek-promos/",
-    "matched_cards": [],
-    "matched_keywords": [
-      "reprint"
-    ],
-    "detected_at": "2026-07-16T18:57:07.120166+00:00",
-    "source": "MTGRocks"
-  },
-  {
-    "article_id": "https://mtgrocks.com/?p=177925",
-    "title": "Wizards of the Coast Announces Surprise Chaos Vault Coming This Week",
-    "url": "https://mtgrocks.com/new-mtg-chaos-vault-announced-magiccon-amsterdam/",
-    "matched_cards": [],
-    "matched_keywords": [
-      "price"
-    ],
-    "detected_at": "2026-07-16T18:57:07.120473+00:00",
-    "source": "MTGRocks"
-  },
-  {
-    "article_id": "https://mtgrocks.com/?p=177902",
-    "title": "New Merfolk Typal Legend Spikes 267% In Price Thanks to Multiformat Demand",
-    "url": "https://mtgrocks.com/mtg-namor-the-sub-mariner-price-spike/",
-    "matched_cards": [],
-    "matched_keywords": [
-      "spike",
-      "price"
-    ],
-    "detected_at": "2026-07-16T18:57:07.120917+00:00",
-    "source": "MTGRocks"
-  },
-  {
-    "article_id": "https://mtgrocks.com/?p=177813",
-    "title": "MTG Star Trek First Look Reveals Wild New Creature Stealing Mechanic",
-    "url": "https://mtgrocks.com/mtg-star-trek-first-look-mechanics/",
-    "matched_cards": [],
-    "matched_keywords": [
-      "reprint"
-    ],
-    "detected_at": "2026-07-16T18:57:07.121344+00:00",
-    "source": "MTGRocks"
-  },
-  {
-    "article_id": "https://mtgrocks.com/?p=177781",
-    "title": "Insane Star Trek Two-Drop Creature Exiles Cards From Opponent’s Hand",
-    "url": "https://mtgrocks.com/mtg-star-trek-first-look-spoilers/",
-    "matched_cards": [],
-    "matched_keywords": [
-      "reprint"
-    ],
-    "detected_at": "2026-07-16T18:57:07.121729+00:00",
-    "source": "MTGRocks"
-  },
-  {
-    "article_id": "https://mtgrocks.com/?p=177778",
-    "title": "MTG Star Trek Reprints $80 Staple Featuring Benedict Cumberbatch",
-    "url": "https://mtgrocks.com/mtg-star-trek-first-look-reprints/",
-    "matched_cards": [],
-    "matched_keywords": [
-      "reprint"
-    ],
-    "detected_at": "2026-07-16T18:57:07.121839+00:00",
+    "detected_at": "2026-07-16T20:57:30.120427+00:00",
     "source": "MTGRocks"
   },
   {
@@ -250,10 +36,243 @@
     "title": "MTG Jurassic Park Legend Spikes 1273% After Beloved Actor Death",
     "url": "https://mtgrocks.com/ellie-and-alan-paleontologists-mtg/",
     "matched_cards": [],
+    "matched_cards_tracked": [],
     "matched_keywords": [
       "spike"
     ],
-    "detected_at": "2026-07-16T18:57:07.121952+00:00",
+    "detected_at": "2026-07-16T20:57:30.081029+00:00",
     "source": "MTGRocks"
+  },
+  {
+    "article_id": "https://mtgrocks.com/?p=177778",
+    "title": "MTG Star Trek Reprints $80 Staple Featuring Benedict Cumberbatch",
+    "url": "https://mtgrocks.com/mtg-star-trek-first-look-reprints/",
+    "matched_cards": [],
+    "matched_cards_tracked": [],
+    "matched_keywords": [
+      "reprint"
+    ],
+    "detected_at": "2026-07-16T20:57:30.071612+00:00",
+    "source": "MTGRocks"
+  },
+  {
+    "article_id": "https://mtgrocks.com/?p=177781",
+    "title": "Insane Star Trek Two-Drop Creature Exiles Cards From Opponent’s Hand",
+    "url": "https://mtgrocks.com/mtg-star-trek-first-look-spoilers/",
+    "matched_cards": [],
+    "matched_cards_tracked": [],
+    "matched_keywords": [
+      "reprint"
+    ],
+    "detected_at": "2026-07-16T20:57:30.061572+00:00",
+    "source": "MTGRocks"
+  },
+  {
+    "article_id": "https://mtgrocks.com/?p=177813",
+    "title": "MTG Star Trek First Look Reveals Wild New Creature Stealing Mechanic",
+    "url": "https://mtgrocks.com/mtg-star-trek-first-look-mechanics/",
+    "matched_cards": [],
+    "matched_cards_tracked": [],
+    "matched_keywords": [
+      "reprint"
+    ],
+    "detected_at": "2026-07-16T20:57:30.033765+00:00",
+    "source": "MTGRocks"
+  },
+  {
+    "article_id": "https://mtgrocks.com/?p=177768",
+    "title": "Boros Artificer Crushes Multiple Events by Drawing Your Whole Deck",
+    "url": "https://mtgrocks.com/mtg-sami-wildcat-captain-cedh/",
+    "matched_cards": [
+      "Sami, Wildcat Captain"
+    ],
+    "matched_cards_tracked": [
+      false
+    ],
+    "matched_keywords": [],
+    "detected_at": "2026-07-16T20:57:30.017336+00:00",
+    "source": "MTGRocks"
+  },
+  {
+    "article_id": "https://mtgrocks.com/?p=177902",
+    "title": "New Merfolk Typal Legend Spikes 267% In Price Thanks to Multiformat Demand",
+    "url": "https://mtgrocks.com/mtg-namor-the-sub-mariner-price-spike/",
+    "matched_cards": [
+      "The Pro Tour"
+    ],
+    "matched_cards_tracked": [
+      false
+    ],
+    "matched_keywords": [
+      "spike",
+      "price"
+    ],
+    "detected_at": "2026-07-16T20:57:30.003322+00:00",
+    "source": "MTGRocks"
+  },
+  {
+    "article_id": "https://mtgrocks.com/?p=177865",
+    "title": "MTG Insect Typal Legend Wins by Sacrificing Bugs Infinitely",
+    "url": "https://mtgrocks.com/mtg-zask-skittering-swarmlord/",
+    "matched_cards": [
+      "Zask, Skittering Swarmlord"
+    ],
+    "matched_cards_tracked": [
+      false
+    ],
+    "matched_keywords": [],
+    "detected_at": "2026-07-16T20:57:29.986541+00:00",
+    "source": "MTGRocks"
+  },
+  {
+    "article_id": "https://mtgrocks.com/?p=177925",
+    "title": "Wizards of the Coast Announces Surprise Chaos Vault Coming This Week",
+    "url": "https://mtgrocks.com/new-mtg-chaos-vault-announced-magiccon-amsterdam/",
+    "matched_cards": [
+      "Predict"
+    ],
+    "matched_cards_tracked": [
+      false
+    ],
+    "matched_keywords": [
+      "price"
+    ],
+    "detected_at": "2026-07-16T20:57:29.972498+00:00",
+    "source": "MTGRocks"
+  },
+  {
+    "article_id": "https://mtgrocks.com/?p=177901",
+    "title": "Wizards Reveals 8 MTG Star Trek Promos",
+    "url": "https://mtgrocks.com/wizards-reveals-8-mtg-star-trek-promos/",
+    "matched_cards": [],
+    "matched_cards_tracked": [],
+    "matched_keywords": [
+      "reprint"
+    ],
+    "detected_at": "2026-07-16T20:57:29.951047+00:00",
+    "source": "MTGRocks"
+  },
+  {
+    "article_id": "https://mtgrocks.com/?p=178022",
+    "title": "Early MTG Reality Fracture Spoiler Is A Terrifying Commander Angel",
+    "url": "https://mtgrocks.com/darksteel-angel-mtg/",
+    "matched_cards": [
+      "Fracture",
+      "Blast from the Past"
+    ],
+    "matched_cards_tracked": [
+      false,
+      false
+    ],
+    "matched_keywords": [],
+    "detected_at": "2026-07-16T20:57:29.913345+00:00",
+    "source": "MTGRocks"
+  },
+  {
+    "article_id": "https://mtgrocks.com/?p=178029",
+    "title": "Dwarf Typal Tutor Spikes 362% After MTG Hobbit Teaser",
+    "url": "https://mtgrocks.com/mtg-dwarven-recruiter-price-spike/",
+    "matched_cards": [],
+    "matched_cards_tracked": [],
+    "matched_keywords": [
+      "spike",
+      "price"
+    ],
+    "detected_at": "2026-07-16T20:57:29.890878+00:00",
+    "source": "MTGRocks"
+  },
+  {
+    "article_id": "https://draftsim.com/?p=312965",
+    "title": "MTG’s Upcoming Reveals Include The Hobbit, Reality Fracture, and Three New Sets",
+    "url": "https://draftsim.com/mtg-magiccon-amsterdam-previews/",
+    "matched_cards": [
+      "Fracture",
+      "Formation"
+    ],
+    "matched_cards_tracked": [
+      false,
+      false
+    ],
+    "matched_keywords": [],
+    "detected_at": "2026-07-16T20:57:28.746697+00:00",
+    "source": "Draftsim"
+  },
+  {
+    "article_id": "https://draftsim.com/?p=312934",
+    "title": "“Cali Commander” Reimagines High-Power EDH with a Curated Banlist",
+    "url": "https://draftsim.com/mtg-cali-commander-announcement/",
+    "matched_cards": [
+      "Curate"
+    ],
+    "matched_cards_tracked": [
+      false
+    ],
+    "matched_keywords": [],
+    "detected_at": "2026-07-16T20:57:28.731690+00:00",
+    "source": "Draftsim"
+  },
+  {
+    "article_id": "https://draftsim.com/?p=313050",
+    "title": "MTG Reveals 26 New Star Trek Spoilers, EDH Precons, and Shock Land Reprints",
+    "url": "https://draftsim.com/mtg-star-trek-first-look/",
+    "matched_cards": [],
+    "matched_cards_tracked": [],
+    "matched_keywords": [
+      "reprint"
+    ],
+    "detected_at": "2026-07-16T20:57:28.719061+00:00",
+    "source": "Draftsim"
+  },
+  {
+    "article_id": "https://draftsim.com/?p=313082",
+    "title": "15 Filler Marvel Legends with Zero Decklists Online",
+    "url": "https://draftsim.com/mtg-msh-16-unplayed-commanders/",
+    "matched_cards": [],
+    "matched_cards_tracked": [],
+    "matched_keywords": [
+      "playable"
+    ],
+    "detected_at": "2026-07-16T20:57:28.709496+00:00",
+    "source": "Draftsim"
+  },
+  {
+    "article_id": "https://draftsim.com/?p=313177",
+    "title": "MTG Players Rediscover Banned Card Perfect For Star Trek Decks",
+    "url": "https://draftsim.com/mtg-star-trek-far-out/",
+    "matched_cards": [],
+    "matched_cards_tracked": [],
+    "matched_keywords": [
+      "banned"
+    ],
+    "detected_at": "2026-07-16T20:57:28.688905+00:00",
+    "source": "Draftsim"
+  },
+  {
+    "article_id": "https://draftsim.com/?p=313233",
+    "title": "Misunderstood Bear Commander Turns Vanilla Creatures Into Real Monsters",
+    "url": "https://draftsim.com/mtg-ruxa-commander/",
+    "matched_cards": [
+      "Sunder"
+    ],
+    "matched_cards_tracked": [
+      false
+    ],
+    "matched_keywords": [],
+    "detected_at": "2026-07-16T20:57:28.677869+00:00",
+    "source": "Draftsim"
+  },
+  {
+    "article_id": "https://draftsim.com/?p=313213",
+    "title": "The Hobbit MTG Teaser Promises Tweaks on Old Mechanics and New Territory for Red",
+    "url": "https://draftsim.com/mtg-maro-hobbit-teaser/",
+    "matched_cards": [
+      "Color Pie"
+    ],
+    "matched_cards_tracked": [
+      false
+    ],
+    "matched_keywords": [],
+    "detected_at": "2026-07-16T20:57:28.654038+00:00",
+    "source": "Draftsim"
   }
 ]
