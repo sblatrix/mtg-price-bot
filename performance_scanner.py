@@ -135,7 +135,12 @@ def get_event_deck_ids(event_id: str, format_code: str) -> list[tuple[str, str]]
 
 
 def get_deck_cards(event_id: str, deck_id: str, format_code: str) -> list[str]:
-    """Récupère la liste des cartes (deck principal + sideboard) d'une decklist."""
+    """Récupère la liste des cartes (deck principal + sideboard) d'une decklist.
+
+    Gère deux structures possibles selon comment le HTML se transforme en
+    texte : soit "4 Ragavan, Nimble Pilferer" sur une seule ligne, soit "4"
+    et "Ragavan, Nimble Pilferer" sur deux lignes séparées (cas d'un tableau
+    avec compte/nom dans des cellules distinctes)."""
     url = f"{BASE_URL}/event?e={event_id}&d={deck_id}&f={format_code}"
     resp = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=20)
     resp.raise_for_status()
@@ -143,15 +148,33 @@ def get_deck_cards(event_id: str, deck_id: str, format_code: str) -> list[str]:
     lines = [l.strip() for l in soup.get_text("\n").split("\n") if l.strip()]
 
     cards = []
-    for line in lines:
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+
         if SECTION_HEADERS_RE.match(line):
+            i += 1
             continue
+
+        # cas 1 : "4 Ragavan, Nimble Pilferer" sur une seule ligne
         m = CARD_LINE_RE.match(line)
         if m:
             count, name = int(m.group(1)), m.group(2).strip()
-            # filtre grossier : évite de capturer des faux positifs (prix, stats...)
             if 0 < count <= 4 and len(name) > 2 and not name.isdigit():
                 cards.append(name)
+            i += 1
+            continue
+
+        # cas 2 : la ligne est juste un nombre (1-4), le nom est sur la ligne suivante
+        if re.fullmatch(r"\d+", line) and 0 < int(line) <= 4 and i + 1 < len(lines):
+            next_line = lines[i + 1]
+            if not SECTION_HEADERS_RE.match(next_line) and not re.fullmatch(r"\d+", next_line) and len(next_line) > 2:
+                cards.append(next_line)
+                i += 2
+                continue
+
+        i += 1
+
     return cards
 
 
