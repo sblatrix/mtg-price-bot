@@ -35,11 +35,6 @@ jobs:
       - name: Run official Cardmarket price guide sync
         run: python cardmarket_official.py
 
-      - name: Run Reddit scanner
-        env:
-          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-        run: python reddit_scanner.py
-
       - name: Run article scanner (Draftsim, MTGRocks)
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
