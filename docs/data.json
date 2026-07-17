@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T18:02:28.038649+00:00",
+  "generated_at": "2026-07-17T19:00:25.092073+00:00",
   "cards": [
     {
       "name": "Abomination, Irradiated Brute",
@@ -16776,7 +16776,7 @@
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Captain%20Marvel%2C%20Earth%27s%20Protector",
         "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Captain%20Marvel%2C%20Earth%27s%20Protector"
       },
-      "has_competitive_signal": true,
+      "has_competitive_signal": false,
       "has_web_signal": false
     },
     {
@@ -67969,7 +67969,7 @@
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Namor%20the%20Sub-Mariner",
         "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Namor%20the%20Sub-Mariner"
       },
-      "has_competitive_signal": true,
+      "has_competitive_signal": false,
       "has_web_signal": true
     },
     {
@@ -104632,7 +104632,7 @@
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Toxic%20Deluge",
         "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Toxic%20Deluge"
       },
-      "has_competitive_signal": true,
+      "has_competitive_signal": false,
       "has_web_signal": false
     },
     {
@@ -116313,6 +116313,1910 @@
   ],
   "competitive_signals": [
     {
+      "name": "Nethergoyf",
+      "mentions": 3,
+      "rarity": "mythic",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:23.173557+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Nethergoyf",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Nethergoyf"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Flagstones of Trokair",
+      "mentions": 3,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:23.173467+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Flagstones%20of%20Trokair",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Flagstones%20of%20Trokair"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Practiced Offense",
+      "mentions": 3,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:22.759621+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Practiced%20Offense",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Practiced%20Offense"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Darkbore Pathway",
+      "mentions": 3,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:22.351283+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Darkbore%20Pathway",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Darkbore%20Pathway"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Force of Despair",
+      "mentions": 3,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:21.536957+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Force%20of%20Despair",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Force%20of%20Despair"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Curator of Mysteries",
+      "mentions": 3,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:21.266284+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Curator%20of%20Mysteries",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Curator%20of%20Mysteries"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Agatha's Soul Cauldron",
+      "mentions": 3,
+      "rarity": "mythic",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:21.130138+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Agatha%27s%20Soul%20Cauldron",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Agatha%27s%20Soul%20Cauldron"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Flusterstorm",
+      "mentions": 3,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:20.324440+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Flusterstorm",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Flusterstorm"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Sokenzan, Crucible of Defiance",
+      "mentions": 3,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:20.324320+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Sokenzan%2C%20Crucible%20of%20Defiance",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Sokenzan%2C%20Crucible%20of%20Defiance"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Icetill Explorer",
+      "mentions": 4,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 4 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:20.189524+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Icetill%20Explorer",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Icetill%20Explorer"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Badgermole Cub",
+      "mentions": 4,
+      "rarity": "mythic",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 4 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:19.778770+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Badgermole%20Cub",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Badgermole%20Cub"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Inevitable Betrayal",
+      "mentions": 4,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 4 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:19.778760+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Inevitable%20Betrayal",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Inevitable%20Betrayal"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Living End",
+      "mentions": 4,
+      "rarity": "mythic",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 4 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:19.778678+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Living%20End",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Living%20End"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Shardless Agent",
+      "mentions": 4,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 4 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:19.778567+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Shardless%20Agent",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Shardless%20Agent"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Blooming Marsh",
+      "mentions": 5,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 5 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:18.570997+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Blooming%20Marsh",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Blooming%20Marsh"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Winternight Stories",
+      "mentions": 5,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 5 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:18.172258+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Winternight%20Stories",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Winternight%20Stories"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Thundertrap Trainer",
+      "mentions": 6,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 6 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:17.765382+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Thundertrap%20Trainer",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Thundertrap%20Trainer"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Underground Mortuary",
+      "mentions": 6,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 6 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:17.765232+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Underground%20Mortuary",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Underground%20Mortuary"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Harbinger of the Seas",
+      "mentions": 7,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 7 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:16.813267+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Harbinger%20of%20the%20Seas",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Harbinger%20of%20the%20Seas"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Sunbaked Canyon",
+      "mentions": 7,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 7 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:15.993939+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Sunbaked%20Canyon",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Sunbaked%20Canyon"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Culling Ritual",
+      "mentions": 8,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 8 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:15.727085+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Culling%20Ritual",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Culling%20Ritual"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "White Orchid Phantom",
+      "mentions": 9,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 9 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:15.054203+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=White%20Orchid%20Phantom",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=White%20Orchid%20Phantom"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Artist's Talent",
+      "mentions": 10,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 10 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:12.741935+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Artist%27s%20Talent",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Artist%27s%20Talent"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Raucous Theater",
+      "mentions": 10,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 10 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:12.741783+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Raucous%20Theater",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Raucous%20Theater"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Emperor of Bones",
+      "mentions": 11,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 11 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:12.339502+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Emperor%20of%20Bones",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Emperor%20of%20Bones"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Subtlety",
+      "mentions": 11,
+      "rarity": "mythic",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 11 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:12.339412+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Subtlety",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Subtlety"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Clarion Conqueror",
+      "mentions": 11,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 11 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:12.339291+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Clarion%20Conqueror",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Clarion%20Conqueror"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Temple Garden",
+      "mentions": 11,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 11 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:12.071403+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Temple%20Garden",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Temple%20Garden"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Cori Mountain Monastery",
+      "mentions": 12,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 12 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:11.937715+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Cori%20Mountain%20Monastery",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Cori%20Mountain%20Monastery"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Avengers Disassembled",
+      "mentions": 12,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 12 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:11.937641+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Avengers%20Disassembled",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Avengers%20Disassembled"
+      },
+      "is_tracked": true
+    },
+    {
+      "name": "Teferi, Hero of Dominaria",
+      "mentions": 13,
+      "rarity": "mythic",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 13 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:11.406781+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Teferi%2C%20Hero%20of%20Dominaria",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Teferi%2C%20Hero%20of%20Dominaria"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Consult the Star Charts",
+      "mentions": 13,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 13 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:11.406700+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Consult%20the%20Star%20Charts",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Consult%20the%20Star%20Charts"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Blood Crypt",
+      "mentions": 13,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 13 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:11.406573+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Blood%20Crypt",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Blood%20Crypt"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Drannith Magistrate",
+      "mentions": 14,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 14 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:09.883010+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Drannith%20Magistrate",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Drannith%20Magistrate"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Supreme Verdict",
+      "mentions": 15,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 15 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:09.613249+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Supreme%20Verdict",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Supreme%20Verdict"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Erode",
+      "mentions": 16,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 16 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:09.478757+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Erode",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Erode"
+      },
+      "is_tracked": true
+    },
+    {
+      "name": "Overgrown Tomb",
+      "mentions": 16,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 16 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:09.478640+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Overgrown%20Tomb",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Overgrown%20Tomb"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Wish",
+      "mentions": 16,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 16 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:09.343392+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Wish",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Wish"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Valakut Awakening",
+      "mentions": 16,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 16 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:09.343346+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Valakut%20Awakening",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Valakut%20Awakening"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Ruby Medallion",
+      "mentions": 16,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 16 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:09.343297+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Ruby%20Medallion",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Ruby%20Medallion"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Ral, Monsoon Mage",
+      "mentions": 16,
+      "rarity": "mythic",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 16 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:09.343178+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Ral%2C%20Monsoon%20Mage",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Ral%2C%20Monsoon%20Mage"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Hurkyl's Recall",
+      "mentions": 18,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 18 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:09.205251+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Hurkyl%27s%20Recall",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Hurkyl%27s%20Recall"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Brotherhood's End",
+      "mentions": 19,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 19 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:09.069045+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Brotherhood%27s%20End",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Brotherhood%27s%20End"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Wistfulness",
+      "mentions": 21,
+      "rarity": "mythic",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 21 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:08.801645+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Wistfulness",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Wistfulness"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Arcbound Ravager",
+      "mentions": 24,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 24 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:07.845671+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Arcbound%20Ravager",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Arcbound%20Ravager"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Scapeshift",
+      "mentions": 25,
+      "rarity": "mythic",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 25 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:06.615072+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Scapeshift",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Scapeshift"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Superior Spider-Man",
+      "mentions": 26,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 26 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:06.337102+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Superior%20Spider-Man",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Superior%20Spider-Man"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Verdant Catacombs",
+      "mentions": 27,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 27 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:05.921602+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Verdant%20Catacombs",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Verdant%20Catacombs"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Hedge Maze",
+      "mentions": 28,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 28 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:05.921513+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Hedge%20Maze",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Hedge%20Maze"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Swan Song",
+      "mentions": 28,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 28 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:05.783895+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Swan%20Song",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Swan%20Song"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Extinguisher Battleship",
+      "mentions": 30,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 30 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:05.509218+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Extinguisher%20Battleship",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Extinguisher%20Battleship"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Cityscape Leveler",
+      "mentions": 30,
+      "rarity": "mythic",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 30 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:05.509118+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Cityscape%20Leveler",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Cityscape%20Leveler"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Past in Flames",
+      "mentions": 32,
+      "rarity": "mythic",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 32 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:05.090931+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Past%20in%20Flames",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Past%20in%20Flames"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Goryo's Vengeance",
+      "mentions": 33,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 33 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:05.090690+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Goryo%27s%20Vengeance",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Goryo%27s%20Vengeance"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Commercial District",
+      "mentions": 33,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 33 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:04.818967+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Commercial%20District",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Commercial%20District"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Otawara, Soaring City",
+      "mentions": 34,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 34 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:04.652330+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Otawara%2C%20Soaring%20City",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Otawara%2C%20Soaring%20City"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Endurance",
+      "mentions": 35,
+      "rarity": "mythic",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 35 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:04.348900+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Endurance",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Endurance"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Torpor Orb",
+      "mentions": 35,
+      "rarity": "mythic",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 35 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:04.348815+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Torpor%20Orb",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Torpor%20Orb"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Dryad Arbor",
+      "mentions": 36,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 36 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:04.348524+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Dryad%20Arbor",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Dryad%20Arbor"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Ensnaring Bridge",
+      "mentions": 37,
+      "rarity": "mythic",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 37 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:04.175394+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Ensnaring%20Bridge",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Ensnaring%20Bridge"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Karn, the Great Creator",
+      "mentions": 37,
+      "rarity": "mythic",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 37 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:04.023504+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Karn%2C%20the%20Great%20Creator",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Karn%2C%20the%20Great%20Creator"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Walking Ballista",
+      "mentions": 37,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 37 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:03.840544+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Walking%20Ballista",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Walking%20Ballista"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Green Sun's Zenith",
+      "mentions": 37,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 37 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:03.840411+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Green%20Sun%27s%20Zenith",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Green%20Sun%27s%20Zenith"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Sire of Seven Deaths",
+      "mentions": 38,
+      "rarity": "mythic",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 38 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:03.662283+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Sire%20of%20Seven%20Deaths",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Sire%20of%20Seven%20Deaths"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Grove of the Burnwillows",
+      "mentions": 39,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 39 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:03.662131+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Grove%20of%20the%20Burnwillows",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Grove%20of%20the%20Burnwillows"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Stomping Ground",
+      "mentions": 39,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 39 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:03.477830+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Stomping%20Ground",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Stomping%20Ground"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "March of Otherworldly Light",
+      "mentions": 40,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 40 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:03.326547+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=March%20of%20Otherworldly%20Light",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=March%20of%20Otherworldly%20Light"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Shivan Reef",
+      "mentions": 41,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 41 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:03.326478+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Shivan%20Reef",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Shivan%20Reef"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Thief of Existence",
+      "mentions": 41,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 41 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:03.326410+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Thief%20of%20Existence",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Thief%20of%20Existence"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Force of Vigor",
+      "mentions": 42,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 42 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:03.326325+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Force%20of%20Vigor",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Force%20of%20Vigor"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Summoner's Pact",
+      "mentions": 42,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 42 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:03.326186+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Summoner%27s%20Pact",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Summoner%27s%20Pact"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Sowing Mycospawn",
+      "mentions": 42,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 42 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:03.149152+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Sowing%20Mycospawn",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Sowing%20Mycospawn"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Seasoned Pyromancer",
+      "mentions": 43,
+      "rarity": "mythic",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 43 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:03.148973+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Seasoned%20Pyromancer",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Seasoned%20Pyromancer"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Arena of Glory",
+      "mentions": 43,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 43 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:03.148893+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Arena%20of%20Glory",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Arena%20of%20Glory"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Shadowy Backstreet",
+      "mentions": 45,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 45 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:03.004310+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Shadowy%20Backstreet",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Shadowy%20Backstreet"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Griselbrand",
+      "mentions": 45,
+      "rarity": "mythic",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 45 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:03.004203+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Griselbrand",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Griselbrand"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Dalkovan Encampment",
+      "mentions": 45,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 45 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.830757+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Dalkovan%20Encampment",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Dalkovan%20Encampment"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Ugin, Eye of the Storms",
+      "mentions": 46,
+      "rarity": "mythic",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 46 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.830582+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Ugin%2C%20Eye%20of%20the%20Storms",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Ugin%2C%20Eye%20of%20the%20Storms"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Pinnacle Emissary",
+      "mentions": 46,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 46 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.830475+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Pinnacle%20Emissary",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Pinnacle%20Emissary"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Kappa Cannoneer",
+      "mentions": 46,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 46 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.830341+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Kappa%20Cannoneer",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Kappa%20Cannoneer"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Breeding Pool",
+      "mentions": 47,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 47 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.830257+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Breeding%20Pool",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Breeding%20Pool"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Spirebluff Canal",
+      "mentions": 47,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 47 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.830047+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Spirebluff%20Canal",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Spirebluff%20Canal"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Shadowspear",
+      "mentions": 47,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 47 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.830001+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Shadowspear",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Shadowspear"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Undercity Sewers",
+      "mentions": 48,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 48 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.829926+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Undercity%20Sewers",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Undercity%20Sewers"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Windswept Heath",
+      "mentions": 48,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 48 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.829791+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Windswept%20Heath",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Windswept%20Heath"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Thought-Knot Seer",
+      "mentions": 48,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 48 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.649668+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Thought-Knot%20Seer",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Thought-Knot%20Seer"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Weapons Manufacturing",
+      "mentions": 48,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 48 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.649572+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Weapons%20Manufacturing",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg/edge-of-eternities/card/eoe-weapons-manufacturing-168-rare"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Misty Rainforest",
+      "mentions": 48,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 48 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.649505+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Misty%20Rainforest",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Misty%20Rainforest"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Rest in Peace",
+      "mentions": 49,
+      "rarity": "mythic",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 49 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.649414+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Rest%20in%20Peace",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Rest%20in%20Peace"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Bloodstained Mire",
+      "mentions": 49,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 49 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.649297+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Bloodstained%20Mire",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Bloodstained%20Mire"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Blade of the Bloodchief",
+      "mentions": 49,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 49 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.506928+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Blade%20of%20the%20Bloodchief",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Blade%20of%20the%20Bloodchief"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Watery Grave",
+      "mentions": 51,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 51 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.317643+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Watery%20Grave",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Watery%20Grave"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Chalice of the Void",
+      "mentions": 53,
+      "rarity": "mythic",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 53 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.317576+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Chalice%20of%20the%20Void",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Chalice%20of%20the%20Void"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Thundering Falls",
+      "mentions": 53,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 53 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.317429+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Thundering%20Falls",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Thundering%20Falls"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Ragavan, Nimble Pilferer",
+      "mentions": 54,
+      "rarity": "mythic",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 54 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.317381+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Ragavan%2C%20Nimble%20Pilferer",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Ragavan%2C%20Nimble%20Pilferer"
+      },
+      "is_tracked": true
+    },
+    {
+      "name": "Soulless Jailer",
+      "mentions": 55,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 55 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.317321+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Soulless%20Jailer",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Soulless%20Jailer"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Godless Shrine",
+      "mentions": 56,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 56 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.317229+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Godless%20Shrine",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Godless%20Shrine"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Quantum Riddler",
+      "mentions": 57,
+      "rarity": "mythic",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 57 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.317184+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Quantum%20Riddler",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Quantum%20Riddler"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Emry, Lurker of the Loch",
+      "mentions": 57,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 57 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.317129+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Emry%2C%20Lurker%20of%20the%20Loch",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Emry%2C%20Lurker%20of%20the%20Loch"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Ugin's Labyrinth",
+      "mentions": 58,
+      "rarity": "mythic",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 58 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.317028+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Ugin%27s%20Labyrinth",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Ugin%27s%20Labyrinth"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Force of Negation",
+      "mentions": 62,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 62 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.316877+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Force%20of%20Negation",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Force%20of%20Negation"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Cavern of Souls",
+      "mentions": 62,
+      "rarity": "mythic",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 62 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.316821+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Cavern%20of%20Souls",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Cavern%20of%20Souls"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Meticulous Archive",
+      "mentions": 63,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 63 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.316722+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Meticulous%20Archive",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Meticulous%20Archive"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Hallowed Fountain",
+      "mentions": 64,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 64 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.132118+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Hallowed%20Fountain",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Hallowed%20Fountain"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Elegant Parlor",
+      "mentions": 67,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 67 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.131942+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Elegant%20Parlor",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Elegant%20Parlor"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Surgical Extraction",
+      "mentions": 68,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 68 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.131868+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Surgical%20Extraction",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Surgical%20Extraction"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Fiery Islet",
+      "mentions": 69,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 69 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.131803+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Fiery%20Islet",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Fiery%20Islet"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Wooded Foothills",
+      "mentions": 70,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 70 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.131731+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Wooded%20Foothills",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Wooded%20Foothills"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Polluted Delta",
+      "mentions": 71,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 71 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.131685+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Polluted%20Delta",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Polluted%20Delta"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Scalding Tarn",
+      "mentions": 71,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 71 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.131630+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Scalding%20Tarn",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Scalding%20Tarn"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Sacred Foundry",
+      "mentions": 78,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 78 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.131483+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Sacred%20Foundry",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg/gatecrash/card/gtc-sacred-foundry-245-rare"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Gemstone Caverns",
+      "mentions": 87,
+      "rarity": "mythic",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 87 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.131361+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Gemstone%20Caverns",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Gemstone%20Caverns"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Marsh Flats",
+      "mentions": 91,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 91 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.131192+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Marsh%20Flats",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Marsh%20Flats"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Steam Vents",
+      "mentions": 92,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 92 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.131127+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Steam%20Vents",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Steam%20Vents"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Arid Mesa",
+      "mentions": 107,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 107 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.130942+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Arid%20Mesa",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Arid%20Mesa"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Trinisphere",
+      "mentions": 112,
+      "rarity": "mythic",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 112 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.130882+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Trinisphere",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Trinisphere"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Boseiju, Who Endures",
+      "mentions": 112,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 112 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.130818+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Boseiju%2C%20Who%20Endures",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Boseiju%2C%20Who%20Endures"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Urza's Saga",
+      "mentions": 117,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 117 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.130753+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Urza%27s%20Saga",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Urza%27s%20Saga"
+      },
+      "is_tracked": false
+    },
+    {
+      "name": "Flooded Strand",
+      "mentions": 129,
+      "rarity": "rare",
+      "format": "modern",
+      "event": "Pro Tour Marvel Super Heroes (Modern)",
+      "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
+      "summary": "Vue dans 129 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
+      "detected_at": "2026-07-17T19:00:02.130638+00:00",
+      "source": "Pro Tour (magic.gg)",
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Flooded%20Strand",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Flooded%20Strand"
+      },
+      "is_tracked": false
+    },
+    {
       "name": "M.O.D.O.K.",
       "format": "pioneer",
       "rarity": "mythic",
@@ -116805,1910 +118709,6 @@
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Kaito%2C%20Bane%20of%20Nightmares",
         "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Kaito%2C%20Bane%20of%20Nightmares"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Takenuma, Abandoned Mire",
-      "format": "pioneer",
-      "rarity": "rare",
-      "appearances": 23,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:53:15.420063+00:00",
-      "url": "https://mtgtop8.com/event?e=88260&d=869675&f=PI",
-      "summary": "Performe en pioneer sans être largement adoptée : vue dans 23 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Takenuma%2C%20Abandoned%20Mire",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Takenuma%2C%20Abandoned%20Mire"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Mutavault",
-      "format": "pioneer",
-      "rarity": "rare",
-      "appearances": 20,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:53:15.420004+00:00",
-      "url": "https://mtgtop8.com/event?e=88260&d=869675&f=PI",
-      "summary": "Performe en pioneer sans être largement adoptée : vue dans 20 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Mutavault",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Mutavault"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Multiversal Passage",
-      "format": "pioneer",
-      "rarity": "rare",
-      "appearances": 3,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:53:15.419943+00:00",
-      "url": "https://mtgtop8.com/event?e=88260&d=869675&f=PI",
-      "summary": "Performe en pioneer sans être largement adoptée : vue dans 3 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Multiversal%20Passage",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Multiversal%20Passage"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Otawara, Soaring City",
-      "format": "pioneer",
-      "rarity": "rare",
-      "appearances": 15,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:53:15.419881+00:00",
-      "url": "https://mtgtop8.com/event?e=88260&d=869675&f=PI",
-      "summary": "Performe en pioneer sans être largement adoptée : vue dans 15 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Otawara%2C%20Soaring%20City",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Otawara%2C%20Soaring%20City"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Brazen Borrower",
-      "format": "modern",
-      "rarity": "mythic",
-      "appearances": 2,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:24.011152+00:00",
-      "url": "https://mtgtop8.com/event?e=88305&d=869975&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 2 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Brazen%20Borrower",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Brazen%20Borrower"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Consult the Star Charts",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 2,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:23.092636+00:00",
-      "url": "https://mtgtop8.com/event?e=88306&d=869986&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 2 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Consult%20the%20Star%20Charts",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Consult%20the%20Star%20Charts"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Extinguisher Battleship",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 2,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:22.178960+00:00",
-      "url": "https://mtgtop8.com/event?e=88329&d=870106&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 2 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Extinguisher%20Battleship",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Extinguisher%20Battleship"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Harbinger of the Seas",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 5,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:20.198417+00:00",
-      "url": "https://mtgtop8.com/event?e=88347&d=870167&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 5 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Harbinger%20of%20the%20Seas",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Harbinger%20of%20the%20Seas"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Kaito, Bane of Nightmares",
-      "format": "modern",
-      "rarity": "mythic",
-      "appearances": 4,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:20.198202+00:00",
-      "url": "https://mtgtop8.com/event?e=88347&d=870167&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 4 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Kaito%2C%20Bane%20of%20Nightmares",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Kaito%2C%20Bane%20of%20Nightmares"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Cityscape Leveler",
-      "format": "modern",
-      "rarity": "mythic",
-      "appearances": 4,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:19.930300+00:00",
-      "url": "https://mtgtop8.com/event?e=88347&d=870166&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 4 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Cityscape%20Leveler",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Cityscape%20Leveler"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Torpor Orb",
-      "format": "modern",
-      "rarity": "mythic",
-      "appearances": 4,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:19.930182+00:00",
-      "url": "https://mtgtop8.com/event?e=88347&d=870166&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 4 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Torpor%20Orb",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Torpor%20Orb"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Trinisphere",
-      "format": "modern",
-      "rarity": "mythic",
-      "appearances": 7,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:19.141199+00:00",
-      "url": "https://mtgtop8.com/event?e=88347&d=870165&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 7 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Trinisphere",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Trinisphere"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Icetill Explorer",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 2,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:18.352753+00:00",
-      "url": "https://mtgtop8.com/event?e=88347&d=870165&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 2 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Icetill%20Explorer",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Icetill%20Explorer"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Supreme Verdict",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 4,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:18.352625+00:00",
-      "url": "https://mtgtop8.com/event?e=88347&d=870163&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 4 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Supreme%20Verdict",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Supreme%20Verdict"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Dress Down",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 2,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:18.222336+00:00",
-      "url": "https://mtgtop8.com/event?e=88347&d=870163&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 2 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Dress%20Down",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Dress%20Down"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Chalice of the Void",
-      "format": "modern",
-      "rarity": "mythic",
-      "appearances": 5,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:18.222225+00:00",
-      "url": "https://mtgtop8.com/event?e=88347&d=870163&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 5 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Chalice%20of%20the%20Void",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Chalice%20of%20the%20Void"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Hall of Storm Giants",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 2,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:18.222139+00:00",
-      "url": "https://mtgtop8.com/event?e=88347&d=870163&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 2 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Hall%20of%20Storm%20Giants",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Hall%20of%20Storm%20Giants"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "The Wandering Emperor",
-      "format": "modern",
-      "rarity": "mythic",
-      "appearances": 2,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:18.222049+00:00",
-      "url": "https://mtgtop8.com/event?e=88347&d=870163&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 2 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=The%20Wandering%20Emperor",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=The%20Wandering%20Emperor"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Teferi, Hero of Dominaria",
-      "format": "modern",
-      "rarity": "mythic",
-      "appearances": 2,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:18.221871+00:00",
-      "url": "https://mtgtop8.com/event?e=88347&d=870163&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 2 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Teferi%2C%20Hero%20of%20Dominaria",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Teferi%2C%20Hero%20of%20Dominaria"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Ugin, Eye of the Storms",
-      "format": "modern",
-      "rarity": "mythic",
-      "appearances": 7,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:17.437818+00:00",
-      "url": "https://mtgtop8.com/event?e=88347&d=870164&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 7 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Ugin%2C%20Eye%20of%20the%20Storms",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Ugin%2C%20Eye%20of%20the%20Storms"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Otawara, Soaring City",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 5,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:17.307475+00:00",
-      "url": "https://mtgtop8.com/event?e=88347&d=870164&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 5 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Otawara%2C%20Soaring%20City",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Otawara%2C%20Soaring%20City"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Flashback",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 2,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:16.783981+00:00",
-      "url": "https://mtgtop8.com/event?e=88354&d=870200&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 2 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Flashback",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Flashback"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Shivan Reef",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 4,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:16.200479+00:00",
-      "url": "https://mtgtop8.com/event?e=88354&d=870205&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 4 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Shivan%20Reef",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Shivan%20Reef"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Fiery Islet",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 6,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:16.200362+00:00",
-      "url": "https://mtgtop8.com/event?e=88354&d=870205&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 6 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Fiery%20Islet",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Fiery%20Islet"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Pinnacle Emissary",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 4,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:16.199945+00:00",
-      "url": "https://mtgtop8.com/event?e=88354&d=870205&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 4 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Pinnacle%20Emissary",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Pinnacle%20Emissary"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Hurkyl's Recall",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 3,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:16.199676+00:00",
-      "url": "https://mtgtop8.com/event?e=88354&d=870205&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 3 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Hurkyl%27s%20Recall",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Hurkyl%27s%20Recall"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Weapons Manufacturing",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 4,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:16.199587+00:00",
-      "url": "https://mtgtop8.com/event?e=88354&d=870205&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 4 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Weapons%20Manufacturing",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg/edge-of-eternities/card/eoe-weapons-manufacturing-168-rare"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Kappa Cannoneer",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 4,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:16.199473+00:00",
-      "url": "https://mtgtop8.com/event?e=88354&d=870205&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 4 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Kappa%20Cannoneer",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Kappa%20Cannoneer"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Spirebluff Canal",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 4,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:16.199395+00:00",
-      "url": "https://mtgtop8.com/event?e=88354&d=870205&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 4 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Spirebluff%20Canal",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Spirebluff%20Canal"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Emry, Lurker of the Loch",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 4,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:16.199208+00:00",
-      "url": "https://mtgtop8.com/event?e=88354&d=870205&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 4 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Emry%2C%20Lurker%20of%20the%20Loch",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Emry%2C%20Lurker%20of%20the%20Loch"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Arcbound Ravager",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 2,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:16.199057+00:00",
-      "url": "https://mtgtop8.com/event?e=88354&d=870205&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 2 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Arcbound%20Ravager",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Arcbound%20Ravager"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Urborg, Tomb of Yawgmoth",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 2,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:15.651280+00:00",
-      "url": "https://mtgtop8.com/event?e=88354&d=870199&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 2 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Urborg%2C%20Tomb%20of%20Yawgmoth",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Urborg%2C%20Tomb%20of%20Yawgmoth"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Nethergoyf",
-      "format": "modern",
-      "rarity": "mythic",
-      "appearances": 2,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:15.345220+00:00",
-      "url": "https://mtgtop8.com/event?e=88354&d=870199&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 2 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Nethergoyf",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Nethergoyf"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Emperor of Bones",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 7,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:15.206949+00:00",
-      "url": "https://mtgtop8.com/event?e=88354&d=870199&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 7 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Emperor%20of%20Bones",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Emperor%20of%20Bones"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Thought-Knot Seer",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 5,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:14.893686+00:00",
-      "url": "https://mtgtop8.com/event?e=88354&d=870199&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 5 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Thought-Knot%20Seer",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Thought-Knot%20Seer"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Prismatic Vista",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 2,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:13.961286+00:00",
-      "url": "https://mtgtop8.com/event?e=88354&d=870199&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 2 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Prismatic%20Vista",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Prismatic%20Vista"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Force of Despair",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 2,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:13.961173+00:00",
-      "url": "https://mtgtop8.com/event?e=88354&d=870199&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 2 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Force%20of%20Despair",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Force%20of%20Despair"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Shadowspear",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 5,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:13.823518+00:00",
-      "url": "https://mtgtop8.com/event?e=88354&d=870199&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 5 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Shadowspear",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Shadowspear"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Toxic Deluge",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 4,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:13.823407+00:00",
-      "url": "https://mtgtop8.com/event?e=88354&d=870199&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 4 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Toxic%20Deluge",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Toxic%20Deluge"
-      },
-      "is_tracked": true
-    },
-    {
-      "name": "Inevitable Betrayal",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 3,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:11.314186+00:00",
-      "url": "https://mtgtop8.com/event?e=88354&d=870208&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 3 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Inevitable%20Betrayal",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Inevitable%20Betrayal"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Clarion Conqueror",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 3,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:10.067838+00:00",
-      "url": "https://mtgtop8.com/event?e=88354&d=870208&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 3 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Clarion%20Conqueror",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Clarion%20Conqueror"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Living End",
-      "format": "modern",
-      "rarity": "mythic",
-      "appearances": 6,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:09.758638+00:00",
-      "url": "https://mtgtop8.com/event?e=88354&d=870208&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 6 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Living%20End",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Living%20End"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Breeding Pool",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 5,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:09.443529+00:00",
-      "url": "https://mtgtop8.com/event?e=88354&d=870208&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 5 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Breeding%20Pool",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Breeding%20Pool"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Subtlety",
-      "format": "modern",
-      "rarity": "mythic",
-      "appearances": 6,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:09.443425+00:00",
-      "url": "https://mtgtop8.com/event?e=88354&d=870208&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 6 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Subtlety",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Subtlety"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Force of Vigor",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 4,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:08.538756+00:00",
-      "url": "https://mtgtop8.com/event?e=88354&d=870208&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 4 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Force%20of%20Vigor",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Force%20of%20Vigor"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Shardless Agent",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 4,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:08.230283+00:00",
-      "url": "https://mtgtop8.com/event?e=88354&d=870208&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 4 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Shardless%20Agent",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Shardless%20Agent"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Endurance",
-      "format": "modern",
-      "rarity": "mythic",
-      "appearances": 5,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:07.309618+00:00",
-      "url": "https://mtgtop8.com/event?e=88354&d=870208&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 5 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Endurance",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Endurance"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Hedge Maze",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 5,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:07.168265+00:00",
-      "url": "https://mtgtop8.com/event?e=88354&d=870208&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 5 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Hedge%20Maze",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Hedge%20Maze"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Wistfulness",
-      "format": "modern",
-      "rarity": "mythic",
-      "appearances": 4,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:07.168171+00:00",
-      "url": "https://mtgtop8.com/event?e=88354&d=870208&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 4 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Wistfulness",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Wistfulness"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Misty Rainforest",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 6,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:06.859822+00:00",
-      "url": "https://mtgtop8.com/event?e=88354&d=870208&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 6 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Misty%20Rainforest",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Misty%20Rainforest"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Curator of Mysteries",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 2,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:05.593898+00:00",
-      "url": "https://mtgtop8.com/event?e=88354&d=870208&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 2 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Curator%20of%20Mysteries",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Curator%20of%20Mysteries"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Drannith Magistrate",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 2,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:03.731029+00:00",
-      "url": "https://mtgtop8.com/event?e=88354&d=870197&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 2 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Drannith%20Magistrate",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Drannith%20Magistrate"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Walking Ballista",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 7,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:03.200568+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869100&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 7 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Walking%20Ballista",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Walking%20Ballista"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Sowing Mycospawn",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 6,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:03.200443+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869100&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 6 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Sowing%20Mycospawn",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Sowing%20Mycospawn"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Thief of Existence",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 4,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:03.063861+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869100&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 4 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Thief%20of%20Existence",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Thief%20of%20Existence"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Ugin's Labyrinth",
-      "format": "modern",
-      "rarity": "mythic",
-      "appearances": 11,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:02.540952+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869100&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 11 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Ugin%27s%20Labyrinth",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Ugin%27s%20Labyrinth"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Soulless Jailer",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 7,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:00.672156+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869098&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 7 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Soulless%20Jailer",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Soulless%20Jailer"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Sire of Seven Deaths",
-      "format": "modern",
-      "rarity": "mythic",
-      "appearances": 7,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:52:00.119583+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869098&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 7 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Sire%20of%20Seven%20Deaths",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Sire%20of%20Seven%20Deaths"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Commercial District",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 6,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:51:59.213951+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869098&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 6 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Commercial%20District",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Commercial%20District"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Boseiju, Who Endures",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 7,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:51:58.772087+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869098&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 7 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Boseiju%2C%20Who%20Endures",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Boseiju%2C%20Who%20Endures"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Urza's Saga",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 10,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:51:58.771810+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869098&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 10 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Urza%27s%20Saga",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Urza%27s%20Saga"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Cavern of Souls",
-      "format": "modern",
-      "rarity": "mythic",
-      "appearances": 8,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:51:58.501945+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869098&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 8 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Cavern%20of%20Souls",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Cavern%20of%20Souls"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Avengers Disassembled",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 2,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:51:57.584245+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869093&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 2 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Avengers%20Disassembled",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Avengers%20Disassembled"
-      },
-      "is_tracked": true
-    },
-    {
-      "name": "Erode",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 2,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:51:57.584033+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869093&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 2 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Erode",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Erode"
-      },
-      "is_tracked": true
-    },
-    {
-      "name": "Cori Mountain Monastery",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 2,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:51:57.186031+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869093&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 2 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Cori%20Mountain%20Monastery",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Cori%20Mountain%20Monastery"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Shadowy Backstreet",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 7,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:51:57.185933+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869088&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 7 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Shadowy%20Backstreet",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Shadowy%20Backstreet"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "March of Otherworldly Light",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 7,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:51:57.185718+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869088&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 7 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=March%20of%20Otherworldly%20Light",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=March%20of%20Otherworldly%20Light"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Undercity Sewers",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 14,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:51:57.185437+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869088&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 14 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Undercity%20Sewers",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Undercity%20Sewers"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Superior Spider-Man",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 4,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:51:57.185308+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869088&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 4 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Superior%20Spider-Man",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Superior%20Spider-Man"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Polluted Delta",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 15,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:51:57.185208+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869088&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 15 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Polluted%20Delta",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Polluted%20Delta"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Force of Negation",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 18,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:51:57.184873+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869088&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 18 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Force%20of%20Negation",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Force%20of%20Negation"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Goryo's Vengeance",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 4,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:51:57.052161+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869088&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 4 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Goryo%27s%20Vengeance",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Goryo%27s%20Vengeance"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Overgrown Tomb",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 5,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:51:57.052103+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869088&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 5 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Overgrown%20Tomb",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Overgrown%20Tomb"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Watery Grave",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 14,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:51:57.051983+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869088&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 14 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Watery%20Grave",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Watery%20Grave"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Quantum Riddler",
-      "format": "modern",
-      "rarity": "mythic",
-      "appearances": 11,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:51:57.051833+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869088&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 11 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Quantum%20Riddler",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Quantum%20Riddler"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Hallowed Fountain",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 12,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:51:57.051737+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869088&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 12 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Hallowed%20Fountain",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Hallowed%20Fountain"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Seasoned Pyromancer",
-      "format": "modern",
-      "rarity": "mythic",
-      "appearances": 5,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:51:56.789351+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869091&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 5 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Seasoned%20Pyromancer",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Seasoned%20Pyromancer"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Marsh Flats",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 13,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:51:56.656587+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869091&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 13 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Marsh%20Flats",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Marsh%20Flats"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Dalkovan Encampment",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 5,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:51:56.656223+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869091&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 5 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Dalkovan%20Encampment",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Dalkovan%20Encampment"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Brotherhood's End",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 4,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:51:56.525526+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869090&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 4 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Brotherhood%27s%20End",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Brotherhood%27s%20End"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Sunbaked Canyon",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 2,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:51:56.525460+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869090&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 2 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Sunbaked%20Canyon",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Sunbaked%20Canyon"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Elegant Parlor",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 8,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:51:56.525403+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869090&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 8 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Elegant%20Parlor",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Elegant%20Parlor"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Sacred Foundry",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 13,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:51:56.525316+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869090&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 13 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Sacred%20Foundry",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg/gatecrash/card/gtc-sacred-foundry-245-rare"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Scalding Tarn",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 17,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:51:56.525268+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869090&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 17 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Scalding%20Tarn",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Scalding%20Tarn"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Gemstone Caverns",
-      "format": "modern",
-      "rarity": "mythic",
-      "appearances": 5,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:51:56.525212+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869090&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 5 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Gemstone%20Caverns",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Gemstone%20Caverns"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Bloodstained Mire",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 10,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:51:56.525151+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869090&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 10 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Bloodstained%20Mire",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Bloodstained%20Mire"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Valakut Awakening",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 3,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:51:56.525065+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869090&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 3 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Valakut%20Awakening",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Valakut%20Awakening"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Arid Mesa",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 14,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:51:56.395312+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869092&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 14 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Arid%20Mesa",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Arid%20Mesa"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Steam Vents",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 20,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:51:56.262654+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869092&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 20 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Steam%20Vents",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Steam%20Vents"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Raucous Theater",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 4,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:51:55.733602+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869092&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 4 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Raucous%20Theater",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Raucous%20Theater"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Surgical Extraction",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 14,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:51:55.733549+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869092&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 14 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Surgical%20Extraction",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Surgical%20Extraction"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Blood Crypt",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 7,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:51:55.733488+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869092&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 7 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Blood%20Crypt",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Blood%20Crypt"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Godless Shrine",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 8,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:51:55.733401+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869092&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 8 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Godless%20Shrine",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Godless%20Shrine"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Arena of Glory",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 9,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:51:55.473493+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869092&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 9 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Arena%20of%20Glory",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Arena%20of%20Glory"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Flooded Strand",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 20,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:51:55.473421+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869092&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 20 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Flooded%20Strand",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Flooded%20Strand"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Wooded Foothills",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 9,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:51:55.473366+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869092&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 9 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Wooded%20Foothills",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Wooded%20Foothills"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Thundering Falls",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 14,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:51:55.473289+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869092&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 14 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Thundering%20Falls",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Thundering%20Falls"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Temple Garden",
-      "format": "modern",
-      "rarity": "rare",
-      "appearances": 4,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:51:55.473235+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869092&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 4 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Temple%20Garden",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Temple%20Garden"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Rest in Peace",
-      "format": "modern",
-      "rarity": "mythic",
-      "appearances": 10,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:51:55.473135+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869092&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 10 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Rest%20in%20Peace",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Rest%20in%20Peace"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Ragavan, Nimble Pilferer",
-      "format": "modern",
-      "rarity": "mythic",
-      "appearances": 10,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:51:55.472986+00:00",
-      "url": "https://mtgtop8.com/event?e=88185&d=869092&f=MO",
-      "summary": "Performe en modern sans être largement adoptée : vue dans 10 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Ragavan%2C%20Nimble%20Pilferer",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Ragavan%2C%20Nimble%20Pilferer"
-      },
-      "is_tracked": true
-    },
-    {
-      "name": "Tishana's Tidebinder",
-      "format": "standard",
-      "rarity": "rare",
-      "appearances": 2,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:50:59.851788+00:00",
-      "url": "https://mtgtop8.com/event?e=88359&d=870241&f=ST",
-      "summary": "Performe en standard sans être largement adoptée : vue dans 2 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Tishana%27s%20Tidebinder",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Tishana%27s%20Tidebinder"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Gloomlake Verge",
-      "format": "standard",
-      "rarity": "rare",
-      "appearances": 4,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:50:58.240980+00:00",
-      "url": "https://mtgtop8.com/event?e=88360&d=870248&f=ST",
-      "summary": "Performe en standard sans être largement adoptée : vue dans 4 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Gloomlake%20Verge",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Gloomlake%20Verge"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Soulstone Sanctuary",
-      "format": "standard",
-      "rarity": "rare",
-      "appearances": 2,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:50:58.240880+00:00",
-      "url": "https://mtgtop8.com/event?e=88360&d=870248&f=ST",
-      "summary": "Performe en standard sans être largement adoptée : vue dans 2 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Soulstone%20Sanctuary",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Soulstone%20Sanctuary"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Day of Black Sun",
-      "format": "standard",
-      "rarity": "rare",
-      "appearances": 3,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:50:58.105873+00:00",
-      "url": "https://mtgtop8.com/event?e=88360&d=870248&f=ST",
-      "summary": "Performe en standard sans être largement adoptée : vue dans 3 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Day%20of%20Black%20Sun",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Day%20of%20Black%20Sun"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Kaito, Bane of Nightmares",
-      "format": "standard",
-      "rarity": "mythic",
-      "appearances": 2,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:50:57.964123+00:00",
-      "url": "https://mtgtop8.com/event?e=88360&d=870248&f=ST",
-      "summary": "Performe en standard sans être largement adoptée : vue dans 2 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Kaito%2C%20Bane%20of%20Nightmares",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Kaito%2C%20Bane%20of%20Nightmares"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Namor the Sub-Mariner",
-      "format": "standard",
-      "rarity": "mythic",
-      "appearances": 2,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:50:57.963950+00:00",
-      "url": "https://mtgtop8.com/event?e=88360&d=870245&f=ST",
-      "summary": "Performe en standard sans être largement adoptée : vue dans 2 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Namor%20the%20Sub-Mariner",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Namor%20the%20Sub-Mariner"
-      },
-      "is_tracked": true
-    },
-    {
-      "name": "Improvisation Capstone",
-      "format": "standard",
-      "rarity": "mythic",
-      "appearances": 2,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:50:55.485043+00:00",
-      "url": "https://mtgtop8.com/event?e=88361&d=870254&f=ST",
-      "summary": "Performe en standard sans être largement adoptée : vue dans 2 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Improvisation%20Capstone",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Improvisation%20Capstone"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Arachne, Psionic Weaver",
-      "format": "standard",
-      "rarity": "rare",
-      "appearances": 2,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:50:55.180045+00:00",
-      "url": "https://mtgtop8.com/event?e=88361&d=870253&f=ST",
-      "summary": "Performe en standard sans être largement adoptée : vue dans 2 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Arachne%2C%20Psionic%20Weaver",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Arachne%2C%20Psionic%20Weaver"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Cecil, Dark Knight",
-      "format": "standard",
-      "rarity": "rare",
-      "appearances": 2,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:50:54.647456+00:00",
-      "url": "https://mtgtop8.com/event?e=88361&d=870253&f=ST",
-      "summary": "Performe en standard sans être largement adoptée : vue dans 2 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Cecil%2C%20Dark%20Knight",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Cecil%2C%20Dark%20Knight"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Godless Shrine",
-      "format": "standard",
-      "rarity": "rare",
-      "appearances": 3,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:50:53.727497+00:00",
-      "url": "https://mtgtop8.com/event?e=88361&d=870253&f=ST",
-      "summary": "Performe en standard sans être largement adoptée : vue dans 3 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Godless%20Shrine",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Godless%20Shrine"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Spectacular Spider-Man",
-      "format": "standard",
-      "rarity": "rare",
-      "appearances": 3,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:50:53.727409+00:00",
-      "url": "https://mtgtop8.com/event?e=88361&d=870253&f=ST",
-      "summary": "Performe en standard sans être largement adoptée : vue dans 3 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Spectacular%20Spider-Man",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Spectacular%20Spider-Man"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Aang, Swift Savior",
-      "format": "standard",
-      "rarity": "rare",
-      "appearances": 3,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:50:52.813715+00:00",
-      "url": "https://mtgtop8.com/event?e=88361&d=870253&f=ST",
-      "summary": "Performe en standard sans être largement adoptée : vue dans 3 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Aang%2C%20Swift%20Savior",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Aang%2C%20Swift%20Savior"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Captain Marvel, Earth's Protector",
-      "format": "standard",
-      "rarity": "mythic",
-      "appearances": 2,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:50:52.504850+00:00",
-      "url": "https://mtgtop8.com/event?e=88361&d=870253&f=ST",
-      "summary": "Performe en standard sans être largement adoptée : vue dans 2 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Captain%20Marvel%2C%20Earth%27s%20Protector",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Captain%20Marvel%2C%20Earth%27s%20Protector"
-      },
-      "is_tracked": true
-    },
-    {
-      "name": "Dawn's Truce",
-      "format": "standard",
-      "rarity": "rare",
-      "appearances": 6,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:50:51.968740+00:00",
-      "url": "https://mtgtop8.com/event?e=88361&d=870264&f=ST",
-      "summary": "Performe en standard sans être largement adoptée : vue dans 6 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Dawn%27s%20Truce",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Dawn%27s%20Truce"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Hushwood Verge",
-      "format": "standard",
-      "rarity": "rare",
-      "appearances": 6,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:50:51.435506+00:00",
-      "url": "https://mtgtop8.com/event?e=88361&d=870264&f=ST",
-      "summary": "Performe en standard sans être largement adoptée : vue dans 6 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Hushwood%20Verge",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Hushwood%20Verge"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Abandoned Air Temple",
-      "format": "standard",
-      "rarity": "rare",
-      "appearances": 6,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:50:51.296615+00:00",
-      "url": "https://mtgtop8.com/event?e=88361&d=870264&f=ST",
-      "summary": "Performe en standard sans être largement adoptée : vue dans 6 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Abandoned%20Air%20Temple",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Abandoned%20Air%20Temple"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Erode",
-      "format": "standard",
-      "rarity": "rare",
-      "appearances": 6,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:50:50.987141+00:00",
-      "url": "https://mtgtop8.com/event?e=88361&d=870264&f=ST",
-      "summary": "Performe en standard sans être largement adoptée : vue dans 6 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Erode",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Erode"
-      },
-      "is_tracked": true
-    },
-    {
-      "name": "Practiced Offense",
-      "format": "standard",
-      "rarity": "rare",
-      "appearances": 6,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:50:50.987023+00:00",
-      "url": "https://mtgtop8.com/event?e=88361&d=870264&f=ST",
-      "summary": "Performe en standard sans être largement adoptée : vue dans 6 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Practiced%20Offense",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Practiced%20Offense"
-      },
-      "is_tracked": false
-    },
-    {
-      "name": "Jennifer Walters",
-      "format": "standard",
-      "rarity": "mythic",
-      "appearances": 6,
-      "baseline_pct": null,
-      "detected_at": "2026-07-17T12:50:50.454696+00:00",
-      "url": "https://mtgtop8.com/event?e=88361&d=870264&f=ST",
-      "summary": "Performe en standard sans être largement adoptée : vue dans 6 deck(s) classé(s) récemment, adoption globale hors top 50.",
-      "source": "MTGTop8",
-      "card_links": {
-        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Jennifer%20Walters",
-        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Jennifer%20Walters"
       },
       "is_tracked": false
     }
