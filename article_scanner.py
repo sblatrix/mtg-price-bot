@@ -73,10 +73,19 @@ def fetch_rss_items(feed_url: str) -> list[dict]:
     return items
 
 
+def normalize_for_matching(text: str) -> str:
+    """Uniformise virgules, tirets, apostrophes en espaces pour que 'Namor the
+    Sub-Mariner' matche aussi 'namor-the-sub-mariner-price-spike' (slug d'URL)."""
+    text = text.lower()
+    for ch in (",", "-", "'", "\u2019", "//", "_"):
+        text = text.replace(ch, " ")
+    return re.sub(r"\s+", " ", text).strip()
+
+
 def find_matches(text: str, card_names: set[str]) -> tuple[list[str], list[str]]:
-    text_lower = text.lower()
-    matched_cards = [name for name in card_names if name.lower() in text_lower]
-    matched_keywords = [kw for kw in FINANCE_KEYWORDS if kw in text_lower]
+    text_norm = normalize_for_matching(text)
+    matched_cards = [name for name in card_names if normalize_for_matching(name) in text_norm]
+    matched_keywords = [kw for kw in FINANCE_KEYWORDS if kw in text.lower()]
     return matched_cards, matched_keywords
 
 
@@ -136,7 +145,7 @@ def run():
         for item in items:
             article_id = item["guid"]
 
-            full_text = f"{item['title']} {item['description']}"
+            full_text = f"{item['title']} {item['description']} {item['link']}"
             full_text = re.sub(r"<[^>]+>", " ", full_text)
 
             # on retraite TOUJOURS avec la logique de détection actuelle (pas
