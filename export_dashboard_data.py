@@ -17,8 +17,11 @@ from trend_detector import compute_trend, compute_cross_source_gap
 
 ROOT = Path(__file__).parent
 DEALS_PATH = ROOT / "recent_deals.json"
+WATCHLIST_PATH = ROOT / "watchlist.json"
+AUTO_WATCHLIST_PATH = ROOT / "post_release_watchlist.json"
 META_SIGNALS_PATH = ROOT / "meta_signals.json"
 PERFORMANCE_SIGNALS_PATH = ROOT / "performance_signals.json"
+PRO_TOUR_SIGNALS_PATH = ROOT / "pro_tour_signals.json"
 WEB_SIGNALS_PATH = ROOT / "web_signals.json"
 CATALOG_PATH = ROOT / "product_catalog.json"
 OUTPUT_PATH = ROOT / "docs" / "data.json"
@@ -216,6 +219,8 @@ def load_competitive_signals(tracked_names: set[str]) -> list[dict]:
         signals.extend(json.loads(META_SIGNALS_PATH.read_text(encoding="utf-8")))
     if PERFORMANCE_SIGNALS_PATH.exists():
         signals.extend(json.loads(PERFORMANCE_SIGNALS_PATH.read_text(encoding="utf-8")))
+    if PRO_TOUR_SIGNALS_PATH.exists():
+        signals.extend(json.loads(PRO_TOUR_SIGNALS_PATH.read_text(encoding="utf-8")))
 
     seen = set()
     deduped = []
@@ -249,6 +254,21 @@ def load_web_signals(tracked_names: set[str]) -> list[dict]:
         else:
             s["has_tracked_match"] = any(c in tracked_names for c in matched)
     return signals
+
+
+def find_no_price_cards(tracked_with_price: set[str]) -> list[str]:
+    """Cartes présentes dans watchlist.json ou post_release_watchlist.json
+    mais qui n'ont jamais réussi à obtenir le moindre prix (Scryfall ne
+    référence aucune donnée Cardmarket pour elles) - sinon elles disparaissent
+    silencieusement du tableau, ce qui prête à confusion."""
+    requested = set()
+    if WATCHLIST_PATH.exists():
+        data = json.loads(WATCHLIST_PATH.read_text(encoding="utf-8"))
+        requested.update(c["name"] for c in data.get("cards", []))
+    if AUTO_WATCHLIST_PATH.exists():
+        requested.update(json.loads(AUTO_WATCHLIST_PATH.read_text(encoding="utf-8")))
+
+    return sorted(requested - tracked_with_price)
 
 
 def run():
