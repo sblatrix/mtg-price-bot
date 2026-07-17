@@ -247,6 +247,48 @@
     font-family:'JetBrains Mono',monospace;
   }
   .inline-actions a:hover{ color:var(--arb); border-color:var(--arb); }
+  .inline-actions button.remove-watchlist-btn{
+    font-size:9.5px;
+    color:var(--muted);
+    background:none;
+    border:1px solid var(--line);
+    border-radius:4px;
+    padding:1px 5px;
+    font-family:'JetBrains Mono',monospace;
+    cursor:pointer;
+  }
+  .inline-actions button.remove-watchlist-btn:hover{ color:var(--fall); border-color:var(--fall); }
+
+  .signal-popup-overlay{
+    position:fixed;
+    inset:0;
+    z-index:2000;
+    background:rgba(0,0,0,0.6);
+    display:none;
+    align-items:center;
+    justify-content:center;
+  }
+  .signal-popup{
+    background:var(--panel);
+    border:1px solid var(--line);
+    border-radius:14px;
+    padding:18px;
+    max-width:480px;
+    max-height:80vh;
+    overflow-y:auto;
+    width:90%;
+  }
+  .signal-popup-header{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    font-weight:600;
+    font-size:14px;
+    margin-bottom:12px;
+  }
+  .signal-popup-header button{ font-size:16px; padding:2px 8px; }
+  .signal-popup-body > .deal{ margin-bottom:10px; }
+  .signal-popup-body > .deal:last-child{ margin-bottom:0; }
   .action-btn{
     background:var(--panel-alt);
     border:1px solid var(--line);
@@ -550,6 +592,16 @@
     <div class="deals-list" id="web-signals-list"></div>
   </div>
 </main>
+
+<div id="signal-popup-overlay" class="signal-popup-overlay">
+  <div class="signal-popup">
+    <div class="signal-popup-header">
+      <span id="signal-popup-title">Signaux</span>
+      <button id="signal-popup-close" class="action-btn">×</button>
+    </div>
+    <div id="signal-popup-body" class="signal-popup-body"></div>
+  </div>
+</div>
 
 <div id="pending-watchlist-panel" class="pending-panel" style="display:none;">
   <div class="pending-header">
@@ -1004,13 +1056,14 @@ function renderTable(){
 
   tbody.innerHTML = sorted.map(r => `
     <tr data-row-id="${r._id}">
-      <td class="cell-muted" style="text-align:center;">${r.has_competitive_signal ? '🎯' : ''}</td>
-      <td class="cell-muted" style="text-align:center;">${r.has_web_signal ? '💬' : ''}</td>
+      <td class="cell-muted signal-badge-cell" data-signal-type="competitive" data-card-name="${escapeHtml(r.name)}" style="text-align:center; ${r.has_competitive_signal ? 'cursor:pointer;' : ''}">${r.has_competitive_signal ? '🎯' : ''}</td>
+      <td class="cell-muted signal-badge-cell" data-signal-type="web" data-card-name="${escapeHtml(r.name)}" style="text-align:center; ${r.has_web_signal ? 'cursor:pointer;' : ''}">${r.has_web_signal ? '💬' : ''}</td>
       <td class="name-cell" data-name="${escapeHtml(r.name)}">
         ${r.name}
         <span class="inline-actions">
           <a href="${r._card_links ? r._card_links.cardmarket_url : '#'}" target="_blank" rel="noopener" title="Voir sur Cardmarket">CM</a>
           <a href="${r._card_links ? r._card_links.cardnexus_url : '#'}" target="_blank" rel="noopener" title="Voir sur CardNexus">CN</a>
+          <button class="remove-watchlist-btn" data-card-name="${escapeHtml(r.name)}" title="Retirer de la watchlist">✕</button>
         </span>
       </td>
       <td class="cell-muted">${r.finish === 'foil' ? 'Foil' : 'Std'}</td>
@@ -1048,6 +1101,42 @@ function b64EncodeUnicode(str){
 }
 function b64DecodeUnicode(str){
   return decodeURIComponent(atob(str).split('').map(c => '%' + ('00' + c.charCodeAt(0).toString(16)).slice(-2)).join(''));
+}
+
+async function removeCardFromWatchlistViaGithub(cardName){
+  const token = getGithubToken();
+  const apiUrl = `https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/${GITHUB_WATCHLIST_PATH}`;
+  const headers = { 'Authorization': `Bearer ${token}`, 'Accept': 'application/vnd.github+json' };
+
+  const getResp = await fetch(apiUrl, { headers });
+  if(!getResp.ok) throw new Error(`Lecture watchlist.json échouée (${getResp.status})`);
+  const fileData = await getResp.json();
+  const current = JSON.parse(b64DecodeUnicode(fileData.content));
+
+  const originalLength = current.cards.length;
+  current.cards = current.cards.filter(c => c.name !== cardName);
+
+  if(current.cards.length === originalLength){
+    // pas dans watchlist.json (liste manuelle) - probablement dans la liste
+    // auto-générée post-sortie, qui se régénère toute seule chaque heure
+    return 'not_in_manual_watchlist';
+  }
+
+  const putResp = await fetch(apiUrl, {
+    method: 'PUT',
+    headers,
+    body: JSON.stringify({
+      message: `Retrait de "${cardName}" de la watchlist via le dashboard`,
+      content: b64EncodeUnicode(JSON.stringify(current, null, 2)),
+      sha: fileData.sha,
+      branch: 'main',
+    }),
+  });
+  if(!putResp.ok){
+    const err = await putResp.json().catch(() => ({}));
+    throw new Error(err.message || `Écriture échouée (${putResp.status})`);
+  }
+  return 'removed';
 }
 
 async function addCardToWatchlistViaGithub(cardName){
@@ -1118,6 +1207,35 @@ function renderPendingPanel(){
       <button data-remove-name="${escapeHtml(n)}">×</button>
     </div>
   `).join('');
+}
+
+async function handleRemoveWatchlistClick(btn){
+  const name = btn.dataset.cardName;
+  const token = getGithubToken();
+
+  if(!token){
+    alert('Configure un jeton GitHub (⚙️ Config en haut) pour pouvoir retirer une carte directement.');
+    return;
+  }
+
+  const originalText = btn.textContent;
+  btn.textContent = '...';
+  btn.disabled = true;
+  try{
+    const result = await removeCardFromWatchlistViaGithub(name);
+    if(result === 'removed'){
+      btn.textContent = '✓ Retirée';
+    } else {
+      btn.textContent = 'Auto-générée';
+      alert(`"${name}" vient de la watchlist auto-générée (rares/mythiques post-sortie), pas de la liste manuelle. Elle sera réajoutée automatiquement tant que son set est en fenêtre post-sortie (35 jours) - impossible de la retirer durablement pour l'instant.`);
+    }
+  } catch(err){
+    console.error(err);
+    btn.textContent = 'Échec - voir console';
+  } finally {
+    btn.disabled = false;
+    setTimeout(() => { btn.textContent = originalText; }, 2500);
+  }
 }
 
 async function handleAddWatchlistClick(btn){
@@ -1215,9 +1333,42 @@ document.getElementById('settings-clear-btn').addEventListener('click', () => {
   setTimeout(() => { status.textContent = ''; }, 3000);
 });
 
+function showSignalPopup(cardName, type){
+  const overlay = document.getElementById('signal-popup-overlay');
+  const title = document.getElementById('signal-popup-title');
+  const body = document.getElementById('signal-popup-body');
+
+  title.textContent = `${type === 'competitive' ? '🎯' : '💬'} Signaux pour ${cardName}`;
+  body.innerHTML = '';
+
+  const signals = type === 'competitive'
+    ? allCompetitiveSignals.filter(s => s.name === cardName)
+    : allWebSignals.filter(s => s.matched_cards && s.matched_cards.includes(cardName));
+
+  if(signals.length === 0){
+    body.innerHTML = `<p class="empty">Aucun signal trouvé pour cette carte (données peut-être pas encore à jour - rafraîchis la page).</p>`;
+  } else {
+    signals.forEach(s => body.appendChild(type === 'competitive' ? buildCompetitiveSignal(s) : buildWebSignal(s)));
+  }
+
+  overlay.style.display = 'flex';
+}
+
+function closeSignalPopup(){
+  document.getElementById('signal-popup-overlay').style.display = 'none';
+}
+
+document.getElementById('signal-popup-close').addEventListener('click', closeSignalPopup);
+document.getElementById('signal-popup-overlay').addEventListener('click', (evt)=>{
+  if(evt.target.id === 'signal-popup-overlay') closeSignalPopup();
+});
+
 document.body.addEventListener('click', (evt)=>{
   const addBtn = evt.target.closest('.add-watchlist-btn');
   if(addBtn){ handleAddWatchlistClick(addBtn); return; }
+
+  const removeWatchBtn = evt.target.closest('.remove-watchlist-btn');
+  if(removeWatchBtn){ handleRemoveWatchlistClick(removeWatchBtn); return; }
 
   const removeBtn = evt.target.closest('[data-remove-name]');
   if(removeBtn){ removeFromPendingWatchlist(removeBtn.dataset.removeName); return; }
@@ -1272,7 +1423,16 @@ document.body.addEventListener('mouseout', (evt)=>{
 // Clic sur une ligne du tableau (hors lignes de détail elles-mêmes) : ouvre/ferme le graphique
 const tbodyEl = document.getElementById('watchlist-tbody');
 tbodyEl.addEventListener('click', (evt)=>{
-  if(evt.target.closest('.inline-actions')) return; // laisse les liens CM/CN s'ouvrir sans toggler la ligne
+  if(evt.target.closest('.inline-actions')) return; // laisse les liens CM/CN/retrait s'ouvrir sans toggler la ligne
+
+  const badgeCell = evt.target.closest('.signal-badge-cell');
+  if(badgeCell){
+    if(badgeCell.textContent.trim() !== ''){
+      showSignalPopup(badgeCell.dataset.cardName, badgeCell.dataset.signalType);
+    }
+    return;
+  }
+
   const tr = evt.target.closest('tr[data-row-id]');
   if(!tr) return;
   toggleDetailRow(Number(tr.dataset.rowId));
