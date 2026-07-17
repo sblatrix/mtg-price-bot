@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T10:09:39.054920+00:00",
+  "generated_at": "2026-07-17T10:43:40.516645+00:00",
   "cards": [
     {
       "name": "Abomination, Irradiated Brute",
@@ -17772,7 +17772,132 @@
       "name": "Cinder Glade",
       "finishes": {
         "standard": {
-          "cardnexus_history": [],
+          "cardnexus_history": [
+            {
+              "date": "2026-06-17T00:00:00.000Z",
+              "price": 2.32
+            },
+            {
+              "date": "2026-06-18T00:00:00.000Z",
+              "price": 2.32
+            },
+            {
+              "date": "2026-06-19T00:00:00.000Z",
+              "price": 2.15
+            },
+            {
+              "date": "2026-06-20T00:00:00.000Z",
+              "price": 2.09
+            },
+            {
+              "date": "2026-06-21T00:00:00.000Z",
+              "price": 2.09
+            },
+            {
+              "date": "2026-06-22T00:00:00.000Z",
+              "price": 2.09
+            },
+            {
+              "date": "2026-06-23T00:00:00.000Z",
+              "price": 2.09
+            },
+            {
+              "date": "2026-06-24T00:00:00.000Z",
+              "price": 2.09
+            },
+            {
+              "date": "2026-06-25T00:00:00.000Z",
+              "price": 2.09
+            },
+            {
+              "date": "2026-06-26T00:00:00.000Z",
+              "price": 2.09
+            },
+            {
+              "date": "2026-06-27T00:00:00.000Z",
+              "price": 2.09
+            },
+            {
+              "date": "2026-06-28T00:00:00.000Z",
+              "price": 2.1
+            },
+            {
+              "date": "2026-06-29T00:00:00.000Z",
+              "price": 2.1
+            },
+            {
+              "date": "2026-06-30T00:00:00.000Z",
+              "price": 2.1
+            },
+            {
+              "date": "2026-07-01T00:00:00.000Z",
+              "price": 2.1
+            },
+            {
+              "date": "2026-07-02T00:00:00.000Z",
+              "price": 2.1
+            },
+            {
+              "date": "2026-07-03T00:00:00.000Z",
+              "price": 2.1
+            },
+            {
+              "date": "2026-07-04T00:00:00.000Z",
+              "price": 2.1
+            },
+            {
+              "date": "2026-07-05T00:00:00.000Z",
+              "price": 2.1
+            },
+            {
+              "date": "2026-07-06T00:00:00.000Z",
+              "price": 2.1
+            },
+            {
+              "date": "2026-07-07T00:00:00.000Z",
+              "price": 2.09
+            },
+            {
+              "date": "2026-07-08T00:00:00.000Z",
+              "price": 2.09
+            },
+            {
+              "date": "2026-07-09T00:00:00.000Z",
+              "price": 2.09
+            },
+            {
+              "date": "2026-07-10T00:00:00.000Z",
+              "price": 2.09
+            },
+            {
+              "date": "2026-07-11T00:00:00.000Z",
+              "price": 2.09
+            },
+            {
+              "date": "2026-07-12T00:00:00.000Z",
+              "price": 2.09
+            },
+            {
+              "date": "2026-07-13T00:00:00.000Z",
+              "price": 2.09
+            },
+            {
+              "date": "2026-07-14T00:00:00.000Z",
+              "price": 2.09
+            },
+            {
+              "date": "2026-07-15T00:00:00.000Z",
+              "price": 2.09
+            },
+            {
+              "date": "2026-07-16T00:00:00.000Z",
+              "price": 2.26
+            },
+            {
+              "date": "2026-07-17T00:00:00.000Z",
+              "price": 2.26
+            }
+          ],
           "scryfall_history": [
             {
               "date": "2026-07-14T09:52:53.502746+00:00",
@@ -17856,21 +17981,21 @@
             }
           ],
           "trend_pct": 0.0,
-          "cross_source_gap_pct": null,
-          "cheaper_source": null,
+          "cross_source_gap_pct": 1089.5,
+          "cheaper_source": "scryfall_cardmarket",
           "current_price": 0.19,
           "days_since_update": 0.4,
-          "volatility_pct": 0.0,
+          "volatility_pct": 69.9,
           "cm_low": 0.1,
           "cm_avg": 0.2,
           "cm_trend": 0.19,
           "cm_avg7": 0.2,
-          "cn_latest": null,
-          "cn_avg7": null,
+          "cn_latest": 2.26,
+          "cn_avg7": 2.14,
           "low_vs_avg_pct": -50.0,
           "low_vs_avg_diff": -0.1,
-          "cm_vs_cn_pct": null,
-          "cm_vs_cn_diff": null,
+          "cm_vs_cn_pct": -91.2,
+          "cm_vs_cn_diff": -2.06,
           "cm_official_history": [
             {
               "date": "2026-07-15T07:35:17.421458+00:00",
@@ -26451,7 +26576,132 @@
       "name": "Door of Destinies",
       "finishes": {
         "standard": {
-          "cardnexus_history": [],
+          "cardnexus_history": [
+            {
+              "date": "2026-06-17T00:00:00.000Z",
+              "price": 5.92
+            },
+            {
+              "date": "2026-06-18T00:00:00.000Z",
+              "price": 6.52
+            },
+            {
+              "date": "2026-06-19T00:00:00.000Z",
+              "price": 6.52
+            },
+            {
+              "date": "2026-06-20T00:00:00.000Z",
+              "price": 6.44
+            },
+            {
+              "date": "2026-06-21T00:00:00.000Z",
+              "price": 6.44
+            },
+            {
+              "date": "2026-06-22T00:00:00.000Z",
+              "price": 6.93
+            },
+            {
+              "date": "2026-06-23T00:00:00.000Z",
+              "price": 6.93
+            },
+            {
+              "date": "2026-06-24T00:00:00.000Z",
+              "price": 6.93
+            },
+            {
+              "date": "2026-06-25T00:00:00.000Z",
+              "price": 6.93
+            },
+            {
+              "date": "2026-06-26T00:00:00.000Z",
+              "price": 6.88
+            },
+            {
+              "date": "2026-06-27T00:00:00.000Z",
+              "price": 6.88
+            },
+            {
+              "date": "2026-06-28T00:00:00.000Z",
+              "price": 7.07
+            },
+            {
+              "date": "2026-06-29T00:00:00.000Z",
+              "price": 7.07
+            },
+            {
+              "date": "2026-06-30T00:00:00.000Z",
+              "price": 6.9
+            },
+            {
+              "date": "2026-07-01T00:00:00.000Z",
+              "price": 6.9
+            },
+            {
+              "date": "2026-07-02T00:00:00.000Z",
+              "price": 6.9
+            },
+            {
+              "date": "2026-07-03T00:00:00.000Z",
+              "price": 6.92
+            },
+            {
+              "date": "2026-07-04T00:00:00.000Z",
+              "price": 6.5
+            },
+            {
+              "date": "2026-07-05T00:00:00.000Z",
+              "price": 6.72
+            },
+            {
+              "date": "2026-07-06T00:00:00.000Z",
+              "price": 6.72
+            },
+            {
+              "date": "2026-07-07T00:00:00.000Z",
+              "price": 6.72
+            },
+            {
+              "date": "2026-07-08T00:00:00.000Z",
+              "price": 6.72
+            },
+            {
+              "date": "2026-07-09T00:00:00.000Z",
+              "price": 6.97
+            },
+            {
+              "date": "2026-07-10T00:00:00.000Z",
+              "price": 6.97
+            },
+            {
+              "date": "2026-07-11T00:00:00.000Z",
+              "price": 6.78
+            },
+            {
+              "date": "2026-07-12T00:00:00.000Z",
+              "price": 6.78
+            },
+            {
+              "date": "2026-07-13T00:00:00.000Z",
+              "price": 6.78
+            },
+            {
+              "date": "2026-07-14T00:00:00.000Z",
+              "price": 6.78
+            },
+            {
+              "date": "2026-07-15T00:00:00.000Z",
+              "price": 6.78
+            },
+            {
+              "date": "2026-07-16T00:00:00.000Z",
+              "price": 6.36
+            },
+            {
+              "date": "2026-07-17T00:00:00.000Z",
+              "price": 6.36
+            }
+          ],
           "scryfall_history": [
             {
               "date": "2026-07-14T09:52:53.797284+00:00",
@@ -26535,21 +26785,21 @@
             }
           ],
           "trend_pct": -1.4,
-          "cross_source_gap_pct": null,
-          "cheaper_source": null,
+          "cross_source_gap_pct": 210.2,
+          "cheaper_source": "scryfall_cardmarket",
           "current_price": 2.05,
           "days_since_update": 0.4,
-          "volatility_pct": 0.6,
+          "volatility_pct": 46.6,
           "cm_low": 1.5,
           "cm_avg": 2.43,
           "cm_trend": 1.99,
           "cm_avg7": 2.17,
-          "cn_latest": null,
-          "cn_avg7": null,
+          "cn_latest": 6.36,
+          "cn_avg7": 6.66,
           "low_vs_avg_pct": -38.3,
           "low_vs_avg_diff": -0.93,
-          "cm_vs_cn_pct": null,
-          "cm_vs_cn_diff": null,
+          "cm_vs_cn_pct": -61.8,
+          "cm_vs_cn_diff": -3.93,
           "cm_official_history": [
             {
               "date": "2026-07-15T07:35:17.442347+00:00",
@@ -26640,6 +26890,243 @@
               "low": 1.5,
               "avg": 2.43,
               "trend": 1.99
+            }
+          ]
+        },
+        "foil": {
+          "cardnexus_history": [
+            {
+              "date": "2026-06-17T00:00:00.000Z",
+              "price": 9.54
+            },
+            {
+              "date": "2026-06-18T00:00:00.000Z",
+              "price": 9.54
+            },
+            {
+              "date": "2026-06-19T00:00:00.000Z",
+              "price": 9.54
+            },
+            {
+              "date": "2026-06-20T00:00:00.000Z",
+              "price": 9.54
+            },
+            {
+              "date": "2026-06-21T00:00:00.000Z",
+              "price": 9.54
+            },
+            {
+              "date": "2026-06-22T00:00:00.000Z",
+              "price": 9.54
+            },
+            {
+              "date": "2026-06-23T00:00:00.000Z",
+              "price": 9.54
+            },
+            {
+              "date": "2026-06-24T00:00:00.000Z",
+              "price": 9.54
+            },
+            {
+              "date": "2026-06-25T00:00:00.000Z",
+              "price": 9.54
+            },
+            {
+              "date": "2026-06-26T00:00:00.000Z",
+              "price": 9.54
+            },
+            {
+              "date": "2026-06-27T00:00:00.000Z",
+              "price": 9.54
+            },
+            {
+              "date": "2026-06-28T00:00:00.000Z",
+              "price": 10.85
+            },
+            {
+              "date": "2026-06-29T00:00:00.000Z",
+              "price": 10.85
+            },
+            {
+              "date": "2026-06-30T00:00:00.000Z",
+              "price": 10.85
+            },
+            {
+              "date": "2026-07-01T00:00:00.000Z",
+              "price": 10.85
+            },
+            {
+              "date": "2026-07-02T00:00:00.000Z",
+              "price": 10.85
+            },
+            {
+              "date": "2026-07-03T00:00:00.000Z",
+              "price": 10.85
+            },
+            {
+              "date": "2026-07-04T00:00:00.000Z",
+              "price": 10.85
+            },
+            {
+              "date": "2026-07-05T00:00:00.000Z",
+              "price": 10.85
+            },
+            {
+              "date": "2026-07-06T00:00:00.000Z",
+              "price": 10.85
+            },
+            {
+              "date": "2026-07-07T00:00:00.000Z",
+              "price": 10.85
+            },
+            {
+              "date": "2026-07-08T00:00:00.000Z",
+              "price": 10.85
+            },
+            {
+              "date": "2026-07-09T00:00:00.000Z",
+              "price": 10.62
+            },
+            {
+              "date": "2026-07-10T00:00:00.000Z",
+              "price": 10.62
+            },
+            {
+              "date": "2026-07-11T00:00:00.000Z",
+              "price": 10.62
+            },
+            {
+              "date": "2026-07-12T00:00:00.000Z",
+              "price": 10.62
+            },
+            {
+              "date": "2026-07-13T00:00:00.000Z",
+              "price": 10.62
+            },
+            {
+              "date": "2026-07-14T00:00:00.000Z",
+              "price": 10.62
+            },
+            {
+              "date": "2026-07-15T00:00:00.000Z",
+              "price": 10.62
+            },
+            {
+              "date": "2026-07-16T00:00:00.000Z",
+              "price": 11.46
+            },
+            {
+              "date": "2026-07-17T00:00:00.000Z",
+              "price": 11.46
+            }
+          ],
+          "scryfall_history": [],
+          "trend_pct": null,
+          "cross_source_gap_pct": null,
+          "cheaper_source": null,
+          "current_price": 11.46,
+          "days_since_update": 0.4,
+          "volatility_pct": 6.3,
+          "cm_low": null,
+          "cm_avg": null,
+          "cm_trend": 0.0,
+          "cm_avg7": null,
+          "cn_latest": 11.46,
+          "cn_avg7": 10.86,
+          "low_vs_avg_pct": null,
+          "low_vs_avg_diff": null,
+          "cm_vs_cn_pct": null,
+          "cm_vs_cn_diff": null,
+          "cm_official_history": [
+            {
+              "date": "2026-07-15T07:35:17.442347+00:00",
+              "low": null,
+              "avg": null,
+              "trend": 0.0
+            },
+            {
+              "date": "2026-07-15T07:46:31.912503+00:00",
+              "low": null,
+              "avg": null,
+              "trend": 0.0
+            },
+            {
+              "date": "2026-07-15T09:38:07.407990+00:00",
+              "low": null,
+              "avg": null,
+              "trend": 0.0
+            },
+            {
+              "date": "2026-07-15T09:44:31.777816+00:00",
+              "low": null,
+              "avg": null,
+              "trend": 0.0
+            },
+            {
+              "date": "2026-07-16T07:51:12.721022+00:00",
+              "low": null,
+              "avg": null,
+              "trend": 0.0
+            },
+            {
+              "date": "2026-07-16T18:56:55.650056+00:00",
+              "low": null,
+              "avg": null,
+              "trend": 0.0
+            },
+            {
+              "date": "2026-07-16T19:46:18.187265+00:00",
+              "low": null,
+              "avg": null,
+              "trend": 0.0
+            },
+            {
+              "date": "2026-07-16T19:55:12.956610+00:00",
+              "low": null,
+              "avg": null,
+              "trend": 0.0
+            },
+            {
+              "date": "2026-07-16T20:23:34.813448+00:00",
+              "low": null,
+              "avg": null,
+              "trend": 0.0
+            },
+            {
+              "date": "2026-07-16T20:29:41.913414+00:00",
+              "low": null,
+              "avg": null,
+              "trend": 0.0
+            },
+            {
+              "date": "2026-07-16T20:51:06.145197+00:00",
+              "low": null,
+              "avg": null,
+              "trend": 0.0
+            },
+            {
+              "date": "2026-07-16T20:57:27.325997+00:00",
+              "low": null,
+              "avg": null,
+              "trend": 0.0
+            },
+            {
+              "date": "2026-07-16T21:05:47.136073+00:00",
+              "low": null,
+              "avg": null,
+              "trend": 0.0
+            },
+            {
+              "date": "2026-07-16T21:18:24.159706+00:00",
+              "low": null,
+              "avg": null,
+              "trend": 0.0
+            },
+            {
+              "date": "2026-07-17T07:54:03.159339+00:00",
+              "low": null,
+              "avg": null,
+              "trend": 0.0
             }
           ]
         }
@@ -41265,7 +41752,124 @@
       "name": "Hidden Lair",
       "finishes": {
         "standard": {
-          "cardnexus_history": [],
+          "cardnexus_history": [
+            {
+              "date": "2026-06-19T00:00:00.000Z",
+              "price": 6.78
+            },
+            {
+              "date": "2026-06-20T00:00:00.000Z",
+              "price": 6.59
+            },
+            {
+              "date": "2026-06-21T00:00:00.000Z",
+              "price": 6.34
+            },
+            {
+              "date": "2026-06-22T00:00:00.000Z",
+              "price": 5.99
+            },
+            {
+              "date": "2026-06-23T00:00:00.000Z",
+              "price": 5.75
+            },
+            {
+              "date": "2026-06-24T00:00:00.000Z",
+              "price": 5.46
+            },
+            {
+              "date": "2026-06-25T00:00:00.000Z",
+              "price": 5.33
+            },
+            {
+              "date": "2026-06-26T00:00:00.000Z",
+              "price": 5.2
+            },
+            {
+              "date": "2026-06-27T00:00:00.000Z",
+              "price": 5.2
+            },
+            {
+              "date": "2026-06-28T00:00:00.000Z",
+              "price": 5.16
+            },
+            {
+              "date": "2026-06-29T00:00:00.000Z",
+              "price": 5.03
+            },
+            {
+              "date": "2026-06-30T00:00:00.000Z",
+              "price": 5.03
+            },
+            {
+              "date": "2026-07-01T00:00:00.000Z",
+              "price": 4.87
+            },
+            {
+              "date": "2026-07-02T00:00:00.000Z",
+              "price": 4.82
+            },
+            {
+              "date": "2026-07-03T00:00:00.000Z",
+              "price": 4.71
+            },
+            {
+              "date": "2026-07-04T00:00:00.000Z",
+              "price": 4.63
+            },
+            {
+              "date": "2026-07-05T00:00:00.000Z",
+              "price": 4.57
+            },
+            {
+              "date": "2026-07-06T00:00:00.000Z",
+              "price": 4.5
+            },
+            {
+              "date": "2026-07-07T00:00:00.000Z",
+              "price": 4.36
+            },
+            {
+              "date": "2026-07-08T00:00:00.000Z",
+              "price": 4.36
+            },
+            {
+              "date": "2026-07-09T00:00:00.000Z",
+              "price": 4.35
+            },
+            {
+              "date": "2026-07-10T00:00:00.000Z",
+              "price": 4.34
+            },
+            {
+              "date": "2026-07-11T00:00:00.000Z",
+              "price": 4.33
+            },
+            {
+              "date": "2026-07-12T00:00:00.000Z",
+              "price": 4.31
+            },
+            {
+              "date": "2026-07-13T00:00:00.000Z",
+              "price": 4.31
+            },
+            {
+              "date": "2026-07-14T00:00:00.000Z",
+              "price": 4.27
+            },
+            {
+              "date": "2026-07-15T00:00:00.000Z",
+              "price": 4.27
+            },
+            {
+              "date": "2026-07-16T00:00:00.000Z",
+              "price": 4.42
+            },
+            {
+              "date": "2026-07-17T00:00:00.000Z",
+              "price": 4.56
+            }
+          ],
           "scryfall_history": [
             {
               "date": "2026-07-14T09:52:49.602885+00:00",
@@ -41349,21 +41953,21 @@
             }
           ],
           "trend_pct": 1.8,
-          "cross_source_gap_pct": null,
-          "cheaper_source": null,
+          "cross_source_gap_pct": 3.2,
+          "cheaper_source": "scryfall_cardmarket",
           "current_price": 4.42,
           "days_since_update": 0.4,
-          "volatility_pct": 0.8,
+          "volatility_pct": 13.9,
           "cm_low": 3.5,
           "cm_avg": 5.67,
           "cm_trend": 4.56,
           "cm_avg7": 4.95,
-          "cn_latest": null,
-          "cn_avg7": null,
+          "cn_latest": 4.56,
+          "cn_avg7": 4.35,
           "low_vs_avg_pct": -38.3,
           "low_vs_avg_diff": -2.17,
-          "cm_vs_cn_pct": null,
-          "cm_vs_cn_diff": null,
+          "cm_vs_cn_pct": 24.3,
+          "cm_vs_cn_diff": 1.11,
           "cm_official_history": [
             {
               "date": "2026-07-15T07:35:17.719350+00:00",
@@ -41458,7 +42062,124 @@
           ]
         },
         "foil": {
-          "cardnexus_history": [],
+          "cardnexus_history": [
+            {
+              "date": "2026-06-19T00:00:00.000Z",
+              "price": 7.8
+            },
+            {
+              "date": "2026-06-20T00:00:00.000Z",
+              "price": 7.04
+            },
+            {
+              "date": "2026-06-21T00:00:00.000Z",
+              "price": 7.09
+            },
+            {
+              "date": "2026-06-22T00:00:00.000Z",
+              "price": 6.94
+            },
+            {
+              "date": "2026-06-23T00:00:00.000Z",
+              "price": 6.59
+            },
+            {
+              "date": "2026-06-24T00:00:00.000Z",
+              "price": 6.5
+            },
+            {
+              "date": "2026-06-25T00:00:00.000Z",
+              "price": 6.79
+            },
+            {
+              "date": "2026-06-26T00:00:00.000Z",
+              "price": 6.7
+            },
+            {
+              "date": "2026-06-27T00:00:00.000Z",
+              "price": 6.7
+            },
+            {
+              "date": "2026-06-28T00:00:00.000Z",
+              "price": 6.47
+            },
+            {
+              "date": "2026-06-29T00:00:00.000Z",
+              "price": 6.33
+            },
+            {
+              "date": "2026-06-30T00:00:00.000Z",
+              "price": 6.33
+            },
+            {
+              "date": "2026-07-01T00:00:00.000Z",
+              "price": 6.26
+            },
+            {
+              "date": "2026-07-02T00:00:00.000Z",
+              "price": 6.07
+            },
+            {
+              "date": "2026-07-03T00:00:00.000Z",
+              "price": 5.93
+            },
+            {
+              "date": "2026-07-04T00:00:00.000Z",
+              "price": 5.98
+            },
+            {
+              "date": "2026-07-05T00:00:00.000Z",
+              "price": 5.78
+            },
+            {
+              "date": "2026-07-06T00:00:00.000Z",
+              "price": 5.62
+            },
+            {
+              "date": "2026-07-07T00:00:00.000Z",
+              "price": 5.52
+            },
+            {
+              "date": "2026-07-08T00:00:00.000Z",
+              "price": 5.52
+            },
+            {
+              "date": "2026-07-09T00:00:00.000Z",
+              "price": 5.47
+            },
+            {
+              "date": "2026-07-10T00:00:00.000Z",
+              "price": 5.41
+            },
+            {
+              "date": "2026-07-11T00:00:00.000Z",
+              "price": 5.33
+            },
+            {
+              "date": "2026-07-12T00:00:00.000Z",
+              "price": 5.14
+            },
+            {
+              "date": "2026-07-13T00:00:00.000Z",
+              "price": 5.14
+            },
+            {
+              "date": "2026-07-14T00:00:00.000Z",
+              "price": 5.14
+            },
+            {
+              "date": "2026-07-15T00:00:00.000Z",
+              "price": 5.14
+            },
+            {
+              "date": "2026-07-16T00:00:00.000Z",
+              "price": 4.97
+            },
+            {
+              "date": "2026-07-17T00:00:00.000Z",
+              "price": 4.98
+            }
+          ],
           "scryfall_history": [
             {
               "date": "2026-07-14T09:52:49.616922+00:00",
@@ -41542,21 +42263,21 @@
             }
           ],
           "trend_pct": -1.7,
-          "cross_source_gap_pct": null,
-          "cheaper_source": null,
+          "cross_source_gap_pct": 0.2,
+          "cheaper_source": "scryfall_cardmarket",
           "current_price": 4.97,
           "days_since_update": 0.4,
-          "volatility_pct": 0.7,
+          "volatility_pct": 12.8,
           "cm_low": 4.0,
           "cm_avg": 6.71,
           "cm_trend": 4.98,
           "cm_avg7": 5.59,
-          "cn_latest": null,
-          "cn_avg7": null,
+          "cn_latest": 4.98,
+          "cn_avg7": 5.12,
           "low_vs_avg_pct": -40.4,
           "low_vs_avg_diff": -2.71,
-          "cm_vs_cn_pct": null,
-          "cm_vs_cn_diff": null,
+          "cm_vs_cn_pct": 34.7,
+          "cm_vs_cn_diff": 1.73,
           "cm_official_history": [
             {
               "date": "2026-07-15T07:35:17.719350+00:00",
@@ -54263,7 +54984,72 @@
       "name": "Loki, God of Mischief",
       "finishes": {
         "standard": {
-          "cardnexus_history": [],
+          "cardnexus_history": [
+            {
+              "date": "2026-07-02T00:00:00.000Z",
+              "price": 11.72
+            },
+            {
+              "date": "2026-07-03T00:00:00.000Z",
+              "price": 13.15
+            },
+            {
+              "date": "2026-07-04T00:00:00.000Z",
+              "price": 13.8
+            },
+            {
+              "date": "2026-07-05T00:00:00.000Z",
+              "price": 14.84
+            },
+            {
+              "date": "2026-07-06T00:00:00.000Z",
+              "price": 14.99
+            },
+            {
+              "date": "2026-07-07T00:00:00.000Z",
+              "price": 15.37
+            },
+            {
+              "date": "2026-07-08T00:00:00.000Z",
+              "price": 15.68
+            },
+            {
+              "date": "2026-07-09T00:00:00.000Z",
+              "price": 15.99
+            },
+            {
+              "date": "2026-07-10T00:00:00.000Z",
+              "price": 16.01
+            },
+            {
+              "date": "2026-07-11T00:00:00.000Z",
+              "price": 16.2
+            },
+            {
+              "date": "2026-07-12T00:00:00.000Z",
+              "price": 16.45
+            },
+            {
+              "date": "2026-07-13T00:00:00.000Z",
+              "price": 16.45
+            },
+            {
+              "date": "2026-07-14T00:00:00.000Z",
+              "price": 16.44
+            },
+            {
+              "date": "2026-07-15T00:00:00.000Z",
+              "price": 16.44
+            },
+            {
+              "date": "2026-07-16T00:00:00.000Z",
+              "price": 15.89
+            },
+            {
+              "date": "2026-07-17T00:00:00.000Z",
+              "price": 15.58
+            }
+          ],
           "scryfall_history": [
             {
               "date": "2026-07-14T09:52:49.762873+00:00",
@@ -54347,21 +55133,21 @@
             }
           ],
           "trend_pct": -0.1,
-          "cross_source_gap_pct": null,
-          "cheaper_source": null,
+          "cross_source_gap_pct": 37.6,
+          "cheaper_source": "scryfall_cardmarket",
           "current_price": 11.32,
           "days_since_update": 0.4,
-          "volatility_pct": 0.1,
+          "volatility_pct": 16.7,
           "cm_low": 6.48,
           "cm_avg": 5.35,
           "cm_trend": 11.21,
           "cm_avg7": 8.91,
-          "cn_latest": null,
-          "cn_avg7": null,
+          "cn_latest": 15.58,
+          "cn_avg7": 16.21,
           "low_vs_avg_pct": 21.1,
           "low_vs_avg_diff": 1.13,
-          "cm_vs_cn_pct": null,
-          "cm_vs_cn_diff": null,
+          "cm_vs_cn_pct": -65.7,
+          "cm_vs_cn_diff": -10.23,
           "cm_official_history": [
             {
               "date": "2026-07-15T07:35:17.729552+00:00",
@@ -54456,7 +55242,72 @@
           ]
         },
         "foil": {
-          "cardnexus_history": [],
+          "cardnexus_history": [
+            {
+              "date": "2026-07-02T00:00:00.000Z",
+              "price": 17.89
+            },
+            {
+              "date": "2026-07-03T00:00:00.000Z",
+              "price": 20.18
+            },
+            {
+              "date": "2026-07-04T00:00:00.000Z",
+              "price": 21.88
+            },
+            {
+              "date": "2026-07-05T00:00:00.000Z",
+              "price": 22.9
+            },
+            {
+              "date": "2026-07-06T00:00:00.000Z",
+              "price": 23.51
+            },
+            {
+              "date": "2026-07-07T00:00:00.000Z",
+              "price": 23.64
+            },
+            {
+              "date": "2026-07-08T00:00:00.000Z",
+              "price": 23.78
+            },
+            {
+              "date": "2026-07-09T00:00:00.000Z",
+              "price": 23.66
+            },
+            {
+              "date": "2026-07-10T00:00:00.000Z",
+              "price": 23.53
+            },
+            {
+              "date": "2026-07-11T00:00:00.000Z",
+              "price": 23.28
+            },
+            {
+              "date": "2026-07-12T00:00:00.000Z",
+              "price": 22.99
+            },
+            {
+              "date": "2026-07-13T00:00:00.000Z",
+              "price": 22.99
+            },
+            {
+              "date": "2026-07-14T00:00:00.000Z",
+              "price": 22.74
+            },
+            {
+              "date": "2026-07-15T00:00:00.000Z",
+              "price": 22.74
+            },
+            {
+              "date": "2026-07-16T00:00:00.000Z",
+              "price": 22.09
+            },
+            {
+              "date": "2026-07-17T00:00:00.000Z",
+              "price": 21.93
+            }
+          ],
           "scryfall_history": [
             {
               "date": "2026-07-14T09:52:49.773237+00:00",
@@ -54540,21 +55391,21 @@
             }
           ],
           "trend_pct": 0.3,
-          "cross_source_gap_pct": null,
-          "cheaper_source": null,
+          "cross_source_gap_pct": 50.5,
+          "cheaper_source": "scryfall_cardmarket",
           "current_price": 14.57,
           "days_since_update": 0.4,
-          "volatility_pct": 0.1,
+          "volatility_pct": 23.0,
           "cm_low": 7.0,
           "cm_avg": 6.51,
           "cm_trend": 14.65,
           "cm_avg7": 12.12,
-          "cn_latest": null,
-          "cn_avg7": null,
+          "cn_latest": 21.93,
+          "cn_avg7": 22.68,
           "low_vs_avg_pct": 7.5,
           "low_vs_avg_diff": 0.49,
-          "cm_vs_cn_pct": null,
-          "cm_vs_cn_diff": null,
+          "cm_vs_cn_pct": -70.3,
+          "cm_vs_cn_diff": -15.42,
           "cm_official_history": [
             {
               "date": "2026-07-15T07:35:17.729552+00:00",
