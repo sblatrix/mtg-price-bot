@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T11:48:24.129029+00:00",
+  "generated_at": "2026-07-17T12:00:35.437955+00:00",
   "cards": [
     {
       "name": "Abomination, Irradiated Brute",
@@ -70856,6 +70856,44 @@
       },
       "has_competitive_signal": false,
       "has_web_signal": false
+    },
+    {
+      "name": "Predict",
+      "finishes": {
+        "standard": {
+          "cardnexus_history": [],
+          "scryfall_history": [
+            {
+              "date": "2026-07-17T00:00:00Z",
+              "price": 0.63
+            }
+          ],
+          "trend_pct": null,
+          "cross_source_gap_pct": null,
+          "cheaper_source": null,
+          "current_price": 0.63,
+          "days_since_update": 0.5,
+          "volatility_pct": null,
+          "cm_low": null,
+          "cm_avg": null,
+          "cm_trend": null,
+          "cm_avg7": null,
+          "cn_latest": null,
+          "cn_avg7": null,
+          "low_vs_avg_pct": null,
+          "low_vs_avg_diff": null,
+          "cm_vs_cn_pct": null,
+          "cm_vs_cn_diff": null,
+          "cm_official_history": []
+        }
+      },
+      "cardmarket_official": null,
+      "card_links": {
+        "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Predict",
+        "cardnexus_url": "https://cardnexus.com/fr/explore/mtg?search=Predict"
+      },
+      "has_competitive_signal": false,
+      "has_web_signal": true
     },
     {
       "name": "Professor Hulk",
