@@ -716,5 +716,27 @@
       "Standard",
       "Foil"
     ]
+  },
+  "687262e3620a85f87e0fe69c": {
+    "name": "Weapons Manufacturing",
+    "slug": "eoe-weapons-manufacturing-168-rare",
+    "nameSlug": "weapons-manufacturing",
+    "expansion": "Edge of Eternities",
+    "expansionSlug": "edge-of-eternities",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d0559fa724009551eae": {
+    "name": "Elesh Norn, Grand Cenobite",
+    "slug": "nph-elesh-norn-grand-cenobite-9-mythic",
+    "nameSlug": "elesh-norn-grand-cenobite",
+    "expansion": "New Phyrexia",
+    "expansionSlug": "new-phyrexia",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
