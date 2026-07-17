@@ -31,6 +31,14 @@ FINANCE_KEYWORDS = [
     "chase", "skyrocket", "tripled", "doubled", "playable", "meta",
 ]
 
+# noms de cartes qui sont aussi des expressions anglaises courantes -
+# génèrent trop de faux positifs (l'article parle de l'expression, pas de
+# la carte). Liste à étoffer au fil des faux positifs repérés.
+AMBIGUOUS_CARD_NAMES = {
+    "two-headed giant", "the pro tour", "predict", "fire", "ice",
+    "chaos", "control", "counter", "sacrifice", "block",
+}
+
 import scryfall_catalog
 
 WATCHLIST_PATH = Path(__file__).parent / "watchlist.json"
@@ -101,7 +109,11 @@ def normalize_for_matching(text: str) -> str:
 
 def find_matches(text: str, card_names: set[str]) -> tuple[list[str], list[str]]:
     text_norm = normalize_for_matching(text)
-    matched_cards = [name for name in card_names if normalize_for_matching(name) in text_norm]
+    matched_cards = [
+        name for name in card_names
+        if normalize_for_matching(name) not in AMBIGUOUS_CARD_NAMES
+        and normalize_for_matching(name) in text_norm
+    ]
     matched_keywords = [kw for kw in FINANCE_KEYWORDS if kw in text.lower()]
     return matched_cards, matched_keywords
 
@@ -194,13 +206,30 @@ def run():
         time.sleep(REQUEST_DELAY)
 
     # fusionne : résultats frais de ce run + anciennes entrées dont l'article
-    # n'est plus dans le flux actuel (RSS ne garde que les ~10-20 derniers)
-    merged = dict(existing_by_id)
-    merged.update(current_run_signals)
+    # n'est plus dans le flux actuel (RSS ne garde que les ~10-20 derniers).
+    # On garde ces anciennes entrées un temps limité (14j) - au-delà, mieux
+    # vaut les faire disparaître que les garder figées avec une détection
+    # potentiellement obsolète (le nom de la carte peut changer entre deux
+    # améliorations de la logique de matching).
+    MAX_STALE_DAYS = 14
+    now = datetime.now(timezone.utc)
+    stale_kept = {}
+    for aid, s in existing_by_id.items():
+        if aid in current_run_signals:
+            continue  # déjà retraité ce run, pas besoin de la version figée
+        try:
+            age_days = (now - datetime.fromisoformat(s["detected_at"].replace("Z", "+00:00"))).days
+        except (KeyError, ValueError):
+            age_days = MAX_STALE_DAYS + 1  # date illisible -> autant l'expirer
+        if age_days <= MAX_STALE_DAYS:
+            stale_kept[aid] = s
+
+    merged = {**stale_kept, **current_run_signals}
     all_signals = sorted(merged.values(), key=lambda s: s.get("detected_at", ""), reverse=True)[:300]
     OUTPUT_PATH.write_text(json.dumps(all_signals, ensure_ascii=False, indent=2), encoding="utf-8")
 
-    print(f"\n{len(current_run_signals)} article(s) pertinent(s) au total ce run, {new_alert_count} nouvelle(s) alerte(s).")
+    print(f"\n{len(current_run_signals)} article(s) pertinent(s) au total ce run, {new_alert_count} nouvelle(s) alerte(s), "
+          f"{len(stale_kept)} ancienne(s) entrée(s) conservée(s) (hors flux, <{MAX_STALE_DAYS}j).")
     return list(current_run_signals.values())
 
 
