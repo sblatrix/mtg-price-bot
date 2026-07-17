@@ -206,7 +206,7 @@ def build_card_entry(card_name: str) -> dict:
     return entry
 
 
-def load_competitive_signals() -> list[dict]:
+def load_competitive_signals(tracked_names: set[str]) -> list[dict]:
     """Fusionne meta_signals.json (MTGGoldfish) et performance_signals.json
     (MTGTop8) en une seule liste normalisée, triée du plus récent au plus
     ancien, dédupliquée par (nom, format, source)."""
@@ -225,20 +225,29 @@ def load_competitive_signals() -> list[dict]:
             continue
         seen.add(key)
         s["card_links"] = build_card_links(s["name"])
+        s["is_tracked"] = s["name"] in tracked_names
         deduped.append(s)
 
     return deduped[:150]
 
 
-def load_web_signals() -> list[dict]:
+def load_web_signals(tracked_names: set[str]) -> list[dict]:
     if not WEB_SIGNALS_PATH.exists():
         return []
     signals = json.loads(WEB_SIGNALS_PATH.read_text(encoding="utf-8"))
     signals = sorted(signals, key=lambda x: x.get("detected_at", ""), reverse=True)[:100]
     for s in signals:
+        matched = s.get("matched_cards", [])
         s["matched_card_links"] = [
-            {"name": name, **build_card_links(name)} for name in s.get("matched_cards", [])[:3]
+            {"name": name, **build_card_links(name)} for name in matched[:3]
         ]
+        # utilise matched_cards_tracked si présent (signaux récents), sinon
+        # retombe sur une vérification directe contre la watchlist actuelle
+        tracked_flags = s.get("matched_cards_tracked")
+        if tracked_flags and len(tracked_flags) == len(matched):
+            s["has_tracked_match"] = any(tracked_flags)
+        else:
+            s["has_tracked_match"] = any(c in tracked_names for c in matched)
     return signals
 
 
@@ -252,8 +261,9 @@ def run():
     if DEALS_PATH.exists():
         recent_deals = json.loads(DEALS_PATH.read_text(encoding="utf-8"))
 
-    competitive_signals = load_competitive_signals()
-    web_signals = load_web_signals()
+    tracked_names = set(cards)
+    competitive_signals = load_competitive_signals(tracked_names)
+    web_signals = load_web_signals(tracked_names)
     competitive_card_names = {s["name"] for s in competitive_signals}
     web_card_names = set()
     for s in web_signals:

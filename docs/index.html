@@ -469,7 +469,13 @@
   </div>
 
   <div style="margin-top:28px;">
-    <p class="section-title">🎯 Signaux compétitifs (tournois)</p>
+    <div style="display:flex; align-items:center; gap:12px; margin-bottom:14px;">
+      <p class="section-title" style="margin:0;">🎯 Signaux compétitifs (tournois)</p>
+      <label style="display:flex; align-items:center; gap:5px; font-size:12px; color:var(--muted);">
+        <input type="checkbox" id="competitive-signals-watchlist-only"> Seulement les cartes de ma watchlist
+      </label>
+      <span class="row-count" id="competitive-signals-count"></span>
+    </div>
     <div class="deals-list" id="competitive-signals-list"></div>
   </div>
 
@@ -598,10 +604,31 @@ function buildWebSignal(signal){
   return el;
 }
 
+function renderCompetitiveSignals(){
+  const watchlistOnly = document.getElementById('competitive-signals-watchlist-only').checked;
+  const filtered = watchlistOnly
+    ? allCompetitiveSignals.filter(s => s.is_tracked)
+    : allCompetitiveSignals;
+
+  document.getElementById('competitive-signals-count').textContent = `${filtered.length} / ${allCompetitiveSignals.length} signal(aux)`;
+
+  const signalsList = document.getElementById('competitive-signals-list');
+  if(filtered.length === 0){
+    signalsList.innerHTML = allCompetitiveSignals.length === 0
+      ? `<p class="empty">Pas encore de signal compétitif détecté. Le scanner tourne une fois par jour via GitHub Actions (workflow "Daily deep scan").</p>`
+      : `<p class="empty">Aucun signal compétitif ne concerne une carte de ta watchlist pour l'instant.</p>`;
+  } else {
+    signalsList.innerHTML = '';
+    filtered.forEach(s => signalsList.appendChild(buildCompetitiveSignal(s)));
+  }
+}
+
+document.getElementById('competitive-signals-watchlist-only').addEventListener('change', renderCompetitiveSignals);
+
 function renderWebSignals(){
   const watchlistOnly = document.getElementById('web-signals-watchlist-only').checked;
   const filtered = watchlistOnly
-    ? allWebSignals.filter(s => s.matched_cards && s.matched_cards.length > 0)
+    ? allWebSignals.filter(s => s.has_tracked_match)
     : allWebSignals;
 
   document.getElementById('web-signals-count').textContent = `${filtered.length} / ${allWebSignals.length} signal(aux)`;
@@ -664,6 +691,7 @@ function buildTicker(cards, deals){
 // --- Tableau watchlist : aplatit chaque carte x finition en une ligne ---
 let allRows = [];
 let allWebSignals = [];
+let allCompetitiveSignals = [];
 let currentSortedRows = [];
 let sortKey = 'trend_pct';
 let sortDir = -1; // -1 = desc
@@ -1067,13 +1095,8 @@ fetch('./data.json?_=' + Date.now())
       data.recent_deals.forEach(deal => dealsList.appendChild(buildDeal(deal)));
     }
 
-    const signalsList = document.getElementById('competitive-signals-list');
-    const signals = data.competitive_signals || [];
-    if(signals.length === 0){
-      signalsList.innerHTML = `<p class="empty">Pas encore de signal compétitif détecté. Le scanner tourne une fois par jour via GitHub Actions (workflow "Daily deep scan").</p>`;
-    } else {
-      signals.forEach(s => signalsList.appendChild(buildCompetitiveSignal(s)));
-    }
+    allCompetitiveSignals = data.competitive_signals || [];
+    renderCompetitiveSignals();
 
     allWebSignals = data.web_signals || [];
     renderWebSignals();
