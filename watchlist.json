@@ -23,6 +23,10 @@
     {
       "name": "Erode",
       "set": null
+    },
+    {
+      "name": "Predict",
+      "set": null
     }
   ],
   "_instructions": "Ajoute autant de cartes que tu veux. 'set' est optionnel (code d'extension ex: 'mh2') si tu veux cibler une version précise. Laisse null pour suivre l'imprimé le moins cher / le plus récent."
