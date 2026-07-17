@@ -1,10 +1,29 @@
 {
   "cards": [
-    {"name": "Ragavan, Nimble Pilferer", "set": null},
-    {"name": "The One Ring", "set": null},
-    {"name": "Solitude", "set": null},
-    {"name": "Fury", "set": null},
-    {"name": "Wrenn and Six", "set": null}
+    {
+      "name": "Ragavan, Nimble Pilferer",
+      "set": null
+    },
+    {
+      "name": "The One Ring",
+      "set": null
+    },
+    {
+      "name": "Solitude",
+      "set": null
+    },
+    {
+      "name": "Fury",
+      "set": null
+    },
+    {
+      "name": "Wrenn and Six",
+      "set": null
+    },
+    {
+      "name": "Erode",
+      "set": null
+    }
   ],
   "_instructions": "Ajoute autant de cartes que tu veux. 'set' est optionnel (code d'extension ex: 'mh2') si tu veux cibler une version précise. Laisse null pour suivre l'imprimé le moins cher / le plus récent."
 }
