@@ -16,6 +16,7 @@ from pathlib import Path
 from datetime import datetime, timezone
 
 import requests
+from bs4 import BeautifulSoup
 
 FEEDS = {
     "Draftsim": "https://draftsim.com/category/mtg-news/feed/",
@@ -71,6 +72,22 @@ def fetch_rss_items(feed_url: str) -> list[dict]:
         pub_date = (item.findtext("pubDate") or "").strip()
         items.append({"title": title, "link": link, "description": description, "guid": guid, "pub_date": pub_date})
     return items
+
+
+def fetch_article_full_text(url: str, max_chars: int = 8000) -> str:
+    """Va chercher le contenu complet de l'article (le flux RSS ne donne
+    souvent qu'un extrait tronqué, où le nom de la carte n'apparaît pas
+    forcément - alors qu'il apparaît presque toujours dans le corps complet)."""
+    try:
+        resp = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=20)
+        resp.raise_for_status()
+        soup = BeautifulSoup(resp.text, "html.parser")
+        # retire scripts/styles pour ne pas polluer le texte avec du code
+        for tag in soup(["script", "style"]):
+            tag.decompose()
+        return soup.get_text(" ")[:max_chars]
+    except requests.RequestException:
+        return ""
 
 
 def normalize_for_matching(text: str) -> str:
@@ -145,7 +162,10 @@ def run():
         for item in items:
             article_id = item["guid"]
 
-            full_text = f"{item['title']} {item['description']} {item['link']}"
+            article_body = fetch_article_full_text(item["link"])
+            time.sleep(REQUEST_DELAY)
+
+            full_text = f"{item['title']} {item['description']} {item['link']} {article_body}"
             full_text = re.sub(r"<[^>]+>", " ", full_text)
 
             # on retraite TOUJOURS avec la logique de détection actuelle (pas
