@@ -532,6 +532,7 @@
     <label><input type="checkbox" id="signal-only"> Signal seulement (tendance ou écart)</label>
     <label><input type="checkbox" id="competitive-only"> 🎯 Signal compétitif seulement</label>
     <label><input type="checkbox" id="web-only"> 💬 Signal web seulement</label>
+    <label><input type="checkbox" id="starred-only"> ★ Favoris seulement</label>
     <span class="row-count" id="row-count"></span>
   </div>
 
@@ -542,6 +543,7 @@
           <tr>
             <th data-key="has_competitive_signal">🎯</th>
             <th data-key="has_web_signal">💬</th>
+            <th data-key="starred">★</th>
             <th data-key="name">Carte</th>
             <th data-key="finish">Fin.</th>
             <th data-key="cm_low">Low CM</th>
@@ -861,6 +863,7 @@ function filterRows(rows){
   const signalOnly = document.getElementById('signal-only').checked;
   const competitiveOnly = document.getElementById('competitive-only').checked;
   const webOnly = document.getElementById('web-only').checked;
+  const starredOnly = document.getElementById('starred-only').checked;
   const priceMinRaw = document.getElementById('price-min').value;
   const priceMaxRaw = document.getElementById('price-max').value;
   const priceMin = priceMinRaw !== '' ? parseFloat(priceMinRaw) : null;
@@ -872,6 +875,7 @@ function filterRows(rows){
     if(signalOnly && r.trend_pct === null && r.cross_source_gap_pct === null) return false;
     if(competitiveOnly && !r.has_competitive_signal) return false;
     if(webOnly && !r.has_web_signal) return false;
+    if(starredOnly && !isStarred(r.name)) return false;
     if(priceMin !== null || priceMax !== null){
       // référence : la meilleure estimation de prix dispo pour cette ligne
       const refPrice = r.cm_avg ?? r.cn_latest ?? r.cm_low;
@@ -1048,7 +1052,7 @@ function renderTable(){
   document.getElementById('row-count').textContent = `${sorted.length} / ${allRows.length} ligne(s)`;
 
   if(sorted.length === 0){
-    tbody.innerHTML = `<tr><td colspan="18" class="empty">Aucune ligne ne correspond aux filtres.</td></tr>`;
+    tbody.innerHTML = `<tr><td colspan="19" class="empty">Aucune ligne ne correspond aux filtres.</td></tr>`;
     return;
   }
 
@@ -1058,6 +1062,7 @@ function renderTable(){
     <tr data-row-id="${r._id}">
       <td class="cell-muted signal-badge-cell" data-signal-type="competitive" data-card-name="${escapeHtml(r.name)}" style="text-align:center; ${r.has_competitive_signal ? 'cursor:pointer;' : ''}">${r.has_competitive_signal ? '🎯' : ''}</td>
       <td class="cell-muted signal-badge-cell" data-signal-type="web" data-card-name="${escapeHtml(r.name)}" style="text-align:center; ${r.has_web_signal ? 'cursor:pointer;' : ''}">${r.has_web_signal ? '💬' : ''}</td>
+      <td class="star-cell" data-card-name="${escapeHtml(r.name)}" style="text-align:center; cursor:pointer; color:${isStarred(r.name) ? 'var(--foil)' : 'var(--muted)'};">${isStarred(r.name) ? '★' : '☆'}</td>
       <td class="name-cell" data-name="${escapeHtml(r.name)}">
         ${r.name}
         <span class="inline-actions">
@@ -1173,6 +1178,26 @@ async function addCardToWatchlistViaGithub(cardName){
 
 // --- Watchlist en attente (repli quand aucun jeton n'est configuré -
 // on prépare une liste que tu copies-colles toi-même) ---
+// --- Favoris (étoile) - purement une préférence d'affichage locale, pas
+// besoin d'écrire sur GitHub pour ça ---
+const STARRED_KEY = 'mtg_starred_cards';
+
+function getStarredCards(){
+  try { return JSON.parse(localStorage.getItem(STARRED_KEY) || '[]'); }
+  catch(e){ return []; }
+}
+
+function isStarred(name){
+  return getStarredCards().includes(name);
+}
+
+function toggleStarred(name){
+  const list = getStarredCards();
+  const idx = list.indexOf(name);
+  if(idx === -1) list.push(name); else list.splice(idx, 1);
+  try { localStorage.setItem(STARRED_KEY, JSON.stringify(list)); } catch(e){}
+}
+
 const PENDING_KEY = 'mtg_pending_watchlist_additions';
 
 function getPendingWatchlist(){
@@ -1401,7 +1426,7 @@ document.querySelectorAll('#watchlist-table thead th').forEach(th=>{
   });
 });
 
-['search-input', 'finish-filter', 'signal-only', 'competitive-only', 'web-only', 'price-min', 'price-max'].forEach(id=>{
+['search-input', 'finish-filter', 'signal-only', 'competitive-only', 'web-only', 'starred-only', 'price-min', 'price-max'].forEach(id=>{
   document.getElementById(id).addEventListener('input', renderTable);
 });
 
@@ -1425,6 +1450,13 @@ const tbodyEl = document.getElementById('watchlist-tbody');
 tbodyEl.addEventListener('click', (evt)=>{
   if(evt.target.closest('.inline-actions')) return; // laisse les liens CM/CN/retrait s'ouvrir sans toggler la ligne
 
+  const starCell = evt.target.closest('.star-cell');
+  if(starCell){
+    toggleStarred(starCell.dataset.cardName);
+    renderTable(); // re-render pour mettre à jour l'étoile affichée et le filtre si actif
+    return;
+  }
+
   const badgeCell = evt.target.closest('.signal-badge-cell');
   if(badgeCell){
     if(badgeCell.textContent.trim() !== ''){
@@ -1447,7 +1479,7 @@ fetch('./data.json?_=' + Date.now())
     allRows = flattenRows(data.cards);
     if(allRows.length === 0){
       document.getElementById('watchlist-tbody').innerHTML =
-        `<tr><td colspan="18" class="empty">Aucune carte suivie pour l'instant. Lance <code>python collector.py</code> et <code>python deal_scanner.py</code> au moins une fois pour peupler le dashboard.</td></tr>`;
+        `<tr><td colspan="19" class="empty">Aucune carte suivie pour l'instant. Lance <code>python collector.py</code> et <code>python deal_scanner.py</code> au moins une fois pour peupler le dashboard.</td></tr>`;
     } else {
       renderTable();
     }
@@ -1468,7 +1500,7 @@ fetch('./data.json?_=' + Date.now())
   .catch(err => {
     document.getElementById('updated').textContent = 'Erreur de chargement';
     document.getElementById('watchlist-tbody').innerHTML =
-      `<tr><td colspan="18" class="empty">Impossible de charger data.json. Vérifie que le fichier existe dans /docs et que GitHub Pages est activé (Settings → Pages → source: /docs).</td></tr>`;
+      `<tr><td colspan="19" class="empty">Impossible de charger data.json. Vérifie que le fichier existe dans /docs et que GitHub Pages est activé (Settings → Pages → source: /docs).</td></tr>`;
     console.error(err);
   });
 </script>
