@@ -782,5 +782,16 @@
       "Foil",
       "Standard"
     ]
+  },
+  "68502c2f59fa72400954d5be": {
+    "name": "Cleric Class",
+    "slug": "afr-cleric-class-6-uncommon",
+    "nameSlug": "cleric-class",
+    "expansion": "Adventures in the Forgotten Realms",
+    "expansionSlug": "adventures-in-the-forgotten-realms",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
