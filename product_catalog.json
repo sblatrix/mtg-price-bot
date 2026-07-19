@@ -845,5 +845,172 @@
     "finishes": [
       "Standard"
     ]
+  },
+  "6850301459fa72400955f2ea": {
+    "name": "Resurrection",
+    "slug": "2ed-resurrection-35-uncommon",
+    "nameSlug": "resurrection",
+    "expansion": "Unlimited Edition",
+    "expansionSlug": "unlimited-edition",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502bc659fa7240095490c5": {
+    "name": "Abomination",
+    "slug": "leg-abomination-87-uncommon",
+    "nameSlug": "abomination",
+    "expansion": "Legends",
+    "expansionSlug": "legends",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502ef159fa72400955c5e2": {
+    "name": "Nameless Race",
+    "slug": "drk-nameless-race-50-rare",
+    "nameSlug": "nameless-race",
+    "expansion": "The Dark",
+    "expansionSlug": "the-dark",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502df159fa7240095561bb": {
+    "name": "Hullbreaker Horror",
+    "slug": "woc-hullbreaker-horror-95-rare",
+    "nameSlug": "hullbreaker-horror",
+    "expansion": "Wilds of Eldraine Commander",
+    "expansionSlug": "wilds-of-eldraine-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850301559fa72400955fc69": {
+    "name": "Radiant, Archangel",
+    "slug": "ulg-radiant-archangel-20-rare",
+    "nameSlug": "radiant-archangel",
+    "expansion": "Urza's Legacy",
+    "expansionSlug": "urzas-legacy",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502e6d59fa724009559659": {
+    "name": "Karmic Guide",
+    "slug": "ulg-karmic-guide-11-rare",
+    "nameSlug": "karmic-guide",
+    "expansion": "Urza's Legacy",
+    "expansionSlug": "urzas-legacy",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502d7b59fa724009554cec": {
+    "name": "Goldberry, River-Daughter",
+    "slug": "pltr-goldberry-river-daughter-52s-rare",
+    "nameSlug": "goldberry-river-daughter",
+    "expansion": "Tales of Middle-earth Promos",
+    "expansionSlug": "tales-of-middle-earth-promos",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "68502d0559fa7240095516d1": {
+    "name": "Emerald Medallion",
+    "slug": "tmp-emerald-medallion-283-rare",
+    "nameSlug": "emerald-medallion",
+    "expansion": "Tempest",
+    "expansionSlug": "tempest",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850301559fa72400955ffaf": {
+    "name": "Rankle, Master of Pranks",
+    "slug": "peld-rankle-master-of-pranks-101s-mythic",
+    "nameSlug": "rankle-master-of-pranks",
+    "expansion": "Throne of Eldraine Promos",
+    "expansionSlug": "throne-of-eldraine-promos",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "68502c9759fa72400954fd62": {
+    "name": "Court of Embereth",
+    "slug": "woc-court-of-embereth-32-rare",
+    "nameSlug": "court-of-embereth",
+    "expansion": "Wilds of Eldraine Commander",
+    "expansionSlug": "wilds-of-eldraine-commander",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c2f59fa72400954d946": {
+    "name": "Caltrops",
+    "slug": "7ed-caltrops-288-uncommon",
+    "nameSlug": "caltrops",
+    "expansion": "Seventh Edition",
+    "expansionSlug": "seventh-edition",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850301659fa7240095603e4": {
+    "name": "Reconnaissance",
+    "slug": "exo-reconnaissance-17-uncommon",
+    "nameSlug": "reconnaissance",
+    "expansion": "Exodus",
+    "expansionSlug": "exodus",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502c9559fa72400954e374": {
+    "name": "Dandân",
+    "slug": "tsb-dandan-19-special",
+    "nameSlug": "dandan",
+    "expansion": "Time Spiral Timeshifted",
+    "expansionSlug": "time-spiral-timeshifted",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c9759fa72400954fd79": {
+    "name": "Court of Locthwain",
+    "slug": "woc-court-of-locthwain-31-rare",
+    "nameSlug": "court-of-locthwain",
+    "expansion": "Wilds of Eldraine Commander",
+    "expansionSlug": "wilds-of-eldraine-commander",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c9659fa72400954e757": {
+    "name": "Cloudstone Curio",
+    "slug": "rav-cloudstone-curio-257-rare",
+    "nameSlug": "cloudstone-curio",
+    "expansion": "Ravnica: City of Guilds",
+    "expansionSlug": "ravnica-city-of-guilds",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502e6b59fa724009557dc0": {
+    "name": "Lotho, Corrupt Shirriff",
+    "slug": "ltr-lotho-corrupt-shirriff-213-rare",
+    "nameSlug": "lotho-corrupt-shirriff",
+    "expansion": "The Lord of the Rings: Tales of Middle-earth",
+    "expansionSlug": "the-lord-of-the-rings-tales-of-middle-earth",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
