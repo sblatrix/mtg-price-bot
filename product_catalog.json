@@ -825,5 +825,25 @@
       "Standard",
       "Foil"
     ]
+  },
+  "6a3449356902fad63cc2c1fc": {
+    "name": "Vibranium Mining Mech",
+    "slug": "msc-vibranium-mining-mech-458-rare",
+    "nameSlug": "vibranium-mining-mech",
+    "expansion": "Marvel Super Heroes Commander",
+    "expansionSlug": "marvel-super-heroes-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6a22a72b3c32f48d1fdeaeeb": {
+    "name": "Vision, Synthezoid Avenger",
+    "slug": "msc-vision-synthezoid-avenger-460-rare",
+    "nameSlug": "vision-synthezoid-avenger",
+    "expansion": "Marvel Super Heroes Commander",
+    "expansionSlug": "marvel-super-heroes-commander",
+    "finishes": [
+      "Standard"
+    ]
   }
 }
