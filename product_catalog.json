@@ -1012,5 +1012,131 @@
       "Standard",
       "Foil"
     ]
+  },
+  "6917ca3cd4037523437423b6": {
+    "name": "Phoenix Fleet Airship",
+    "slug": "tla-phoenix-fleet-airship-114-mythic",
+    "nameSlug": "phoenix-fleet-airship",
+    "expansion": "Avatar: The Last Airbender",
+    "expansionSlug": "avatar-the-last-airbender",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6917ca3dd403752343742453": {
+    "name": "The Earth King",
+    "slug": "tla-the-earth-king-344-rare",
+    "nameSlug": "the-earth-king",
+    "expansion": "Avatar: The Last Airbender",
+    "expansionSlug": "avatar-the-last-airbender",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502e6b59fa724009557b5e": {
+    "name": "Lost Isle Calling",
+    "slug": "pltr-lost-isle-calling-61s-rare",
+    "nameSlug": "lost-isle-calling",
+    "expansion": "Tales of Middle-earth Promos",
+    "expansionSlug": "tales-of-middle-earth-promos",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "6850322d59fa7240095666a4": {
+    "name": "Underground River",
+    "slug": "ltc-underground-river-342-rare",
+    "nameSlug": "underground-river",
+    "expansion": "Tales of Middle-earth Commander",
+    "expansionSlug": "tales-of-middle-earth-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850301659fa724009560717": {
+    "name": "Richard Garfield, Ph.D.",
+    "slug": "p30m-richard-garfield-phd-1star-rare",
+    "nameSlug": "richard-garfield-phd",
+    "expansion": "30th Anniversary Misc Promos",
+    "expansionSlug": "30th-anniversary-misc-promos",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502f7e59fa72400955de74": {
+    "name": "Phyrexian Arena",
+    "slug": "one-phyrexian-arena-283-rare",
+    "nameSlug": "phyrexian-arena",
+    "expansion": "Phyrexia: All Will Be One",
+    "expansionSlug": "phyrexia-all-will-be-one",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "6850317259fa724009564042": {
+    "name": "Staff of the Storyteller",
+    "slug": "onc-staff-of-the-storyteller-48-rare",
+    "nameSlug": "staff-of-the-storyteller",
+    "expansion": "Phyrexia: All Will Be One Commander",
+    "expansionSlug": "phyrexia-all-will-be-one-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "687262e3620a85f87e0fe62b": {
+    "name": "Consult the Star Charts",
+    "slug": "eoe-consult-the-star-charts-51-rare",
+    "nameSlug": "consult-the-star-charts",
+    "expansion": "Edge of Eternities",
+    "expansionSlug": "edge-of-eternities",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502e6e59fa724009559c69": {
+    "name": "Liliana of the Veil",
+    "slug": "pdmu-liliana-of-the-veil-97p-mythic",
+    "nameSlug": "liliana-of-the-veil",
+    "expansion": "Dominaria United Promos",
+    "expansionSlug": "dominaria-united-promos",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502ef059fa72400955b939": {
+    "name": "Murktide Regent",
+    "slug": "mh2-murktide-regent-52-mythic",
+    "nameSlug": "murktide-regent",
+    "expansion": "Modern Horizons 2",
+    "expansionSlug": "modern-horizons-2",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685030be59fa7240095626ff": {
+    "name": "Saruman of Many Colors",
+    "slug": "ltr-saruman-of-many-colors-412-mythic",
+    "nameSlug": "saruman-of-many-colors",
+    "expansion": "The Lord of the Rings: Tales of Middle-earth",
+    "expansionSlug": "the-lord-of-the-rings-tales-of-middle-earth",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d7b59fa724009554e48": {
+    "name": "Flawless Maneuver",
+    "slug": "c20-flawless-maneuver-26-rare",
+    "nameSlug": "flawless-maneuver",
+    "expansion": "Commander 2020",
+    "expansionSlug": "commander-2020",
+    "finishes": [
+      "Standard"
+    ]
   }
 }
