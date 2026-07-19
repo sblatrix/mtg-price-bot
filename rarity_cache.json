@@ -3586,5 +3586,309 @@
   "Pyrite Spellbomb|": {
     "rarity": "common",
     "set": null
+  },
+  "Accumulate Wisdom|tla": {
+    "rarity": "uncommon",
+    "set": "tla"
+  },
+  "Emrakul, the Promised End <retro>|inr": {
+    "rarity": null,
+    "set": "inr"
+  },
+  "Seasoned Pyromancer|mh1": {
+    "rarity": "mythic",
+    "set": "mh1"
+  },
+  "Rampant Growth|j25": {
+    "rarity": "common",
+    "set": "j25"
+  },
+  "An Offer You Can't Refuse|plist": {
+    "rarity": null,
+    "set": "plist"
+  },
+  "Ill-Timed Explosion|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Zack Fair|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Gene Pollinator|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Octopus Form|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Deadly Cover-Up|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Stoic Sphinx|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Splatter Technique|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Kroxa, Titan of Death's Hunger|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Doorkeeper Thrull|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Nulldrifter|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Castle Doom|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Skullcrack|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Barbarian Ring|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Smash to Smithereens|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Lava Spike|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Roiling Vortex|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Boltwave|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Exquisite Firecraft|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Skewer the Critics|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Thrun, Breaker of Silence|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Razorverge Thicket|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Elvish Mystic|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Botanical Brawler|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Skyclave Apparition|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Eiganjo, Seat of the Empire|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Brushland|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Grim Bauble|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Fleeting Spirit|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Iron-Shield Elf|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Bleachbone Verge|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Guardian of New Benalia|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Concealed Courtyard|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Lively Dirge|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Vanishing Verse|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Monument to Endurance|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Abundant Countryside|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "The One Ring|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Tundra|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Back to Basics|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Scrubland|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Eumidian Hatchery|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Hogaak, Arisen Necropolis|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Sylvan Safekeeper|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Wight of the Reliquary|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Approach of the Second Sun|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Gamble|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Peer into the Abyss|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Tendrils of Agony|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Beseech the Mirror|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Opal Palace|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Swarmyard|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Malcolm, Alluring Scoundrel|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Bonecrusher Giant|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Chain Lightning|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Memory Lapse|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Intuition|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "True-Name Nemesis|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Snapcaster Mage|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Clout of the Dominus|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Dream Halls|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Kaya's Guile|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Waterlogged Teachings|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Glacial Fortress|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Oko, Thief of Crowns|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Evasive Action|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "World War Hulk|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Shorikai, Genesis Engine|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Fire Nation Occupation|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Ancient Cornucopia|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Temple of the False God|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Rakshasa's Bargain|": {
+    "rarity": "uncommon",
+    "set": null
   }
 }

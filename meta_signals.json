@@ -1,5 +1,18 @@
 [
   {
+    "name": "Seasoned Pyromancer",
+    "format": "modern",
+    "rarity": "mythic",
+    "pct_of_decks": 11,
+    "pct_change": 11,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-07-19T07:53:37.067507+00:00",
+    "url": "https://www.mtggoldfish.com/price/modern-horizons/145/seasoned-pyromancer#paper",
+    "summary": "Nouvelle entrée en modern : 11% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Blasphemous Act",
     "format": "commander",
     "rarity": "rare",
