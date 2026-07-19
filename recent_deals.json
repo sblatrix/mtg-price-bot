@@ -1,5 +1,18 @@
 [
   {
+    "name": "Plains",
+    "expansion": "Unhinged",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 2.25,
+    "ref_price": 3.03,
+    "discount_pct": 25.7,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-07-19T08:06:54.283Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/unhinged/card/unh-plains-136-common"
+  },
+  {
     "name": "Cleric Class",
     "expansion": "Adventures in the Forgotten Realms",
     "finish": "Standard",
