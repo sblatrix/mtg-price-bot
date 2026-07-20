@@ -1170,5 +1170,49 @@
     "finishes": [
       "Standard"
     ]
+  },
+  "68591a1c5f6860674f1f8112": {
+    "name": "Watery Grave",
+    "slug": "eoe-watery-grave-261-rare",
+    "nameSlug": "watery-grave",
+    "expansion": "Edge of Eternities",
+    "expansionSlug": "edge-of-eternities",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "687262e3620a85f87e0fe618": {
+    "name": "Haliya, Guided by Light",
+    "slug": "eoe-haliya-guided-by-light-19-rare",
+    "nameSlug": "haliya-guided-by-light",
+    "expansion": "Edge of Eternities",
+    "expansionSlug": "edge-of-eternities",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "688e481d7d3de933adc87e6c": {
+    "name": "Tannuk, Steadfast Second",
+    "slug": "eoe-tannuk-steadfast-second-162-mythic",
+    "nameSlug": "tannuk-steadfast-second",
+    "expansion": "Edge of Eternities",
+    "expansionSlug": "edge-of-eternities",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502bc859fa72400954a4af": {
+    "name": "Archmage of Runes",
+    "slug": "fdn-archmage-of-runes-30-rare",
+    "nameSlug": "archmage-of-runes",
+    "expansion": "Foundations",
+    "expansionSlug": "foundations",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
