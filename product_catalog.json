@@ -1160,5 +1160,15 @@
       "Standard",
       "Foil"
     ]
+  },
+  "68502bca59fa72400954b44f": {
+    "name": "Anointed Procession",
+    "slug": "plst-anointed-procession-akh-2-rare",
+    "nameSlug": "anointed-procession",
+    "expansion": "The List",
+    "expansionSlug": "the-list",
+    "finishes": [
+      "Standard"
+    ]
   }
 }
