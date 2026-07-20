@@ -1,5 +1,18 @@
 [
   {
+    "name": "Hypnotic Specter",
+    "expansion": "Revised Edition",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 4.33,
+    "ref_price": 6.1,
+    "discount_pct": 29.0,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-07-20T19:48:16.378Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/revised-edition/card/3ed-hypnotic-specter-115-uncommon"
+  },
+  {
     "name": "Archmage of Runes",
     "expansion": "Foundations",
     "finish": "Standard",
@@ -1285,18 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-07-10T19:30:37.580Z",
     "url": "https://cardnexus.com/fr/explore/mtg/marvel-universe/card/mar-infernal-grasp-18-mythic"
-  },
-  {
-    "name": "Relentless Assault",
-    "expansion": "Marvel Universe",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 2.5,
-    "ref_price": 3.19,
-    "discount_pct": 21.6,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-07-10T19:30:37.580Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/marvel-universe/card/mar-relentless-assault-25-mythic"
   }
 ]
