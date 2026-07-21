@@ -1245,5 +1245,38 @@
       "Standard",
       "Foil"
     ]
+  },
+  "68502d0559fa72400955207d": {
+    "name": "Faerie Macabre",
+    "slug": "shm-faerie-macabre-66-common",
+    "nameSlug": "faerie-macabre",
+    "expansion": "Shadowmoor",
+    "expansionSlug": "shadowmoor",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850317559fa7240095655ae": {
+    "name": "Spellstutter Sprite",
+    "slug": "lrw-spellstutter-sprite-89-common",
+    "nameSlug": "spellstutter-sprite",
+    "expansion": "Lorwyn",
+    "expansionSlug": "lorwyn",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502bc859fa72400954a703": {
+    "name": "Alrund's Epiphany",
+    "slug": "khm-alrunds-epiphany-41-mythic",
+    "nameSlug": "alrunds-epiphany",
+    "expansion": "Kaldheim",
+    "expansionSlug": "kaldheim",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
