@@ -1278,5 +1278,26 @@
       "Standard",
       "Foil"
     ]
+  },
+  "68502e6b59fa7240095584ed": {
+    "name": "Kaito, Bane of Nightmares",
+    "slug": "dsk-kaito-bane-of-nightmares-220-mythic",
+    "nameSlug": "kaito-bane-of-nightmares",
+    "expansion": "Duskmourn: House of Horror",
+    "expansionSlug": "duskmourn-house-of-horror",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850322e59fa724009566fb9": {
+    "name": "Three Visits",
+    "slug": "cmm-three-visits-913-uncommon",
+    "nameSlug": "three-visits",
+    "expansion": "Commander Masters",
+    "expansionSlug": "commander-masters",
+    "finishes": [
+      "Standard"
+    ]
   }
 }

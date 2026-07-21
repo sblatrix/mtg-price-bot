@@ -1,5 +1,31 @@
 [
   {
+    "name": "Three Visits",
+    "expansion": "Commander Masters",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 5.0,
+    "ref_price": 6.3,
+    "discount_pct": 20.6,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-07-21T09:39:56.417Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/commander-masters/card/cmm-three-visits-913-uncommon"
+  },
+  {
+    "name": "Kaito, Bane of Nightmares",
+    "expansion": "Duskmourn: House of Horror",
+    "finish": "Standard",
+    "language": "es",
+    "price_paid": 8.36,
+    "ref_price": 12.24,
+    "discount_pct": 31.7,
+    "confident": true,
+    "seller_country": "ES",
+    "created_at": "2026-07-21T10:06:14.015Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/duskmourn-house-of-horror/card/dsk-kaito-bane-of-nightmares-220-mythic"
+  },
+  {
     "name": "Elvish Promenade",
     "expansion": "Lorwyn",
     "finish": "Standard",
@@ -1272,31 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-07-14T11:31:40.547Z",
     "url": "https://cardnexus.com/fr/explore/mtg/shards-of-alara/card/ala-godsire-170-mythic"
-  },
-  {
-    "name": "Elves of Deep Shadow",
-    "expansion": "Ravnica: City of Guilds",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 1.5,
-    "ref_price": 2.03,
-    "discount_pct": 26.1,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-07-14T11:37:58.275Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/ravnica-city-of-guilds/card/rav-elves-of-deep-shadow-161-common"
-  },
-  {
-    "name": "Seeker of Skybreak",
-    "expansion": "Tempest",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 1.5,
-    "ref_price": 2.44,
-    "discount_pct": 38.5,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-07-14T11:44:10.420Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/tempest/card/tmp-seeker-of-skybreak-254-common"
   }
 ]
