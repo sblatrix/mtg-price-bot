@@ -1,5 +1,31 @@
 [
   {
+    "name": "Phyrexian Furnace",
+    "expansion": "The List",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 9.35,
+    "ref_price": 15.83,
+    "discount_pct": 40.9,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-07-21T17:22:46.806Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/the-list/card/plst-phyrexian-furnace-wth-155-uncommon"
+  },
+  {
+    "name": "Decanter of Endless Water",
+    "expansion": "Commander Legends: Battle for Baldur's Gate",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 1.63,
+    "ref_price": 2.28,
+    "discount_pct": 28.5,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-07-21T17:44:51.063Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/commander-legends-battle-for-baldurs-gate/card/clb-decanter-of-endless-water-444-common"
+  },
+  {
     "name": "Archdruid's Charm",
     "expansion": "Murders at Karlov Manor",
     "finish": "Standard",
@@ -1272,31 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-07-14T15:56:58.579Z",
     "url": "https://cardnexus.com/fr/explore/mtg/worldwake-promos/card/pwwk-joraga-warcaller-106star-rare"
-  },
-  {
-    "name": "Elvish Champion",
-    "expansion": "Salvat 2005",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 4.5,
-    "ref_price": 6.75,
-    "discount_pct": 33.3,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-07-14T15:58:51.576Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/salvat-2005/card/psal-elvish-champion-b49-rare"
-  },
-  {
-    "name": "Tyvar Kell",
-    "expansion": "Kaldheim",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 3.5,
-    "ref_price": 5.41,
-    "discount_pct": 35.3,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-07-14T16:00:06.648Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/kaldheim/card/khm-tyvar-kell-198-mythic"
   }
 ]

@@ -1310,5 +1310,26 @@
       "Standard",
       "Foil"
     ]
+  },
+  "68502c9759fa72400954fdfd": {
+    "name": "Decanter of Endless Water",
+    "slug": "clb-decanter-of-endless-water-444-common",
+    "nameSlug": "decanter-of-endless-water",
+    "expansion": "Commander Legends: Battle for Baldur's Gate",
+    "expansionSlug": "commander-legends-battle-for-baldurs-gate",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502f7e59fa72400955e273": {
+    "name": "Phyrexian Furnace",
+    "slug": "plst-phyrexian-furnace-wth-155-uncommon",
+    "nameSlug": "phyrexian-furnace",
+    "expansion": "The List",
+    "expansionSlug": "the-list",
+    "finishes": [
+      "Standard"
+    ]
   }
 }
