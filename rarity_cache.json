@@ -4126,5 +4126,1561 @@
   "Feather of Flight|": {
     "rarity": "uncommon",
     "set": null
+  },
+  "Mishra's Bauble <retro>|brr": {
+    "rarity": null,
+    "set": "brr"
+  },
+  "Seasoned Pyromancer|2x2": {
+    "rarity": "mythic",
+    "set": "2x2"
+  },
+  "Tear Asunder|blc": {
+    "rarity": "uncommon",
+    "set": "blc"
+  },
+  "Abrade <borderless>|inr": {
+    "rarity": null,
+    "set": "inr"
+  },
+  "Flowstone Infusion|dmu": {
+    "rarity": "common",
+    "set": "dmu"
+  },
+  "Kaito, Bane of Nightmares|dsk": {
+    "rarity": "mythic",
+    "set": "dsk"
+  },
+  "Sol Ring <019edcec-d990-7f34-b647-9f61a6510cee>|msc": {
+    "rarity": null,
+    "set": "msc"
+  },
+  "Faithless Looting <019d4a1a-324b-715f-9adb-be51eafe7fb4>|soc": {
+    "rarity": null,
+    "set": "soc"
+  },
+  "Defend the Rider|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Bender's Waterskin|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Doomsday Excruciator|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Restless Reef|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Restoration Magic|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Authority of the Consuls|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Emrakul, the Aeons Torn|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Lithomantic Barrage|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Hollow One|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Burning Inquiry|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Conflagrate|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Arclight Phoenix|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Stinkweed Imp|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Golgari Thug|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Creeping Chill|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Exhibition Tidecaller|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Nurturing Peatland|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Aether Gust|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Anger of the Gods|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Marauding Mako|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Rending Volley|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Kid Loki|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Ral Zarek, Guest Lecturer|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Den of the Bugbear|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Storm's Wrath|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Treasure Cruise|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Ephara's Dispersal|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Spinewoods Armadillo|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Keruga, the Macrosage|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Horned Loch-Whale|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Ketria Triome|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Release to the Wind|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Trumpeting Carnosaur|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Virtue of Persistence|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Mirrorshell Crab|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Greater Tanuki|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Consign / Oblivion|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Gyruda, Doom of Depths|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Quintorius Kand|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Raffine's Tower|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Spark Double|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Brightclimb Pathway|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Fiery Impulse|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Igneous Inspiration|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Thrun, the Last Troll|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Fury|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Melded Moxite|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Chaos Defiler|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Elvish Reclaimer|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Alpha Deathclaw|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Ignoble Hierarch|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Gaea's Cradle|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Mole Man, Moloid Master|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Gaddock Teeg|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Echo of Eons|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Cabal Ritual|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Chrome Mox|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Burning Wish|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Runehorn Hellkite|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Badlands|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Song of Creation|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Gaea's Will|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Massacre|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Stifle|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Meteor Sword|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Batterskull|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Lavinia, Azorius Renegade|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Triumph of Saint Katherine|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Knight of the Reliquary|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Blue Elemental Blast|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Pre-War Formalwear|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Recruiter of the Guard|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Aether Vial|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Delver of Secrets|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Carpet of Flowers|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Shallow Grave|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Stronghold Gambit|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Show and Tell|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Animate Dead|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Koma, World-Eater|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Unmask|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Price of Progress|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Grindstone|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Painter's Servant|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Echoing Truth|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Urza's Workshop|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Mystic Forge|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Manifold Key|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Grim Monolith|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Esper Sentinel|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Inspiring Vantage|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Sundering Eruption|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Oust|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Ghostfire Slice|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Parallax Wave|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Curse of Silence|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Quintorius, History Chaser|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Needleverge Pathway|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Horizon of Progress|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Bitter Reunion|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Joshua, Phoenix's Dominant|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Forth Eorlingas!|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Pyrokinesis|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Tersa Lightshatter|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Synth Eradicator|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Eiganjo Castle|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Kor Spiritdancer|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Gift of Granite|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Skrelv, Defector Mite|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Idolized|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Mask of Law and Grace|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Light-Paws, Emperor's Voice|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Reverent Mantra|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Military Discipline|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Jolted Awake|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Ossification|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Zealot's Conviction|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Archivist of Oghma|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Dust Bowl|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "The Prismatic Bridge|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Cartouche of Solidarity|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Shardmage's Rescue|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Benevolent Blessing|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Hope of Ghirapur|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Growth Spiral|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Mana Confluence|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Taiga|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Nature's Lore|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Ugin, the Spirit Dragon|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Three Visits|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Flare of Fortitude|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Unexpectedly Absent|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Helitrooper|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Cid, Freeflier Pilot|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Puresteel Paladin|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Skullclamp|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Elite Spellbinder|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Palace Jailer|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Umezawa's Jitte|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Sigarda's Aid|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Crystal Vein|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Mirrex|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Glimmer Lens|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Masterwork of Ingenuity|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Razorgrass Ambush|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Anointed Peacekeeper|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Tectonic Edge|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Zurgo Bellstriker|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Headliner Scarlett|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Laelia, the Blade Reforged|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Spider-Punk|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Play with Fire|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Force of Rage|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Wild Slash|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Loyal Apprentice|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Seal of Fire|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Feldon, Ronom Excavator|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Mishra's Factory|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Shinka, the Bloodsoaked Keep|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Dark Petition|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Jet Medallion|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Defile|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Night's Whisper|": {
+    "rarity": "common",
+    "set": null
+  },
+  "March of Wretched Sorrow|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Cabal Coffers|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Damnation|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Grief|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Necropotence|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Opposition Agent|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Hymn to Tourach|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Beseech the Queen|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Consuming Corruption|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Insatiable Avarice|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Void Rend|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Flare of Malice|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Harried Spearguard|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Cult Conscript|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Snarling Gorehound|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Carrion Feeder|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Stadium Headliner|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Forsaken Miner|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Rotten Reunion|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Wriggling Grub|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Bomat Courier|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Shizo, Death's Storehouse|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Juri, Master of the Revue|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Hive of the Eye Tyrant|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Gut, True Soul Zealot|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Stitcher's Supplier|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Marionette Apprentice|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Mount Doom|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Claim / Fame|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Graven Cairns|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Jadar, Ghoulcaller of Nephalia|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Inti, Seneschal of the Sun|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Blightstep Pathway|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Stalactite Stalker|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Bloodsoaked Champion|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Ellie, Vengeful Hunter|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Snow-Covered Swamp|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Nested Shambler|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Gravecrawler|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Grim Initiate|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Serrated Scorpion|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Ellie, Brick Master|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Nezumi Linkbreaker|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Vraan, Executioner Thane|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Blazemire Verge|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Sephiroth, Fabled SOLDIER|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Sulfurous Springs|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Infestation Sage|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Scrapheap Scrounger|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Vault of Whispers|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Invasion of Gobakhan|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Overlord of the Mistmoors|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Blade Splicer|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Staff of the Storyteller|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Seasoned Dungeoneer|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Cataclysm|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Rishadan Port|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Starfield Shepherd|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Steel Seraph|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Taii Wakeen, Perfect Shot|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Steelshaper's Gift|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Spikefield Hazard|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Tarfire|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Arcum's Astrolabe|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Ranger of Eos|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Spellseeker|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Frenzied Baloth|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Birds of Paradise|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Urza, Lord High Artificer|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Noble Hierarch|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Voice of Resurgence|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Arbor Elf|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Birthing Pod|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Avacyn's Pilgrim|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Magmatic Sinkhole|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Vendilion Clique|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Minsc & Boo, Timeless Heroes|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Mawloc|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Quandrix Charm|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "The Wondrous Wasp|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Brigid, Clachan's Heart|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Agna Qel'a|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Reckless Charge|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Wild Ride|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Sulfur Falls|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Logic Knot|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Chord of Calling|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Wild Growth|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Finale of Devastation|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Burrenton Forge-Tender|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Fyndhorn Elves|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Worldly Tutor|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Springheart Nantuko|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Boreal Druid|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Nature's Rhythm|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Spellskite|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Moonsnare Prototype|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Shield Sphere|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Whir of Invention|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Ornithopter|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Lavaspur Boots|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Minamo, School at Water's Edge|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Winter Orb|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Vedalken Shackles|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Burgeoning|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Beast Within|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Gingerbread Cabin|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Nissa, Resurgent Animist|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Summer Bloom|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Horizon Explorer|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Rogue's Passage|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Insidious Fungus|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Brokers Hideout|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Tree of Tales|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Hickory Woodlot|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Cabaretti Courtyard|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Tireless Provisioner|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Tiller Engine|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Zuran Orb|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Glacial Chasm|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Lotus Cobra|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Havenwood Battleground|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Sylvan Scrying|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Riveteers Overlook|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Guildless Commons|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Weather Maker|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Snap|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Miscalculation|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Slip Out the Back|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Suspend|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Trinket Mage|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Harmonic Prodigy|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Kari Zev, Skyship Raider|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Super Shredder|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Deadpool, Trading Card|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Turnabout|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "High Tide|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Merchant Scroll|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Gigadrowse|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Vines of Vastwood|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Rancor|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Adventuring Gear|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Blossoming Defense|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Embiggen|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Allosaurus Shepherd|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Inkmoth Nexus|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Berserk|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Hashep Oasis|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Groundswell|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Elvish Spirit Guide|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Legolas's Quick Reflexes|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Scythecat Cub|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Ranger's Guile|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Okina, Temple to the Grandfathers|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Evolving Wilds|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Become Immense|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Shire Terrace|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Might of Old Krosa|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Guardian Augmenter|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Invigorate|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Wild Shape|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Tyvar's Stand|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Traveling Chocobo|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Naya Panorama|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Tamiyo's Safekeeping|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Scale Up|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Seal of Strength|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Sylvan Library|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Tifa Lockhart|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Stonewood Invocation|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Skyclave Pick-Axe|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Terramorphic Expanse|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Bristly Bill, Spine Sower|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Terra, Herald Of Hope|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Troll of Khazad-dûm|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Accursed Marauder|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Fell the Profane|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Malakir Rebirth|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Fact or Fiction|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Sword of Fire and Ice|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Sunpearl Kirin|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Nykthos, Shrine to Nyx|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Serra Paragon|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Sword of Feast and Famine|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Elves of Deep Shadow|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Slimefoot and Squee|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Umbral Collar Zealot|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Karplusan Forest|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Survival of the Fittest|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Carnage, Crimson Chaos|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Phyrexian Tower|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Recurring Nightmare|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Faceless Haven|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Niv-Mizzet, Parun|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Sandman, Shifting Scoundrel|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Blinkmoth Nexus|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Dance of the Dead|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Terra, Magical Adept|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Necromancy|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Lumra, Bellow Of The Woods|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Spymaster's Vault|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Plagon, Lord Of The Beach|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "The Ooze|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "The Mind Stone|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Hydroelectric Specimen|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Armageddon|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Adarkar Wastes|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Ravages of War|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Plaza of Heroes|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Minas Tirith|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Thornspire Verge|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Yoshimaru, Ever Faithful|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Merry, Esquire of Rohan|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Flowering of the White Tree|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Araña, Heart of the Spider|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Embercleave|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Hammerheim|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Anim Pakal, Thousandth Moon|": {
+    "rarity": "rare",
+    "set": null
   }
 }

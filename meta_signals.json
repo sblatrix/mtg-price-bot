@@ -1,5 +1,18 @@
 [
   {
+    "name": "Kaito, Bane of Nightmares",
+    "format": "legacy",
+    "rarity": "mythic",
+    "pct_of_decks": 10,
+    "pct_change": 10,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-07-21T08:02:39.051603+00:00",
+    "url": "https://www.mtggoldfish.com/price/duskmourn-house-of-horror/220/kaito-bane-of-nightmares#paper",
+    "summary": "Nouvelle entrée en legacy : 10% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Seasoned Pyromancer",
     "format": "modern",
     "rarity": "mythic",
