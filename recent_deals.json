@@ -1,5 +1,31 @@
 [
   {
+    "name": "Stoneforge Mystic",
+    "expansion": "Worldwake",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 12.0,
+    "ref_price": 15.05,
+    "discount_pct": 20.3,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-07-19T14:50:19.770Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/worldwake/card/wwk-stoneforge-mystic-20-rare"
+  },
+  {
+    "name": "Lightning Bolt",
+    "expansion": "Revised Edition",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 2.29,
+    "ref_price": 2.92,
+    "discount_pct": 21.6,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-07-20T20:02:02.959Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/revised-edition/card/3ed-lightning-bolt-162-common"
+  },
+  {
     "name": "Hypnotic Specter",
     "expansion": "Revised Edition",
     "finish": "Standard",
@@ -1272,31 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-07-10T18:48:59.740Z",
     "url": "https://cardnexus.com/fr/explore/mtg/edge-of-eternities/card/eoe-famished-worldsire-182-mythic"
-  },
-  {
-    "name": "Sothera, the Supervoid",
-    "expansion": "Edge of Eternities",
-    "finish": "Foil",
-    "language": "fr",
-    "price_paid": 3.0,
-    "ref_price": 3.86,
-    "discount_pct": 22.3,
-    "confident": false,
-    "seller_country": "FR",
-    "created_at": "2026-07-10T18:48:59.740Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/edge-of-eternities/card/eoe-sothera-the-supervoid-115-mythic"
-  },
-  {
-    "name": "Infernal Grasp",
-    "expansion": "Marvel Universe",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 2.5,
-    "ref_price": 3.56,
-    "discount_pct": 29.8,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-07-10T19:30:37.580Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/marvel-universe/card/mar-infernal-grasp-18-mythic"
   }
 ]

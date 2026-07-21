@@ -1224,5 +1224,26 @@
     "finishes": [
       "Standard"
     ]
+  },
+  "68502e6c59fa724009558abb": {
+    "name": "Lightning Bolt",
+    "slug": "3ed-lightning-bolt-162-common",
+    "nameSlug": "lightning-bolt",
+    "expansion": "Revised Edition",
+    "expansionSlug": "revised-edition",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850317359fa72400956477c": {
+    "name": "Stoneforge Mystic",
+    "slug": "wwk-stoneforge-mystic-20-rare",
+    "nameSlug": "stoneforge-mystic",
+    "expansion": "Worldwake",
+    "expansionSlug": "worldwake",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
