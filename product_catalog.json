@@ -1331,5 +1331,38 @@
     "finishes": [
       "Standard"
     ]
+  },
+  "68502e6c59fa724009558cbb": {
+    "name": "Kellan, the Kid",
+    "slug": "otj-kellan-the-kid-294-mythic",
+    "nameSlug": "kellan-the-kid",
+    "expansion": "Outlaws of Thunder Junction",
+    "expansionSlug": "outlaws-of-thunder-junction",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850322d59fa724009566c92": {
+    "name": "The Wind Crystal",
+    "slug": "fin-the-wind-crystal-43-rare",
+    "nameSlug": "the-wind-crystal",
+    "expansion": "Final Fantasy",
+    "expansionSlug": "final-fantasy",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "687262e4620a85f87e0fe760": {
+    "name": "Thespian's Stage",
+    "slug": "eos-thespians-stage-44-rare",
+    "nameSlug": "thespians-stage",
+    "expansion": "Edge of Eternities: Stellar Sights",
+    "expansionSlug": "edge-of-eternities-stellar-sights",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }

@@ -1,5 +1,44 @@
 [
   {
+    "name": "Thespian's Stage",
+    "expansion": "Edge of Eternities: Stellar Sights",
+    "finish": "Foil",
+    "language": "en",
+    "price_paid": 1.88,
+    "ref_price": 2.36,
+    "discount_pct": 20.3,
+    "confident": false,
+    "seller_country": "CA",
+    "created_at": "2026-07-19T19:30:52.462Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/edge-of-eternities-stellar-sights/card/eos-thespians-stage-44-rare"
+  },
+  {
+    "name": "The Wind Crystal",
+    "expansion": "Final Fantasy",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 3.0,
+    "ref_price": 3.81,
+    "discount_pct": 21.3,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-07-19T19:42:09.582Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/final-fantasy/card/fin-the-wind-crystal-43-rare"
+  },
+  {
+    "name": "Kellan, the Kid",
+    "expansion": "Outlaws of Thunder Junction",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 1.41,
+    "ref_price": 2.09,
+    "discount_pct": 32.5,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-07-22T00:00:08.090Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/outlaws-of-thunder-junction/card/otj-kellan-the-kid-294-mythic"
+  },
+  {
     "name": "Phyrexian Furnace",
     "expansion": "The List",
     "finish": "Standard",
@@ -1259,44 +1298,5 @@
     "seller_country": "GB",
     "created_at": "2026-07-15T10:04:44.268Z",
     "url": "https://cardnexus.com/fr/explore/mtg/marvel-super-heroes/card/msh-loki-god-of-mischief-343-rare"
-  },
-  {
-    "name": "Scattershot Archer",
-    "expansion": "Conflux",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 1.5,
-    "ref_price": 2.04,
-    "discount_pct": 26.5,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-07-14T15:37:38.571Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/conflux/card/con-scattershot-archer-90-common"
-  },
-  {
-    "name": "Elvish Promenade",
-    "expansion": "Lorwyn",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 1.9,
-    "ref_price": 2.87,
-    "discount_pct": 33.8,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-07-14T15:56:20.429Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/lorwyn/card/lrw-elvish-promenade-208-uncommon"
-  },
-  {
-    "name": "Joraga Warcaller",
-    "expansion": "Worldwake Promos",
-    "finish": "Foil",
-    "language": "en",
-    "price_paid": 3.5,
-    "ref_price": 4.8,
-    "discount_pct": 27.1,
-    "confident": false,
-    "seller_country": "FR",
-    "created_at": "2026-07-14T15:56:58.579Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/worldwake-promos/card/pwwk-joraga-warcaller-106star-rare"
   }
 ]
