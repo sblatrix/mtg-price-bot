@@ -5682,5 +5682,113 @@
   "Anim Pakal, Thousandth Moon|": {
     "rarity": "rare",
     "set": null
+  },
+  "Octopus Form|tla": {
+    "rarity": "common",
+    "set": "tla"
+  },
+  "Massacre|plist": {
+    "rarity": null,
+    "set": "plist"
+  },
+  "Swiftfoot Boots|mic": {
+    "rarity": "uncommon",
+    "set": "mic"
+  },
+  "Thought Vessel|fic": {
+    "rarity": "common",
+    "set": "fic"
+  },
+  "Commander's Sphere|c17": {
+    "rarity": "common",
+    "set": "c17"
+  },
+  "Frantic Search|tdc": {
+    "rarity": "common",
+    "set": "tdc"
+  },
+  "Dracogenesis|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Ashling, Rekindled|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Omni-Changeling|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Terror of the Peaks|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Uthros, Titanic Godcore|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Kona, Rescue Beastie|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Lost in the Maze|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Kavaron, Memorial World|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Preacher of the Schism|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Hidden Lair|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Oildeep Gearhulk|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Picklock Prankster|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Demilich|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Natural Order|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Craterhoof Behemoth|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Dredge|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Dread Return|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Narcomoeba|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Death's Shadow|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Baleful Strix|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Uro, Titan of Nature's Wrath|": {
+    "rarity": "mythic",
+    "set": null
   }
 }
