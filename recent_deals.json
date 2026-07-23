@@ -1,5 +1,18 @@
 [
   {
+    "name": "Triskaidekaphile",
+    "expansion": "Bloomburrow Commander",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 1.5,
+    "ref_price": 3,
+    "discount_pct": 50.0,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-07-23T16:06:50.196Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/bloomburrow-commander/card/blc-triskaidekaphile-178-rare"
+  },
+  {
     "name": "Rin and Seri, Inseparable",
     "expansion": "Core Set 2021",
     "finish": "Foil",
@@ -1285,18 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-07-16T13:33:40.242Z",
     "url": "https://cardnexus.com/fr/explore/mtg/rise-of-the-eldrazi/card/roe-bear-umbra-177-rare"
-  },
-  {
-    "name": "Brotherhood Regalia",
-    "expansion": "Assassin's Creed",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 7.2,
-    "ref_price": 9.29,
-    "discount_pct": 22.5,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-07-16T13:43:00.741Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/assassins-creed/card/acr-brotherhood-regalia-71-uncommon"
   }
 ]
