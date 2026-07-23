@@ -1,5 +1,18 @@
 [
   {
+    "name": "Impossible Man",
+    "expansion": "Marvel Super Heroes Commander",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 9.0,
+    "ref_price": 15.25,
+    "discount_pct": 41.0,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-07-23T20:57:47.080Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/marvel-super-heroes-commander/card/msc-impossible-man-625-uncommon"
+  },
+  {
     "name": "Triskaidekaphile",
     "expansion": "Bloomburrow Commander",
     "finish": "Standard",
@@ -1285,18 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-07-17T06:57:11.086Z",
     "url": "https://cardnexus.com/fr/explore/mtg/edge-of-eternities/card/eoe-weapons-manufacturing-168-rare"
-  },
-  {
-    "name": "Bear Umbra",
-    "expansion": "Rise of the Eldrazi",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 4.2,
-    "ref_price": 5.61,
-    "discount_pct": 25.1,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-07-16T13:33:40.242Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/rise-of-the-eldrazi/card/roe-bear-umbra-177-rare"
   }
 ]
