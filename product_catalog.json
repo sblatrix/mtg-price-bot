@@ -1574,5 +1574,47 @@
       "Standard",
       "Foil"
     ]
+  },
+  "6a4514a7dd407736005d07ba": {
+    "name": "Utopia Sprawl",
+    "slug": "pf26-utopia-sprawl-9-rare",
+    "nameSlug": "utopia-sprawl",
+    "expansion": "MagicFest 2026",
+    "expansionSlug": "magicfest-2026",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "6850322d59fa724009566dbd": {
+    "name": "The World Tree",
+    "slug": "khm-the-world-tree-275-rare",
+    "nameSlug": "the-world-tree",
+    "expansion": "Kaldheim",
+    "expansionSlug": "kaldheim",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d7b59fa724009554431": {
+    "name": "Goblin Warchief",
+    "slug": "scg-goblin-warchief-97-uncommon",
+    "nameSlug": "goblin-warchief",
+    "expansion": "Scourge",
+    "expansionSlug": "scourge",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "685032e559fa72400956a22a": {
+    "name": "Venser's Journal",
+    "slug": "c21-vensers-journal-273-rare",
+    "nameSlug": "vensers-journal",
+    "expansion": "Commander 2021",
+    "expansionSlug": "commander-2021",
+    "finishes": [
+      "Standard"
+    ]
   }
 }
