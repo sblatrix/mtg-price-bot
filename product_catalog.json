@@ -1616,5 +1616,38 @@
     "finishes": [
       "Standard"
     ]
+  },
+  "68502e6d59fa724009559724": {
+    "name": "Jadar, Ghoulcaller of Nephalia",
+    "slug": "mid-jadar-ghoulcaller-of-nephalia-108-rare",
+    "nameSlug": "jadar-ghoulcaller-of-nephalia",
+    "expansion": "Innistrad: Midnight Hunt",
+    "expansionSlug": "innistrad-midnight-hunt",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c2d59fa72400954c2d7": {
+    "name": "Cemetery Prowler",
+    "slug": "vow-cemetery-prowler-191-mythic",
+    "nameSlug": "cemetery-prowler",
+    "expansion": "Innistrad: Crimson Vow",
+    "expansionSlug": "innistrad-crimson-vow",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "69e1040993c168406dc0b77c": {
+    "name": "Professor Dellian Fel",
+    "slug": "sos-professor-dellian-fel-214-mythic",
+    "nameSlug": "professor-dellian-fel",
+    "expansion": "Secrets of Strixhaven",
+    "expansionSlug": "secrets-of-strixhaven",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
   }
 }
