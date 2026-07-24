@@ -1702,5 +1702,91 @@
     "finishes": [
       "Foil"
     ]
+  },
+  "68502f7c59fa72400955d333": {
+    "name": "Nexus of Fate",
+    "slug": "plst-nexus-of-fate-m19-306-mythic",
+    "nameSlug": "nexus-of-fate",
+    "expansion": "The List",
+    "expansionSlug": "the-list",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850317559fa724009565a26": {
+    "name": "Teferi, Hero of Dominaria",
+    "slug": "mb2-teferi-hero-of-dominaria-90-mythic",
+    "nameSlug": "teferi-hero-of-dominaria",
+    "expansion": "Mystery Booster 2",
+    "expansionSlug": "mystery-booster-2",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502f7f59fa72400955ed6b": {
+    "name": "Oath of Druids",
+    "slug": "mb2-oath-of-druids-212-mythic",
+    "nameSlug": "oath-of-druids",
+    "expansion": "Mystery Booster 2",
+    "expansionSlug": "mystery-booster-2",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502df259fa724009556b85": {
+    "name": "Grinding Station",
+    "slug": "mb2-grinding-station-223-uncommon",
+    "nameSlug": "grinding-station",
+    "expansion": "Mystery Booster 2",
+    "expansionSlug": "mystery-booster-2",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c2e59fa72400954cdd7": {
+    "name": "Chain of Vapor",
+    "slug": "mb2-chain-of-vapor-156-uncommon",
+    "nameSlug": "chain-of-vapor",
+    "expansion": "Mystery Booster 2",
+    "expansionSlug": "mystery-booster-2",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d0459fa724009550bff": {
+    "name": "Ensnaring Bridge",
+    "slug": "mb2-ensnaring-bridge-219-rare",
+    "nameSlug": "ensnaring-bridge",
+    "expansion": "Mystery Booster 2",
+    "expansionSlug": "mystery-booster-2",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502d7a59fa72400955415a": {
+    "name": "Giver of Runes",
+    "slug": "mb2-giver-of-runes-147-rare",
+    "nameSlug": "giver-of-runes",
+    "expansion": "Mystery Booster 2",
+    "expansionSlug": "mystery-booster-2",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502f7e59fa72400955e2df": {
+    "name": "Pact of Negation",
+    "slug": "mb2-pact-of-negation-169-rare",
+    "nameSlug": "pact-of-negation",
+    "expansion": "Mystery Booster 2",
+    "expansionSlug": "mystery-booster-2",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
   }
 }
