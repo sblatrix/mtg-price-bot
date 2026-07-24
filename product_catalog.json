@@ -1681,5 +1681,26 @@
       "Foil",
       "Standard"
     ]
+  },
+  "68502c2d59fa72400954ba73": {
+    "name": "Boromir, Warden of the Tower",
+    "slug": "ltr-boromir-warden-of-the-tower-4-rare",
+    "nameSlug": "boromir-warden-of-the-tower",
+    "expansion": "The Lord of the Rings: Tales of Middle-earth",
+    "expansionSlug": "the-lord-of-the-rings-tales-of-middle-earth",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502e6d59fa724009559549": {
+    "name": "Kogla, the Titan Ape",
+    "slug": "piko-kogla-the-titan-ape-162star-rare",
+    "nameSlug": "kogla-the-titan-ape",
+    "expansion": "Ikoria: Lair of Behemoths Promos",
+    "expansionSlug": "ikoria-lair-of-behemoths-promos",
+    "finishes": [
+      "Foil"
+    ]
   }
 }

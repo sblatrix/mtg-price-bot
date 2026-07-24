@@ -1,5 +1,31 @@
 [
   {
+    "name": "Kogla, the Titan Ape",
+    "expansion": "Ikoria: Lair of Behemoths Promos",
+    "finish": "Foil",
+    "language": "es",
+    "price_paid": 3.0,
+    "ref_price": 7.23,
+    "discount_pct": 58.5,
+    "confident": false,
+    "seller_country": "FR",
+    "created_at": "2026-07-24T09:30:28.869Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/ikoria-lair-of-behemoths-promos/card/piko-kogla-the-titan-ape-162star-rare"
+  },
+  {
+    "name": "Boromir, Warden of the Tower",
+    "expansion": "The Lord of the Rings: Tales of Middle-earth",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 4.5,
+    "ref_price": 6.19,
+    "discount_pct": 27.3,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-07-24T10:55:49.446Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/the-lord-of-the-rings-tales-of-middle-earth/card/ltr-boromir-warden-of-the-tower-4-rare"
+  },
+  {
     "name": "Impossible Man",
     "expansion": "Marvel Super Heroes Commander",
     "finish": "Standard",
@@ -1272,31 +1298,5 @@
     "seller_country": "US",
     "created_at": "2026-07-17T13:31:54.607Z",
     "url": "https://cardnexus.com/fr/explore/mtg/assassins-creed/card/acr-basim-ibn-ishaq-141-rare"
-  },
-  {
-    "name": "Elesh Norn, Grand Cenobite",
-    "expansion": "New Phyrexia",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 13.5,
-    "ref_price": 17.58,
-    "discount_pct": 23.2,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-07-17T06:55:08.636Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/new-phyrexia/card/nph-elesh-norn-grand-cenobite-9-mythic"
-  },
-  {
-    "name": "Weapons Manufacturing",
-    "expansion": "Edge of Eternities",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 2.0,
-    "ref_price": 2.9,
-    "discount_pct": 31.0,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-07-17T06:57:11.086Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/edge-of-eternities/card/eoe-weapons-manufacturing-168-rare"
   }
 ]
