@@ -1799,5 +1799,47 @@
       "Standard",
       "Foil"
     ]
+  },
+  "68502f7c59fa72400955ce52": {
+    "name": "Noble Hierarch",
+    "slug": "plst-noble-hierarch-mm2-151-rare",
+    "nameSlug": "noble-hierarch",
+    "expansion": "The List",
+    "expansionSlug": "the-list",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502c9659fa72400954eb4f": {
+    "name": "Deafening Silence",
+    "slug": "eld-deafening-silence-10-uncommon",
+    "nameSlug": "deafening-silence",
+    "expansion": "Throne of Eldraine",
+    "expansionSlug": "throne-of-eldraine",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850322f59fa724009567ef4": {
+    "name": "Unsettled Mariner",
+    "slug": "mh1-unsettled-mariner-216-rare",
+    "nameSlug": "unsettled-mariner",
+    "expansion": "Modern Horizons",
+    "expansionSlug": "modern-horizons",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c9659fa72400954f111": {
+    "name": "Dark Ritual",
+    "slug": "itp-dark-ritual-19-common",
+    "nameSlug": "dark-ritual",
+    "expansion": "Introductory Two-Player Set",
+    "expansionSlug": "introductory-two-player-set",
+    "finishes": [
+      "Standard"
+    ]
   }
 }
