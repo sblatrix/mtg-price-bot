@@ -15,12 +15,12 @@
     "name": "Star Trek Commander",
     "released_at": "2026-11-13"
   },
-  "frc": {
-    "name": "Reality Fracture Commander",
-    "released_at": "2026-10-02"
-  },
   "fra": {
     "name": "Reality Fracture",
+    "released_at": "2026-10-02"
+  },
+  "frc": {
+    "name": "Reality Fracture Commander",
     "released_at": "2026-10-02"
   },
   "mbc": {
@@ -3591,16 +3591,16 @@
     "name": "Junior Series Europe",
     "released_at": "2005-01-01"
   },
-  "f05": {
-    "name": "Friday Night Magic 2005",
-    "released_at": "2005-01-01"
-  },
   "p05": {
     "name": "Magic Player Rewards 2005",
     "released_at": "2005-01-01"
   },
   "g05": {
     "name": "Judge Gift Cards 2005",
+    "released_at": "2005-01-01"
+  },
+  "f05": {
+    "name": "Friday Night Magic 2005",
     "released_at": "2005-01-01"
   },
   "punh": {
