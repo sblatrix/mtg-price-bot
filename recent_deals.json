@@ -1,5 +1,31 @@
 [
   {
+    "name": "The Fantasticar",
+    "expansion": "Marvel Super Heroes Commander",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 12.71,
+    "ref_price": 20.22,
+    "discount_pct": 37.1,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-07-26T21:59:39.130Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/marvel-super-heroes-commander/card/msc-the-fantasticar-104-rare"
+  },
+  {
+    "name": "The Thing",
+    "expansion": "Marvel Super Heroes Commander",
+    "finish": "Foil",
+    "language": "en",
+    "price_paid": 3.44,
+    "ref_price": 5.89,
+    "discount_pct": 41.6,
+    "confident": false,
+    "seller_country": "US",
+    "created_at": "2026-07-26T21:59:39.130Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/marvel-super-heroes-commander/card/msc-the-thing-878-mythic"
+  },
+  {
     "name": "Liliana of the Veil",
     "expansion": "Innistrad",
     "finish": "Standard",
@@ -1272,31 +1298,5 @@
     "seller_country": "CA",
     "created_at": "2026-07-19T19:26:42.188Z",
     "url": "https://cardnexus.com/fr/explore/mtg/modern-horizons-2/card/mh2-murktide-regent-52-mythic"
-  },
-  {
-    "name": "Liliana of the Veil",
-    "expansion": "Dominaria United Promos",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 6.05,
-    "ref_price": 7.92,
-    "discount_pct": 23.6,
-    "confident": true,
-    "seller_country": "CA",
-    "created_at": "2026-07-19T19:27:00.894Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/dominaria-united-promos/card/pdmu-liliana-of-the-veil-97p-mythic"
-  },
-  {
-    "name": "Consult the Star Charts",
-    "expansion": "Edge of Eternities",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 3.33,
-    "ref_price": 6.04,
-    "discount_pct": 44.9,
-    "confident": true,
-    "seller_country": "CA",
-    "created_at": "2026-07-19T19:28:49.307Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/edge-of-eternities/card/eoe-consult-the-star-charts-51-rare"
   }
 ]
