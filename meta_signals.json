@@ -1,5 +1,18 @@
 [
   {
+    "name": "Ghost Vacuum",
+    "format": "pioneer",
+    "rarity": "rare",
+    "pct_of_decks": 12,
+    "pct_change": 12,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-07-26T08:01:45.974314+00:00",
+    "url": "https://www.mtggoldfish.com/price/duskmourn-house-of-horror/248/ghost-vacuum#paper",
+    "summary": "Nouvelle entrée en pioneer : 12% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Emrakul, the Promised End",
     "format": "modern",
     "rarity": "mythic",
