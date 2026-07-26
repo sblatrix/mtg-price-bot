@@ -1984,5 +1984,45 @@
       "Standard",
       "Foil"
     ]
+  },
+  "68502d0459fa724009550e33": {
+    "name": "Farmer Cotton",
+    "slug": "ltc-farmer-cotton-55-rare",
+    "nameSlug": "farmer-cotton",
+    "expansion": "Tales of Middle-earth Commander",
+    "expansionSlug": "tales-of-middle-earth-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850322d59fa724009566f22": {
+    "name": "The Gaffer",
+    "slug": "ltc-the-gaffer-12-rare",
+    "nameSlug": "the-gaffer",
+    "expansion": "Tales of Middle-earth Commander",
+    "expansionSlug": "tales-of-middle-earth-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850322e59fa7240095674c6": {
+    "name": "Tireless Provisioner",
+    "slug": "ltc-tireless-provisioner-262-uncommon",
+    "nameSlug": "tireless-provisioner",
+    "expansion": "Tales of Middle-earth Commander",
+    "expansionSlug": "tales-of-middle-earth-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850322d59fa72400956687b": {
+    "name": "Treebeard, Gracious Host",
+    "slug": "ltc-treebeard-gracious-host-73-rare",
+    "nameSlug": "treebeard-gracious-host",
+    "expansion": "Tales of Middle-earth Commander",
+    "expansionSlug": "tales-of-middle-earth-commander",
+    "finishes": [
+      "Standard"
+    ]
   }
 }

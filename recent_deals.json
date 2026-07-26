@@ -1,5 +1,57 @@
 [
   {
+    "name": "Treebeard, Gracious Host",
+    "expansion": "Tales of Middle-earth Commander",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 2.63,
+    "ref_price": 3.29,
+    "discount_pct": 20.1,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-07-26T14:35:06.191Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/tales-of-middle-earth-commander/card/ltc-treebeard-gracious-host-73-rare"
+  },
+  {
+    "name": "Tireless Provisioner",
+    "expansion": "Tales of Middle-earth Commander",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 4.66,
+    "ref_price": 5.83,
+    "discount_pct": 20.1,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-07-26T14:35:06.191Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/tales-of-middle-earth-commander/card/ltc-tireless-provisioner-262-uncommon"
+  },
+  {
+    "name": "The Gaffer",
+    "expansion": "Tales of Middle-earth Commander",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 7.58,
+    "ref_price": 9.48,
+    "discount_pct": 20.0,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-07-26T14:35:06.191Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/tales-of-middle-earth-commander/card/ltc-the-gaffer-12-rare"
+  },
+  {
+    "name": "Farmer Cotton",
+    "expansion": "Tales of Middle-earth Commander",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 1.66,
+    "ref_price": 2.08,
+    "discount_pct": 20.2,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-07-26T14:35:06.191Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/tales-of-middle-earth-commander/card/ltc-farmer-cotton-55-rare"
+  },
+  {
     "name": "Fell the Profane // Fell Mire",
     "expansion": "Modern Horizons 3",
     "finish": "Standard",
@@ -1246,57 +1298,5 @@
     "seller_country": "CA",
     "created_at": "2026-07-19T19:29:31.758Z",
     "url": "https://cardnexus.com/fr/explore/mtg/phyrexia-all-will-be-one-commander/card/onc-staff-of-the-storyteller-48-rare"
-  },
-  {
-    "name": "Phyrexian Arena",
-    "expansion": "Phyrexia: All Will Be One",
-    "finish": "Foil",
-    "language": "en",
-    "price_paid": 2.82,
-    "ref_price": 3.67,
-    "discount_pct": 23.2,
-    "confident": false,
-    "seller_country": "CA",
-    "created_at": "2026-07-19T19:29:31.758Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/phyrexia-all-will-be-one/card/one-phyrexian-arena-283-rare"
-  },
-  {
-    "name": "Richard Garfield, Ph.D.",
-    "expansion": "30th Anniversary Misc Promos",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 1.99,
-    "ref_price": 2.61,
-    "discount_pct": 23.8,
-    "confident": true,
-    "seller_country": "CA",
-    "created_at": "2026-07-19T19:30:52.462Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/30th-anniversary-misc-promos/card/p30m-richard-garfield-phd-1star-rare"
-  },
-  {
-    "name": "Underground River",
-    "expansion": "Tales of Middle-earth Commander",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 1.91,
-    "ref_price": 2.45,
-    "discount_pct": 22.0,
-    "confident": true,
-    "seller_country": "CA",
-    "created_at": "2026-07-19T19:30:52.462Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/tales-of-middle-earth-commander/card/ltc-underground-river-342-rare"
-  },
-  {
-    "name": "Lost Isle Calling",
-    "expansion": "Tales of Middle-earth Promos",
-    "finish": "Foil",
-    "language": "en",
-    "price_paid": 1.85,
-    "ref_price": 3.5,
-    "discount_pct": 47.1,
-    "confident": false,
-    "seller_country": "CA",
-    "created_at": "2026-07-19T19:32:45.097Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/tales-of-middle-earth-promos/card/pltr-lost-isle-calling-61s-rare"
   }
 ]
