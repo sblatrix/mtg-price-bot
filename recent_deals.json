@@ -1,5 +1,18 @@
 [
   {
+    "name": "Moonshadow",
+    "expansion": "Lorwyn Eclipsed",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 10.42,
+    "ref_price": 18.62,
+    "discount_pct": 44.0,
+    "confident": true,
+    "seller_country": "GR",
+    "created_at": "2026-07-26T08:00:08.152Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/lorwyn-eclipsed/card/ecl-moonshadow-313-mythic"
+  },
+  {
     "name": "Utopia Sprawl",
     "expansion": "Ravnica Remastered",
     "finish": "Standard",
@@ -1285,18 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-07-19T15:07:40.359Z",
     "url": "https://cardnexus.com/fr/explore/mtg/throne-of-eldraine-promos/card/peld-rankle-master-of-pranks-101s-mythic"
-  },
-  {
-    "name": "Emerald Medallion",
-    "expansion": "Tempest",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 3.0,
-    "ref_price": 4.76,
-    "discount_pct": 37.0,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-07-19T15:08:02.010Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/tempest/card/tmp-emerald-medallion-283-rare"
   }
 ]
