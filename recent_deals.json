@@ -1,5 +1,44 @@
 [
   {
+    "name": "Tormod's Crypt",
+    "expansion": "Time Spiral Timeshifted",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 5.0,
+    "ref_price": 6.54,
+    "discount_pct": 23.5,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-07-24T10:31:56.481Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/time-spiral-timeshifted/card/tsb-tormods-crypt-115-special"
+  },
+  {
+    "name": "Wrath of God",
+    "expansion": "Double Masters",
+    "finish": "Foil",
+    "language": "en",
+    "price_paid": 1.8,
+    "ref_price": 2.31,
+    "discount_pct": 22.1,
+    "confident": false,
+    "seller_country": "FR",
+    "created_at": "2026-07-24T13:30:37.156Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/double-masters/card/2xm-wrath-of-god-383-rare"
+  },
+  {
+    "name": "Anguished Unmaking",
+    "expansion": "Tales of Middle-earth Commander",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 1.77,
+    "ref_price": 2.27,
+    "discount_pct": 22.0,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-07-26T14:35:06.191Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/tales-of-middle-earth-commander/card/ltc-anguished-unmaking-265-rare"
+  },
+  {
     "name": "The Fantasticar",
     "expansion": "Marvel Super Heroes Commander",
     "finish": "Standard",
@@ -1259,44 +1298,5 @@
     "seller_country": "CA",
     "created_at": "2026-07-19T22:26:29.702Z",
     "url": "https://cardnexus.com/fr/explore/mtg/marvel-super-heroes/card/msh-black-widow-super-spy-89-mythic"
-  },
-  {
-    "name": "Flawless Maneuver",
-    "expansion": "Commander 2020",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 15.0,
-    "ref_price": 19.25,
-    "discount_pct": 22.1,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-07-19T19:20:03.767Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/commander-2020/card/c20-flawless-maneuver-26-rare"
-  },
-  {
-    "name": "Saruman of Many Colors",
-    "expansion": "The Lord of the Rings: Tales of Middle-earth",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 8.45,
-    "ref_price": 11.18,
-    "discount_pct": 24.4,
-    "confident": true,
-    "seller_country": "CA",
-    "created_at": "2026-07-19T19:26:23.989Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/the-lord-of-the-rings-tales-of-middle-earth/card/ltr-saruman-of-many-colors-412-mythic"
-  },
-  {
-    "name": "Murktide Regent",
-    "expansion": "Modern Horizons 2",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 7.44,
-    "ref_price": 9.62,
-    "discount_pct": 22.7,
-    "confident": true,
-    "seller_country": "CA",
-    "created_at": "2026-07-19T19:26:42.188Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/modern-horizons-2/card/mh2-murktide-regent-52-mythic"
   }
 ]

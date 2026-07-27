@@ -2056,5 +2056,36 @@
       "Foil",
       "Standard"
     ]
+  },
+  "68502bc959fa72400954abc3": {
+    "name": "Anguished Unmaking",
+    "slug": "ltc-anguished-unmaking-265-rare",
+    "nameSlug": "anguished-unmaking",
+    "expansion": "Tales of Middle-earth Commander",
+    "expansionSlug": "tales-of-middle-earth-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "685032e459fa724009568e70": {
+    "name": "Wrath of God",
+    "slug": "2xm-wrath-of-god-383-rare",
+    "nameSlug": "wrath-of-god",
+    "expansion": "Double Masters",
+    "expansionSlug": "double-masters",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "6850322d59fa724009566746": {
+    "name": "Tormod's Crypt",
+    "slug": "tsb-tormods-crypt-115-special",
+    "nameSlug": "tormods-crypt",
+    "expansion": "Time Spiral Timeshifted",
+    "expansionSlug": "time-spiral-timeshifted",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
   }
 }
