@@ -2098,5 +2098,59 @@
       "Foil",
       "Standard"
     ]
+  },
+  "685030be59fa72400956208f": {
+    "name": "Sol'kanar the Swamp King",
+    "slug": "leg-solkanar-the-swamp-king-259-rare",
+    "nameSlug": "solkanar-the-swamp-king",
+    "expansion": "Legends",
+    "expansionSlug": "legends",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850322c59fa7240095665fe": {
+    "name": "The Earth Crystal",
+    "slug": "fin-the-earth-crystal-184-rare",
+    "nameSlug": "the-earth-crystal",
+    "expansion": "Final Fantasy",
+    "expansionSlug": "final-fantasy",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "69e1040993c168406dc0b3fa": {
+    "name": "Mountain",
+    "slug": "sld-mountain-2543-rare",
+    "nameSlug": "mountain",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "69e1040993c168406dc0b3f3": {
+    "name": "Island",
+    "slug": "sld-island-2541-rare",
+    "nameSlug": "island",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "69e1040993c168406dc0b3f0": {
+    "name": "Forest",
+    "slug": "sld-forest-2544-rare",
+    "nameSlug": "forest",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
   }
 }
