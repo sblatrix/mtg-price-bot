@@ -1,5 +1,31 @@
 [
   {
+    "name": "Dawn's Truce",
+    "format": "standard",
+    "rarity": "rare",
+    "pct_of_decks": 17,
+    "pct_change": 17,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-07-27T09:20:41.092039+00:00",
+    "url": "https://www.mtggoldfish.com/price/bloomburrow/9/dawns-truce#paper",
+    "summary": "Nouvelle entrée en standard : 17% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Stifle",
+    "format": "legacy",
+    "rarity": "rare",
+    "pct_of_decks": 10,
+    "pct_change": 10,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-07-27T09:20:41.092039+00:00",
+    "url": "https://www.mtggoldfish.com/price/conspiracy/108/stifle#paper",
+    "summary": "Nouvelle entrée en legacy : 10% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Ghost Vacuum",
     "format": "pioneer",
     "rarity": "rare",

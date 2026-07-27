@@ -6350,5 +6350,277 @@
   "Touch the Spirit Realm|": {
     "rarity": "uncommon",
     "set": null
+  },
+  "Dawn's Truce|blb": {
+    "rarity": "rare",
+    "set": "blb"
+  },
+  "Abandon Attachments|tla": {
+    "rarity": "common",
+    "set": "tla"
+  },
+  "Duress|ema": {
+    "rarity": "common",
+    "set": "ema"
+  },
+  "Stifle|cns": {
+    "rarity": "rare",
+    "set": "cns"
+  },
+  "Arcane Signet <019edce9-86f8-76fe-a472-ff8edb2bf715>|msc": {
+    "rarity": null,
+    "set": "msc"
+  },
+  "Fellwar Stone|ecc": {
+    "rarity": "uncommon",
+    "set": "ecc"
+  },
+  "Feed the Swarm|tle": {
+    "rarity": "common",
+    "set": "tle"
+  },
+  "Wayfarer's Bauble|scd": {
+    "rarity": "common",
+    "set": "scd"
+  },
+  "Nova Hellkite|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Hired Claw|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Riverchurn Monument|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Split Up|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Drake Hatcher|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Ygra, Eater of All|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Decorum Dissertation|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Bloodtithe Harvester|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Witch's Oven|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Witherbloom Command|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Vibrance|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Reckoner Bankbuster|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Castle Locthwain|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Archfiend of the Dross|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Liliana of the Veil|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Morlun, Devourer of Spiders|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Thought Distortion|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Reclamation Sage|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Satya, Aetherflux Genius|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Glen Elendra Guardian|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Arwen, Mortal Queen|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Hall of Heliod's Generosity|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Pendelhaven|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Grist, The Hunger Tide|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Currency Converter|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Diabolic Intent|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Woodland Cemetery|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Mausoleum Secrets|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Living Death|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Dark Triumph|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Iridescent Vinelasher|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Champion of the Perished|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Contamination|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Noxious Revival|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Glarb, Calamity's Augur|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Thought Lash|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Murderous Cut|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Aminatou, the Fateshifter|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Exhume|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Careful Study|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Unburial Rites|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Flash|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Ashen Rider|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Memnite|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Vaultborn Tyrant|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Corpse Dance|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Incarnation Technique|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Hunting Grounds|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Woodfall Primus|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Loyal Retainers|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Valgavoth, Terror Eater|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Sin, Spira's Punishment|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "The Mighty Thor, Jane Foster|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Prossh, Skyraider Of Kher|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Aang, Swift Savior // Aang And La, Ocean's Fury|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Judith, The Scourge Diva|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Tana, the Bloodsower|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Hajar, Loyal Bodyguard|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Raph & Leo, Sibling Rivals|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "The Wasp, Winsome Avenger|": {
+    "rarity": "rare",
+    "set": null
   }
 }
