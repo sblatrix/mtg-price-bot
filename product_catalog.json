@@ -2184,5 +2184,27 @@
       "Foil",
       "Standard"
     ]
+  },
+  "6850322e59fa724009567161": {
+    "name": "Unholy Annex // Ritual Chamber",
+    "slug": "dsk-unholy-annex-ritual-chamber-118-rare",
+    "nameSlug": "unholy-annex-ritual-chamber",
+    "expansion": "Duskmourn: House of Horror",
+    "expansionSlug": "duskmourn-house-of-horror",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685032e459fa72400956956b": {
+    "name": "Witch Enchanter // Witch-Blessed Meadow",
+    "slug": "mh3-witch-enchanter-witch-blessed-meadow-239-uncommon",
+    "nameSlug": "witch-enchanter-witch-blessed-meadow",
+    "expansion": "Modern Horizons 3",
+    "expansionSlug": "modern-horizons-3",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }

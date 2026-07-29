@@ -1,5 +1,31 @@
 [
   {
+    "name": "Witch Enchanter // Witch-Blessed Meadow",
+    "expansion": "Modern Horizons 3",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 3.0,
+    "ref_price": 4.14,
+    "discount_pct": 27.5,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-07-29T13:08:22.658Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/modern-horizons-3/card/mh3-witch-enchanter-witch-blessed-meadow-239-uncommon"
+  },
+  {
+    "name": "Unholy Annex // Ritual Chamber",
+    "expansion": "Duskmourn: House of Horror",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 1.5,
+    "ref_price": 2.27,
+    "discount_pct": 33.9,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-07-29T13:13:16.417Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/duskmourn-house-of-horror/card/dsk-unholy-annex-ritual-chamber-118-rare"
+  },
+  {
     "name": "The Fantasticar",
     "expansion": "Marvel Super Heroes Commander",
     "finish": "Standard",
@@ -1272,31 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-07-21T06:53:32.843Z",
     "url": "https://cardnexus.com/fr/explore/mtg/foundations/card/fdn-archmage-of-runes-30-rare"
-  },
-  {
-    "name": "Faerie Macabre",
-    "expansion": "Shadowmoor",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 5.5,
-    "ref_price": 6.92,
-    "discount_pct": 20.5,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-07-21T06:53:55.026Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/shadowmoor/card/shm-faerie-macabre-66-common"
-  },
-  {
-    "name": "Stoneforge Mystic",
-    "expansion": "Worldwake",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 12.0,
-    "ref_price": 15.05,
-    "discount_pct": 20.3,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-07-19T14:50:19.770Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/worldwake/card/wwk-stoneforge-mystic-20-rare"
   }
 ]
