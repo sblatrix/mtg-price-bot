@@ -2206,5 +2206,93 @@
       "Standard",
       "Foil"
     ]
+  },
+  "68502c2f59fa72400954da08": {
+    "name": "Chandra's Incinerator",
+    "slug": "m21-chandras-incinerator-302-rare",
+    "nameSlug": "chandras-incinerator",
+    "expansion": "Core Set 2021",
+    "expansionSlug": "core-set-2021",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850317359fa724009564117": {
+    "name": "Sovereign Okinec Ahau",
+    "slug": "lci-sovereign-okinec-ahau-240-mythic",
+    "nameSlug": "sovereign-okinec-ahau",
+    "expansion": "The Lost Caverns of Ixalan",
+    "expansionSlug": "the-lost-caverns-of-ixalan",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502df059fa724009555402": {
+    "name": "Great Train Heist",
+    "slug": "otj-great-train-heist-125-rare",
+    "nameSlug": "great-train-heist",
+    "expansion": "Outlaws of Thunder Junction",
+    "expansionSlug": "outlaws-of-thunder-junction",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502ef159fa72400955c801": {
+    "name": "Masked Vandal",
+    "slug": "khm-masked-vandal-405-common",
+    "nameSlug": "masked-vandal",
+    "expansion": "Kaldheim",
+    "expansionSlug": "kaldheim",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685030bf59fa72400956294e": {
+    "name": "Smuggler's Surprise",
+    "slug": "otj-smugglers-surprise-180-rare",
+    "nameSlug": "smugglers-surprise",
+    "expansion": "Outlaws of Thunder Junction",
+    "expansionSlug": "outlaws-of-thunder-junction",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850317359fa724009564acd": {
+    "name": "Tamiyo's Safekeeping",
+    "slug": "neo-tamiyos-safekeeping-211-common",
+    "nameSlug": "tamiyos-safekeeping",
+    "expansion": "Kamigawa: Neon Dynasty",
+    "expansionSlug": "kamigawa-neon-dynasty",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c9659fa72400954ee60": {
+    "name": "Diabolic Intent",
+    "slug": "bro-diabolic-intent-89-rare",
+    "nameSlug": "diabolic-intent",
+    "expansion": "The Brothers' War",
+    "expansionSlug": "the-brothers-war",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502f7d59fa72400955d380": {
+    "name": "Overlord of the Balemurk",
+    "slug": "dsk-overlord-of-the-balemurk-113-mythic",
+    "nameSlug": "overlord-of-the-balemurk",
+    "expansion": "Duskmourn: House of Horror",
+    "expansionSlug": "duskmourn-house-of-horror",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
