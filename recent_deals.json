@@ -1,5 +1,18 @@
 [
   {
+    "name": "Rejuvenating Springs",
+    "expansion": "Marvel Super Heroes Commander",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 3.22,
+    "ref_price": 4.1,
+    "discount_pct": 21.5,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-07-26T21:59:39.130Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/marvel-super-heroes-commander/card/msc-rejuvenating-springs-260-rare"
+  },
+  {
     "name": "Essence Warden",
     "expansion": "Tales of Middle-earth Commander",
     "finish": "Standard",
@@ -1285,18 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-07-20T20:02:02.959Z",
     "url": "https://cardnexus.com/fr/explore/mtg/revised-edition/card/3ed-lightning-bolt-162-common"
-  },
-  {
-    "name": "Hypnotic Specter",
-    "expansion": "Revised Edition",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 4.33,
-    "ref_price": 6.1,
-    "discount_pct": 29.0,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-07-20T19:48:16.378Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/revised-edition/card/3ed-hypnotic-specter-115-uncommon"
   }
 ]
