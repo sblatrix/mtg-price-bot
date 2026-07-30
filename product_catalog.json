@@ -2327,5 +2327,91 @@
       "Standard",
       "Foil"
     ]
+  },
+  "68502ef159fa72400955c409": {
+    "name": "Mana Clash",
+    "slug": "drk-mana-clash-72-rare",
+    "nameSlug": "mana-clash",
+    "expansion": "The Dark",
+    "expansionSlug": "the-dark",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "685030be59fa7240095620ec": {
+    "name": "Shapeshifter's Marrow",
+    "slug": "fut-shapeshifters-marrow-58-rare",
+    "nameSlug": "shapeshifters-marrow",
+    "expansion": "Future Sight",
+    "expansionSlug": "future-sight",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685032e759fa72400956abb5": {
+    "name": "Very Cryptic Command",
+    "slug": "ust-very-cryptic-command-49c-rare",
+    "nameSlug": "very-cryptic-command",
+    "expansion": "Unstable",
+    "expansionSlug": "unstable",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502bc659fa72400954919d": {
+    "name": "Abyssal Harvester",
+    "slug": "pfdn-abyssal-harvester-54s-rare",
+    "nameSlug": "abyssal-harvester",
+    "expansion": "Foundations Promos",
+    "expansionSlug": "foundations-promos",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "68502e6c59fa724009558c22": {
+    "name": "Knight of the Kitchen Sink",
+    "slug": "ust-knight-of-the-kitchen-sink-12a-uncommon",
+    "nameSlug": "knight-of-the-kitchen-sink",
+    "expansion": "Unstable",
+    "expansionSlug": "unstable",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502bc959fa72400954af14": {
+    "name": "Ajani Goldmane",
+    "slug": "lrw-ajani-goldmane-1-rare",
+    "nameSlug": "ajani-goldmane",
+    "expansion": "Lorwyn",
+    "expansionSlug": "lorwyn",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6850317559fa72400956566a": {
+    "name": "Swamp",
+    "slug": "unh-swamp-138-common",
+    "nameSlug": "swamp",
+    "expansion": "Unhinged",
+    "expansionSlug": "unhinged",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c2e59fa72400954c64a": {
+    "name": "City of Ass",
+    "slug": "unh-city-of-ass-134-rare",
+    "nameSlug": "city-of-ass",
+    "expansion": "Unhinged",
+    "expansionSlug": "unhinged",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
