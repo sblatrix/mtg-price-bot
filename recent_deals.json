@@ -1,5 +1,57 @@
 [
   {
+    "name": "Fell the Profane // Fell Mire",
+    "expansion": "Modern Horizons 3",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 3.0,
+    "ref_price": 4.24,
+    "discount_pct": 29.2,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-07-30T09:29:52.490Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/modern-horizons-3/card/mh3-fell-the-profane-fell-mire-244-uncommon"
+  },
+  {
+    "name": "Disciple of Freyalise // Garden of Freyalise",
+    "expansion": "Modern Horizons 3",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 1.5,
+    "ref_price": 2.23,
+    "discount_pct": 32.7,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-07-30T09:42:00.256Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/modern-horizons-3/card/mh3-disciple-of-freyalise-garden-of-freyalise-250-uncommon"
+  },
+  {
+    "name": "Spelunking",
+    "expansion": "The Lost Caverns of Ixalan",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 2.4,
+    "ref_price": 3.12,
+    "discount_pct": 23.1,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-07-30T09:42:00.256Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/the-lost-caverns-of-ixalan/card/lci-spelunking-213-uncommon"
+  },
+  {
+    "name": "Swiftfoot Boots",
+    "expansion": "Foundations",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 1.5,
+    "ref_price": 2,
+    "discount_pct": 25.0,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-07-30T09:53:31.147Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/foundations/card/fdn-swiftfoot-boots-258-uncommon"
+  },
+  {
     "name": "Overlord of the Balemurk",
     "expansion": "Duskmourn: House of Horror",
     "finish": "Standard",
@@ -1246,57 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-07-22T07:58:41.609Z",
     "url": "https://cardnexus.com/fr/explore/mtg/visions/card/vis-quirion-ranger-117-common"
-  },
-  {
-    "name": "Thespian's Stage",
-    "expansion": "Edge of Eternities: Stellar Sights",
-    "finish": "Foil",
-    "language": "en",
-    "price_paid": 1.88,
-    "ref_price": 2.36,
-    "discount_pct": 20.3,
-    "confident": false,
-    "seller_country": "CA",
-    "created_at": "2026-07-19T19:30:52.462Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/edge-of-eternities-stellar-sights/card/eos-thespians-stage-44-rare"
-  },
-  {
-    "name": "The Wind Crystal",
-    "expansion": "Final Fantasy",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 3.0,
-    "ref_price": 3.81,
-    "discount_pct": 21.3,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-07-19T19:42:09.582Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/final-fantasy/card/fin-the-wind-crystal-43-rare"
-  },
-  {
-    "name": "Kellan, the Kid",
-    "expansion": "Outlaws of Thunder Junction",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 1.41,
-    "ref_price": 2.09,
-    "discount_pct": 32.5,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-07-22T00:00:08.090Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/outlaws-of-thunder-junction/card/otj-kellan-the-kid-294-mythic"
-  },
-  {
-    "name": "Phyrexian Furnace",
-    "expansion": "The List",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 9.35,
-    "ref_price": 15.83,
-    "discount_pct": 40.9,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-07-21T17:22:46.806Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/the-list/card/plst-phyrexian-furnace-wth-155-uncommon"
   }
 ]

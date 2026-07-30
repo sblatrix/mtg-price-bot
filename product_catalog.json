@@ -2294,5 +2294,38 @@
       "Standard",
       "Foil"
     ]
+  },
+  "6850317659fa7240095662c0": {
+    "name": "Swiftfoot Boots",
+    "slug": "fdn-swiftfoot-boots-258-uncommon",
+    "nameSlug": "swiftfoot-boots",
+    "expansion": "Foundations",
+    "expansionSlug": "foundations",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6850317559fa7240095656e4": {
+    "name": "Spelunking",
+    "slug": "lci-spelunking-213-uncommon",
+    "nameSlug": "spelunking",
+    "expansion": "The Lost Caverns of Ixalan",
+    "expansionSlug": "the-lost-caverns-of-ixalan",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c9759fa72400954f9c2": {
+    "name": "Disciple of Freyalise // Garden of Freyalise",
+    "slug": "mh3-disciple-of-freyalise-garden-of-freyalise-250-uncommon",
+    "nameSlug": "disciple-of-freyalise-garden-of-freyalise",
+    "expansion": "Modern Horizons 3",
+    "expansionSlug": "modern-horizons-3",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
