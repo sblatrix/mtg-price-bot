@@ -1,5 +1,44 @@
 [
   {
+    "name": "Abyssal Harvester",
+    "expansion": "Foundations Promos",
+    "finish": "Foil",
+    "language": "fr",
+    "price_paid": 1.5,
+    "ref_price": 2.65,
+    "discount_pct": 43.4,
+    "confident": false,
+    "seller_country": "FR",
+    "created_at": "2026-07-30T21:10:58.705Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/foundations-promos/card/pfdn-abyssal-harvester-54s-rare"
+  },
+  {
+    "name": "Abyssal Harvester",
+    "expansion": "Foundations Promos",
+    "finish": "Foil",
+    "language": "fr",
+    "price_paid": 1.35,
+    "ref_price": 2.65,
+    "discount_pct": 49.1,
+    "confident": false,
+    "seller_country": "FR",
+    "created_at": "2026-07-30T21:11:02.131Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/foundations-promos/card/pfdn-abyssal-harvester-54s-rare"
+  },
+  {
+    "name": "Very Cryptic Command",
+    "expansion": "Unstable",
+    "finish": "Foil",
+    "language": "en",
+    "price_paid": 4.75,
+    "ref_price": 6.88,
+    "discount_pct": 31.0,
+    "confident": false,
+    "seller_country": "FR",
+    "created_at": "2026-07-30T21:17:39.674Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/unstable/card/ust-very-cryptic-command-49c-rare"
+  },
+  {
     "name": "Knight of the Kitchen Sink",
     "expansion": "Unstable",
     "finish": "Foil",
@@ -1259,44 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-07-22T12:56:29.689Z",
     "url": "https://cardnexus.com/fr/explore/mtg/marvel-super-heroes-commander/card/msc-namor-atlantean-king-409-rare"
-  },
-  {
-    "name": "Hope Estheim",
-    "expansion": "Final Fantasy",
-    "finish": "Foil",
-    "language": "en",
-    "price_paid": 20.0,
-    "ref_price": 27.21,
-    "discount_pct": 26.5,
-    "confident": false,
-    "seller_country": "FR",
-    "created_at": "2026-07-22T09:10:36.483Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/final-fantasy/card/fin-hope-estheim-541-rare"
-  },
-  {
-    "name": "Dion, Bahamut's Dominant // Bahamut, Warden of Light",
-    "expansion": "Final Fantasy",
-    "finish": "Foil",
-    "language": "en",
-    "price_paid": 4.0,
-    "ref_price": 5.3,
-    "discount_pct": 24.5,
-    "confident": false,
-    "seller_country": "FR",
-    "created_at": "2026-07-22T09:10:36.483Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/final-fantasy/card/fin-dion-bahamuts-dominant-bahamut-warden-of-light-376-rare"
-  },
-  {
-    "name": "Elvish Promenade",
-    "expansion": "Lorwyn",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 2.2,
-    "ref_price": 3.5,
-    "discount_pct": 37.1,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-07-22T06:49:06.658Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/lorwyn/card/lrw-elvish-promenade-208-uncommon"
   }
 ]
