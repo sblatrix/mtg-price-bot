@@ -27,32 +27,24 @@
     "name": "Mystery Booster: Commander Edition",
     "released_at": "2026-10-01"
   },
-  "thob": {
-    "name": "The Hobbit Tokens",
+  "hoc": {
+    "name": "The Hobbit Eternal",
     "released_at": "2026-08-14"
   },
-  "hoc": {
-    "name": "The Hobbit Commander",
+  "thob": {
+    "name": "The Hobbit Tokens",
     "released_at": "2026-08-14"
   },
   "hob": {
     "name": "The Hobbit",
     "released_at": "2026-08-14"
   },
-  "tmsc": {
-    "name": "Marvel Super Heroes Commander Tokens",
-    "released_at": "2026-06-26"
-  },
-  "amsh": {
-    "name": "Marvel Super Heroes Art Series",
-    "released_at": "2026-06-26"
-  },
-  "msc": {
-    "name": "Marvel Super Heroes Commander",
-    "released_at": "2026-06-26"
-  },
   "tmsh": {
     "name": "Marvel Super Heroes Tokens",
+    "released_at": "2026-06-26"
+  },
+  "tmsc": {
+    "name": "Marvel Super Heroes Commander Tokens",
     "released_at": "2026-06-26"
   },
   "msh": {
@@ -61,6 +53,14 @@
   },
   "fmsc": {
     "name": "Marvel Super Heroes Jumpstart Front Cards",
+    "released_at": "2026-06-26"
+  },
+  "amsh": {
+    "name": "Marvel Super Heroes Art Series",
+    "released_at": "2026-06-26"
+  },
+  "msc": {
+    "name": "Marvel Super Heroes Commander",
     "released_at": "2026-06-26"
   },
   "ysos": {
@@ -175,8 +175,8 @@
     "name": "Avatar: the Last Airbender Art Series",
     "released_at": "2025-11-21"
   },
-  "ttla": {
-    "name": "Avatar: The Last Airbender Tokens",
+  "tle": {
+    "name": "Avatar: The Last Airbender Eternal",
     "released_at": "2025-11-21"
   },
   "jtla": {
@@ -199,8 +199,8 @@
     "name": "Avatar: The Last Airbender",
     "released_at": "2025-11-21"
   },
-  "tle": {
-    "name": "Avatar: The Last Airbender Eternal",
+  "ttla": {
+    "name": "Avatar: The Last Airbender Tokens",
     "released_at": "2025-11-21"
   },
   "lmar": {
@@ -219,16 +219,16 @@
     "name": "Marvel's Spider-Man Promos",
     "released_at": "2025-09-26"
   },
-  "spe": {
-    "name": "Marvel's Spider-Man Eternal",
+  "mar": {
+    "name": "Marvel Universe",
     "released_at": "2025-09-26"
   },
   "spm": {
     "name": "Marvel's Spider-Man",
     "released_at": "2025-09-26"
   },
-  "mar": {
-    "name": "Marvel Universe",
+  "spe": {
+    "name": "Marvel's Spider-Man Eternal",
     "released_at": "2025-09-26"
   },
   "aa4": {
@@ -303,36 +303,36 @@
     "name": "Final Fantasy Tokens",
     "released_at": "2025-06-13"
   },
-  "tfic": {
-    "name": "Final Fantasy Commander Tokens",
-    "released_at": "2025-06-13"
-  },
-  "fic": {
-    "name": "Final Fantasy Commander",
-    "released_at": "2025-06-13"
-  },
   "afin": {
     "name": "Final Fantasy Art Series",
+    "released_at": "2025-06-13"
+  },
+  "tfic": {
+    "name": "Final Fantasy Commander Tokens",
     "released_at": "2025-06-13"
   },
   "fca": {
     "name": "Final Fantasy: Through the Ages",
     "released_at": "2025-06-13"
   },
+  "fic": {
+    "name": "Final Fantasy Commander",
+    "released_at": "2025-06-13"
+  },
   "pfin": {
     "name": "Final Fantasy Promos",
     "released_at": "2025-06-13"
   },
-  "wfin": {
-    "name": "FIN Asia WPN Promo Tokens",
+  "pss5": {
+    "name": "FIN Standard Showdown",
     "released_at": "2025-06-13"
   },
   "fin": {
     "name": "Final Fantasy",
     "released_at": "2025-06-13"
   },
-  "pss5": {
-    "name": "FIN Standard Showdown",
+  "wfin": {
+    "name": "FIN Asia WPN Promo Tokens",
     "released_at": "2025-06-13"
   },
   "pa1": {
@@ -343,20 +343,20 @@
     "name": "Alchemy: Tarkir",
     "released_at": "2025-04-29"
   },
-  "ptdm": {
-    "name": "Tarkir: Dragonstorm Promos",
-    "released_at": "2025-04-11"
-  },
-  "ttdc": {
-    "name": "Tarkir: Dragonstorm Commander Tokens",
-    "released_at": "2025-04-11"
-  },
   "ttdm": {
     "name": "Tarkir: Dragonstorm Tokens",
     "released_at": "2025-04-11"
   },
   "atdm": {
     "name": "Tarkir: Dragonstorm Art Series",
+    "released_at": "2025-04-11"
+  },
+  "ptdm": {
+    "name": "Tarkir: Dragonstorm Promos",
+    "released_at": "2025-04-11"
+  },
+  "ttdc": {
+    "name": "Tarkir: Dragonstorm Commander Tokens",
     "released_at": "2025-04-11"
   },
   "tdc": {
