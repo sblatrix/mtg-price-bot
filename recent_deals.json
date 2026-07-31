@@ -1,5 +1,44 @@
 [
   {
+    "name": "Stock Up",
+    "expansion": "Aetherdrift",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 1.49,
+    "ref_price": 2,
+    "discount_pct": 25.5,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-07-28T20:41:42.898Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/aetherdrift/card/dft-stock-up-67-uncommon"
+  },
+  {
+    "name": "Temple Garden",
+    "expansion": "Lorwyn Eclipsed",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 8.0,
+    "ref_price": 10.19,
+    "discount_pct": 21.5,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-07-29T17:03:34.024Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/lorwyn-eclipsed/card/ecl-temple-garden-351-rare"
+  },
+  {
+    "name": "Luxury Suite",
+    "expansion": "Commander Legends: Battle for Baldur's Gate",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 15.12,
+    "ref_price": 19.45,
+    "discount_pct": 22.3,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-07-30T23:55:54.192Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/commander-legends-battle-for-baldurs-gate/card/clb-luxury-suite-355-rare"
+  },
+  {
     "name": "Abyssal Harvester",
     "expansion": "Foundations Promos",
     "finish": "Foil",
@@ -1259,44 +1298,5 @@
     "seller_country": "ES",
     "created_at": "2026-07-22T12:48:28.979Z",
     "url": "https://cardnexus.com/fr/explore/mtg/foundations/card/fdn-sire-of-seven-deaths-1-mythic"
-  },
-  {
-    "name": "Gloomlake Verge",
-    "expansion": "Duskmourn: House of Horror",
-    "finish": "Foil",
-    "language": "es",
-    "price_paid": 8.0,
-    "ref_price": 11.29,
-    "discount_pct": 29.1,
-    "confident": false,
-    "seller_country": "ES",
-    "created_at": "2026-07-22T12:49:28.946Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/duskmourn-house-of-horror/card/dsk-gloomlake-verge-260-rare"
-  },
-  {
-    "name": "Kaito, Bane of Nightmares",
-    "expansion": "Duskmourn: House of Horror",
-    "finish": "Standard",
-    "language": "es",
-    "price_paid": 6.5,
-    "ref_price": 12.11,
-    "discount_pct": 46.3,
-    "confident": true,
-    "seller_country": "ES",
-    "created_at": "2026-07-22T12:49:37.345Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/duskmourn-house-of-horror/card/dsk-kaito-bane-of-nightmares-220-mythic"
-  },
-  {
-    "name": "Namor, Atlantean King",
-    "expansion": "Marvel Super Heroes Commander",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 1.5,
-    "ref_price": 3.03,
-    "discount_pct": 50.5,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-07-22T12:56:29.689Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/marvel-super-heroes-commander/card/msc-namor-atlantean-king-409-rare"
   }
 ]

@@ -2413,5 +2413,38 @@
       "Standard",
       "Foil"
     ]
+  },
+  "68502e6d59fa724009559b49": {
+    "name": "Luxury Suite",
+    "slug": "clb-luxury-suite-355-rare",
+    "nameSlug": "luxury-suite",
+    "expansion": "Commander Legends: Battle for Baldur's Gate",
+    "expansionSlug": "commander-legends-battle-for-baldurs-gate",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68ee1d27b37fd6bebc325f7d": {
+    "name": "Temple Garden",
+    "slug": "ecl-temple-garden-351-rare",
+    "nameSlug": "temple-garden",
+    "expansion": "Lorwyn Eclipsed",
+    "expansionSlug": "lorwyn-eclipsed",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6850317259fa724009563fd4": {
+    "name": "Stock Up",
+    "slug": "dft-stock-up-67-uncommon",
+    "nameSlug": "stock-up",
+    "expansion": "Aetherdrift",
+    "expansionSlug": "aetherdrift",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
