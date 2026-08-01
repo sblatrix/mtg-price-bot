@@ -1,5 +1,18 @@
 [
   {
+    "name": "Delay",
+    "expansion": "Time Spiral Remastered",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 2.15,
+    "ref_price": 3.03,
+    "discount_pct": 29.0,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-08-01T14:17:36.943Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/time-spiral-remastered/card/tsr-delay-61-uncommon"
+  },
+  {
     "name": "Shapeshifter's Marrow",
     "expansion": "Future Sight",
     "finish": "Foil",
@@ -1285,18 +1298,5 @@
     "seller_country": "US",
     "created_at": "2026-07-23T07:03:48.961Z",
     "url": "https://cardnexus.com/fr/explore/mtg/innistrad-midnight-hunt/card/mid-jadar-ghoulcaller-of-nephalia-108-rare"
-  },
-  {
-    "name": "Venser's Journal",
-    "expansion": "Commander 2021",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 6.0,
-    "ref_price": 7.66,
-    "discount_pct": 21.7,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-07-20T00:15:11.411Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/commander-2021/card/c21-vensers-journal-273-rare"
   }
 ]
