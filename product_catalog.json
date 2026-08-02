@@ -2532,5 +2532,27 @@
       "Foil",
       "Standard"
     ]
+  },
+  "6850301859fa724009561658": {
+    "name": "Rakdos, the Muscle",
+    "slug": "otj-rakdos-the-muscle-297-mythic",
+    "nameSlug": "rakdos-the-muscle",
+    "expansion": "Outlaws of Thunder Junction",
+    "expansionSlug": "outlaws-of-thunder-junction",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68b98488ffc22b0fa46d3770": {
+    "name": "Worldwalker Helm",
+    "slug": "pbig-worldwalker-helm-7p-mythic",
+    "nameSlug": "worldwalker-helm",
+    "expansion": "The Big Score Promos",
+    "expansionSlug": "the-big-score-promos",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }

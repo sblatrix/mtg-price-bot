@@ -1,5 +1,31 @@
 [
   {
+    "name": "Worldwalker Helm",
+    "expansion": "The Big Score Promos",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 2.31,
+    "ref_price": 2.95,
+    "discount_pct": 21.7,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-07-30T16:18:45.396Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/the-big-score-promos/card/pbig-worldwalker-helm-7p-mythic"
+  },
+  {
+    "name": "Rakdos, the Muscle",
+    "expansion": "Outlaws of Thunder Junction",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 2.03,
+    "ref_price": 2.58,
+    "discount_pct": 21.3,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-07-30T18:03:54.258Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/outlaws-of-thunder-junction/card/otj-rakdos-the-muscle-297-mythic"
+  },
+  {
     "name": "Delay",
     "expansion": "Time Spiral Remastered",
     "finish": "Standard",
@@ -1272,31 +1298,5 @@
     "seller_country": "US",
     "created_at": "2026-07-23T07:00:33.433Z",
     "url": "https://cardnexus.com/fr/explore/mtg/innistrad-crimson-vow/card/vow-cemetery-prowler-191-mythic"
-  },
-  {
-    "name": "Enduring Innocence",
-    "expansion": "Duskmourn: House of Horror",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 3.06,
-    "ref_price": 4.26,
-    "discount_pct": 28.2,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-07-23T07:03:33.288Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/duskmourn-house-of-horror/card/dsk-enduring-innocence-6-rare"
-  },
-  {
-    "name": "Jadar, Ghoulcaller of Nephalia",
-    "expansion": "Innistrad: Midnight Hunt",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 2.99,
-    "ref_price": 3.78,
-    "discount_pct": 20.9,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-07-23T07:03:48.961Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/innistrad-midnight-hunt/card/mid-jadar-ghoulcaller-of-nephalia-108-rare"
   }
 ]
