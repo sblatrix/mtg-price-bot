@@ -1,5 +1,18 @@
 [
   {
+    "name": "Technodrome",
+    "expansion": "Teenage Mutant Ninja Turtles",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 1.71,
+    "ref_price": 2.75,
+    "discount_pct": 37.8,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-08-02T23:16:05.742Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/teenage-mutant-ninja-turtles/card/tmt-technodrome-179-mythic"
+  },
+  {
     "name": "Swiftfoot Boots",
     "expansion": "Marvel Super Heroes Commander",
     "finish": "Standard",
@@ -1285,18 +1298,5 @@
     "seller_country": "US",
     "created_at": "2026-07-23T06:54:47.478Z",
     "url": "https://cardnexus.com/fr/explore/mtg/revised-edition/card/3ed-hypnotic-specter-115-uncommon"
-  },
-  {
-    "name": "Professor Dellian Fel",
-    "expansion": "Secrets of Strixhaven",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 3.98,
-    "ref_price": 7.63,
-    "discount_pct": 47.8,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-07-23T06:58:25.313Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/secrets-of-strixhaven/card/sos-professor-dellian-fel-214-mythic"
   }
 ]
