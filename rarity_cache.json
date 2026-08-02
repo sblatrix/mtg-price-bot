@@ -7262,5 +7262,17 @@
   "Sapphire Medallion|": {
     "rarity": "rare",
     "set": null
+  },
+  "Path to Exile|fic": {
+    "rarity": "uncommon",
+    "set": "fic"
+  },
+  "Commander's Sphere|khc": {
+    "rarity": "common",
+    "set": "khc"
+  },
+  "Propaganda|acr": {
+    "rarity": "uncommon",
+    "set": "acr"
   }
 }
