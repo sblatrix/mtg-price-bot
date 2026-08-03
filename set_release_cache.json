@@ -1,31 +1,31 @@
 {
-  "sds": {
-    "name": "Stardates",
-    "released_at": "2026-11-13"
-  },
   "trc": {
     "name": "Star Trek Commander",
-    "released_at": "2026-11-13"
-  },
-  "trk": {
-    "name": "Star Trek",
     "released_at": "2026-11-13"
   },
   "ttrk": {
     "name": "Star Trek Tokens",
     "released_at": "2026-11-13"
   },
-  "fra": {
-    "name": "Reality Fracture",
-    "released_at": "2026-10-02"
+  "trk": {
+    "name": "Star Trek",
+    "released_at": "2026-11-13"
+  },
+  "sds": {
+    "name": "Stardates",
+    "released_at": "2026-11-13"
+  },
+  "mbc": {
+    "name": "Mystery Booster Commander Edition",
+    "released_at": "2026-11-09"
   },
   "frc": {
     "name": "Reality Fracture Commander",
     "released_at": "2026-10-02"
   },
-  "mbc": {
-    "name": "Mystery Booster Commander Edition",
-    "released_at": "2026-10-01"
+  "fra": {
+    "name": "Reality Fracture",
+    "released_at": "2026-10-02"
   },
   "hob": {
     "name": "The Hobbit",
