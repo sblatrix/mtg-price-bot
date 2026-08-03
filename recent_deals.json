@@ -1,5 +1,57 @@
 [
   {
+    "name": "Ral, Monsoon Mage // Ral, Leyline Prodigy",
+    "expansion": "Modern Horizons 3",
+    "finish": "Foil",
+    "language": "fr",
+    "price_paid": 5.0,
+    "ref_price": 6.37,
+    "discount_pct": 21.5,
+    "confident": false,
+    "seller_country": "FR",
+    "created_at": "2026-08-03T08:16:56.507Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/modern-horizons-3/card/mh3-ral-monsoon-mage-ral-leyline-prodigy-247-mythic"
+  },
+  {
+    "name": "Torpor Orb",
+    "expansion": "New Phyrexia",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 4.0,
+    "ref_price": 5.49,
+    "discount_pct": 27.1,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-08-03T08:43:35.202Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/new-phyrexia/card/nph-torpor-orb-162-rare"
+  },
+  {
+    "name": "Suture Priest",
+    "expansion": "New Phyrexia",
+    "finish": "Standard",
+    "language": "ru",
+    "price_paid": 1.2,
+    "ref_price": 2.12,
+    "discount_pct": 43.4,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-08-03T09:53:23.466Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/new-phyrexia/card/nph-suture-priest-25-common"
+  },
+  {
+    "name": "Kozilek, the Broken Reality",
+    "expansion": "Modern Horizons 3",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 3.0,
+    "ref_price": 3.84,
+    "discount_pct": 21.9,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-08-03T10:24:26.544Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/modern-horizons-3/card/mh3-kozilek-the-broken-reality-10-mythic"
+  },
+  {
     "name": "Technodrome",
     "expansion": "Teenage Mutant Ninja Turtles",
     "finish": "Standard",
@@ -1246,57 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-07-24T10:55:49.446Z",
     "url": "https://cardnexus.com/fr/explore/mtg/the-lord-of-the-rings-tales-of-middle-earth/card/ltr-boromir-warden-of-the-tower-4-rare"
-  },
-  {
-    "name": "Impossible Man",
-    "expansion": "Marvel Super Heroes Commander",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 9.0,
-    "ref_price": 15.25,
-    "discount_pct": 41.0,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-07-23T20:57:47.080Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/marvel-super-heroes-commander/card/msc-impossible-man-625-uncommon"
-  },
-  {
-    "name": "Triskaidekaphile",
-    "expansion": "Bloomburrow Commander",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 1.5,
-    "ref_price": 3,
-    "discount_pct": 50.0,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-07-23T16:06:50.196Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/bloomburrow-commander/card/blc-triskaidekaphile-178-rare"
-  },
-  {
-    "name": "Rin and Seri, Inseparable",
-    "expansion": "Core Set 2021",
-    "finish": "Foil",
-    "language": "fr",
-    "price_paid": 4.0,
-    "ref_price": 7.66,
-    "discount_pct": 47.8,
-    "confident": false,
-    "seller_country": "FR",
-    "created_at": "2026-07-23T14:39:19.466Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/core-set-2021/card/m21-rin-and-seri-inseparable-278-mythic"
-  },
-  {
-    "name": "Hypnotic Specter",
-    "expansion": "Revised Edition",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 4.88,
-    "ref_price": 6.25,
-    "discount_pct": 21.9,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-07-23T06:54:47.478Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/revised-edition/card/3ed-hypnotic-specter-115-uncommon"
   }
 ]

@@ -2576,5 +2576,49 @@
       "Foil",
       "Standard"
     ]
+  },
+  "68502e6c59fa72400955867b": {
+    "name": "Kozilek, the Broken Reality",
+    "slug": "mh3-kozilek-the-broken-reality-10-mythic",
+    "nameSlug": "kozilek-the-broken-reality",
+    "expansion": "Modern Horizons 3",
+    "expansionSlug": "modern-horizons-3",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850317559fa72400956555f": {
+    "name": "Suture Priest",
+    "slug": "nph-suture-priest-25-common",
+    "nameSlug": "suture-priest",
+    "expansion": "New Phyrexia",
+    "expansionSlug": "new-phyrexia",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850322d59fa7240095668da": {
+    "name": "Torpor Orb",
+    "slug": "nph-torpor-orb-162-rare",
+    "nameSlug": "torpor-orb",
+    "expansion": "New Phyrexia",
+    "expansionSlug": "new-phyrexia",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850301659fa724009560206": {
+    "name": "Ral, Monsoon Mage // Ral, Leyline Prodigy",
+    "slug": "mh3-ral-monsoon-mage-ral-leyline-prodigy-247-mythic",
+    "nameSlug": "ral-monsoon-mage-ral-leyline-prodigy",
+    "expansion": "Modern Horizons 3",
+    "expansionSlug": "modern-horizons-3",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
