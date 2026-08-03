@@ -2752,5 +2752,37 @@
       "Standard",
       "Foil"
     ]
+  },
+  "68502eee59fa72400955aac7": {
+    "name": "Myr Galvanizer",
+    "slug": "som-myr-galvanizer-181-uncommon",
+    "nameSlug": "myr-galvanizer",
+    "expansion": "Scars of Mirrodin",
+    "expansionSlug": "scars-of-mirrodin",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685030c059fa724009563606": {
+    "name": "Savra, Queen of the Golgari",
+    "slug": "rav-savra-queen-of-the-golgari-225-rare",
+    "nameSlug": "savra-queen-of-the-golgari",
+    "expansion": "Ravnica: City of Guilds",
+    "expansionSlug": "ravnica-city-of-guilds",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502e6d59fa7240095598f9": {
+    "name": "Karn, Silver Golem",
+    "slug": "usg-karn-silver-golem-298-rare",
+    "nameSlug": "karn-silver-golem",
+    "expansion": "Urza's Saga",
+    "expansionSlug": "urzas-saga",
+    "finishes": [
+      "Standard"
+    ]
   }
 }

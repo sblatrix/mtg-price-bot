@@ -1,14 +1,14 @@
 {
-  "trk": {
-    "name": "Star Trek",
+  "sds": {
+    "name": "Stardates",
     "released_at": "2026-11-13"
   },
   "trc": {
     "name": "Star Trek Commander",
     "released_at": "2026-11-13"
   },
-  "sds": {
-    "name": "Stardates",
+  "trk": {
+    "name": "Star Trek",
     "released_at": "2026-11-13"
   },
   "ttrk": {
@@ -24,19 +24,19 @@
     "released_at": "2026-10-02"
   },
   "mbc": {
-    "name": "Mystery Booster: Commander Edition",
+    "name": "Mystery Booster Commander Edition",
     "released_at": "2026-10-01"
   },
-  "hoc": {
-    "name": "The Hobbit Eternal",
+  "hob": {
+    "name": "The Hobbit",
     "released_at": "2026-08-14"
   },
   "thob": {
     "name": "The Hobbit Tokens",
     "released_at": "2026-08-14"
   },
-  "hob": {
-    "name": "The Hobbit",
+  "hoc": {
+    "name": "The Hobbit Eternal",
     "released_at": "2026-08-14"
   },
   "msh": {
@@ -79,32 +79,36 @@
     "name": "Secrets of Strixhaven Commander",
     "released_at": "2026-04-24"
   },
-  "tsos": {
-    "name": "Secrets of Strixhaven Tokens",
+  "asos": {
+    "name": "Secrets of Strixhaven Art Series",
     "released_at": "2026-04-24"
   },
   "soa": {
     "name": "Secrets of Strixhaven Mystical Archive",
     "released_at": "2026-04-24"
   },
-  "sos": {
-    "name": "Secrets of Strixhaven",
+  "tsos": {
+    "name": "Secrets of Strixhaven Tokens",
     "released_at": "2026-04-24"
   },
-  "asos": {
-    "name": "Secrets of Strixhaven Art Series",
+  "sos": {
+    "name": "Secrets of Strixhaven",
     "released_at": "2026-04-24"
   },
   "ftmc": {
     "name": "Teenage Mutant Ninja Turtles Eternal Front Cards",
     "released_at": "2026-03-06"
   },
-  "atmt": {
-    "name": "Teenage Mutant Ninja Turtles Art Series",
+  "pza": {
+    "name": "Teenage Mutant Ninja Turtles Source Material",
     "released_at": "2026-03-06"
   },
   "tmt": {
     "name": "Teenage Mutant Ninja Turtles",
+    "released_at": "2026-03-06"
+  },
+  "atmt": {
+    "name": "Teenage Mutant Ninja Turtles Art Series",
     "released_at": "2026-03-06"
   },
   "ttmt": {
@@ -113,10 +117,6 @@
   },
   "ttmc": {
     "name": "Teenage Mutant Ninja Turtles Eternal Tokens",
-    "released_at": "2026-03-06"
-  },
-  "pza": {
-    "name": "Teenage Mutant Ninja Turtles Source Material",
     "released_at": "2026-03-06"
   },
   "tmc": {
@@ -139,16 +139,16 @@
     "name": "Lorwyn Eclipsed Tokens",
     "released_at": "2026-01-23"
   },
-  "aecl": {
-    "name": "Lorwyn Eclipsed Art Series",
+  "ecl": {
+    "name": "Lorwyn Eclipsed",
     "released_at": "2026-01-23"
   },
   "tecc": {
     "name": "Lorwyn Eclipsed Commander Tokens",
     "released_at": "2026-01-23"
   },
-  "ecl": {
-    "name": "Lorwyn Eclipsed",
+  "aecl": {
+    "name": "Lorwyn Eclipsed Art Series",
     "released_at": "2026-01-23"
   },
   "ecc": {
@@ -179,12 +179,12 @@
     "name": "Avatar: The Last Airbender Jumpstart Front Cards",
     "released_at": "2025-11-21"
   },
-  "ttle": {
-    "name": "Avatar: The Last Airbender Eternal Tokens",
-    "released_at": "2025-11-21"
-  },
   "ttla": {
     "name": "Avatar: The Last Airbender Tokens",
+    "released_at": "2025-11-21"
+  },
+  "ttle": {
+    "name": "Avatar: The Last Airbender Eternal Tokens",
     "released_at": "2025-11-21"
   },
   "atla": {
