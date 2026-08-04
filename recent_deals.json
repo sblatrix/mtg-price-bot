@@ -1,5 +1,31 @@
 [
   {
+    "name": "Case of the Locked Hothouse",
+    "expansion": "Murders at Karlov Manor",
+    "finish": "Foil",
+    "language": "fr",
+    "price_paid": 2.5,
+    "ref_price": 3.69,
+    "discount_pct": 32.2,
+    "confident": false,
+    "seller_country": "FR",
+    "created_at": "2026-08-04T11:38:12.251Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/murders-at-karlov-manor/card/mkm-case-of-the-locked-hothouse-155-rare"
+  },
+  {
+    "name": "Shivan Dragon",
+    "expansion": "Fourth Edition",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 2.5,
+    "ref_price": 3.21,
+    "discount_pct": 22.1,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-08-04T12:40:51.740Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/fourth-edition/card/4ed-shivan-dragon-220-rare"
+  },
+  {
     "name": "Chatterfang, Squirrel General",
     "expansion": "Modern Horizons 2",
     "finish": "Standard",
@@ -1272,31 +1298,5 @@
     "seller_country": "ES",
     "created_at": "2026-07-26T11:23:41.769Z",
     "url": "https://cardnexus.com/fr/explore/mtg/modern-horizons-3/card/mh3-consign-to-memory-54-uncommon"
-  },
-  {
-    "name": "Sink into Stupor // Soporific Springs",
-    "expansion": "Modern Horizons 3",
-    "finish": "Standard",
-    "language": "es",
-    "price_paid": 4.53,
-    "ref_price": 7.84,
-    "discount_pct": 42.2,
-    "confident": true,
-    "seller_country": "ES",
-    "created_at": "2026-07-26T11:23:41.769Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/modern-horizons-3/card/mh3-sink-into-stupor-soporific-springs-241-uncommon"
-  },
-  {
-    "name": "Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar",
-    "expansion": "Modern Horizons 3",
-    "finish": "Standard",
-    "language": "es",
-    "price_paid": 17.0,
-    "ref_price": 21.83,
-    "discount_pct": 22.1,
-    "confident": true,
-    "seller_country": "ES",
-    "created_at": "2026-07-26T11:24:26.602Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/modern-horizons-3/card/mh3-tamiyo-inquisitive-student-tamiyo-seasoned-scholar-242-mythic"
   }
 ]

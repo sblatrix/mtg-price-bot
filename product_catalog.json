@@ -2806,5 +2806,26 @@
       "Standard",
       "Foil"
     ]
+  },
+  "685030bd59fa724009561852": {
+    "name": "Shivan Dragon",
+    "slug": "4ed-shivan-dragon-220-rare",
+    "nameSlug": "shivan-dragon",
+    "expansion": "Fourth Edition",
+    "expansionSlug": "fourth-edition",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502c2e59fa72400954ceb4": {
+    "name": "Case of the Locked Hothouse",
+    "slug": "mkm-case-of-the-locked-hothouse-155-rare",
+    "nameSlug": "case-of-the-locked-hothouse",
+    "expansion": "Murders at Karlov Manor",
+    "expansionSlug": "murders-at-karlov-manor",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
