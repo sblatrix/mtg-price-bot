@@ -1,5 +1,18 @@
 [
   {
+    "name": "Nethergoyf",
+    "format": "legacy",
+    "rarity": "mythic",
+    "pct_of_decks": 10,
+    "pct_change": 10,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-08-04T08:12:33.287160+00:00",
+    "url": "https://www.mtggoldfish.com/price/modern-horizons-3/103/nethergoyf#paper",
+    "summary": "Nouvelle entrée en legacy : 10% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Emrakul, the Promised End",
     "format": "modern",
     "rarity": "mythic",
