@@ -2784,5 +2784,16 @@
     "finishes": [
       "Standard"
     ]
+  },
+  "68502bc959fa72400954ae13": {
+    "name": "Artist's Talent",
+    "slug": "blb-artists-talent-124-rare",
+    "nameSlug": "artists-talent",
+    "expansion": "Bloomburrow",
+    "expansionSlug": "bloomburrow",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
