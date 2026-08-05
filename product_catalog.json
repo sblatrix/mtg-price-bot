@@ -3342,5 +3342,27 @@
       "Standard",
       "Foil"
     ]
+  },
+  "69e1040993c168406dc0b6f6": {
+    "name": "Flashback",
+    "slug": "sos-flashback-115-rare",
+    "nameSlug": "flashback",
+    "expansion": "Secrets of Strixhaven",
+    "expansionSlug": "secrets-of-strixhaven",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6850301559fa72400955f897": {
+    "name": "Rite of Flame",
+    "slug": "csp-rite-of-flame-96-common",
+    "nameSlug": "rite-of-flame",
+    "expansion": "Coldsnap",
+    "expansionSlug": "coldsnap",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
