@@ -1,5 +1,44 @@
 [
   {
+    "name": "Witch-king of Angmar",
+    "expansion": "The Lord of the Rings: Tales of Middle-earth",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 13.02,
+    "ref_price": 22,
+    "discount_pct": 40.8,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-08-05T06:29:48.506Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/the-lord-of-the-rings-tales-of-middle-earth/card/ltr-witch-king-of-angmar-311-mythic"
+  },
+  {
+    "name": "Sol Ring",
+    "expansion": "Tales of Middle-earth Commander",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 429.5,
+    "ref_price": 602.71,
+    "discount_pct": 28.7,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-08-05T08:35:37.912Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/tales-of-middle-earth-commander/card/ltc-sol-ring-410-mythic"
+  },
+  {
+    "name": "Azula, Ruthless Firebender",
+    "expansion": "Avatar: The Last Airbender Eternal",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 2.91,
+    "ref_price": 4.61,
+    "discount_pct": 36.9,
+    "confident": true,
+    "seller_country": "GB",
+    "created_at": "2026-08-05T08:44:53.841Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/avatar-the-last-airbender-eternal/card/tle-azula-ruthless-firebender-184-mythic"
+  },
+  {
     "name": "Greatbow Doyen",
     "expansion": "Morningtide",
     "finish": "Standard",
@@ -1259,44 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-07-28T20:41:42.898Z",
     "url": "https://cardnexus.com/fr/explore/mtg/aetherdrift/card/dft-stock-up-67-uncommon"
-  },
-  {
-    "name": "Temple Garden",
-    "expansion": "Lorwyn Eclipsed",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 8.0,
-    "ref_price": 10.19,
-    "discount_pct": 21.5,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-07-29T17:03:34.024Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/lorwyn-eclipsed/card/ecl-temple-garden-351-rare"
-  },
-  {
-    "name": "Luxury Suite",
-    "expansion": "Commander Legends: Battle for Baldur's Gate",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 15.12,
-    "ref_price": 19.45,
-    "discount_pct": 22.3,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-07-30T23:55:54.192Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/commander-legends-battle-for-baldurs-gate/card/clb-luxury-suite-355-rare"
-  },
-  {
-    "name": "Abyssal Harvester",
-    "expansion": "Foundations Promos",
-    "finish": "Foil",
-    "language": "fr",
-    "price_paid": 1.5,
-    "ref_price": 2.65,
-    "discount_pct": 43.4,
-    "confident": false,
-    "seller_country": "FR",
-    "created_at": "2026-07-30T21:10:58.705Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/foundations-promos/card/pfdn-abyssal-harvester-54s-rare"
   }
 ]
