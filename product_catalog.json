@@ -3364,5 +3364,60 @@
       "Standard",
       "Foil"
     ]
+  },
+  "6a34494362e66e7942070b98": {
+    "name": "Avengers Disassembled",
+    "slug": "msh-avengers-disassembled-124-rare",
+    "nameSlug": "avengers-disassembled",
+    "expansion": "Marvel Super Heroes",
+    "expansionSlug": "marvel-super-heroes",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6a22a72b3c32f48d1fdeaf5e": {
+    "name": "Thanos, the Mad Titan",
+    "slug": "msh-thanos-the-mad-titan-233-mythic",
+    "nameSlug": "thanos-the-mad-titan",
+    "expansion": "Marvel Super Heroes",
+    "expansionSlug": "marvel-super-heroes",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6a22a72b3c32f48d1fdeaf6f": {
+    "name": "The Unbeatable Squirrel Girl",
+    "slug": "msh-the-unbeatable-squirrel-girl-193-rare",
+    "nameSlug": "the-unbeatable-squirrel-girl",
+    "expansion": "Marvel Super Heroes",
+    "expansionSlug": "marvel-super-heroes",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6a34493acbe1762a6c37cbb8": {
+    "name": "Tippy-Toe, Terrific Partner",
+    "slug": "msc-tippy-toe-terrific-partner-734-uncommon",
+    "nameSlug": "tippy-toe-terrific-partner",
+    "expansion": "Marvel Super Heroes Commander",
+    "expansionSlug": "marvel-super-heroes-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "696569d58b5e9ad6eb7b956b": {
+    "name": "Namor the Sub-Mariner",
+    "slug": "msh-namor-the-sub-mariner-69-mythic",
+    "nameSlug": "namor-the-sub-mariner",
+    "expansion": "Marvel Super Heroes",
+    "expansionSlug": "marvel-super-heroes",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
   }
 }
