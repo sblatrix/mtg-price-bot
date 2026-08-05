@@ -3299,5 +3299,26 @@
       "Standard",
       "Foil"
     ]
+  },
+  "685030c159fa724009563ca2": {
+    "name": "Sol Ring",
+    "slug": "ltc-sol-ring-410-mythic",
+    "nameSlug": "sol-ring",
+    "expansion": "Tales of Middle-earth Commander",
+    "expansionSlug": "tales-of-middle-earth-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502df059fa7240095554e4": {
+    "name": "Greatbow Doyen",
+    "slug": "mor-greatbow-doyen-125-rare",
+    "nameSlug": "greatbow-doyen",
+    "expansion": "Morningtide",
+    "expansionSlug": "morningtide",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
