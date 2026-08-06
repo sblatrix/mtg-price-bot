@@ -7870,5 +7870,157 @@
   "Transmute Artifact|": {
     "rarity": "rare",
     "set": null
+  },
+  "Wayfarer's Bauble|lcc": {
+    "rarity": "common",
+    "set": "lcc"
+  },
+  "Teferi's Protection <Aang's Shelter - borderless>|tle": {
+    "rarity": null,
+    "set": "tle"
+  },
+  "We Say Thee Nay!|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Elektra, Daughter of the Hand|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Case of the Uneaten Feast|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Aunt May|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Amalia Benavides Aguirre|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Deep-Cavern Bat|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Lunar Convocation|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Moseo, Vein's New Dean|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Zoraline, Cosmos Caller|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Hinterland Sanctifier|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Starscape Cleric|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Elusive Otter|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Callous Sell-Sword|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Spara's Headquarters|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Emergent Ultimatum|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Hidden Strings|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Pore Over the Pages|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Bala Ged Recovery|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Zacama, Primal Calamity|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Fae of Wishes|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Vizier of Tumbling Sands|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Soul Partition|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Maelstrom Pulse|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Counterbalance|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Coalition Relic|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Priest of Fell Rites|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Mistveil Plains|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Deep Gnome Terramancer|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Phyrexian Furnace|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Scrabbling Claws|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Psionic Blast|": {
+    "rarity": "special",
+    "set": null
+  },
+  "Kamiz, Obscura Oculus|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Lightning Greaves|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Culling the Weak|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Timeless Dragon|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Hidetsugu And Kairi|": {
+    "rarity": "rare",
+    "set": null
   }
 }
