@@ -3908,5 +3908,38 @@
       "Foil",
       "Standard"
     ]
+  },
+  "685032e359fa724009568cbc": {
+    "name": "Voice of Victory",
+    "slug": "tdm-voice-of-victory-33-rare",
+    "nameSlug": "voice-of-victory",
+    "expansion": "Tarkir: Dragonstorm",
+    "expansionSlug": "tarkir-dragonstorm",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c9559fa72400954e686": {
+    "name": "Cori-Steel Cutter",
+    "slug": "tdm-cori-steel-cutter-103-rare",
+    "nameSlug": "cori-steel-cutter",
+    "expansion": "Tarkir: Dragonstorm",
+    "expansionSlug": "tarkir-dragonstorm",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c2e59fa72400954cd7a": {
+    "name": "Clarion Conqueror",
+    "slug": "tdm-clarion-conqueror-5-rare",
+    "nameSlug": "clarion-conqueror",
+    "expansion": "Tarkir: Dragonstorm",
+    "expansionSlug": "tarkir-dragonstorm",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
