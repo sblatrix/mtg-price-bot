@@ -3941,5 +3941,38 @@
       "Standard",
       "Foil"
     ]
+  },
+  "68502bc759fa724009549474": {
+    "name": "Ancient Gold Dragon",
+    "slug": "clb-ancient-gold-dragon-365-mythic",
+    "nameSlug": "ancient-gold-dragon",
+    "expansion": "Commander Legends: Battle for Baldur's Gate",
+    "expansionSlug": "commander-legends-battle-for-baldurs-gate",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502eee59fa72400955aba4": {
+    "name": "Massacre Girl",
+    "slug": "rvr-massacre-girl-425-rare",
+    "nameSlug": "massacre-girl",
+    "expansion": "Ravnica Remastered",
+    "expansionSlug": "ravnica-remastered",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502e6d59fa724009559757": {
+    "name": "Kolaghan, the Storm's Fury",
+    "slug": "frf-kolaghan-the-storms-fury-155-rare",
+    "nameSlug": "kolaghan-the-storms-fury",
+    "expansion": "Fate Reforged",
+    "expansionSlug": "fate-reforged",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
   }
 }
