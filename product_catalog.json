@@ -3974,5 +3974,26 @@
       "Foil",
       "Standard"
     ]
+  },
+  "6878f2c6c2fa8516b1ae85b1": {
+    "name": "Power Depot",
+    "slug": "eos-power-depot-79-rare",
+    "nameSlug": "power-depot",
+    "expansion": "Edge of Eternities: Stellar Sights",
+    "expansionSlug": "edge-of-eternities-stellar-sights",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502ef059fa72400955c2ba": {
+    "name": "Mishra's Factory",
+    "slug": "atq-mishras-factory-80c-rare",
+    "nameSlug": "mishras-factory",
+    "expansion": "Antiquities",
+    "expansionSlug": "antiquities",
+    "finishes": [
+      "Standard"
+    ]
   }
 }

@@ -1,5 +1,57 @@
 [
   {
+    "name": "Mishra's Factory",
+    "expansion": "Antiquities",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 135.0,
+    "ref_price": 169.99,
+    "discount_pct": 20.6,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-08-06T06:54:26.620Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/antiquities/card/atq-mishras-factory-80c-rare"
+  },
+  {
+    "name": "Sothera, the Supervoid",
+    "expansion": "Edge of Eternities",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 2.04,
+    "ref_price": 2.62,
+    "discount_pct": 22.1,
+    "confident": true,
+    "seller_country": "GB",
+    "created_at": "2026-08-06T14:04:56.724Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/edge-of-eternities/card/eoe-sothera-the-supervoid-115-mythic"
+  },
+  {
+    "name": "Shapeshifter's Marrow",
+    "expansion": "Future Sight",
+    "finish": "Foil",
+    "language": "it",
+    "price_paid": 1.0,
+    "ref_price": 2.05,
+    "discount_pct": 51.2,
+    "confident": false,
+    "seller_country": "FR",
+    "created_at": "2026-08-07T18:23:21.998Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/future-sight/card/fut-shapeshifters-marrow-58-rare"
+  },
+  {
+    "name": "Power Depot",
+    "expansion": "Edge of Eternities: Stellar Sights",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 2.8,
+    "ref_price": 3.5,
+    "discount_pct": 20.0,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-08-07T22:00:11.018Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/edge-of-eternities-stellar-sights/card/eos-power-depot-79-rare"
+  },
+  {
     "name": "Kolaghan, the Storm's Fury",
     "expansion": "Fate Reforged",
     "finish": "Foil",
@@ -1246,57 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-08-05T04:02:04.359Z",
     "url": "https://cardnexus.com/fr/explore/mtg/lorwyn/card/lrw-elvish-promenade-208-uncommon"
-  },
-  {
-    "name": "Sol Ring",
-    "expansion": "Tales of Middle-earth Commander",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 477.22,
-    "ref_price": 602.71,
-    "discount_pct": 20.8,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-08-05T06:19:15.505Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/tales-of-middle-earth-commander/card/ltc-sol-ring-410-mythic"
-  },
-  {
-    "name": "Deathrite Shaman",
-    "expansion": "Ravnica Remastered",
-    "finish": "Foil",
-    "language": "en",
-    "price_paid": 18.78,
-    "ref_price": 23.81,
-    "discount_pct": 21.1,
-    "confident": false,
-    "seller_country": "GB",
-    "created_at": "2026-08-04T14:21:03.728Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/ravnica-remastered/card/rvr-deathrite-shaman-363-rare"
-  },
-  {
-    "name": "Codie, Vociferous Codex",
-    "expansion": "Special Guests",
-    "finish": "Foil",
-    "language": "en",
-    "price_paid": 1.41,
-    "ref_price": 2.05,
-    "discount_pct": 31.2,
-    "confident": false,
-    "seller_country": "GB",
-    "created_at": "2026-08-04T14:31:54.068Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/special-guests/card/spg-codie-vociferous-codex-157-mythic"
-  },
-  {
-    "name": "Swamp",
-    "expansion": "Odyssey",
-    "finish": "Foil",
-    "language": "fr",
-    "price_paid": 2.0,
-    "ref_price": 4.03,
-    "discount_pct": 50.4,
-    "confident": false,
-    "seller_country": "FR",
-    "created_at": "2026-08-05T03:41:07.985Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/odyssey/card/ody-swamp-342-common"
   }
 ]

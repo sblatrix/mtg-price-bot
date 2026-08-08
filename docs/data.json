@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T01:17:00.673917+00:00",
+  "generated_at": "2026-08-08T03:21:41.699248+00:00",
   "cards": [
     {
       "name": "Abomination, Irradiated Brute",
@@ -12264,6 +12264,10 @@
             {
               "date": "2026-08-07T00:00:00.000Z",
               "price": 1.55
+            },
+            {
+              "date": "2026-08-08T00:00:00.000Z",
+              "price": 1.6
             }
           ],
           "scryfall_history": [
@@ -12405,21 +12409,21 @@
             }
           ],
           "trend_pct": null,
-          "cross_source_gap_pct": 7.7,
+          "cross_source_gap_pct": 4.4,
           "cheaper_source": "cardnexus",
-          "current_price": 1.55,
-          "days_since_update": 1.1,
-          "volatility_pct": 9.1,
+          "current_price": 1.6,
+          "days_since_update": 0.1,
+          "volatility_pct": 9.0,
           "cm_low": 0.15,
           "cm_avg": 1.62,
           "cm_trend": 1.55,
           "cm_avg7": 1.6,
-          "cn_latest": 1.55,
-          "cn_avg7": 1.63,
+          "cn_latest": 1.6,
+          "cn_avg7": 1.62,
           "low_vs_avg_pct": -90.7,
           "low_vs_avg_diff": -1.47,
-          "cm_vs_cn_pct": 4.5,
-          "cm_vs_cn_diff": 0.07,
+          "cm_vs_cn_pct": 1.3,
+          "cm_vs_cn_diff": 0.02,
           "cm_official_history": [
             {
               "date": "2026-07-15T07:35:17.687433+00:00",
@@ -12778,6 +12782,10 @@
             {
               "date": "2026-08-07T00:00:00.000Z",
               "price": 2.3
+            },
+            {
+              "date": "2026-08-08T00:00:00.000Z",
+              "price": 2.3
             }
           ],
           "scryfall_history": [
@@ -12922,14 +12930,14 @@
           "cross_source_gap_pct": 23.7,
           "cheaper_source": "scryfall_cardmarket",
           "current_price": 2.3,
-          "days_since_update": 1.1,
-          "volatility_pct": 7.2,
+          "days_since_update": 0.1,
+          "volatility_pct": 7.3,
           "cm_low": 0.5,
           "cm_avg": 2.02,
           "cm_trend": 2.3,
           "cm_avg7": 2.09,
           "cn_latest": 2.3,
-          "cn_avg7": 2.24,
+          "cn_avg7": 2.28,
           "low_vs_avg_pct": -75.2,
           "low_vs_avg_diff": -1.52,
           "cm_vs_cn_pct": -12.2,
@@ -21953,6 +21961,10 @@
             {
               "date": "2026-08-07T00:00:00.000Z",
               "price": 2.88
+            },
+            {
+              "date": "2026-08-08T00:00:00.000Z",
+              "price": 2.83
             }
           ],
           "scryfall_history": [
@@ -22094,21 +22106,21 @@
             }
           ],
           "trend_pct": null,
-          "cross_source_gap_pct": 15.6,
+          "cross_source_gap_pct": 17.7,
           "cheaper_source": "cardnexus",
-          "current_price": 2.88,
-          "days_since_update": 1.1,
+          "current_price": 2.83,
+          "days_since_update": 0.1,
           "volatility_pct": 19.8,
           "cm_low": 1.5,
           "cm_avg": 3.75,
           "cm_trend": 2.88,
           "cm_avg7": 3.01,
-          "cn_latest": 2.88,
-          "cn_avg7": 3.09,
+          "cn_latest": 2.83,
+          "cn_avg7": 3.03,
           "low_vs_avg_pct": -60.0,
           "low_vs_avg_diff": -2.25,
-          "cm_vs_cn_pct": 30.2,
-          "cm_vs_cn_diff": 0.87,
+          "cm_vs_cn_pct": 32.5,
+          "cm_vs_cn_diff": 0.92,
           "cm_official_history": [
             {
               "date": "2026-07-15T07:35:17.694070+00:00",
@@ -22535,6 +22547,10 @@
             {
               "date": "2026-08-07T00:00:00.000Z",
               "price": 3.0
+            },
+            {
+              "date": "2026-08-08T00:00:00.000Z",
+              "price": 3.01
             }
           ],
           "scryfall_history": [
@@ -22676,21 +22692,21 @@
             }
           ],
           "trend_pct": null,
-          "cross_source_gap_pct": 4.0,
+          "cross_source_gap_pct": 3.7,
           "cheaper_source": "cardnexus",
-          "current_price": 3.0,
-          "days_since_update": 1.1,
+          "current_price": 3.01,
+          "days_since_update": 0.1,
           "volatility_pct": 38.9,
           "cm_low": 2.2,
           "cm_avg": 4.06,
           "cm_trend": 3.0,
           "cm_avg7": 3.1,
-          "cn_latest": 3.0,
-          "cn_avg7": 3.09,
+          "cn_latest": 3.01,
+          "cn_avg7": 3.06,
           "low_vs_avg_pct": -45.8,
           "low_vs_avg_diff": -1.86,
-          "cm_vs_cn_pct": 35.3,
-          "cm_vs_cn_diff": 1.06,
+          "cm_vs_cn_pct": 34.9,
+          "cm_vs_cn_diff": 1.05,
           "cm_official_history": [
             {
               "date": "2026-07-15T07:35:17.694070+00:00",
@@ -35380,6 +35396,10 @@
             {
               "date": "2026-08-07T00:00:00.000Z",
               "price": 2.25
+            },
+            {
+              "date": "2026-08-08T00:00:00.000Z",
+              "price": 2.25
             }
           ],
           "scryfall_history": [
@@ -35524,8 +35544,8 @@
           "cross_source_gap_pct": 1025.0,
           "cheaper_source": "scryfall_cardmarket",
           "current_price": 2.25,
-          "days_since_update": 1.1,
-          "volatility_pct": 70.2,
+          "days_since_update": 0.1,
+          "volatility_pct": 69.6,
           "cm_low": 0.09,
           "cm_avg": 0.2,
           "cm_trend": 0.21,
@@ -53104,6 +53124,10 @@
             {
               "date": "2026-08-07T00:00:00.000Z",
               "price": 6.09
+            },
+            {
+              "date": "2026-08-08T00:00:00.000Z",
+              "price": 6.09
             }
           ],
           "scryfall_history": [
@@ -53248,14 +53272,14 @@
           "cross_source_gap_pct": 242.1,
           "cheaper_source": "scryfall_cardmarket",
           "current_price": 6.09,
-          "days_since_update": 1.1,
-          "volatility_pct": 47.6,
+          "days_since_update": 0.1,
+          "volatility_pct": 47.3,
           "cm_low": 1.3,
           "cm_avg": 1.98,
           "cm_trend": 1.88,
           "cm_avg7": 1.91,
           "cn_latest": 6.09,
-          "cn_avg7": 6.4,
+          "cn_avg7": 6.32,
           "low_vs_avg_pct": -34.3,
           "low_vs_avg_diff": -0.68,
           "cm_vs_cn_pct": -67.5,
@@ -53694,6 +53718,10 @@
             {
               "date": "2026-08-07T00:00:00.000Z",
               "price": 11.74
+            },
+            {
+              "date": "2026-08-08T00:00:00.000Z",
+              "price": 11.74
             }
           ],
           "scryfall_history": [],
@@ -53701,7 +53729,7 @@
           "cross_source_gap_pct": null,
           "cheaper_source": null,
           "current_price": 11.74,
-          "days_since_update": 1.1,
+          "days_since_update": 0.1,
           "volatility_pct": 7.5,
           "cm_low": null,
           "cm_avg": null,
@@ -58492,6 +58520,10 @@
             {
               "date": "2026-08-07T00:00:00.000Z",
               "price": 7.17
+            },
+            {
+              "date": "2026-08-08T00:00:00.000Z",
+              "price": 7.22
             }
           ],
           "scryfall_history": [
@@ -58589,21 +58621,21 @@
             }
           ],
           "trend_pct": -5.1,
-          "cross_source_gap_pct": 0.0,
+          "cross_source_gap_pct": 0.7,
           "cheaper_source": "scryfall_cardmarket",
           "current_price": 7.17,
           "days_since_update": 0.1,
-          "volatility_pct": 3.3,
+          "volatility_pct": 3.4,
           "cm_low": 4.79,
           "cm_avg": 7.73,
           "cm_trend": 7.17,
           "cm_avg7": 7.28,
-          "cn_latest": 7.17,
-          "cn_avg7": 7.4,
+          "cn_latest": 7.22,
+          "cn_avg7": 7.33,
           "low_vs_avg_pct": -38.0,
           "low_vs_avg_diff": -2.94,
-          "cm_vs_cn_pct": 7.8,
-          "cm_vs_cn_diff": 0.56,
+          "cm_vs_cn_pct": 7.1,
+          "cm_vs_cn_diff": 0.51,
           "cm_official_history": [
             {
               "date": "2026-07-17T12:56:38.353808+00:00",
@@ -58868,6 +58900,10 @@
             {
               "date": "2026-08-07T00:00:00.000Z",
               "price": 7.48
+            },
+            {
+              "date": "2026-08-08T00:00:00.000Z",
+              "price": 7.37
             }
           ],
           "scryfall_history": [
@@ -58965,21 +59001,21 @@
             }
           ],
           "trend_pct": -2.4,
-          "cross_source_gap_pct": 0.0,
-          "cheaper_source": "scryfall_cardmarket",
+          "cross_source_gap_pct": 1.5,
+          "cheaper_source": "cardnexus",
           "current_price": 7.48,
           "days_since_update": 0.1,
-          "volatility_pct": 5.5,
+          "volatility_pct": 5.6,
           "cm_low": 5.6,
           "cm_avg": 8.99,
           "cm_trend": 7.48,
           "cm_avg7": 7.97,
-          "cn_latest": 7.48,
-          "cn_avg7": 7.66,
+          "cn_latest": 7.37,
+          "cn_avg7": 7.61,
           "low_vs_avg_pct": -37.7,
           "low_vs_avg_diff": -3.39,
-          "cm_vs_cn_pct": 20.2,
-          "cm_vs_cn_diff": 1.51,
+          "cm_vs_cn_pct": 22.0,
+          "cm_vs_cn_diff": 1.62,
           "cm_official_history": [
             {
               "date": "2026-07-17T12:56:38.353808+00:00",
@@ -82918,6 +82954,10 @@
             {
               "date": "2026-08-07T00:00:00.000Z",
               "price": 3.92
+            },
+            {
+              "date": "2026-08-08T00:00:00.000Z",
+              "price": 3.88
             }
           ],
           "scryfall_history": [
@@ -83059,21 +83099,21 @@
             }
           ],
           "trend_pct": null,
-          "cross_source_gap_pct": 8.9,
+          "cross_source_gap_pct": 10.1,
           "cheaper_source": "cardnexus",
-          "current_price": 3.92,
-          "days_since_update": 1.1,
-          "volatility_pct": 11.7,
+          "current_price": 3.88,
+          "days_since_update": 0.1,
+          "volatility_pct": 11.8,
           "cm_low": 2.45,
           "cm_avg": 4.64,
           "cm_trend": 3.92,
           "cm_avg7": 4.08,
-          "cn_latest": 3.92,
-          "cn_avg7": 4.03,
+          "cn_latest": 3.88,
+          "cn_avg7": 3.99,
           "low_vs_avg_pct": -47.2,
           "low_vs_avg_diff": -2.19,
-          "cm_vs_cn_pct": 18.4,
-          "cm_vs_cn_diff": 0.72,
+          "cm_vs_cn_pct": 19.6,
+          "cm_vs_cn_diff": 0.76,
           "cm_official_history": [
             {
               "date": "2026-07-15T07:35:17.719350+00:00",
@@ -83500,6 +83540,10 @@
             {
               "date": "2026-08-07T00:00:00.000Z",
               "price": 4.7
+            },
+            {
+              "date": "2026-08-08T00:00:00.000Z",
+              "price": 4.82
             }
           ],
           "scryfall_history": [
@@ -83641,21 +83685,21 @@
             }
           ],
           "trend_pct": null,
-          "cross_source_gap_pct": 3.3,
+          "cross_source_gap_pct": 5.9,
           "cheaper_source": "scryfall_cardmarket",
-          "current_price": 4.7,
-          "days_since_update": 1.1,
-          "volatility_pct": 13.9,
+          "current_price": 4.82,
+          "days_since_update": 0.1,
+          "volatility_pct": 13.8,
           "cm_low": 3.5,
           "cm_avg": 5.25,
           "cm_trend": 4.7,
           "cm_avg7": 4.9,
-          "cn_latest": 4.7,
-          "cn_avg7": 4.67,
+          "cn_latest": 4.82,
+          "cn_avg7": 4.71,
           "low_vs_avg_pct": -33.3,
           "low_vs_avg_diff": -1.75,
-          "cm_vs_cn_pct": 11.7,
-          "cm_vs_cn_diff": 0.55,
+          "cm_vs_cn_pct": 8.9,
+          "cm_vs_cn_diff": 0.43,
           "cm_official_history": [
             {
               "date": "2026-07-15T07:35:17.719350+00:00",
@@ -109426,6 +109470,10 @@
             {
               "date": "2026-08-07T00:00:00.000Z",
               "price": 5.66
+            },
+            {
+              "date": "2026-08-08T00:00:00.000Z",
+              "price": 6.34
             }
           ],
           "scryfall_history": [
@@ -109567,21 +109615,21 @@
             }
           ],
           "trend_pct": null,
-          "cross_source_gap_pct": 14.3,
+          "cross_source_gap_pct": 2.1,
           "cheaper_source": "cardnexus",
-          "current_price": 5.66,
-          "days_since_update": 1.1,
-          "volatility_pct": 29.7,
+          "current_price": 6.34,
+          "days_since_update": 0.1,
+          "volatility_pct": 30.1,
           "cm_low": 2.0,
           "cm_avg": 9.29,
           "cm_trend": 5.22,
           "cm_avg7": 5.8,
-          "cn_latest": 5.66,
-          "cn_avg7": 6.07,
+          "cn_latest": 6.34,
+          "cn_avg7": 6.06,
           "low_vs_avg_pct": -78.5,
           "low_vs_avg_diff": -7.29,
-          "cm_vs_cn_pct": 64.1,
-          "cm_vs_cn_diff": 3.63,
+          "cm_vs_cn_pct": 46.5,
+          "cm_vs_cn_diff": 2.95,
           "cm_official_history": [
             {
               "date": "2026-07-15T07:35:17.729552+00:00",
@@ -109956,6 +110004,10 @@
             {
               "date": "2026-08-07T00:00:00.000Z",
               "price": 7.47
+            },
+            {
+              "date": "2026-08-08T00:00:00.000Z",
+              "price": 7.56
             }
           ],
           "scryfall_history": [
@@ -110097,21 +110149,21 @@
             }
           ],
           "trend_pct": null,
-          "cross_source_gap_pct": 3.1,
+          "cross_source_gap_pct": 1.9,
           "cheaper_source": "cardnexus",
-          "current_price": 7.47,
-          "days_since_update": 1.1,
-          "volatility_pct": 34.4,
+          "current_price": 7.56,
+          "days_since_update": 0.1,
+          "volatility_pct": 34.9,
           "cm_low": 3.6,
           "cm_avg": 12.25,
           "cm_trend": 6.18,
           "cm_avg7": 7.12,
-          "cn_latest": 7.47,
-          "cn_avg7": 7.98,
+          "cn_latest": 7.56,
+          "cn_avg7": 7.82,
           "low_vs_avg_pct": -70.6,
           "low_vs_avg_diff": -8.65,
-          "cm_vs_cn_pct": 64.0,
-          "cm_vs_cn_diff": 4.78,
+          "cm_vs_cn_pct": 62.0,
+          "cm_vs_cn_diff": 4.69,
           "cm_official_history": [
             {
               "date": "2026-07-15T07:35:17.729552+00:00",
@@ -113693,6 +113745,10 @@
             {
               "date": "2026-08-07T00:00:00.000Z",
               "price": 18.82
+            },
+            {
+              "date": "2026-08-08T00:00:00.000Z",
+              "price": 18.82
             }
           ],
           "scryfall_history": [
@@ -113837,14 +113893,14 @@
           "cross_source_gap_pct": 103.7,
           "cheaper_source": "scryfall_cardmarket",
           "current_price": 18.82,
-          "days_since_update": 1.1,
-          "volatility_pct": 33.0,
+          "days_since_update": 0.1,
+          "volatility_pct": 32.8,
           "cm_low": 7.9,
           "cm_avg": 11.71,
           "cm_trend": 9.94,
           "cm_avg7": 10.08,
           "cn_latest": 18.82,
-          "cn_avg7": 19.22,
+          "cn_avg7": 19.12,
           "low_vs_avg_pct": -32.5,
           "low_vs_avg_diff": -3.81,
           "cm_vs_cn_pct": -37.8,
@@ -114227,6 +114283,10 @@
             {
               "date": "2026-08-07T00:00:00.000Z",
               "price": 21.55
+            },
+            {
+              "date": "2026-08-08T00:00:00.000Z",
+              "price": 21.55
             }
           ],
           "scryfall_history": [],
@@ -114234,14 +114294,14 @@
           "cross_source_gap_pct": null,
           "cheaper_source": null,
           "current_price": 21.55,
-          "days_since_update": 1.1,
+          "days_since_update": 0.1,
           "volatility_pct": 2.3,
           "cm_low": null,
           "cm_avg": null,
           "cm_trend": 0.0,
           "cm_avg7": null,
           "cn_latest": 21.55,
-          "cn_avg7": 21.17,
+          "cn_avg7": 21.05,
           "low_vs_avg_pct": null,
           "low_vs_avg_diff": null,
           "cm_vs_cn_pct": null,
@@ -130394,6 +130454,10 @@
             {
               "date": "2026-08-07T00:00:00.000Z",
               "price": 9.82
+            },
+            {
+              "date": "2026-08-08T00:00:00.000Z",
+              "price": 9.69
             }
           ],
           "scryfall_history": [
@@ -130535,21 +130599,21 @@
             }
           ],
           "trend_pct": null,
-          "cross_source_gap_pct": 5.4,
+          "cross_source_gap_pct": 6.8,
           "cheaper_source": "cardnexus",
-          "current_price": 9.82,
-          "days_since_update": 1.1,
-          "volatility_pct": 25.8,
+          "current_price": 9.69,
+          "days_since_update": 0.1,
+          "volatility_pct": 25.6,
           "cm_low": 7.0,
           "cm_avg": 7.19,
           "cm_trend": 9.82,
           "cm_avg7": 9.02,
-          "cn_latest": 9.82,
-          "cn_avg7": 10.06,
+          "cn_latest": 9.69,
+          "cn_avg7": 9.99,
           "low_vs_avg_pct": -2.6,
           "low_vs_avg_diff": -0.19,
-          "cm_vs_cn_pct": -26.8,
-          "cm_vs_cn_diff": -2.63,
+          "cm_vs_cn_pct": -25.8,
+          "cm_vs_cn_diff": -2.5,
           "cm_official_history": [
             {
               "date": "2026-07-15T07:35:17.738617+00:00",
@@ -130908,6 +130972,10 @@
             {
               "date": "2026-08-07T00:00:00.000Z",
               "price": 10.74
+            },
+            {
+              "date": "2026-08-08T00:00:00.000Z",
+              "price": 10.63
             }
           ],
           "scryfall_history": [
@@ -131049,21 +131117,21 @@
             }
           ],
           "trend_pct": null,
-          "cross_source_gap_pct": 7.0,
+          "cross_source_gap_pct": 8.1,
           "cheaper_source": "cardnexus",
-          "current_price": 10.74,
-          "days_since_update": 1.1,
-          "volatility_pct": 29.2,
+          "current_price": 10.63,
+          "days_since_update": 0.1,
+          "volatility_pct": 29.0,
           "cm_low": 7.69,
           "cm_avg": 7.44,
           "cm_trend": 10.74,
           "cm_avg7": 9.61,
-          "cn_latest": 10.74,
-          "cn_avg7": 11.06,
+          "cn_latest": 10.63,
+          "cn_avg7": 10.95,
           "low_vs_avg_pct": 3.4,
           "low_vs_avg_diff": 0.25,
-          "cm_vs_cn_pct": -30.7,
-          "cm_vs_cn_diff": -3.3,
+          "cm_vs_cn_pct": -30.0,
+          "cm_vs_cn_diff": -3.19,
           "cm_official_history": [
             {
               "date": "2026-07-15T07:35:17.738617+00:00",
@@ -131372,6 +131440,10 @@
             {
               "date": "2026-08-07T00:00:00.000Z",
               "price": 1.47
+            },
+            {
+              "date": "2026-08-08T00:00:00.000Z",
+              "price": 1.47
             }
           ],
           "scryfall_history": [
@@ -131516,14 +131588,14 @@
           "cross_source_gap_pct": 1370.0,
           "cheaper_source": "scryfall_cardmarket",
           "current_price": 1.47,
-          "days_since_update": 1.1,
-          "volatility_pct": 59.8,
+          "days_since_update": 0.1,
+          "volatility_pct": 59.4,
           "cm_low": 0.12,
           "cm_avg": 0.69,
           "cm_trend": 0.3,
           "cm_avg7": 0.37,
           "cn_latest": 1.47,
-          "cn_avg7": 1.49,
+          "cn_avg7": 1.48,
           "low_vs_avg_pct": -82.6,
           "low_vs_avg_diff": -0.57,
           "cm_vs_cn_pct": -53.1,
@@ -149365,6 +149437,10 @@
             {
               "date": "2026-08-07T00:00:00.000Z",
               "price": 4.49
+            },
+            {
+              "date": "2026-08-08T00:00:00.000Z",
+              "price": 4.5
             }
           ],
           "scryfall_history": [
@@ -149506,21 +149582,21 @@
             }
           ],
           "trend_pct": null,
-          "cross_source_gap_pct": 9.5,
+          "cross_source_gap_pct": 9.8,
           "cheaper_source": "scryfall_cardmarket",
-          "current_price": 4.49,
-          "days_since_update": 1.1,
-          "volatility_pct": 20.6,
+          "current_price": 4.5,
+          "days_since_update": 0.1,
+          "volatility_pct": 20.5,
           "cm_low": 3.49,
           "cm_avg": 5.05,
           "cm_trend": 4.49,
           "cm_avg7": 4.56,
-          "cn_latest": 4.49,
-          "cn_avg7": 4.48,
+          "cn_latest": 4.5,
+          "cn_avg7": 4.5,
           "low_vs_avg_pct": -30.9,
           "low_vs_avg_diff": -1.56,
-          "cm_vs_cn_pct": 12.5,
-          "cm_vs_cn_diff": 0.56,
+          "cm_vs_cn_pct": 12.2,
+          "cm_vs_cn_diff": 0.55,
           "cm_official_history": [
             {
               "date": "2026-07-15T07:35:17.598743+00:00",
@@ -149907,6 +149983,10 @@
             {
               "date": "2026-08-07T00:00:00.000Z",
               "price": 0.0
+            },
+            {
+              "date": "2026-08-08T00:00:00.000Z",
+              "price": 0.0
             }
           ],
           "scryfall_history": [],
@@ -149914,7 +149994,7 @@
           "cross_source_gap_pct": null,
           "cheaper_source": null,
           "current_price": 0.0,
-          "days_since_update": 1.1,
+          "days_since_update": 0.1,
           "volatility_pct": null,
           "cm_low": null,
           "cm_avg": null,
@@ -177492,6 +177572,10 @@
             {
               "date": "2026-08-07T00:00:00.000Z",
               "price": 1.95
+            },
+            {
+              "date": "2026-08-08T00:00:00.000Z",
+              "price": 1.88
             }
           ],
           "scryfall_history": [
@@ -177633,21 +177717,21 @@
             }
           ],
           "trend_pct": null,
-          "cross_source_gap_pct": 14.4,
+          "cross_source_gap_pct": 18.6,
           "cheaper_source": "cardnexus",
-          "current_price": 1.95,
-          "days_since_update": 1.1,
-          "volatility_pct": 34.9,
+          "current_price": 1.88,
+          "days_since_update": 0.1,
+          "volatility_pct": 34.6,
           "cm_low": 0.97,
           "cm_avg": 2.85,
           "cm_trend": 1.95,
           "cm_avg7": 2.13,
-          "cn_latest": 1.95,
-          "cn_avg7": 2.13,
+          "cn_latest": 1.88,
+          "cn_avg7": 2.07,
           "low_vs_avg_pct": -66.0,
           "low_vs_avg_diff": -1.88,
-          "cm_vs_cn_pct": 46.2,
-          "cm_vs_cn_diff": 0.9,
+          "cm_vs_cn_pct": 51.6,
+          "cm_vs_cn_diff": 0.97,
           "cm_official_history": [
             {
               "date": "2026-07-15T07:35:17.754044+00:00",
@@ -178006,6 +178090,10 @@
             {
               "date": "2026-08-07T00:00:00.000Z",
               "price": 2.8
+            },
+            {
+              "date": "2026-08-08T00:00:00.000Z",
+              "price": 2.73
             }
           ],
           "scryfall_history": [
@@ -178147,21 +178235,21 @@
             }
           ],
           "trend_pct": null,
-          "cross_source_gap_pct": 1.1,
-          "cheaper_source": "scryfall_cardmarket",
-          "current_price": 2.8,
-          "days_since_update": 1.1,
-          "volatility_pct": 17.9,
+          "cross_source_gap_pct": 1.5,
+          "cheaper_source": "cardnexus",
+          "current_price": 2.73,
+          "days_since_update": 0.1,
+          "volatility_pct": 17.8,
           "cm_low": 1.49,
           "cm_avg": 3.87,
           "cm_trend": 2.8,
           "cm_avg7": 2.79,
-          "cn_latest": 2.8,
+          "cn_latest": 2.73,
           "cn_avg7": 2.84,
           "low_vs_avg_pct": -61.5,
           "low_vs_avg_diff": -2.38,
-          "cm_vs_cn_pct": 38.2,
-          "cm_vs_cn_diff": 1.07,
+          "cm_vs_cn_pct": 41.8,
+          "cm_vs_cn_diff": 1.14,
           "cm_official_history": [
             {
               "date": "2026-07-15T07:35:17.754044+00:00",
@@ -181330,6 +181418,10 @@
             {
               "date": "2026-08-07T00:00:00.000Z",
               "price": 13.27
+            },
+            {
+              "date": "2026-08-08T00:00:00.000Z",
+              "price": 12.92
             }
           ],
           "scryfall_history": [
@@ -181471,21 +181563,21 @@
             }
           ],
           "trend_pct": null,
-          "cross_source_gap_pct": 28.6,
+          "cross_source_gap_pct": 32.1,
           "cheaper_source": "cardnexus",
-          "current_price": 13.27,
-          "days_since_update": 1.1,
-          "volatility_pct": 25.4,
+          "current_price": 12.92,
+          "days_since_update": 0.1,
+          "volatility_pct": 26.1,
           "cm_low": 11.99,
           "cm_avg": 26.19,
           "cm_trend": 13.27,
           "cm_avg7": 15.21,
-          "cn_latest": 13.27,
-          "cn_avg7": 13.88,
+          "cn_latest": 12.92,
+          "cn_avg7": 13.63,
           "low_vs_avg_pct": -54.2,
           "low_vs_avg_diff": -14.2,
-          "cm_vs_cn_pct": 97.4,
-          "cm_vs_cn_diff": 12.92,
+          "cm_vs_cn_pct": 102.7,
+          "cm_vs_cn_diff": 13.27,
           "cm_official_history": [
             {
               "date": "2026-07-15T07:35:17.636962+00:00",
@@ -181884,6 +181976,10 @@
             {
               "date": "2026-08-07T00:00:00.000Z",
               "price": 0.0
+            },
+            {
+              "date": "2026-08-08T00:00:00.000Z",
+              "price": 0.0
             }
           ],
           "scryfall_history": [],
@@ -181891,7 +181987,7 @@
           "cross_source_gap_pct": null,
           "cheaper_source": null,
           "current_price": 0.0,
-          "days_since_update": 1.1,
+          "days_since_update": 0.1,
           "volatility_pct": null,
           "cm_low": null,
           "cm_avg": null,
@@ -192979,6 +193075,10 @@
             {
               "date": "2026-08-07T00:00:00.000Z",
               "price": 4.25
+            },
+            {
+              "date": "2026-08-08T00:00:00.000Z",
+              "price": 4.25
             }
           ],
           "scryfall_history": [
@@ -193123,14 +193223,14 @@
           "cross_source_gap_pct": 1670.8,
           "cheaper_source": "scryfall_cardmarket",
           "current_price": 4.25,
-          "days_since_update": 1.1,
-          "volatility_pct": 151.5,
+          "days_since_update": 0.1,
+          "volatility_pct": 146.9,
           "cm_low": 0.15,
           "cm_avg": 0.47,
           "cm_trend": 0.36,
           "cm_avg7": 0.45,
           "cn_latest": 4.25,
-          "cn_avg7": 4.53,
+          "cn_avg7": 4.43,
           "low_vs_avg_pct": -68.1,
           "low_vs_avg_diff": -0.32,
           "cm_vs_cn_pct": -88.9,
@@ -193519,6 +193619,10 @@
             {
               "date": "2026-08-07T00:00:00.000Z",
               "price": 3.44
+            },
+            {
+              "date": "2026-08-08T00:00:00.000Z",
+              "price": 3.37
             }
           ],
           "scryfall_history": [
@@ -193660,21 +193764,21 @@
             }
           ],
           "trend_pct": null,
-          "cross_source_gap_pct": 11.6,
+          "cross_source_gap_pct": 13.9,
           "cheaper_source": "cardnexus",
-          "current_price": 3.44,
-          "days_since_update": 1.1,
-          "volatility_pct": 7.1,
+          "current_price": 3.37,
+          "days_since_update": 0.1,
+          "volatility_pct": 7.4,
           "cm_low": 1.9,
           "cm_avg": 4.46,
           "cm_trend": 3.44,
           "cm_avg7": 3.62,
-          "cn_latest": 3.44,
-          "cn_avg7": 3.53,
+          "cn_latest": 3.37,
+          "cn_avg7": 3.49,
           "low_vs_avg_pct": -57.4,
           "low_vs_avg_diff": -2.56,
-          "cm_vs_cn_pct": 29.7,
-          "cm_vs_cn_diff": 1.02,
+          "cm_vs_cn_pct": 32.3,
+          "cm_vs_cn_diff": 1.09,
           "cm_official_history": [
             {
               "date": "2026-07-15T07:35:17.770764+00:00",
@@ -194033,6 +194137,10 @@
             {
               "date": "2026-08-07T00:00:00.000Z",
               "price": 4.72
+            },
+            {
+              "date": "2026-08-08T00:00:00.000Z",
+              "price": 4.8
             }
           ],
           "scryfall_history": [
@@ -194174,21 +194282,21 @@
             }
           ],
           "trend_pct": null,
-          "cross_source_gap_pct": 7.6,
+          "cross_source_gap_pct": 5.8,
           "cheaper_source": "cardnexus",
-          "current_price": 4.72,
-          "days_since_update": 1.1,
-          "volatility_pct": 8.4,
+          "current_price": 4.8,
+          "days_since_update": 0.1,
+          "volatility_pct": 8.6,
           "cm_low": 3.49,
           "cm_avg": 6.21,
           "cm_trend": 4.72,
           "cm_avg7": 5.13,
-          "cn_latest": 4.72,
-          "cn_avg7": 4.86,
+          "cn_latest": 4.8,
+          "cn_avg7": 4.84,
           "low_vs_avg_pct": -43.8,
           "low_vs_avg_diff": -2.72,
-          "cm_vs_cn_pct": 31.6,
-          "cm_vs_cn_diff": 1.49,
+          "cm_vs_cn_pct": 29.4,
+          "cm_vs_cn_diff": 1.41,
           "cm_official_history": [
             {
               "date": "2026-07-15T07:35:17.770764+00:00",
@@ -195285,6 +195393,10 @@
             {
               "date": "2026-08-07T00:00:00.000Z",
               "price": 33.39
+            },
+            {
+              "date": "2026-08-08T00:00:00.000Z",
+              "price": 33.25
             }
           ],
           "scryfall_history": [
@@ -195354,21 +195466,21 @@
             }
           ],
           "trend_pct": null,
-          "cross_source_gap_pct": 2.5,
+          "cross_source_gap_pct": 2.9,
           "cheaper_source": "cardnexus",
-          "current_price": 33.39,
-          "days_since_update": 1.1,
-          "volatility_pct": 2.0,
+          "current_price": 33.25,
+          "days_since_update": 0.1,
+          "volatility_pct": 2.1,
           "cm_low": 30.0,
           "cm_avg": 31.8,
           "cm_trend": 33.39,
           "cm_avg7": 33.61,
-          "cn_latest": 33.39,
-          "cn_avg7": 33.63,
+          "cn_latest": 33.25,
+          "cn_avg7": 33.55,
           "low_vs_avg_pct": -5.7,
           "low_vs_avg_diff": -1.8,
-          "cm_vs_cn_pct": -4.8,
-          "cm_vs_cn_diff": -1.59,
+          "cm_vs_cn_pct": -4.4,
+          "cm_vs_cn_diff": -1.45,
           "cm_official_history": [
             {
               "date": "2026-07-16T18:56:55.959966+00:00",
@@ -195621,6 +195733,10 @@
             {
               "date": "2026-08-07T00:00:00.000Z",
               "price": 40.9
+            },
+            {
+              "date": "2026-08-08T00:00:00.000Z",
+              "price": 40.77
             }
           ],
           "scryfall_history": [
@@ -195690,21 +195806,21 @@
             }
           ],
           "trend_pct": null,
-          "cross_source_gap_pct": 0.9,
+          "cross_source_gap_pct": 0.6,
           "cheaper_source": "scryfall_cardmarket",
-          "current_price": 40.9,
-          "days_since_update": 1.1,
+          "current_price": 40.77,
+          "days_since_update": 0.1,
           "volatility_pct": 6.4,
           "cm_low": 37.0,
           "cm_avg": 36.48,
           "cm_trend": 40.9,
           "cm_avg7": 38.02,
-          "cn_latest": 40.9,
-          "cn_avg7": 40.43,
+          "cn_latest": 40.77,
+          "cn_avg7": 40.58,
           "low_vs_avg_pct": 1.4,
           "low_vs_avg_diff": 0.52,
-          "cm_vs_cn_pct": -10.8,
-          "cm_vs_cn_diff": -4.42,
+          "cm_vs_cn_pct": -10.5,
+          "cm_vs_cn_diff": -4.29,
           "cm_official_history": [
             {
               "date": "2026-07-16T18:56:55.959966+00:00",
@@ -209330,6 +209446,10 @@
             {
               "date": "2026-08-07T00:00:00.000Z",
               "price": 2.48
+            },
+            {
+              "date": "2026-08-08T00:00:00.000Z",
+              "price": 2.48
             }
           ],
           "scryfall_history": [
@@ -209474,14 +209594,14 @@
           "cross_source_gap_pct": 181.8,
           "cheaper_source": "scryfall_cardmarket",
           "current_price": 2.48,
-          "days_since_update": 1.1,
-          "volatility_pct": 49.3,
+          "days_since_update": 0.1,
+          "volatility_pct": 49.1,
           "cm_low": 0.68,
           "cm_avg": 1.12,
           "cm_trend": 0.92,
           "cm_avg7": 0.95,
           "cn_latest": 2.48,
-          "cn_avg7": 2.53,
+          "cn_avg7": 2.52,
           "low_vs_avg_pct": -39.3,
           "low_vs_avg_diff": -0.44,
           "cm_vs_cn_pct": -54.8,
@@ -210201,6 +210321,10 @@
             {
               "date": "2026-08-07T00:00:00.000Z",
               "price": 1.08
+            },
+            {
+              "date": "2026-08-08T00:00:00.000Z",
+              "price": 1.08
             }
           ],
           "scryfall_history": [
@@ -210345,14 +210469,14 @@
           "cross_source_gap_pct": 440.0,
           "cheaper_source": "scryfall_cardmarket",
           "current_price": 1.08,
-          "days_since_update": 1.1,
-          "volatility_pct": 70.5,
+          "days_since_update": 0.1,
+          "volatility_pct": 69.5,
           "cm_low": 0.18,
           "cm_avg": 0.38,
           "cm_trend": 0.29,
           "cm_avg7": 0.34,
           "cn_latest": 1.08,
-          "cn_avg7": 1.18,
+          "cn_avg7": 1.14,
           "low_vs_avg_pct": -52.6,
           "low_vs_avg_diff": -0.2,
           "cm_vs_cn_pct": -64.8,
@@ -213232,6 +213356,10 @@
             {
               "date": "2026-08-07T00:00:00.000Z",
               "price": 1.43
+            },
+            {
+              "date": "2026-08-08T00:00:00.000Z",
+              "price": 1.43
             }
           ],
           "scryfall_history": [
@@ -213376,14 +213504,14 @@
           "cross_source_gap_pct": 853.3,
           "cheaper_source": "scryfall_cardmarket",
           "current_price": 1.43,
-          "days_since_update": 1.1,
-          "volatility_pct": 55.8,
+          "days_since_update": 0.1,
+          "volatility_pct": 56.0,
           "cm_low": 0.13,
           "cm_avg": 0.48,
           "cm_trend": 0.3,
           "cm_avg7": 0.33,
           "cn_latest": 1.43,
-          "cn_avg7": 1.33,
+          "cn_avg7": 1.36,
           "low_vs_avg_pct": -72.9,
           "low_vs_avg_diff": -0.35,
           "cm_vs_cn_pct": -66.4,
@@ -224042,6 +224170,58 @@
   ],
   "recent_deals": [
     {
+      "name": "Mishra's Factory",
+      "expansion": "Antiquities",
+      "finish": "Standard",
+      "language": "en",
+      "price_paid": 135.0,
+      "ref_price": 169.99,
+      "discount_pct": 20.6,
+      "confident": true,
+      "seller_country": "FR",
+      "created_at": "2026-08-06T06:54:26.620Z",
+      "url": "https://cardnexus.com/fr/explore/mtg/antiquities/card/atq-mishras-factory-80c-rare"
+    },
+    {
+      "name": "Sothera, the Supervoid",
+      "expansion": "Edge of Eternities",
+      "finish": "Standard",
+      "language": "en",
+      "price_paid": 2.04,
+      "ref_price": 2.62,
+      "discount_pct": 22.1,
+      "confident": true,
+      "seller_country": "GB",
+      "created_at": "2026-08-06T14:04:56.724Z",
+      "url": "https://cardnexus.com/fr/explore/mtg/edge-of-eternities/card/eoe-sothera-the-supervoid-115-mythic"
+    },
+    {
+      "name": "Shapeshifter's Marrow",
+      "expansion": "Future Sight",
+      "finish": "Foil",
+      "language": "it",
+      "price_paid": 1.0,
+      "ref_price": 2.05,
+      "discount_pct": 51.2,
+      "confident": false,
+      "seller_country": "FR",
+      "created_at": "2026-08-07T18:23:21.998Z",
+      "url": "https://cardnexus.com/fr/explore/mtg/future-sight/card/fut-shapeshifters-marrow-58-rare"
+    },
+    {
+      "name": "Power Depot",
+      "expansion": "Edge of Eternities: Stellar Sights",
+      "finish": "Standard",
+      "language": "en",
+      "price_paid": 2.8,
+      "ref_price": 3.5,
+      "discount_pct": 20.0,
+      "confident": true,
+      "seller_country": "FR",
+      "created_at": "2026-08-07T22:00:11.018Z",
+      "url": "https://cardnexus.com/fr/explore/mtg/edge-of-eternities-stellar-sights/card/eos-power-depot-79-rare"
+    },
+    {
       "name": "Kolaghan, the Storm's Fury",
       "expansion": "Fate Reforged",
       "finish": "Foil",
@@ -225288,58 +225468,6 @@
       "seller_country": "FR",
       "created_at": "2026-08-05T04:02:04.359Z",
       "url": "https://cardnexus.com/fr/explore/mtg/lorwyn/card/lrw-elvish-promenade-208-uncommon"
-    },
-    {
-      "name": "Sol Ring",
-      "expansion": "Tales of Middle-earth Commander",
-      "finish": "Standard",
-      "language": "en",
-      "price_paid": 477.22,
-      "ref_price": 602.71,
-      "discount_pct": 20.8,
-      "confident": true,
-      "seller_country": "US",
-      "created_at": "2026-08-05T06:19:15.505Z",
-      "url": "https://cardnexus.com/fr/explore/mtg/tales-of-middle-earth-commander/card/ltc-sol-ring-410-mythic"
-    },
-    {
-      "name": "Deathrite Shaman",
-      "expansion": "Ravnica Remastered",
-      "finish": "Foil",
-      "language": "en",
-      "price_paid": 18.78,
-      "ref_price": 23.81,
-      "discount_pct": 21.1,
-      "confident": false,
-      "seller_country": "GB",
-      "created_at": "2026-08-04T14:21:03.728Z",
-      "url": "https://cardnexus.com/fr/explore/mtg/ravnica-remastered/card/rvr-deathrite-shaman-363-rare"
-    },
-    {
-      "name": "Codie, Vociferous Codex",
-      "expansion": "Special Guests",
-      "finish": "Foil",
-      "language": "en",
-      "price_paid": 1.41,
-      "ref_price": 2.05,
-      "discount_pct": 31.2,
-      "confident": false,
-      "seller_country": "GB",
-      "created_at": "2026-08-04T14:31:54.068Z",
-      "url": "https://cardnexus.com/fr/explore/mtg/special-guests/card/spg-codie-vociferous-codex-157-mythic"
-    },
-    {
-      "name": "Swamp",
-      "expansion": "Odyssey",
-      "finish": "Foil",
-      "language": "fr",
-      "price_paid": 2.0,
-      "ref_price": 4.03,
-      "discount_pct": 50.4,
-      "confident": false,
-      "seller_country": "FR",
-      "created_at": "2026-08-05T03:41:07.985Z",
-      "url": "https://cardnexus.com/fr/explore/mtg/odyssey/card/ody-swamp-342-common"
     }
   ],
   "competitive_signals": [
@@ -225351,7 +225479,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.739026+00:00",
+      "detected_at": "2026-08-08T03:21:39.805579+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Detective%27s%20Phoenix",
@@ -225367,7 +225495,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.738930+00:00",
+      "detected_at": "2026-08-08T03:21:39.805434+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Nethergoyf",
@@ -225383,7 +225511,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.738889+00:00",
+      "detected_at": "2026-08-08T03:21:39.805369+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Flagstones%20of%20Trokair",
@@ -225399,7 +225527,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.738751+00:00",
+      "detected_at": "2026-08-08T03:21:39.805155+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Deceit",
@@ -225415,7 +225543,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.738588+00:00",
+      "detected_at": "2026-08-08T03:21:39.804901+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Practiced%20Offense",
@@ -225431,7 +225559,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.738527+00:00",
+      "detected_at": "2026-08-08T03:21:39.804807+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Copperline%20Gorge",
@@ -225447,7 +225575,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.738439+00:00",
+      "detected_at": "2026-08-08T03:21:39.804674+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Gemstone%20Mine",
@@ -225463,7 +225591,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.738347+00:00",
+      "detected_at": "2026-08-08T03:21:39.804538+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Spoils%20of%20the%20Vault",
@@ -225479,7 +225607,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.738259+00:00",
+      "detected_at": "2026-08-08T03:21:39.804392+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Darkbore%20Pathway",
@@ -225495,7 +225623,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.738192+00:00",
+      "detected_at": "2026-08-08T03:21:39.804293+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Plunge%20into%20Darkness",
@@ -225511,7 +225639,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.738101+00:00",
+      "detected_at": "2026-08-08T03:21:39.804156+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Blackcleave%20Cliffs",
@@ -225527,7 +225655,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.738005+00:00",
+      "detected_at": "2026-08-08T03:21:39.804023+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Serum%20Powder",
@@ -225543,7 +225671,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.737752+00:00",
+      "detected_at": "2026-08-08T03:21:39.803627+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Cosmogoyf",
@@ -225559,7 +225687,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.737669+00:00",
+      "detected_at": "2026-08-08T03:21:39.803478+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Force%20of%20Despair",
@@ -225575,7 +225703,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.737605+00:00",
+      "detected_at": "2026-08-08T03:21:39.803383+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Flame%20of%20Anor",
@@ -225591,7 +225719,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.737435+00:00",
+      "detected_at": "2026-08-08T03:21:39.803119+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Curator%20of%20Mysteries",
@@ -225607,7 +225735,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.737320+00:00",
+      "detected_at": "2026-08-08T03:21:39.802964+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Wan%20Shi%20Tong%2C%20Librarian",
@@ -225623,7 +225751,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.737234+00:00",
+      "detected_at": "2026-08-08T03:21:39.802842+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Agatha%27s%20Soul%20Cauldron",
@@ -225639,7 +225767,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.737166+00:00",
+      "detected_at": "2026-08-08T03:21:39.802748+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Ketramose%2C%20the%20New%20Dawn",
@@ -225655,7 +225783,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.736973+00:00",
+      "detected_at": "2026-08-08T03:21:39.802498+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Crucible%20of%20Worlds",
@@ -225671,7 +225799,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.736754+00:00",
+      "detected_at": "2026-08-08T03:21:39.802154+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Birthing%20Ritual",
@@ -225687,7 +225815,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.736671+00:00",
+      "detected_at": "2026-08-08T03:21:39.802030+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Yawgmoth%2C%20Thran%20Physician",
@@ -225703,7 +225831,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.736586+00:00",
+      "detected_at": "2026-08-08T03:21:39.801911+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Flusterstorm",
@@ -225719,7 +225847,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.736519+00:00",
+      "detected_at": "2026-08-08T03:21:39.801809+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Sokenzan%2C%20Crucible%20of%20Defiance",
@@ -225735,7 +225863,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 4 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.736376+00:00",
+      "detected_at": "2026-08-08T03:21:39.801588+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Icetill%20Explorer",
@@ -225751,7 +225879,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 4 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.736325+00:00",
+      "detected_at": "2026-08-08T03:21:39.801516+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Sanctum%20of%20Ugin",
@@ -225767,7 +225895,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 4 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.736237+00:00",
+      "detected_at": "2026-08-08T03:21:39.801375+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Moonshadow",
@@ -225783,7 +225911,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 4 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.736156+00:00",
+      "detected_at": "2026-08-08T03:21:39.801245+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Grist%2C%20the%20Hunger%20Tide",
@@ -225799,7 +225927,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 4 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.736035+00:00",
+      "detected_at": "2026-08-08T03:21:39.801039+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Badgermole%20Cub",
@@ -225815,7 +225943,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 4 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.736022+00:00",
+      "detected_at": "2026-08-08T03:21:39.801020+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Inevitable%20Betrayal",
@@ -225831,7 +225959,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 4 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.735917+00:00",
+      "detected_at": "2026-08-08T03:21:39.800862+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Living%20End",
@@ -225847,7 +225975,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 4 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.735824+00:00",
+      "detected_at": "2026-08-08T03:21:39.800700+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Shardless%20Agent",
@@ -225863,7 +225991,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 4 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.735719+00:00",
+      "detected_at": "2026-08-08T03:21:39.800532+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Life%20from%20the%20Loam",
@@ -225879,7 +226007,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 4 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.735636+00:00",
+      "detected_at": "2026-08-08T03:21:39.800399+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Chandra%2C%20Awakened%20Inferno",
@@ -225895,7 +226023,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 5 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.735322+00:00",
+      "detected_at": "2026-08-08T03:21:39.799912+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Elesh%20Norn%2C%20Mother%20of%20Machines",
@@ -225911,7 +226039,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 5 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.735224+00:00",
+      "detected_at": "2026-08-08T03:21:39.799762+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Fade%20from%20History",
@@ -225927,7 +226055,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 5 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.735141+00:00",
+      "detected_at": "2026-08-08T03:21:39.799642+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=World%20Breaker",
@@ -225943,7 +226071,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 5 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.735060+00:00",
+      "detected_at": "2026-08-08T03:21:39.799520+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Chancellor%20of%20the%20Dross",
@@ -225959,7 +226087,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 5 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.734965+00:00",
+      "detected_at": "2026-08-08T03:21:39.799389+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Blooming%20Marsh",
@@ -225975,7 +226103,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 5 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.734853+00:00",
+      "detected_at": "2026-08-08T03:21:39.799216+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Karn%20Liberated",
@@ -225991,7 +226119,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 5 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.734656+00:00",
+      "detected_at": "2026-08-08T03:21:39.798915+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Winternight%20Stories",
@@ -226007,7 +226135,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 5 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.734549+00:00",
+      "detected_at": "2026-08-08T03:21:39.798752+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Ruric%20Thar%2C%20the%20Unbowed",
@@ -226023,7 +226151,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 5 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.734469+00:00",
+      "detected_at": "2026-08-08T03:21:39.798632+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Mj%C3%B6lnir%2C%20Hammer%20of%20Thor",
@@ -226039,7 +226167,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 6 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.734387+00:00",
+      "detected_at": "2026-08-08T03:21:39.798508+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Thundertrap%20Trainer",
@@ -226055,7 +226183,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 6 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.734300+00:00",
+      "detected_at": "2026-08-08T03:21:39.798364+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Underground%20Mortuary",
@@ -226071,7 +226199,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 6 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.734104+00:00",
+      "detected_at": "2026-08-08T03:21:39.798075+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Mox%20Amber",
@@ -226087,7 +226215,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 6 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.734011+00:00",
+      "detected_at": "2026-08-08T03:21:39.797953+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Lush%20Portico",
@@ -226103,7 +226231,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 6 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.733932+00:00",
+      "detected_at": "2026-08-08T03:21:39.797831+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Wrenn%20and%20Six",
@@ -226119,7 +226247,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 6 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.733783+00:00",
+      "detected_at": "2026-08-08T03:21:39.797598+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Silence",
@@ -226135,7 +226263,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 7 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.733701+00:00",
+      "detected_at": "2026-08-08T03:21:39.797463+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Sanctifier%20en-Vec",
@@ -226151,7 +226279,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 7 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.733619+00:00",
+      "detected_at": "2026-08-08T03:21:39.797342+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Abhorrent%20Oculus",
@@ -226167,7 +226295,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 7 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.733540+00:00",
+      "detected_at": "2026-08-08T03:21:39.797222+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Harbinger%20of%20the%20Seas",
@@ -226183,7 +226311,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 7 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.733466+00:00",
+      "detected_at": "2026-08-08T03:21:39.797114+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Castle%20Ardenvale",
@@ -226199,7 +226327,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 7 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.733257+00:00",
+      "detected_at": "2026-08-08T03:21:39.796790+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Mystic%20Gate",
@@ -226215,7 +226343,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 7 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.733173+00:00",
+      "detected_at": "2026-08-08T03:21:39.796670+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Kozilek%27s%20Return",
@@ -226231,7 +226359,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 7 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.733093+00:00",
+      "detected_at": "2026-08-08T03:21:39.796550+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Indatha%20Triome",
@@ -226247,7 +226375,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 7 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.732976+00:00",
+      "detected_at": "2026-08-08T03:21:39.796375+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Territorial%20Kavu",
@@ -226263,7 +226391,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 7 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.732895+00:00",
+      "detected_at": "2026-08-08T03:21:39.796256+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Sunbaked%20Canyon",
@@ -226279,7 +226407,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 7 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.732854+00:00",
+      "detected_at": "2026-08-08T03:21:39.796202+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Stormscale%20Scion",
@@ -226295,7 +226423,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 8 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.732773+00:00",
+      "detected_at": "2026-08-08T03:21:39.796082+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Elder%20Gargaroth",
@@ -226311,7 +226439,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 8 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.732690+00:00",
+      "detected_at": "2026-08-08T03:21:39.795962+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Culling%20Ritual",
@@ -226327,7 +226455,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 8 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.732577+00:00",
+      "detected_at": "2026-08-08T03:21:39.795787+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Vesuva",
@@ -226343,7 +226471,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 8 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.732447+00:00",
+      "detected_at": "2026-08-08T03:21:39.795588+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Fable%20of%20the%20Mirror-Breaker",
@@ -226359,7 +226487,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 8 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.732317+00:00",
+      "detected_at": "2026-08-08T03:21:39.795378+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Leyline%20Binding",
@@ -226375,7 +226503,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 9 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.732170+00:00",
+      "detected_at": "2026-08-08T03:21:39.795140+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=White%20Orchid%20Phantom",
@@ -226391,7 +226519,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 9 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.732103+00:00",
+      "detected_at": "2026-08-08T03:21:39.795061+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Fight%20Rigging",
@@ -226407,7 +226535,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 9 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.731974+00:00",
+      "detected_at": "2026-08-08T03:21:39.794941+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Fanatic%20of%20Rhonas",
@@ -226423,7 +226551,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 9 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.731853+00:00",
+      "detected_at": "2026-08-08T03:21:39.794804+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Mosswort%20Bridge",
@@ -226439,7 +226567,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 9 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.731723+00:00",
+      "detected_at": "2026-08-08T03:21:39.794594+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Slumbering%20Trudge",
@@ -226455,7 +226583,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 9 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.731581+00:00",
+      "detected_at": "2026-08-08T03:21:39.794360+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Wrath%20of%20God",
@@ -226471,7 +226599,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 9 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.731502+00:00",
+      "detected_at": "2026-08-08T03:21:39.794242+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Sunken%20Citadel",
@@ -226487,7 +226615,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 9 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.731422+00:00",
+      "detected_at": "2026-08-08T03:21:39.794124+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Boromir%2C%20Warden%20of%20the%20Tower",
@@ -226503,7 +226631,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 9 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.731347+00:00",
+      "detected_at": "2026-08-08T03:21:39.794013+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Skysovereign%2C%20Consul%20Flagship",
@@ -226519,7 +226647,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 9 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.731273+00:00",
+      "detected_at": "2026-08-08T03:21:39.793901+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Geier%20Reach%20Sanitarium",
@@ -226535,7 +226663,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 9 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.731195+00:00",
+      "detected_at": "2026-08-08T03:21:39.793786+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Day%27s%20Undoing",
@@ -226551,7 +226679,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 9 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.731120+00:00",
+      "detected_at": "2026-08-08T03:21:39.793669+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Monumental%20Henge",
@@ -226567,7 +226695,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 9 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.731042+00:00",
+      "detected_at": "2026-08-08T03:21:39.793552+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Scion%20of%20Draco",
@@ -226583,7 +226711,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 9 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.730935+00:00",
+      "detected_at": "2026-08-08T03:21:39.793419+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Leyline%20of%20the%20Guildpact",
@@ -226599,7 +226727,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 9 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.730865+00:00",
+      "detected_at": "2026-08-08T03:21:39.793307+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Scavenger%20Grounds",
@@ -226615,7 +226743,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 10 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.730511+00:00",
+      "detected_at": "2026-08-08T03:21:39.792772+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Artist%27s%20Talent",
@@ -226631,7 +226759,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 10 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.730432+00:00",
+      "detected_at": "2026-08-08T03:21:39.792655+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Raucous%20Theater",
@@ -226647,7 +226775,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 11 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.730254+00:00",
+      "detected_at": "2026-08-08T03:21:39.792370+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Overlord%20of%20the%20Balemurk",
@@ -226663,7 +226791,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 11 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.730179+00:00",
+      "detected_at": "2026-08-08T03:21:39.792258+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Emperor%20of%20Bones",
@@ -226679,7 +226807,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 11 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.730116+00:00",
+      "detected_at": "2026-08-08T03:21:39.792162+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Subtlety",
@@ -226695,7 +226823,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 11 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.730063+00:00",
+      "detected_at": "2026-08-08T03:21:39.792078+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Clarion%20Conqueror",
@@ -226711,7 +226839,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 11 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.729780+00:00",
+      "detected_at": "2026-08-08T03:21:39.791705+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Temple%20Garden",
@@ -226727,7 +226855,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 12 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.729616+00:00",
+      "detected_at": "2026-08-08T03:21:39.791467+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Cori%20Mountain%20Monastery",
@@ -226743,7 +226871,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 12 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.729585+00:00",
+      "detected_at": "2026-08-08T03:21:39.791420+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Avengers%20Disassembled",
@@ -226759,7 +226887,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 13 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.729189+00:00",
+      "detected_at": "2026-08-08T03:21:39.790811+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Teferi%2C%20Hero%20of%20Dominaria",
@@ -226775,7 +226903,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 13 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.729136+00:00",
+      "detected_at": "2026-08-08T03:21:39.790736+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Consult%20the%20Star%20Charts",
@@ -226791,7 +226919,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 13 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.729064+00:00",
+      "detected_at": "2026-08-08T03:21:39.790629+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Blood%20Crypt",
@@ -226807,7 +226935,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 14 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.729003+00:00",
+      "detected_at": "2026-08-08T03:21:39.790555+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Oblivion%20Stone",
@@ -226823,7 +226951,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 14 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.728927+00:00",
+      "detected_at": "2026-08-08T03:21:39.790426+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Elesh%20Norn%2C%20Grand%20Cenobite",
@@ -226839,7 +226967,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 14 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.728779+00:00",
+      "detected_at": "2026-08-08T03:21:39.790206+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Eldritch%20Evolution",
@@ -226855,7 +226983,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 14 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.728634+00:00",
+      "detected_at": "2026-08-08T03:21:39.789964+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Allosaurus%20Rider",
@@ -226871,7 +226999,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 14 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.728558+00:00",
+      "detected_at": "2026-08-08T03:21:39.789851+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Ureni%2C%20the%20Song%20Unending",
@@ -226887,7 +227015,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 14 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.728489+00:00",
+      "detected_at": "2026-08-08T03:21:39.789739+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Xenagos%2C%20God%20of%20Revels",
@@ -226903,7 +227031,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 14 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.728415+00:00",
+      "detected_at": "2026-08-08T03:21:39.789626+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Ghalta%2C%20Stampede%20Tyrant",
@@ -226919,7 +227047,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 14 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.728255+00:00",
+      "detected_at": "2026-08-08T03:21:39.789374+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Isochron%20Scepter",
@@ -226935,7 +227063,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 14 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.728124+00:00",
+      "detected_at": "2026-08-08T03:21:39.789170+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Drannith%20Magistrate",
@@ -226951,7 +227079,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 15 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.728030+00:00",
+      "detected_at": "2026-08-08T03:21:39.789073+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Abstergo%20Entertainment",
@@ -226967,7 +227095,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 15 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.727807+00:00",
+      "detected_at": "2026-08-08T03:21:39.788809+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Supreme%20Verdict",
@@ -226983,7 +227111,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 16 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.727532+00:00",
+      "detected_at": "2026-08-08T03:21:39.788291+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Erode",
@@ -226999,7 +227127,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 16 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.727454+00:00",
+      "detected_at": "2026-08-08T03:21:39.788157+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Overgrown%20Tomb",
@@ -227015,7 +227143,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 16 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.727413+00:00",
+      "detected_at": "2026-08-08T03:21:39.788098+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Haliya%2C%20Guided%20by%20Light",
@@ -227031,7 +227159,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 16 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.727313+00:00",
+      "detected_at": "2026-08-08T03:21:39.787941+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Wish",
@@ -227047,7 +227175,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 16 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.727282+00:00",
+      "detected_at": "2026-08-08T03:21:39.787889+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Valakut%20Awakening",
@@ -227063,7 +227191,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 16 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.727242+00:00",
+      "detected_at": "2026-08-08T03:21:39.787835+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Ruby%20Medallion",
@@ -227079,7 +227207,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 16 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.727181+00:00",
+      "detected_at": "2026-08-08T03:21:39.787735+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Ral%2C%20Monsoon%20Mage",
@@ -227095,7 +227223,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 18 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.726947+00:00",
+      "detected_at": "2026-08-08T03:21:39.787375+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Hurkyl%27s%20Recall",
@@ -227111,7 +227239,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 19 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.726772+00:00",
+      "detected_at": "2026-08-08T03:21:39.787101+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Brotherhood%27s%20End",
@@ -227127,7 +227255,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 20 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.726680+00:00",
+      "detected_at": "2026-08-08T03:21:39.786960+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Kaheera%2C%20the%20Orphanguard",
@@ -227143,7 +227271,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 20 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.726581+00:00",
+      "detected_at": "2026-08-08T03:21:39.786809+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Delighted%20Halfling",
@@ -227159,7 +227287,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 21 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.726505+00:00",
+      "detected_at": "2026-08-08T03:21:39.786697+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Wistfulness",
@@ -227175,7 +227303,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 21 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.726445+00:00",
+      "detected_at": "2026-08-08T03:21:39.786605+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Pact%20of%20Negation",
@@ -227191,7 +227319,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 22 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.726374+00:00",
+      "detected_at": "2026-08-08T03:21:39.786475+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Ulamog%2C%20the%20Ceaseless%20Hunger",
@@ -227207,7 +227335,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 22 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.726301+00:00",
+      "detected_at": "2026-08-08T03:21:39.786365+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Strix%20Serenade",
@@ -227223,7 +227351,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 24 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.725944+00:00",
+      "detected_at": "2026-08-08T03:21:39.785852+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=All%20Is%20Dust",
@@ -227239,7 +227367,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 24 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.725865+00:00",
+      "detected_at": "2026-08-08T03:21:39.785724+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Arcbound%20Ravager",
@@ -227255,7 +227383,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 25 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.725666+00:00",
+      "detected_at": "2026-08-08T03:21:39.785284+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Pest%20Control",
@@ -227271,7 +227399,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 25 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.725598+00:00",
+      "detected_at": "2026-08-08T03:21:39.785174+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Mirrorpool",
@@ -227287,7 +227415,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 25 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.725526+00:00",
+      "detected_at": "2026-08-08T03:21:39.785064+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Cultivator%20Colossus",
@@ -227303,7 +227431,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 25 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.725453+00:00",
+      "detected_at": "2026-08-08T03:21:39.784955+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Hanweir%20Battlements",
@@ -227319,7 +227447,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 25 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.725344+00:00",
+      "detected_at": "2026-08-08T03:21:39.784790+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Primeval%20Titan",
@@ -227335,7 +227463,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 25 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.725129+00:00",
+      "detected_at": "2026-08-08T03:21:39.784432+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Amulet%20of%20Vigor",
@@ -227351,7 +227479,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 25 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.725055+00:00",
+      "detected_at": "2026-08-08T03:21:39.784320+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Tolaria%20West",
@@ -227367,7 +227495,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 25 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.724952+00:00",
+      "detected_at": "2026-08-08T03:21:39.784208+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Scapeshift",
@@ -227383,7 +227511,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 25 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.724814+00:00",
+      "detected_at": "2026-08-08T03:21:39.783991+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Echoing%20Deeps",
@@ -227399,7 +227527,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 26 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.724706+00:00",
+      "detected_at": "2026-08-08T03:21:39.783829+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Superior%20Spider-Man",
@@ -227415,7 +227543,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 26 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.724610+00:00",
+      "detected_at": "2026-08-08T03:21:39.783670+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Cori-Steel%20Cutter",
@@ -227431,7 +227559,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 27 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.724527+00:00",
+      "detected_at": "2026-08-08T03:21:39.783545+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=The%20Stone%20Brain",
@@ -227447,7 +227575,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 27 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.724388+00:00",
+      "detected_at": "2026-08-08T03:21:39.783322+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Verdant%20Catacombs",
@@ -227463,7 +227591,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 28 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.724345+00:00",
+      "detected_at": "2026-08-08T03:21:39.783260+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Hedge%20Maze",
@@ -227479,7 +227607,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 28 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.724235+00:00",
+      "detected_at": "2026-08-08T03:21:39.783098+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Swan%20Song",
@@ -227495,7 +227623,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 28 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.724203+00:00",
+      "detected_at": "2026-08-08T03:21:39.783057+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Collector%20Ouphe",
@@ -227511,7 +227639,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 30 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.724067+00:00",
+      "detected_at": "2026-08-08T03:21:39.782819+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Extinguisher%20Battleship",
@@ -227527,7 +227655,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 30 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.723991+00:00",
+      "detected_at": "2026-08-08T03:21:39.782693+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Cityscape%20Leveler",
@@ -227543,7 +227671,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 32 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.723930+00:00",
+      "detected_at": "2026-08-08T03:21:39.782557+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=The%20Filigree%20Sylex",
@@ -227559,7 +227687,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 32 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.723828+00:00",
+      "detected_at": "2026-08-08T03:21:39.782348+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Six",
@@ -227575,7 +227703,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 32 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.723689+00:00",
+      "detected_at": "2026-08-08T03:21:39.782161+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=The%20Mycosynth%20Gardens",
@@ -227591,7 +227719,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 32 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.723623+00:00",
+      "detected_at": "2026-08-08T03:21:39.782056+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Past%20in%20Flames",
@@ -227607,7 +227735,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 33 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.723584+00:00",
+      "detected_at": "2026-08-08T03:21:39.782004+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Goryo%27s%20Vengeance",
@@ -227623,7 +227751,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 33 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.723443+00:00",
+      "detected_at": "2026-08-08T03:21:39.781793+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Shifting%20Woodland",
@@ -227639,7 +227767,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 33 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.723375+00:00",
+      "detected_at": "2026-08-08T03:21:39.781684+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Commercial%20District",
@@ -227655,7 +227783,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 34 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.723247+00:00",
+      "detected_at": "2026-08-08T03:21:39.781478+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Otawara%2C%20Soaring%20City",
@@ -227671,7 +227799,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 35 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.722980+00:00",
+      "detected_at": "2026-08-08T03:21:39.781085+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Endurance",
@@ -227687,7 +227815,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 35 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.722918+00:00",
+      "detected_at": "2026-08-08T03:21:39.780993+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Torpor%20Orb",
@@ -227703,7 +227831,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 36 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.722873+00:00",
+      "detected_at": "2026-08-08T03:21:39.780919+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Dryad%20Arbor",
@@ -227719,7 +227847,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 37 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.722760+00:00",
+      "detected_at": "2026-08-08T03:21:39.780744+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Ensnaring%20Bridge",
@@ -227735,7 +227863,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 37 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-08T01:16:59.722690+00:00",
+      "detected_at": "2026-08-08T03:21:39.780636+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Karn%2C%20the%20Great%20Creator",
