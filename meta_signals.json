@@ -1,5 +1,31 @@
 [
   {
+    "name": "Sowing Mycospawn",
+    "format": "modern",
+    "rarity": "rare",
+    "pct_of_decks": 11,
+    "pct_change": 11,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-08-08T06:29:18.573257+00:00",
+    "url": "https://www.mtggoldfish.com/price/modern-horizons-3/170/sowing-mycospawn#paper",
+    "summary": "Nouvelle entrée en modern : 11% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Ral, Crackling Wit",
+    "format": "pioneer",
+    "rarity": "mythic",
+    "pct_of_decks": 12,
+    "pct_change": 12,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-08-08T06:29:18.573257+00:00",
+    "url": "https://www.mtggoldfish.com/price/bloomburrow/230/ral-crackling-wit#paper",
+    "summary": "Nouvelle entrée en pioneer : 12% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Nethergoyf",
     "format": "legacy",
     "rarity": "mythic",
