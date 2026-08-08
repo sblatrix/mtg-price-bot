@@ -1,5 +1,31 @@
 [
   {
+    "name": "Smaug the Magnificent",
+    "expansion": "The Hobbit",
+    "finish": "Foil",
+    "language": "en",
+    "price_paid": 200.0,
+    "ref_price": 294.31,
+    "discount_pct": 32.0,
+    "confident": false,
+    "seller_country": "FR",
+    "created_at": "2026-08-08T13:56:05.300Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/the-hobbit/card/hob-smaug-the-magnificent-229-mythic"
+  },
+  {
+    "name": "Brood Birthing",
+    "expansion": "Rise of the Eldrazi",
+    "finish": "Foil",
+    "language": "fr",
+    "price_paid": 4.21,
+    "ref_price": 5.64,
+    "discount_pct": 25.4,
+    "confident": false,
+    "seller_country": "FR",
+    "created_at": "2026-08-08T14:09:41.478Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/rise-of-the-eldrazi/card/roe-brood-birthing-138-common"
+  },
+  {
     "name": "Ajani Goldmane",
     "expansion": "Lorwyn",
     "finish": "Standard",
@@ -1272,31 +1298,5 @@
     "seller_country": "US",
     "created_at": "2026-08-06T00:56:31.855Z",
     "url": "https://cardnexus.com/fr/explore/mtg/foundations/card/fdn-blasphemous-edict-57-rare"
-  },
-  {
-    "name": "Lorehold, the Historian",
-    "expansion": "Secrets of Strixhaven",
-    "finish": "Foil",
-    "language": "en",
-    "price_paid": 1.86,
-    "ref_price": 2.98,
-    "discount_pct": 37.6,
-    "confident": false,
-    "seller_country": "US",
-    "created_at": "2026-08-06T00:56:31.855Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/secrets-of-strixhaven/card/sos-lorehold-the-historian-201-mythic"
-  },
-  {
-    "name": "Ebondeath, Dracolich",
-    "expansion": "Adventures in the Forgotten Realms",
-    "finish": "Foil",
-    "language": "en",
-    "price_paid": 5.23,
-    "ref_price": 9.26,
-    "discount_pct": 43.5,
-    "confident": false,
-    "seller_country": "US",
-    "created_at": "2026-08-06T00:56:31.855Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/adventures-in-the-forgotten-realms/card/afr-ebondeath-dracolich-292-mythic"
   }
 ]

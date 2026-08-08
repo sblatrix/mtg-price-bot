@@ -4015,5 +4015,27 @@
     "finishes": [
       "Standard"
     ]
+  },
+  "68502c2e59fa72400954cb05": {
+    "name": "Brood Birthing",
+    "slug": "roe-brood-birthing-138-common",
+    "nameSlug": "brood-birthing",
+    "expansion": "Rise of the Eldrazi",
+    "expansionSlug": "rise-of-the-eldrazi",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6a203ae13c32f48d1fce6003": {
+    "name": "Smaug the Magnificent",
+    "slug": "hob-smaug-the-magnificent-229-mythic",
+    "nameSlug": "smaug-the-magnificent",
+    "expansion": "The Hobbit",
+    "expansionSlug": "the-hobbit",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
   }
 }
