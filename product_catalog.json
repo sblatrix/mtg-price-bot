@@ -3995,5 +3995,25 @@
     "finishes": [
       "Standard"
     ]
+  },
+  "68502c2d59fa72400954c38f": {
+    "name": "Bösium Strip",
+    "slug": "wth-bosium-strip-147-rare",
+    "nameSlug": "bosium-strip",
+    "expansion": "Weatherlight",
+    "expansionSlug": "weatherlight",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "685030bf59fa724009562a14": {
+    "name": "Snake Basket",
+    "slug": "vis-snake-basket-155-rare",
+    "nameSlug": "snake-basket",
+    "expansion": "Visions",
+    "expansionSlug": "visions",
+    "finishes": [
+      "Standard"
+    ]
   }
 }
