@@ -4,6 +4,19 @@
     "expansion": "The Hobbit Commander",
     "finish": "Standard",
     "language": "en",
+    "price_paid": 204.22,
+    "ref_price": 259,
+    "discount_pct": 21.2,
+    "confident": true,
+    "seller_country": "GB",
+    "created_at": "2026-08-08T21:11:54.939Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/the-hobbit-commander/card/hoc-the-reaver-cleaver-94-mythic"
+  },
+  {
+    "name": "The Reaver Cleaver",
+    "expansion": "The Hobbit Commander",
+    "finish": "Standard",
+    "language": "en",
     "price_paid": 116.7,
     "ref_price": 259,
     "discount_pct": 54.9,
@@ -1285,18 +1298,5 @@
     "seller_country": "US",
     "created_at": "2026-08-06T00:56:31.855Z",
     "url": "https://cardnexus.com/fr/explore/mtg/edge-of-eternities/card/eoe-quantum-riddler-72-mythic"
-  },
-  {
-    "name": "Archaeomancer",
-    "expansion": "Special Guests",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 2.28,
-    "ref_price": 3.55,
-    "discount_pct": 35.8,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-08-06T00:56:31.855Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/special-guests/card/spg-archaeomancer-149-mythic"
   }
 ]
