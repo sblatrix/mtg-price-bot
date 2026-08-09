@@ -4,6 +4,19 @@
     "expansion": "The Hobbit Commander",
     "finish": "Standard",
     "language": "en",
+    "price_paid": 200.0,
+    "ref_price": 259,
+    "discount_pct": 22.8,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-08-08T23:42:35.330Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/the-hobbit-commander/card/hoc-the-reaver-cleaver-94-mythic"
+  },
+  {
+    "name": "The Reaver Cleaver",
+    "expansion": "The Hobbit Commander",
+    "finish": "Standard",
+    "language": "en",
     "price_paid": 204.22,
     "ref_price": 259,
     "discount_pct": 21.2,
@@ -1285,18 +1298,5 @@
     "seller_country": "US",
     "created_at": "2026-08-06T00:56:31.855Z",
     "url": "https://cardnexus.com/fr/explore/mtg/secrets-of-strixhaven-commander/card/soc-stensian-sanguinist-exsanguinate-78-rare"
-  },
-  {
-    "name": "Quantum Riddler",
-    "expansion": "Edge of Eternities",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 32.34,
-    "ref_price": 48.52,
-    "discount_pct": 33.3,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-08-06T00:56:31.855Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/edge-of-eternities/card/eoe-quantum-riddler-72-mythic"
   }
 ]
