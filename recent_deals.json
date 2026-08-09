@@ -1,5 +1,18 @@
 [
   {
+    "name": "Petrified Field",
+    "expansion": "Edge of Eternities: Stellar Sights",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 1.99,
+    "ref_price": 2.79,
+    "discount_pct": 28.7,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-08-09T09:34:27.223Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/edge-of-eternities-stellar-sights/card/eos-petrified-field-32-mythic"
+  },
+  {
     "name": "Sol'kanar the Swamp King",
     "expansion": "Legends",
     "finish": "Standard",
@@ -1285,18 +1298,5 @@
     "seller_country": "US",
     "created_at": "2026-08-06T16:45:27.201Z",
     "url": "https://cardnexus.com/fr/explore/mtg/tales-of-middle-earth-commander/card/ltc-olorins-searing-light-503-rare"
-  },
-  {
-    "name": "Kroxa, Titan of Death's Hunger",
-    "expansion": "Theros Beyond Death",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 2.33,
-    "ref_price": 3.33,
-    "discount_pct": 30.0,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-08-06T17:20:19.573Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/theros-beyond-death/card/thb-kroxa-titan-of-deaths-hunger-221-mythic"
   }
 ]
