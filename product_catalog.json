@@ -4191,5 +4191,37 @@
       "Standard",
       "Foil"
     ]
+  },
+  "6917ca38d4037523437420eb": {
+    "name": "Drannith Magistrate",
+    "slug": "tle-drannith-magistrate-2-mythic",
+    "nameSlug": "drannith-magistrate",
+    "expansion": "Avatar: The Last Airbender Eternal",
+    "expansionSlug": "avatar-the-last-airbender-eternal",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "685032e559fa724009569c8f": {
+    "name": "Xantid Swarm",
+    "slug": "scg-xantid-swarm-135-rare",
+    "nameSlug": "xantid-swarm",
+    "expansion": "Scourge",
+    "expansionSlug": "scourge",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c9659fa72400954ec94": {
+    "name": "Coat of Arms",
+    "slug": "9ed-coat-of-arms-291-rare",
+    "nameSlug": "coat-of-arms",
+    "expansion": "Ninth Edition",
+    "expansionSlug": "ninth-edition",
+    "finishes": [
+      "Standard"
+    ]
   }
 }
