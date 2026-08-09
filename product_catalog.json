@@ -4376,5 +4376,27 @@
       "Standard",
       "Foil"
     ]
+  },
+  "68502c9759fa72400954fad4": {
+    "name": "Collector Ouphe",
+    "slug": "mh1-collector-ouphe-158-rare",
+    "nameSlug": "collector-ouphe",
+    "expansion": "Modern Horizons",
+    "expansionSlug": "modern-horizons",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850322e59fa724009567931": {
+    "name": "Valakut Exploration",
+    "slug": "znr-valakut-exploration-175-rare",
+    "nameSlug": "valakut-exploration",
+    "expansion": "Zendikar Rising",
+    "expansionSlug": "zendikar-rising",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }

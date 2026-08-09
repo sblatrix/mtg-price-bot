@@ -1,5 +1,31 @@
 [
   {
+    "name": "Valakut Exploration",
+    "expansion": "Zendikar Rising",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 1.99,
+    "ref_price": 3.98,
+    "discount_pct": 50.0,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-08-09T16:24:05.682Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/zendikar-rising/card/znr-valakut-exploration-175-rare"
+  },
+  {
+    "name": "Collector Ouphe",
+    "expansion": "Modern Horizons",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 2.99,
+    "ref_price": 3.84,
+    "discount_pct": 22.1,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-08-09T16:25:22.065Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/modern-horizons/card/mh1-collector-ouphe-158-rare"
+  },
+  {
     "name": "Scourge of Kher Ridges",
     "expansion": "Future Sight",
     "finish": "Foil",
@@ -1272,31 +1298,5 @@
     "seller_country": "GB",
     "created_at": "2026-08-06T14:50:27.640Z",
     "url": "https://cardnexus.com/fr/explore/mtg/secrets-of-strixhaven/card/sos-resonating-lute-355-rare"
-  },
-  {
-    "name": "Famished Worldsire",
-    "expansion": "Edge of Eternities",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 2.33,
-    "ref_price": 3.75,
-    "discount_pct": 37.9,
-    "confident": true,
-    "seller_country": "GB",
-    "created_at": "2026-08-06T14:00:59.366Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/edge-of-eternities/card/eoe-famished-worldsire-182-mythic"
-  },
-  {
-    "name": "Weapons Manufacturing",
-    "expansion": "Edge of Eternities",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 2.63,
-    "ref_price": 4.04,
-    "discount_pct": 34.9,
-    "confident": true,
-    "seller_country": "GB",
-    "created_at": "2026-08-06T14:06:45.561Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/edge-of-eternities/card/eoe-weapons-manufacturing-311-rare"
   }
 ]
