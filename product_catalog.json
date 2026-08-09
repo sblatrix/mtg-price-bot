@@ -4125,5 +4125,27 @@
       "Foil",
       "Standard"
     ]
+  },
+  "6a622180b007987516ab0b08": {
+    "name": "Bilbo, Fellow Conspirator",
+    "slug": "hoc-bilbo-fellow-conspirator-4-rare",
+    "nameSlug": "bilbo-fellow-conspirator",
+    "expansion": "The Hobbit Commander",
+    "expansionSlug": "the-hobbit-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502d7a59fa7240095542eb": {
+    "name": "Generous Ent",
+    "slug": "ltr-generous-ent-169-common",
+    "nameSlug": "generous-ent",
+    "expansion": "The Lord of the Rings: Tales of Middle-earth",
+    "expansionSlug": "the-lord-of-the-rings-tales-of-middle-earth",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }

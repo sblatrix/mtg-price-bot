@@ -1,5 +1,31 @@
 [
   {
+    "name": "Generous Ent",
+    "expansion": "The Lord of the Rings: Tales of Middle-earth",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 1.8,
+    "ref_price": 2.27,
+    "discount_pct": 20.7,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-08-08T16:11:56.107Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/the-lord-of-the-rings-tales-of-middle-earth/card/ltr-generous-ent-169-common"
+  },
+  {
+    "name": "Bilbo, Fellow Conspirator",
+    "expansion": "The Hobbit Commander",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 6.05,
+    "ref_price": 13.34,
+    "discount_pct": 54.6,
+    "confident": true,
+    "seller_country": "GB",
+    "created_at": "2026-08-08T16:41:25.902Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/the-hobbit-commander/card/hoc-bilbo-fellow-conspirator-4-rare"
+  },
+  {
     "name": "The Reaver Cleaver",
     "expansion": "The Hobbit Commander",
     "finish": "Standard",
@@ -1272,31 +1298,5 @@
     "seller_country": "US",
     "created_at": "2026-08-06T00:56:31.855Z",
     "url": "https://cardnexus.com/fr/explore/mtg/avatar-the-last-airbender/card/tla-the-rise-of-sozin-fire-lord-sozin-117-mythic"
-  },
-  {
-    "name": "Superior Spider-Man",
-    "expansion": "Marvel's Spider-Man",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 2.06,
-    "ref_price": 2.84,
-    "discount_pct": 27.5,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-08-06T00:56:31.855Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/marvels-spider-man/card/spm-superior-spider-man-155-rare"
-  },
-  {
-    "name": "Stensian Sanguinist // Exsanguinate",
-    "expansion": "Secrets of Strixhaven Commander",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 4.5,
-    "ref_price": 6.67,
-    "discount_pct": 32.5,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-08-06T00:56:31.855Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/secrets-of-strixhaven-commander/card/soc-stensian-sanguinist-exsanguinate-78-rare"
   }
 ]
