@@ -4288,5 +4288,93 @@
     "finishes": [
       "Standard"
     ]
+  },
+  "68502e6d59fa724009559709": {
+    "name": "Karn Liberated",
+    "slug": "nph-karn-liberated-1-mythic",
+    "nameSlug": "karn-liberated",
+    "expansion": "New Phyrexia",
+    "expansionSlug": "new-phyrexia",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6850301759fa724009560c9f": {
+    "name": "Riftsweeper",
+    "slug": "fut-riftsweeper-136-uncommon",
+    "nameSlug": "riftsweeper",
+    "expansion": "Future Sight",
+    "expansionSlug": "future-sight",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502ef059fa72400955b8b1": {
+    "name": "Mountain",
+    "slug": "ody-mountain-346-common",
+    "nameSlug": "mountain",
+    "expansion": "Odyssey",
+    "expansionSlug": "odyssey",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502eef59fa72400955b731": {
+    "name": "Mountain",
+    "slug": "ody-mountain-344-common",
+    "nameSlug": "mountain",
+    "expansion": "Odyssey",
+    "expansionSlug": "odyssey",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850322d59fa724009566976": {
+    "name": "Underrealm Lich",
+    "slug": "grn-underrealm-lich-211-mythic",
+    "nameSlug": "underrealm-lich",
+    "expansion": "Guilds of Ravnica",
+    "expansionSlug": "guilds-of-ravnica",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502f7e59fa72400955e645": {
+    "name": "Phyrexian Obliterator",
+    "slug": "nph-phyrexian-obliterator-68-mythic",
+    "nameSlug": "phyrexian-obliterator",
+    "expansion": "New Phyrexia",
+    "expansionSlug": "new-phyrexia",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502e6c59fa724009558b98": {
+    "name": "Jin-Gitaxias, Core Augur",
+    "slug": "nph-jin-gitaxias-core-augur-37-mythic",
+    "nameSlug": "jin-gitaxias-core-augur",
+    "expansion": "New Phyrexia",
+    "expansionSlug": "new-phyrexia",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685030be59fa7240095627fa": {
+    "name": "Scourge of Kher Ridges",
+    "slug": "fut-scourge-of-kher-ridges-107-rare",
+    "nameSlug": "scourge-of-kher-ridges",
+    "expansion": "Future Sight",
+    "expansionSlug": "future-sight",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
