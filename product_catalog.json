@@ -4267,5 +4267,26 @@
       "Standard",
       "Foil"
     ]
+  },
+  "68502e6d59fa724009559542": {
+    "name": "Leyline of the Void",
+    "slug": "tsr-leyline-of-the-void-326-special",
+    "nameSlug": "leyline-of-the-void",
+    "expansion": "Time Spiral Remastered",
+    "expansionSlug": "time-spiral-remastered",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d7a59fa7240095539bd": {
+    "name": "Flusterstorm",
+    "slug": "cmd-flusterstorm-46-rare",
+    "nameSlug": "flusterstorm",
+    "expansion": "Commander 2011",
+    "expansionSlug": "commander-2011",
+    "finishes": [
+      "Standard"
+    ]
   }
 }
