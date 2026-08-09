@@ -4234,5 +4234,38 @@
       "Standard",
       "Foil"
     ]
+  },
+  "685030c059fa724009563917": {
+    "name": "Sokenzan, Crucible of Defiance",
+    "slug": "neo-sokenzan-crucible-of-defiance-276-rare",
+    "nameSlug": "sokenzan-crucible-of-defiance",
+    "expansion": "Kamigawa: Neon Dynasty",
+    "expansionSlug": "kamigawa-neon-dynasty",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d0559fa724009551742": {
+    "name": "Fabled Passage",
+    "slug": "eld-fabled-passage-244-rare",
+    "nameSlug": "fabled-passage",
+    "expansion": "Throne of Eldraine",
+    "expansionSlug": "throne-of-eldraine",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850322e59fa724009567935": {
+    "name": "Valakut Exploration",
+    "slug": "znr-valakut-exploration-303-rare",
+    "nameSlug": "valakut-exploration",
+    "expansion": "Zendikar Rising",
+    "expansionSlug": "zendikar-rising",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
