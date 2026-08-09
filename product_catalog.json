@@ -4147,5 +4147,49 @@
       "Standard",
       "Foil"
     ]
+  },
+  "68502d0659fa724009552956": {
+    "name": "Dragonlord Silumgar",
+    "slug": "dtk-dragonlord-silumgar-220-mythic",
+    "nameSlug": "dragonlord-silumgar",
+    "expansion": "Dragons of Tarkir",
+    "expansionSlug": "dragons-of-tarkir",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c9859fa7240095501ee": {
+    "name": "Contagion Engine",
+    "slug": "som-contagion-engine-145-rare",
+    "nameSlug": "contagion-engine",
+    "expansion": "Scars of Mirrodin",
+    "expansionSlug": "scars-of-mirrodin",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502bc759fa724009549bac": {
+    "name": "Aqueous Form",
+    "slug": "ths-aqueous-form-39-common",
+    "nameSlug": "aqueous-form",
+    "expansion": "Theros",
+    "expansionSlug": "theros",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502df259fa72400955685c": {
+    "name": "Guttural Response",
+    "slug": "shm-guttural-response-208-uncommon",
+    "nameSlug": "guttural-response",
+    "expansion": "Shadowmoor",
+    "expansionSlug": "shadowmoor",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
