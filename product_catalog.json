@@ -4519,5 +4519,27 @@
       "Foil",
       "Standard"
     ]
+  },
+  "6850317659fa724009566470": {
+    "name": "Spark Double",
+    "slug": "war-spark-double-68-rare",
+    "nameSlug": "spark-double",
+    "expansion": "War of the Spark",
+    "expansionSlug": "war-of-the-spark",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502f7f59fa72400955ecd7": {
+    "name": "Niv-Mizzet, Parun",
+    "slug": "grn-niv-mizzet-parun-192-rare",
+    "nameSlug": "niv-mizzet-parun",
+    "expansion": "Guilds of Ravnica",
+    "expansionSlug": "guilds-of-ravnica",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
