@@ -8266,5 +8266,37 @@
   "Silas Renn, Seeker Adept|": {
     "rarity": "mythic",
     "set": null
+  },
+  "Llanowar Elves|fdn": {
+    "rarity": "common",
+    "set": "fdn"
+  },
+  "Haywire Mite <019d4a1a-98db-70f6-acb7-d07dc7db4bb2>|soc": {
+    "rarity": null,
+    "set": "soc"
+  },
+  "Sentinel of the Nameless City|lci": {
+    "rarity": "rare",
+    "set": "lci"
+  },
+  "Thassa's Oracle|thb": {
+    "rarity": "rare",
+    "set": "thb"
+  },
+  "Thought Vessel|mb1": {
+    "rarity": null,
+    "set": "mb1"
+  },
+  "Rampant Growth|c16": {
+    "rarity": "common",
+    "set": "c16"
+  },
+  "Eternal Witness|ddj": {
+    "rarity": "uncommon",
+    "set": "ddj"
+  },
+  "Assassin's Trophy|ecc": {
+    "rarity": "rare",
+    "set": "ecc"
   }
 }

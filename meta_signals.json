@@ -1,5 +1,31 @@
 [
   {
+    "name": "Sentinel of the Nameless City",
+    "format": "pioneer",
+    "rarity": "rare",
+    "pct_of_decks": 12,
+    "pct_change": 12,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-08-10T07:02:37.010030+00:00",
+    "url": "https://www.mtggoldfish.com/price/lost-caverns-of-ixalan/211/sentinel-of-the-nameless-city#paper",
+    "summary": "Nouvelle entrée en pioneer : 12% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Thassa's Oracle",
+    "format": "legacy",
+    "rarity": "rare",
+    "pct_of_decks": 10,
+    "pct_change": 10,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-08-10T07:02:37.010030+00:00",
+    "url": "https://www.mtggoldfish.com/price/theros-beyond-death/73/thassas-oracle#paper",
+    "summary": "Nouvelle entrée en legacy : 10% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Roaring Furnace // Steaming Sauna",
     "format": "standard",
     "rarity": "rare",
