@@ -4453,5 +4453,27 @@
       "Foil",
       "Standard"
     ]
+  },
+  "6850323059fa724009568962": {
+    "name": "Thought-Knot Seer",
+    "slug": "ogw-thought-knot-seer-9-rare",
+    "nameSlug": "thought-knot-seer",
+    "expansion": "Oath of the Gatewatch",
+    "expansionSlug": "oath-of-the-gatewatch",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d7a59fa724009553f50": {
+    "name": "Gaddock Teeg",
+    "slug": "lrw-gaddock-teeg-248-rare",
+    "nameSlug": "gaddock-teeg",
+    "expansion": "Lorwyn",
+    "expansionSlug": "lorwyn",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }

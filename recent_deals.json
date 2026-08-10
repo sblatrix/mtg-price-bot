@@ -1,5 +1,44 @@
 [
   {
+    "name": "Gaddock Teeg",
+    "expansion": "Lorwyn",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 0.99,
+    "ref_price": 2.04,
+    "discount_pct": 51.5,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-08-10T15:13:31.750Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/lorwyn/card/lrw-gaddock-teeg-248-rare"
+  },
+  {
+    "name": "Thought-Knot Seer",
+    "expansion": "Oath of the Gatewatch",
+    "finish": "Standard",
+    "language": "ru",
+    "price_paid": 2.49,
+    "ref_price": 3.35,
+    "discount_pct": 25.7,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-08-10T15:30:24.282Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/oath-of-the-gatewatch/card/ogw-thought-knot-seer-9-rare"
+  },
+  {
+    "name": "Valakut Exploration",
+    "expansion": "Zendikar Rising",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 2.99,
+    "ref_price": 4.31,
+    "discount_pct": 30.6,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-08-10T15:52:08.563Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/zendikar-rising/card/znr-valakut-exploration-303-rare"
+  },
+  {
     "name": "Black Widow, Agile Avenger",
     "expansion": "Marvel Super Heroes Commander",
     "finish": "Standard",
@@ -1259,44 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-08-07T17:29:42.416Z",
     "url": "https://cardnexus.com/fr/explore/mtg/foundations-promos/card/pfdn-abyssal-harvester-54s-rare"
-  },
-  {
-    "name": "Very Cryptic Command",
-    "expansion": "Unstable",
-    "finish": "Foil",
-    "language": "en",
-    "price_paid": 4.75,
-    "ref_price": 6.88,
-    "discount_pct": 31.0,
-    "confident": false,
-    "seller_country": "FR",
-    "created_at": "2026-08-07T17:30:08.318Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/unstable/card/ust-very-cryptic-command-49c-rare"
-  },
-  {
-    "name": "Mana Clash",
-    "expansion": "The Dark",
-    "finish": "Standard",
-    "language": "it",
-    "price_paid": 1.75,
-    "ref_price": 3.22,
-    "discount_pct": 45.7,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-08-07T17:30:48.592Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/the-dark/card/drk-mana-clash-72-rare"
-  },
-  {
-    "name": "Clarion Conqueror",
-    "expansion": "Tarkir: Dragonstorm",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 1.16,
-    "ref_price": 2.37,
-    "discount_pct": 51.1,
-    "confident": true,
-    "seller_country": "GB",
-    "created_at": "2026-08-07T13:51:26.961Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/tarkir-dragonstorm/card/tdm-clarion-conqueror-5-rare"
   }
 ]
