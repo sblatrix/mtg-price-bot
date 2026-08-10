@@ -4398,5 +4398,60 @@
       "Standard",
       "Foil"
     ]
+  },
+  "69ae3413b8aecc4cebe7ed91": {
+    "name": "The Ooze",
+    "slug": "tmt-the-ooze-177-rare",
+    "nameSlug": "the-ooze",
+    "expansion": "Teenage Mutant Ninja Turtles",
+    "expansionSlug": "teenage-mutant-ninja-turtles",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "685030c159fa724009563bf4": {
+    "name": "Slickshot Show-Off",
+    "slug": "otj-slickshot-show-off-146-rare",
+    "nameSlug": "slickshot-show-off",
+    "expansion": "Outlaws of Thunder Junction",
+    "expansionSlug": "outlaws-of-thunder-junction",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6850301559fa72400955fd78": {
+    "name": "Rottenmouth Viper",
+    "slug": "blb-rottenmouth-viper-107-mythic",
+    "nameSlug": "rottenmouth-viper",
+    "expansion": "Bloomburrow",
+    "expansionSlug": "bloomburrow",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6a203ae13c32f48d1fce5fef": {
+    "name": "Bilbo, Thief in the Night",
+    "slug": "hob-bilbo-thief-in-the-night-33-mythic",
+    "nameSlug": "bilbo-thief-in-the-night",
+    "expansion": "The Hobbit",
+    "expansionSlug": "the-hobbit",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6a344933b36d3b3beffaa0f6": {
+    "name": "Black Widow, Agile Avenger",
+    "slug": "msc-black-widow-agile-avenger-77-rare",
+    "nameSlug": "black-widow-agile-avenger",
+    "expansion": "Marvel Super Heroes Commander",
+    "expansionSlug": "marvel-super-heroes-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
   }
 }
