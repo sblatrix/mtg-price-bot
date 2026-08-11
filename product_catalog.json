@@ -4585,5 +4585,16 @@
       "Foil",
       "Standard"
     ]
+  },
+  "6850317559fa724009565d14": {
+    "name": "Temporal Extortion",
+    "slug": "sld-temporal-extortion-1859-rare",
+    "nameSlug": "temporal-extortion",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
