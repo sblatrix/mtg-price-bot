@@ -4563,5 +4563,27 @@
       "Standard",
       "Foil"
     ]
+  },
+  "6a622181d9984e0e2efb8a1c": {
+    "name": "The Eagles Are Coming!",
+    "slug": "hob-the-eagles-are-comingexclamation-12-rare",
+    "nameSlug": "the-eagles-are-comingexclamation",
+    "expansion": "The Hobbit",
+    "expansionSlug": "the-hobbit",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6a7097dd93e37c4409f45999": {
+    "name": "Belladonna Took",
+    "slug": "hob-belladonna-took-4-rare",
+    "nameSlug": "belladonna-took",
+    "expansion": "The Hobbit",
+    "expansionSlug": "the-hobbit",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
   }
 }

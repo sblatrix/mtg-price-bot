@@ -1,5 +1,31 @@
 [
   {
+    "name": "Belladonna Took",
+    "expansion": "The Hobbit",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 1.5,
+    "ref_price": 2.55,
+    "discount_pct": 41.2,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-08-11T16:01:50.996Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/the-hobbit/card/hob-belladonna-took-4-rare"
+  },
+  {
+    "name": "The Eagles Are Coming!",
+    "expansion": "The Hobbit",
+    "finish": "Foil",
+    "language": "en",
+    "price_paid": 1.75,
+    "ref_price": 2.25,
+    "discount_pct": 22.2,
+    "confident": false,
+    "seller_country": "GB",
+    "created_at": "2026-08-11T16:10:51.093Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/the-hobbit/card/hob-the-eagles-are-comingexclamation-12-rare"
+  },
+  {
     "name": "Vexing Beetle",
     "expansion": "Legions",
     "finish": "Foil",
@@ -1272,31 +1298,5 @@
     "seller_country": "GB",
     "created_at": "2026-08-06T14:04:56.724Z",
     "url": "https://cardnexus.com/fr/explore/mtg/edge-of-eternities/card/eoe-sothera-the-supervoid-115-mythic"
-  },
-  {
-    "name": "Shapeshifter's Marrow",
-    "expansion": "Future Sight",
-    "finish": "Foil",
-    "language": "it",
-    "price_paid": 1.0,
-    "ref_price": 2.05,
-    "discount_pct": 51.2,
-    "confident": false,
-    "seller_country": "FR",
-    "created_at": "2026-08-07T18:23:21.998Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/future-sight/card/fut-shapeshifters-marrow-58-rare"
-  },
-  {
-    "name": "Power Depot",
-    "expansion": "Edge of Eternities: Stellar Sights",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 2.8,
-    "ref_price": 3.5,
-    "discount_pct": 20.0,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-08-07T22:00:11.018Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/edge-of-eternities-stellar-sights/card/eos-power-depot-79-rare"
   }
 ]
