@@ -1,5 +1,31 @@
 [
   {
+    "name": "Trinisphere",
+    "format": "modern",
+    "rarity": "mythic",
+    "pct_of_decks": 16,
+    "pct_change": 16,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-08-11T06:41:53.113564+00:00",
+    "url": "https://www.mtggoldfish.com/price/double-masters/303/trinisphere#paper",
+    "summary": "Nouvelle entrée en modern : 16% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "March of Otherworldly Light",
+    "format": "modern",
+    "rarity": "rare",
+    "pct_of_decks": 11,
+    "pct_change": 11,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-08-11T06:41:53.113564+00:00",
+    "url": "https://www.mtggoldfish.com/price/kamigawa-neon-dynasty/28/march-of-otherworldly-light#paper",
+    "summary": "Nouvelle entrée en modern : 11% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Sentinel of the Nameless City",
     "format": "pioneer",
     "rarity": "rare",
