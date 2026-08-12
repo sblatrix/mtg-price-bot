@@ -4607,5 +4607,26 @@
       "Foil",
       "Standard"
     ]
+  },
+  "6a7b05ae7c7cbebd0be709a2": {
+    "name": "Smaug, Wicked Worm",
+    "slug": "hob-smaug-wicked-worm-164-rare",
+    "nameSlug": "smaug-wicked-worm",
+    "expansion": "The Hobbit",
+    "expansionSlug": "the-hobbit",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6a7097de8e7636d8f35c8f0d": {
+    "name": "Iron Hills Blacksmith",
+    "slug": "hob-iron-hills-blacksmith-252-uncommon",
+    "nameSlug": "iron-hills-blacksmith",
+    "expansion": "The Hobbit",
+    "expansionSlug": "the-hobbit",
+    "finishes": [
+      "Foil"
+    ]
   }
 }
