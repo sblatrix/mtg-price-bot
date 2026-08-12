@@ -4639,5 +4639,60 @@
       "Foil",
       "Standard"
     ]
+  },
+  "68502c2d59fa72400954bd9c": {
+    "name": "Birthing Pod",
+    "slug": "slc-birthing-pod-2011-rare",
+    "nameSlug": "birthing-pod",
+    "expansion": "Secret Lair Countdown",
+    "expansionSlug": "secret-lair-countdown",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d7a59fa724009553e5d": {
+    "name": "Grand Arbiter Augustin IV",
+    "slug": "2x2-grand-arbiter-augustin-iv-379-rare",
+    "nameSlug": "grand-arbiter-augustin-iv",
+    "expansion": "Double Masters 2022",
+    "expansionSlug": "double-masters-2022",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502f7e59fa72400955e499": {
+    "name": "Panharmonicon",
+    "slug": "2x2-panharmonicon-395-rare",
+    "nameSlug": "panharmonicon",
+    "expansion": "Double Masters 2022",
+    "expansionSlug": "double-masters-2022",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685032e559fa7240095699b4": {
+    "name": "Weather the Storm",
+    "slug": "sta-weather-the-storm-121-rare",
+    "nameSlug": "weather-the-storm",
+    "expansion": "Strixhaven Mystical Archive",
+    "expansionSlug": "strixhaven-mystical-archive",
+    "finishes": [
+      "Standard",
+      "Foil",
+      "Etched"
+    ]
+  },
+  "685030be59fa724009562455": {
+    "name": "Silence",
+    "slug": "sld-silence-7003-rare",
+    "nameSlug": "silence",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil"
+    ]
   }
 }
