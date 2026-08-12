@@ -1,5 +1,18 @@
 [
   {
+    "name": "Bilbo's Gambit",
+    "expansion": "The Hobbit",
+    "finish": "Foil",
+    "language": "en",
+    "price_paid": 3.02,
+    "ref_price": 4.8,
+    "discount_pct": 37.1,
+    "confident": false,
+    "seller_country": "GB",
+    "created_at": "2026-08-12T05:01:44.246Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/the-hobbit/card/hob-bilbos-gambit-5-rare"
+  },
+  {
     "name": "Iron Hills Blacksmith",
     "expansion": "The Hobbit",
     "finish": "Foil",
@@ -1285,18 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-08-08T13:26:25.458Z",
     "url": "https://cardnexus.com/fr/explore/mtg/unstable/card/ust-knight-of-the-kitchen-sink-12a-uncommon"
-  },
-  {
-    "name": "Abyssal Harvester",
-    "expansion": "Foundations Promos",
-    "finish": "Foil",
-    "language": "fr",
-    "price_paid": 1.35,
-    "ref_price": 2.65,
-    "discount_pct": 49.1,
-    "confident": false,
-    "seller_country": "FR",
-    "created_at": "2026-08-08T13:27:03.787Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/foundations-promos/card/pfdn-abyssal-harvester-54s-rare"
   }
 ]
