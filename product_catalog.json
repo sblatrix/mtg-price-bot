@@ -4748,5 +4748,49 @@
       "Standard",
       "Foil"
     ]
+  },
+  "68502e6d59fa72400955920b": {
+    "name": "Kytheon, Hero of Akros // Gideon, Battle-Forged",
+    "slug": "ori-kytheon-hero-of-akros-gideon-battle-forged-23-mythic",
+    "nameSlug": "kytheon-hero-of-akros-gideon-battle-forged",
+    "expansion": "Magic Origins",
+    "expansionSlug": "magic-origins",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850301559fa72400955f93d": {
+    "name": "Ramunap Excavator",
+    "slug": "hou-ramunap-excavator-129-rare",
+    "nameSlug": "ramunap-excavator",
+    "expansion": "Hour of Devastation",
+    "expansionSlug": "hour-of-devastation",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850301459fa72400955f1dd": {
+    "name": "Razorverge Thicket",
+    "slug": "zne-razorverge-thicket-15-mythic",
+    "nameSlug": "razorverge-thicket",
+    "expansion": "Zendikar Rising Expeditions",
+    "expansionSlug": "zendikar-rising-expeditions",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502f7c59fa72400955d0be": {
+    "name": "Oswald Fiddlebender",
+    "slug": "afr-oswald-fiddlebender-28-rare",
+    "nameSlug": "oswald-fiddlebender",
+    "expansion": "Adventures in the Forgotten Realms",
+    "expansionSlug": "adventures-in-the-forgotten-realms",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
