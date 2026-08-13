@@ -1,5 +1,18 @@
 [
   {
+    "name": "Anje Falkenrath",
+    "expansion": "Commander 2019",
+    "finish": "Foil",
+    "language": "fr",
+    "price_paid": 1.0,
+    "ref_price": 2.02,
+    "discount_pct": 50.5,
+    "confident": false,
+    "seller_country": "FR",
+    "created_at": "2026-08-13T20:23:07.204Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/commander-2019/card/c19-anje-falkenrath-37-mythic"
+  },
+  {
     "name": "Oswald Fiddlebender",
     "expansion": "Adventures in the Forgotten Realms",
     "finish": "Standard",
@@ -1285,18 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-08-09T07:34:01.431Z",
     "url": "https://cardnexus.com/fr/explore/mtg/scars-of-mirrodin/card/som-contagion-engine-145-rare"
-  },
-  {
-    "name": "Dragonlord Silumgar",
-    "expansion": "Dragons of Tarkir",
-    "finish": "Standard",
-    "language": "ja",
-    "price_paid": 2.14,
-    "ref_price": 2.85,
-    "discount_pct": 24.9,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-08-09T07:36:03.337Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/dragons-of-tarkir/card/dtk-dragonlord-silumgar-220-mythic"
   }
 ]
