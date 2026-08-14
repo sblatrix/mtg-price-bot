@@ -1,5 +1,44 @@
 [
   {
+    "name": "Varragoth, Bloodsky Sire",
+    "expansion": "Kaldheim",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 2.0,
+    "ref_price": 3.28,
+    "discount_pct": 39.0,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-08-14T11:29:20.210Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/kaldheim/card/khm-varragoth-bloodsky-sire-115-rare"
+  },
+  {
+    "name": "Phyrexian Swarmlord",
+    "expansion": "New Phyrexia",
+    "finish": "Foil",
+    "language": "fr",
+    "price_paid": 2.0,
+    "ref_price": 2.74,
+    "discount_pct": 27.0,
+    "confident": false,
+    "seller_country": "FR",
+    "created_at": "2026-08-14T11:29:48.383Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/new-phyrexia/card/nph-phyrexian-swarmlord-119-rare"
+  },
+  {
+    "name": "Unholy Grotto",
+    "expansion": "Onslaught",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 2.5,
+    "ref_price": 4.06,
+    "discount_pct": 38.4,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-08-14T11:30:00.355Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/onslaught/card/ons-unholy-grotto-327-rare"
+  },
+  {
     "name": "Bard, King of Dale",
     "expansion": "The Hobbit",
     "finish": "Standard",
@@ -1259,44 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-08-09T07:15:18.663Z",
     "url": "https://cardnexus.com/fr/explore/mtg/foundations-promos/card/pfdn-abyssal-harvester-54s-rare"
-  },
-  {
-    "name": "Very Cryptic Command",
-    "expansion": "Unstable",
-    "finish": "Foil",
-    "language": "en",
-    "price_paid": 4.75,
-    "ref_price": 6.88,
-    "discount_pct": 31.0,
-    "confident": false,
-    "seller_country": "FR",
-    "created_at": "2026-08-09T07:15:21.880Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/unstable/card/ust-very-cryptic-command-49c-rare"
-  },
-  {
-    "name": "Shapeshifter's Marrow",
-    "expansion": "Future Sight",
-    "finish": "Foil",
-    "language": "it",
-    "price_paid": 1.0,
-    "ref_price": 2.05,
-    "discount_pct": 51.2,
-    "confident": false,
-    "seller_country": "FR",
-    "created_at": "2026-08-09T07:15:22.571Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/future-sight/card/fut-shapeshifters-marrow-58-rare"
-  },
-  {
-    "name": "Mana Clash",
-    "expansion": "The Dark",
-    "finish": "Standard",
-    "language": "it",
-    "price_paid": 1.75,
-    "ref_price": 3.3,
-    "discount_pct": 47.0,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-08-09T07:16:02.576Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/the-dark/card/drk-mana-clash-72-rare"
   }
 ]
