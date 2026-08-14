@@ -4845,5 +4845,55 @@
       "Standard",
       "Foil"
     ]
+  },
+  "69837106345cd38d92705f89": {
+    "name": "The Lost Caverns of Ixalan Draft Booster Pack",
+    "slug": "lci-the-lost-caverns-of-ixalan-draft-booster-pack",
+    "nameSlug": "the-lost-caverns-of-ixalan-draft-booster-pack",
+    "expansion": "The Lost Caverns of Ixalan",
+    "expansionSlug": "the-lost-caverns-of-ixalan",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "69837106345cd38d92705f8b": {
+    "name": "The Lost Caverns of Ixalan Set Booster Pack",
+    "slug": "lci-the-lost-caverns-of-ixalan-set-booster-pack",
+    "nameSlug": "the-lost-caverns-of-ixalan-set-booster-pack",
+    "expansion": "The Lost Caverns of Ixalan",
+    "expansionSlug": "the-lost-caverns-of-ixalan",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "69837106345cd38d92706025": {
+    "name": "Murders at Karlov Manor Prerelease Pack",
+    "slug": "mkm-murders-at-karlov-manor-prerelease-pack",
+    "nameSlug": "murders-at-karlov-manor-prerelease-pack",
+    "expansion": "Murders at Karlov Manor",
+    "expansionSlug": "murders-at-karlov-manor",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "69837106345cd38d92705f6d": {
+    "name": "The Lost Caverns of Ixalan Set Booster Box",
+    "slug": "lci-the-lost-caverns-of-ixalan-set-booster-box",
+    "nameSlug": "the-lost-caverns-of-ixalan-set-booster-box",
+    "expansion": "The Lost Caverns of Ixalan",
+    "expansionSlug": "the-lost-caverns-of-ixalan",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "69837107345cd38d927064ad": {
+    "name": "Avatar The Last Airbender Prerelease Pack Azula",
+    "slug": "tla-avatar-the-last-airbender-prerelease-pack-azula",
+    "nameSlug": "avatar-the-last-airbender-prerelease-pack-azula",
+    "expansion": "Avatar: The Last Airbender",
+    "expansionSlug": "avatar-the-last-airbender",
+    "finishes": [
+      "Standard"
+    ]
   }
 }
