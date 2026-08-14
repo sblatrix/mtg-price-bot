@@ -8602,5 +8602,121 @@
   "Niv-mizzet, Parun|": {
     "rarity": "rare",
     "set": null
+  },
+  "Duress|dtk": {
+    "rarity": "common",
+    "set": "dtk"
+  },
+  "Requiting Hex|ecl": {
+    "rarity": "uncommon",
+    "set": "ecl"
+  },
+  "Day of Black Sun|tla": {
+    "rarity": "rare",
+    "set": "tla"
+  },
+  "Winternight Stories <borderless>|tdm": {
+    "rarity": null,
+    "set": "tdm"
+  },
+  "Deadly Cover-Up|mkm": {
+    "rarity": "rare",
+    "set": "mkm"
+  },
+  "Superior Spider-Man|spm": {
+    "rarity": "rare",
+    "set": "spm"
+  },
+  "Prismari Charm <019d4526-d454-783f-b8e1-15f44270c287>|sos": {
+    "rarity": null,
+    "set": "sos"
+  },
+  "Traumatic Critique <019d4f6d-be9f-775b-8300-de354dc0698b>|sos": {
+    "rarity": null,
+    "set": "sos"
+  },
+  "Hearth Elemental|woe": {
+    "rarity": "uncommon",
+    "set": "woe"
+  },
+  "Sunderflock|ecl": {
+    "rarity": "rare",
+    "set": "ecl"
+  },
+  "Consult the Star Charts|eoe": {
+    "rarity": "rare",
+    "set": "eoe"
+  },
+  "Ancient Vendetta|dft": {
+    "rarity": "uncommon",
+    "set": "dft"
+  },
+  "Deceit|ecl": {
+    "rarity": "mythic",
+    "set": "ecl"
+  },
+  "Inevitable Defeat <borderless>|tdm": {
+    "rarity": null,
+    "set": "tdm"
+  },
+  "Outrageous Robbery|mkm": {
+    "rarity": "rare",
+    "set": "mkm"
+  },
+  "Doomsday Excruciator <borderless>|dsk": {
+    "rarity": null,
+    "set": "dsk"
+  },
+  "Shoot the Sheriff|otj": {
+    "rarity": "uncommon",
+    "set": "otj"
+  },
+  "Nowhere to Run|dsk": {
+    "rarity": "uncommon",
+    "set": "dsk"
+  },
+  "Fatal Push <Battle at the Big Bridge>|fca": {
+    "rarity": null,
+    "set": "fca"
+  },
+  "Emrakul, the Aeons Torn|2x2": {
+    "rarity": "mythic",
+    "set": "2x2"
+  },
+  "Path to Exile <foil etched>|acr": {
+    "rarity": null,
+    "set": "acr"
+  },
+  "Toxic Deluge <019ebd48-29c0-791c-9f7a-73fc4c4a2813>|msc": {
+    "rarity": null,
+    "set": "msc"
+  },
+  "Intimidation Tactics|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Realm of Koh|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Gleaming Bastion|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Daydream|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Shared Roots|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Life / Death|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Armaggon, Future Shark|": {
+    "rarity": "rare",
+    "set": null
   }
 }
