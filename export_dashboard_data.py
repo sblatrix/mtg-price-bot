@@ -183,10 +183,11 @@ def build_card_entry(card_name: str) -> dict:
             suffix = "_foil" if finish == "foil" else ""
             cm_low = official.get(f"low{suffix}")
             cm_avg = official.get(f"avg{suffix}")
+            cm_avg1 = official.get(f"avg1{suffix}")
             cm_trend = official.get(f"trend{suffix}")
             cm_avg7 = official.get(f"avg7{suffix}")
         else:
-            cm_low = cm_avg = cm_trend = cm_avg7 = None
+            cm_low = cm_avg = cm_avg1 = cm_trend = cm_avg7 = None
 
         entry["finishes"][finish] = {
             "cardnexus_history": cardnexus_history,
@@ -197,10 +198,12 @@ def build_card_entry(card_name: str) -> dict:
             "current_price": latest_point["price"] if latest_point else None,
             "days_since_update": days_since(latest_point["date"]) if latest_point else None,
             "volatility_pct": compute_volatility_pct(combined_history),
-            "cm_low": cm_low, "cm_avg": cm_avg, "cm_trend": cm_trend, "cm_avg7": cm_avg7,
+            "cm_low": cm_low, "cm_avg": cm_avg, "cm_avg1": cm_avg1, "cm_trend": cm_trend, "cm_avg7": cm_avg7,
             "cn_latest": cn_stats["cn_latest"], "cn_avg7": cn_stats["cn_avg7"],
             "low_vs_avg_pct": pct_diff(cm_low, cm_avg),
             "low_vs_avg_diff": abs_diff(cm_low, cm_avg),
+            "low_vs_avg1_pct": pct_diff(cm_low, cm_avg1),
+            "low_vs_avg1_diff": abs_diff(cm_low, cm_avg1),
             "cm_vs_cn_pct": pct_diff(cm_avg, cn_stats["cn_latest"]),
             "cm_vs_cn_diff": abs_diff(cm_avg, cn_stats["cn_latest"]),
             "cm_official_history": build_cm_history_series(card_name, finish),

@@ -548,12 +548,15 @@
             <th data-key="finish">Fin.</th>
             <th data-key="cm_low">Low CM</th>
             <th data-key="cm_avg">Avg CM</th>
+            <th data-key="cm_avg1">Avg1 CM</th>
             <th data-key="cm_trend">Trend CM</th>
             <th data-key="cm_avg7">Avg7 CM</th>
             <th data-key="cn_latest">CN dernier</th>
             <th data-key="cn_avg7">CN 7 jours</th>
             <th data-key="low_vs_avg_pct">Low vs Avg</th>
             <th data-key="low_vs_avg_diff">Écart L/A (€)</th>
+            <th data-key="low_vs_avg1_pct">Low vs Avg1</th>
+            <th data-key="low_vs_avg1_diff">Écart L/A1 (€)</th>
             <th data-key="cm_vs_cn_pct">CM vs CN</th>
             <th data-key="cm_vs_cn_diff">Écart CM/CN (€)</th>
             <th data-key="trend_pct">Tendance</th>
@@ -822,9 +825,10 @@ function flattenRows(cards){
         _card_links: card.card_links,
         has_competitive_signal: card.has_competitive_signal || false,
         has_web_signal: card.has_web_signal || false,
-        cm_low: f.cm_low, cm_avg: f.cm_avg, cm_trend: f.cm_trend, cm_avg7: f.cm_avg7,
+        cm_low: f.cm_low, cm_avg: f.cm_avg, cm_avg1: f.cm_avg1, cm_trend: f.cm_trend, cm_avg7: f.cm_avg7,
         cn_latest: f.cn_latest, cn_avg7: f.cn_avg7,
         low_vs_avg_pct: f.low_vs_avg_pct, low_vs_avg_diff: f.low_vs_avg_diff,
+        low_vs_avg1_pct: f.low_vs_avg1_pct, low_vs_avg1_diff: f.low_vs_avg1_diff,
         cm_vs_cn_pct: f.cm_vs_cn_pct, cm_vs_cn_diff: f.cm_vs_cn_diff,
         trend_pct: f.trend_pct,
         volatility_pct: f.volatility_pct,
@@ -1052,7 +1056,7 @@ function renderTable(){
   document.getElementById('row-count').textContent = `${sorted.length} / ${allRows.length} ligne(s)`;
 
   if(sorted.length === 0){
-    tbody.innerHTML = `<tr><td colspan="19" class="empty">Aucune ligne ne correspond aux filtres.</td></tr>`;
+    tbody.innerHTML = `<tr><td colspan="21" class="empty">Aucune ligne ne correspond aux filtres.</td></tr>`;
     return;
   }
 
@@ -1074,12 +1078,15 @@ function renderTable(){
       <td class="cell-muted">${r.finish === 'foil' ? 'Foil' : 'Std'}</td>
       <td>${fmtEur(r.cm_low)}</td>
       <td>${fmtEur(r.cm_avg)}</td>
+      <td>${fmtEur(r.cm_avg1)}</td>
       <td>${fmtEur(r.cm_trend)}</td>
       <td>${fmtEur(r.cm_avg7)}</td>
       <td>${fmtEur(r.cn_latest)}</td>
       <td>${fmtEur(r.cn_avg7)}</td>
       <td>${fmtPct(r.low_vs_avg_pct)}</td>
       <td class="cell-muted">${fmtEur(r.low_vs_avg_diff)}</td>
+      <td>${fmtPct(r.low_vs_avg1_pct)}</td>
+      <td class="cell-muted">${fmtEur(r.low_vs_avg1_diff)}</td>
       <td>${fmtPct(r.cm_vs_cn_pct)}</td>
       <td class="cell-muted">${fmtEur(r.cm_vs_cn_diff)}</td>
       <td>${fmtPct(r.trend_pct)}</td>
@@ -1479,7 +1486,7 @@ fetch('./data.json?_=' + Date.now())
     allRows = flattenRows(data.cards);
     if(allRows.length === 0){
       document.getElementById('watchlist-tbody').innerHTML =
-        `<tr><td colspan="19" class="empty">Aucune carte suivie pour l'instant. Lance <code>python collector.py</code> et <code>python deal_scanner.py</code> au moins une fois pour peupler le dashboard.</td></tr>`;
+        `<tr><td colspan="21" class="empty">Aucune carte suivie pour l'instant. Lance <code>python collector.py</code> et <code>python deal_scanner.py</code> au moins une fois pour peupler le dashboard.</td></tr>`;
     } else {
       renderTable();
     }
@@ -1500,7 +1507,7 @@ fetch('./data.json?_=' + Date.now())
   .catch(err => {
     document.getElementById('updated').textContent = 'Erreur de chargement';
     document.getElementById('watchlist-tbody').innerHTML =
-      `<tr><td colspan="19" class="empty">Impossible de charger data.json. Vérifie que le fichier existe dans /docs et que GitHub Pages est activé (Settings → Pages → source: /docs).</td></tr>`;
+      `<tr><td colspan="21" class="empty">Impossible de charger data.json. Vérifie que le fichier existe dans /docs et que GitHub Pages est activé (Settings → Pages → source: /docs).</td></tr>`;
     console.error(err);
   });
 </script>
