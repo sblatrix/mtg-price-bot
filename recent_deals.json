@@ -1,5 +1,18 @@
 [
   {
+    "name": "Grim Haruspex",
+    "expansion": "Commander 2019",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 2.3,
+    "ref_price": 2.92,
+    "discount_pct": 21.2,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-08-14T04:39:21.170Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/commander-2019/card/c19-grim-haruspex-118-rare"
+  },
+  {
     "name": "Polluted Delta",
     "expansion": "Onslaught",
     "finish": "Standard",
@@ -1285,18 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-08-09T07:16:05.768Z",
     "url": "https://cardnexus.com/fr/explore/mtg/rise-of-the-eldrazi/card/roe-brood-birthing-138-common"
-  },
-  {
-    "name": "Aqueous Form",
-    "expansion": "Theros",
-    "finish": "Foil",
-    "language": "ja",
-    "price_paid": 1.5,
-    "ref_price": 2.8,
-    "discount_pct": 46.4,
-    "confident": false,
-    "seller_country": "FR",
-    "created_at": "2026-08-09T07:33:22.368Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/theros/card/ths-aqueous-form-39-common"
   }
 ]
