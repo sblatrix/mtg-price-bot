@@ -1,5 +1,18 @@
 [
   {
+    "name": "Mount Doom",
+    "expansion": "The Hobbit Eternal",
+    "finish": "Foil",
+    "language": "fr",
+    "price_paid": 10.0,
+    "ref_price": 13.12,
+    "discount_pct": 23.8,
+    "confident": false,
+    "seller_country": "FR",
+    "created_at": "2026-08-15T09:53:46.596Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/the-hobbit-eternal/card/hoc-mount-doom-50-mythic"
+  },
+  {
     "name": "Ajani Goldmane",
     "expansion": "Lorwyn",
     "finish": "Standard",
@@ -1285,18 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-08-09T09:41:24.883Z",
     "url": "https://cardnexus.com/fr/explore/mtg/zendikar-rising/card/znr-valakut-exploration-303-rare"
-  },
-  {
-    "name": "Fabled Passage",
-    "expansion": "Throne of Eldraine",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 1.99,
-    "ref_price": 2.68,
-    "discount_pct": 25.7,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-08-09T09:51:00.778Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/throne-of-eldraine/card/eld-fabled-passage-244-rare"
   }
 ]
