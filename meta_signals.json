@@ -1,5 +1,57 @@
 [
   {
+    "name": "Doomsday Excruciator",
+    "format": "standard",
+    "rarity": "rare",
+    "pct_of_decks": 16,
+    "pct_change": 16,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-08-15T06:16:16.809423+00:00",
+    "url": "https://www.mtggoldfish.com/price/duskmourn-house-of-horror/94/doomsday-excruciator#paper",
+    "summary": "Nouvelle entrée en standard : 16% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Walking Ballista",
+    "format": "modern",
+    "rarity": "rare",
+    "pct_of_decks": 11,
+    "pct_change": 11,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-08-15T06:16:16.809423+00:00",
+    "url": "https://www.mtggoldfish.com/price/final-fantasy-commander/371/walking-ballista#paper",
+    "summary": "Nouvelle entrée en modern : 11% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Sentinel of the Nameless City",
+    "format": "pioneer",
+    "rarity": "rare",
+    "pct_of_decks": 11,
+    "pct_change": 11,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-08-15T06:16:16.809423+00:00",
+    "url": "https://www.mtggoldfish.com/price/lost-caverns-of-ixalan/211/sentinel-of-the-nameless-city#paper",
+    "summary": "Nouvelle entrée en pioneer : 11% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Chromatic Lantern",
+    "format": "commander",
+    "rarity": "rare",
+    "pct_of_decks": 9,
+    "pct_change": 9,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-08-15T06:16:16.809423+00:00",
+    "url": "https://www.mtggoldfish.com/price/lorwyn-eclipsed-commander/138/chromatic-lantern#paper",
+    "summary": "Nouvelle entrée en commander : 9% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Day of Black Sun",
     "format": "standard",
     "rarity": "rare",
