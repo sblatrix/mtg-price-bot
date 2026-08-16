@@ -1,5 +1,57 @@
 [
   {
+    "name": "Eldrazi Temple",
+    "expansion": "Rise of the Eldrazi",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 3.0,
+    "ref_price": 4.13,
+    "discount_pct": 27.4,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-08-16T13:30:49.180Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/rise-of-the-eldrazi/card/roe-eldrazi-temple-227-rare"
+  },
+  {
+    "name": "Child of Alara",
+    "expansion": "Secret Lair Drop",
+    "finish": "Foil",
+    "language": "ja",
+    "price_paid": 15.15,
+    "ref_price": 21.29,
+    "discount_pct": 28.8,
+    "confident": false,
+    "seller_country": "FR",
+    "created_at": "2026-08-16T13:31:43.785Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/secret-lair-drop/card/sld-child-of-alara-1599-mythic"
+  },
+  {
+    "name": "Glissa Sunseeker",
+    "expansion": "Secret Lair Drop",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 2.01,
+    "ref_price": 2.83,
+    "discount_pct": 29.0,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-08-16T13:31:43.785Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/secret-lair-drop/card/sld-glissa-sunseeker-491-rare"
+  },
+  {
+    "name": "Diabolic Tutor",
+    "expansion": "Secret Lair Drop",
+    "finish": "Foil",
+    "language": "ja",
+    "price_paid": 4.55,
+    "ref_price": 6.04,
+    "discount_pct": 24.7,
+    "confident": false,
+    "seller_country": "FR",
+    "created_at": "2026-08-16T13:31:43.785Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/secret-lair-drop/card/sld-diabolic-tutor-1592-rare"
+  },
+  {
     "name": "Mount Doom",
     "expansion": "The Hobbit Eternal",
     "finish": "Foil",
@@ -1246,57 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-08-09T15:22:22.675Z",
     "url": "https://cardnexus.com/fr/explore/mtg/new-phyrexia/card/nph-karn-liberated-1-mythic"
-  },
-  {
-    "name": "Flusterstorm",
-    "expansion": "Commander 2011",
-    "finish": "Standard",
-    "language": "es",
-    "price_paid": 3.39,
-    "ref_price": 4.81,
-    "discount_pct": 29.5,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-08-09T13:16:02.083Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/commander-2011/card/cmd-flusterstorm-46-rare"
-  },
-  {
-    "name": "Leyline of the Void",
-    "expansion": "Time Spiral Remastered",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 1.49,
-    "ref_price": 2.82,
-    "discount_pct": 47.2,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-08-09T13:19:06.716Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/time-spiral-remastered/card/tsr-leyline-of-the-void-326-special"
-  },
-  {
-    "name": "Case of the Locked Hothouse",
-    "expansion": "Murders at Karlov Manor",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 1.99,
-    "ref_price": 2.88,
-    "discount_pct": 30.9,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-08-09T09:39:19.327Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/murders-at-karlov-manor/card/mkm-case-of-the-locked-hothouse-155-rare"
-  },
-  {
-    "name": "Valakut Exploration",
-    "expansion": "Zendikar Rising",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 2.99,
-    "ref_price": 4.31,
-    "discount_pct": 30.6,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-08-09T09:41:24.883Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/zendikar-rising/card/znr-valakut-exploration-303-rare"
   }
 ]

@@ -4927,5 +4927,49 @@
       "Foil",
       "Standard"
     ]
+  },
+  "68502c9659fa72400954f0db": {
+    "name": "Diabolic Tutor",
+    "slug": "sld-diabolic-tutor-1592-rare",
+    "nameSlug": "diabolic-tutor",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502d7a59fa724009553f20": {
+    "name": "Glissa Sunseeker",
+    "slug": "sld-glissa-sunseeker-491-rare",
+    "nameSlug": "glissa-sunseeker",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c2f59fa72400954d03b": {
+    "name": "Child of Alara",
+    "slug": "sld-child-of-alara-1599-mythic",
+    "nameSlug": "child-of-alara",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d0559fa72400955169f": {
+    "name": "Eldrazi Temple",
+    "slug": "roe-eldrazi-temple-227-rare",
+    "nameSlug": "eldrazi-temple",
+    "expansion": "Rise of the Eldrazi",
+    "expansionSlug": "rise-of-the-eldrazi",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }

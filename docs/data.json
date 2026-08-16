@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T13:28:01.265470+00:00",
+  "generated_at": "2026-08-16T14:18:53.663695+00:00",
   "cards": [
     {
       "name": "Abomination, Irradiated Brute",
@@ -281040,6 +281040,58 @@
   ],
   "recent_deals": [
     {
+      "name": "Eldrazi Temple",
+      "expansion": "Rise of the Eldrazi",
+      "finish": "Standard",
+      "language": "fr",
+      "price_paid": 3.0,
+      "ref_price": 4.13,
+      "discount_pct": 27.4,
+      "confident": true,
+      "seller_country": "FR",
+      "created_at": "2026-08-16T13:30:49.180Z",
+      "url": "https://cardnexus.com/fr/explore/mtg/rise-of-the-eldrazi/card/roe-eldrazi-temple-227-rare"
+    },
+    {
+      "name": "Child of Alara",
+      "expansion": "Secret Lair Drop",
+      "finish": "Foil",
+      "language": "ja",
+      "price_paid": 15.15,
+      "ref_price": 21.29,
+      "discount_pct": 28.8,
+      "confident": false,
+      "seller_country": "FR",
+      "created_at": "2026-08-16T13:31:43.785Z",
+      "url": "https://cardnexus.com/fr/explore/mtg/secret-lair-drop/card/sld-child-of-alara-1599-mythic"
+    },
+    {
+      "name": "Glissa Sunseeker",
+      "expansion": "Secret Lair Drop",
+      "finish": "Standard",
+      "language": "en",
+      "price_paid": 2.01,
+      "ref_price": 2.83,
+      "discount_pct": 29.0,
+      "confident": true,
+      "seller_country": "FR",
+      "created_at": "2026-08-16T13:31:43.785Z",
+      "url": "https://cardnexus.com/fr/explore/mtg/secret-lair-drop/card/sld-glissa-sunseeker-491-rare"
+    },
+    {
+      "name": "Diabolic Tutor",
+      "expansion": "Secret Lair Drop",
+      "finish": "Foil",
+      "language": "ja",
+      "price_paid": 4.55,
+      "ref_price": 6.04,
+      "discount_pct": 24.7,
+      "confident": false,
+      "seller_country": "FR",
+      "created_at": "2026-08-16T13:31:43.785Z",
+      "url": "https://cardnexus.com/fr/explore/mtg/secret-lair-drop/card/sld-diabolic-tutor-1592-rare"
+    },
+    {
       "name": "Mount Doom",
       "expansion": "The Hobbit Eternal",
       "finish": "Foil",
@@ -282286,58 +282338,6 @@
       "seller_country": "FR",
       "created_at": "2026-08-09T15:22:22.675Z",
       "url": "https://cardnexus.com/fr/explore/mtg/new-phyrexia/card/nph-karn-liberated-1-mythic"
-    },
-    {
-      "name": "Flusterstorm",
-      "expansion": "Commander 2011",
-      "finish": "Standard",
-      "language": "es",
-      "price_paid": 3.39,
-      "ref_price": 4.81,
-      "discount_pct": 29.5,
-      "confident": true,
-      "seller_country": "FR",
-      "created_at": "2026-08-09T13:16:02.083Z",
-      "url": "https://cardnexus.com/fr/explore/mtg/commander-2011/card/cmd-flusterstorm-46-rare"
-    },
-    {
-      "name": "Leyline of the Void",
-      "expansion": "Time Spiral Remastered",
-      "finish": "Standard",
-      "language": "fr",
-      "price_paid": 1.49,
-      "ref_price": 2.82,
-      "discount_pct": 47.2,
-      "confident": true,
-      "seller_country": "FR",
-      "created_at": "2026-08-09T13:19:06.716Z",
-      "url": "https://cardnexus.com/fr/explore/mtg/time-spiral-remastered/card/tsr-leyline-of-the-void-326-special"
-    },
-    {
-      "name": "Case of the Locked Hothouse",
-      "expansion": "Murders at Karlov Manor",
-      "finish": "Standard",
-      "language": "en",
-      "price_paid": 1.99,
-      "ref_price": 2.88,
-      "discount_pct": 30.9,
-      "confident": true,
-      "seller_country": "FR",
-      "created_at": "2026-08-09T09:39:19.327Z",
-      "url": "https://cardnexus.com/fr/explore/mtg/murders-at-karlov-manor/card/mkm-case-of-the-locked-hothouse-155-rare"
-    },
-    {
-      "name": "Valakut Exploration",
-      "expansion": "Zendikar Rising",
-      "finish": "Standard",
-      "language": "en",
-      "price_paid": 2.99,
-      "ref_price": 4.31,
-      "discount_pct": 30.6,
-      "confident": true,
-      "seller_country": "FR",
-      "created_at": "2026-08-09T09:41:24.883Z",
-      "url": "https://cardnexus.com/fr/explore/mtg/zendikar-rising/card/znr-valakut-exploration-303-rare"
     }
   ],
   "competitive_signals": [
@@ -282349,7 +282349,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.887191+00:00",
+      "detected_at": "2026-08-16T14:18:51.387249+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Detective%27s%20Phoenix",
@@ -282365,7 +282365,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.887059+00:00",
+      "detected_at": "2026-08-16T14:18:51.387136+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Nethergoyf",
@@ -282381,7 +282381,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.886996+00:00",
+      "detected_at": "2026-08-16T14:18:51.387083+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Flagstones%20of%20Trokair",
@@ -282397,7 +282397,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.886783+00:00",
+      "detected_at": "2026-08-16T14:18:51.386908+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Deceit",
@@ -282413,7 +282413,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.886530+00:00",
+      "detected_at": "2026-08-16T14:18:51.386703+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Practiced%20Offense",
@@ -282429,7 +282429,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.886423+00:00",
+      "detected_at": "2026-08-16T14:18:51.386621+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Copperline%20Gorge",
@@ -282445,7 +282445,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.886288+00:00",
+      "detected_at": "2026-08-16T14:18:51.386504+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Gemstone%20Mine",
@@ -282461,7 +282461,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.886148+00:00",
+      "detected_at": "2026-08-16T14:18:51.386389+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Spoils%20of%20the%20Vault",
@@ -282477,7 +282477,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.886017+00:00",
+      "detected_at": "2026-08-16T14:18:51.386267+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Darkbore%20Pathway",
@@ -282493,7 +282493,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.885920+00:00",
+      "detected_at": "2026-08-16T14:18:51.386182+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Plunge%20into%20Darkness",
@@ -282509,7 +282509,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.885789+00:00",
+      "detected_at": "2026-08-16T14:18:51.386071+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Blackcleave%20Cliffs",
@@ -282525,7 +282525,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.885650+00:00",
+      "detected_at": "2026-08-16T14:18:51.385955+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Serum%20Powder",
@@ -282541,7 +282541,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.885234+00:00",
+      "detected_at": "2026-08-16T14:18:51.385636+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Cosmogoyf",
@@ -282557,7 +282557,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.885098+00:00",
+      "detected_at": "2026-08-16T14:18:51.385528+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Force%20of%20Despair",
@@ -282573,7 +282573,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.885007+00:00",
+      "detected_at": "2026-08-16T14:18:51.385449+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Flame%20of%20Anor",
@@ -282589,7 +282589,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.884738+00:00",
+      "detected_at": "2026-08-16T14:18:51.385210+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Curator%20of%20Mysteries",
@@ -282605,7 +282605,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.884583+00:00",
+      "detected_at": "2026-08-16T14:18:51.385081+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Wan%20Shi%20Tong%2C%20Librarian",
@@ -282621,7 +282621,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.884441+00:00",
+      "detected_at": "2026-08-16T14:18:51.384979+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Agatha%27s%20Soul%20Cauldron",
@@ -282637,7 +282637,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.884346+00:00",
+      "detected_at": "2026-08-16T14:18:51.384899+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Ketramose%2C%20the%20New%20Dawn",
@@ -282653,7 +282653,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.884093+00:00",
+      "detected_at": "2026-08-16T14:18:51.384692+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Crucible%20of%20Worlds",
@@ -282669,7 +282669,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.883756+00:00",
+      "detected_at": "2026-08-16T14:18:51.384415+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Birthing%20Ritual",
@@ -282685,7 +282685,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.883630+00:00",
+      "detected_at": "2026-08-16T14:18:51.384294+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Yawgmoth%2C%20Thran%20Physician",
@@ -282701,7 +282701,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.883489+00:00",
+      "detected_at": "2026-08-16T14:18:51.384194+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Flusterstorm",
@@ -282717,7 +282717,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 3 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.883390+00:00",
+      "detected_at": "2026-08-16T14:18:51.384112+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Sokenzan%2C%20Crucible%20of%20Defiance",
@@ -282733,7 +282733,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 4 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.883173+00:00",
+      "detected_at": "2026-08-16T14:18:51.383933+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Icetill%20Explorer",
@@ -282749,7 +282749,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 4 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.883097+00:00",
+      "detected_at": "2026-08-16T14:18:51.383869+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Sanctum%20of%20Ugin",
@@ -282765,7 +282765,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 4 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.882971+00:00",
+      "detected_at": "2026-08-16T14:18:51.383764+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Moonshadow",
@@ -282781,7 +282781,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 4 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.882847+00:00",
+      "detected_at": "2026-08-16T14:18:51.383597+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Grist%2C%20the%20Hunger%20Tide",
@@ -282797,7 +282797,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 4 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.882732+00:00",
+      "detected_at": "2026-08-16T14:18:51.383432+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Badgermole%20Cub",
@@ -282813,7 +282813,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 4 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.882724+00:00",
+      "detected_at": "2026-08-16T14:18:51.383420+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Inevitable%20Betrayal",
@@ -282829,7 +282829,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 4 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.882630+00:00",
+      "detected_at": "2026-08-16T14:18:51.383278+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Living%20End",
@@ -282845,7 +282845,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 4 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.882470+00:00",
+      "detected_at": "2026-08-16T14:18:51.383148+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Shardless%20Agent",
@@ -282861,7 +282861,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 4 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.882305+00:00",
+      "detected_at": "2026-08-16T14:18:51.383015+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Life%20from%20the%20Loam",
@@ -282877,7 +282877,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 4 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.882182+00:00",
+      "detected_at": "2026-08-16T14:18:51.382909+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Chandra%2C%20Awakened%20Inferno",
@@ -282893,7 +282893,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 5 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.881698+00:00",
+      "detected_at": "2026-08-16T14:18:51.382511+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Elesh%20Norn%2C%20Mother%20of%20Machines",
@@ -282909,7 +282909,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 5 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.881548+00:00",
+      "detected_at": "2026-08-16T14:18:51.382385+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Fade%20from%20History",
@@ -282925,7 +282925,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 5 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.881405+00:00",
+      "detected_at": "2026-08-16T14:18:51.382271+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=World%20Breaker",
@@ -282941,7 +282941,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 5 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.881283+00:00",
+      "detected_at": "2026-08-16T14:18:51.382170+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Chancellor%20of%20the%20Dross",
@@ -282957,7 +282957,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 5 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.881165+00:00",
+      "detected_at": "2026-08-16T14:18:51.382066+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Blooming%20Marsh",
@@ -282973,7 +282973,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 5 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.880993+00:00",
+      "detected_at": "2026-08-16T14:18:51.381921+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Karn%20Liberated",
@@ -282989,7 +282989,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 5 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.880689+00:00",
+      "detected_at": "2026-08-16T14:18:51.381667+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Winternight%20Stories",
@@ -283005,7 +283005,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 5 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.880527+00:00",
+      "detected_at": "2026-08-16T14:18:51.381529+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Ruric%20Thar%2C%20the%20Unbowed",
@@ -283021,7 +283021,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 5 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.880393+00:00",
+      "detected_at": "2026-08-16T14:18:51.381428+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Mj%C3%B6lnir%2C%20Hammer%20of%20Thor",
@@ -283037,7 +283037,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 6 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.880264+00:00",
+      "detected_at": "2026-08-16T14:18:51.381297+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Thundertrap%20Trainer",
@@ -283053,7 +283053,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 6 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.880132+00:00",
+      "detected_at": "2026-08-16T14:18:51.381186+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Underground%20Mortuary",
@@ -283069,7 +283069,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 6 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.879846+00:00",
+      "detected_at": "2026-08-16T14:18:51.380947+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Mox%20Amber",
@@ -283085,7 +283085,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 6 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.879724+00:00",
+      "detected_at": "2026-08-16T14:18:51.380849+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Lush%20Portico",
@@ -283101,7 +283101,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 6 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.879597+00:00",
+      "detected_at": "2026-08-16T14:18:51.380750+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Wrenn%20and%20Six",
@@ -283117,7 +283117,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 6 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.879353+00:00",
+      "detected_at": "2026-08-16T14:18:51.380563+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Silence",
@@ -283133,7 +283133,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 7 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.879231+00:00",
+      "detected_at": "2026-08-16T14:18:51.380464+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Sanctifier%20en-Vec",
@@ -283149,7 +283149,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 7 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.879111+00:00",
+      "detected_at": "2026-08-16T14:18:51.380363+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Abhorrent%20Oculus",
@@ -283165,7 +283165,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 7 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.878991+00:00",
+      "detected_at": "2026-08-16T14:18:51.380243+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Harbinger%20of%20the%20Seas",
@@ -283181,7 +283181,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 7 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.878882+00:00",
+      "detected_at": "2026-08-16T14:18:51.380152+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Castle%20Ardenvale",
@@ -283197,7 +283197,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 7 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.878556+00:00",
+      "detected_at": "2026-08-16T14:18:51.379884+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Mystic%20Gate",
@@ -283213,7 +283213,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 7 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.878413+00:00",
+      "detected_at": "2026-08-16T14:18:51.379787+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Kozilek%27s%20Return",
@@ -283229,7 +283229,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 7 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.878295+00:00",
+      "detected_at": "2026-08-16T14:18:51.379687+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Indatha%20Triome",
@@ -283245,7 +283245,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 7 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.878132+00:00",
+      "detected_at": "2026-08-16T14:18:51.379552+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Territorial%20Kavu",
@@ -283261,7 +283261,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 7 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.878013+00:00",
+      "detected_at": "2026-08-16T14:18:51.379452+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Sunbaked%20Canyon",
@@ -283277,7 +283277,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 7 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.877945+00:00",
+      "detected_at": "2026-08-16T14:18:51.379406+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Stormscale%20Scion",
@@ -283293,7 +283293,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 8 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.877819+00:00",
+      "detected_at": "2026-08-16T14:18:51.379276+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Elder%20Gargaroth",
@@ -283309,7 +283309,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 8 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.877696+00:00",
+      "detected_at": "2026-08-16T14:18:51.379176+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Culling%20Ritual",
@@ -283325,7 +283325,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 8 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.877493+00:00",
+      "detected_at": "2026-08-16T14:18:51.379025+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Vesuva",
@@ -283341,7 +283341,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 8 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.877325+00:00",
+      "detected_at": "2026-08-16T14:18:51.378888+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Fable%20of%20the%20Mirror-Breaker",
@@ -283357,7 +283357,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 8 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.877127+00:00",
+      "detected_at": "2026-08-16T14:18:51.378722+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Leyline%20Binding",
@@ -283373,7 +283373,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 9 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.876890+00:00",
+      "detected_at": "2026-08-16T14:18:51.378496+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=White%20Orchid%20Phantom",
@@ -283389,7 +283389,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 9 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.876786+00:00",
+      "detected_at": "2026-08-16T14:18:51.378406+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Fight%20Rigging",
@@ -283405,7 +283405,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 9 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.876628+00:00",
+      "detected_at": "2026-08-16T14:18:51.378226+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Fanatic%20of%20Rhonas",
@@ -283421,7 +283421,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 9 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.876401+00:00",
+      "detected_at": "2026-08-16T14:18:51.378061+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Mosswort%20Bridge",
@@ -283437,7 +283437,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 9 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.876178+00:00",
+      "detected_at": "2026-08-16T14:18:51.377897+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Slumbering%20Trudge",
@@ -283453,7 +283453,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 9 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.875952+00:00",
+      "detected_at": "2026-08-16T14:18:51.377711+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Wrath%20of%20God",
@@ -283469,7 +283469,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 9 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.875835+00:00",
+      "detected_at": "2026-08-16T14:18:51.377615+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Sunken%20Citadel",
@@ -283485,7 +283485,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 9 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.875712+00:00",
+      "detected_at": "2026-08-16T14:18:51.377513+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Boromir%2C%20Warden%20of%20the%20Tower",
@@ -283501,7 +283501,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 9 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.875596+00:00",
+      "detected_at": "2026-08-16T14:18:51.377418+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Skysovereign%2C%20Consul%20Flagship",
@@ -283517,7 +283517,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 9 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.875460+00:00",
+      "detected_at": "2026-08-16T14:18:51.377302+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Geier%20Reach%20Sanitarium",
@@ -283533,7 +283533,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 9 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.875342+00:00",
+      "detected_at": "2026-08-16T14:18:51.377206+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Day%27s%20Undoing",
@@ -283549,7 +283549,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 9 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.875220+00:00",
+      "detected_at": "2026-08-16T14:18:51.377103+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Monumental%20Henge",
@@ -283565,7 +283565,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 9 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.875102+00:00",
+      "detected_at": "2026-08-16T14:18:51.377005+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Scion%20of%20Draco",
@@ -283581,7 +283581,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 9 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.874985+00:00",
+      "detected_at": "2026-08-16T14:18:51.376907+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Leyline%20of%20the%20Guildpact",
@@ -283597,7 +283597,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 9 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.874869+00:00",
+      "detected_at": "2026-08-16T14:18:51.376813+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Scavenger%20Grounds",
@@ -283613,7 +283613,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 10 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.874278+00:00",
+      "detected_at": "2026-08-16T14:18:51.376365+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Artist%27s%20Talent",
@@ -283629,7 +283629,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 10 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.874165+00:00",
+      "detected_at": "2026-08-16T14:18:51.376260+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Raucous%20Theater",
@@ -283645,7 +283645,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 11 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.873896+00:00",
+      "detected_at": "2026-08-16T14:18:51.376036+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Overlord%20of%20the%20Balemurk",
@@ -283661,7 +283661,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 11 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.873785+00:00",
+      "detected_at": "2026-08-16T14:18:51.375943+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Emperor%20of%20Bones",
@@ -283677,7 +283677,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 11 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.873692+00:00",
+      "detected_at": "2026-08-16T14:18:51.375865+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Subtlety",
@@ -283693,7 +283693,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 11 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.873603+00:00",
+      "detected_at": "2026-08-16T14:18:51.375791+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Clarion%20Conqueror",
@@ -283709,7 +283709,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 11 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.873213+00:00",
+      "detected_at": "2026-08-16T14:18:51.375481+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Temple%20Garden",
@@ -283725,7 +283725,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 12 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.872993+00:00",
+      "detected_at": "2026-08-16T14:18:51.375290+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Cori%20Mountain%20Monastery",
@@ -283741,7 +283741,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 12 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.872946+00:00",
+      "detected_at": "2026-08-16T14:18:51.375252+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Avengers%20Disassembled",
@@ -283757,7 +283757,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 13 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.872308+00:00",
+      "detected_at": "2026-08-16T14:18:51.374752+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Teferi%2C%20Hero%20of%20Dominaria",
@@ -283773,7 +283773,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 13 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.872234+00:00",
+      "detected_at": "2026-08-16T14:18:51.374686+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Consult%20the%20Star%20Charts",
@@ -283789,7 +283789,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 13 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.872128+00:00",
+      "detected_at": "2026-08-16T14:18:51.374596+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Blood%20Crypt",
@@ -283805,7 +283805,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 14 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.872055+00:00",
+      "detected_at": "2026-08-16T14:18:51.374533+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Oblivion%20Stone",
@@ -283821,7 +283821,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 14 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.871940+00:00",
+      "detected_at": "2026-08-16T14:18:51.374438+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Elesh%20Norn%2C%20Grand%20Cenobite",
@@ -283837,7 +283837,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 14 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.871718+00:00",
+      "detected_at": "2026-08-16T14:18:51.374236+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Eldritch%20Evolution",
@@ -283853,7 +283853,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 14 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.871468+00:00",
+      "detected_at": "2026-08-16T14:18:51.374056+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Allosaurus%20Rider",
@@ -283869,7 +283869,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 14 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.871356+00:00",
+      "detected_at": "2026-08-16T14:18:51.373961+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Ureni%2C%20the%20Song%20Unending",
@@ -283885,7 +283885,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 14 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.871243+00:00",
+      "detected_at": "2026-08-16T14:18:51.373866+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Xenagos%2C%20God%20of%20Revels",
@@ -283901,7 +283901,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 14 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.871133+00:00",
+      "detected_at": "2026-08-16T14:18:51.373773+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Ghalta%2C%20Stampede%20Tyrant",
@@ -283917,7 +283917,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 14 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.870906+00:00",
+      "detected_at": "2026-08-16T14:18:51.373586+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Isochron%20Scepter",
@@ -283933,7 +283933,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 14 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.870791+00:00",
+      "detected_at": "2026-08-16T14:18:51.373491+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Drannith%20Magistrate",
@@ -283949,7 +283949,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 15 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.870696+00:00",
+      "detected_at": "2026-08-16T14:18:51.373414+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Abstergo%20Entertainment",
@@ -283965,7 +283965,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 15 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.870363+00:00",
+      "detected_at": "2026-08-16T14:18:51.373183+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Supreme%20Verdict",
@@ -283981,7 +283981,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 16 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.869863+00:00",
+      "detected_at": "2026-08-16T14:18:51.372781+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Erode",
@@ -283997,7 +283997,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 16 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.869707+00:00",
+      "detected_at": "2026-08-16T14:18:51.372670+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Overgrown%20Tomb",
@@ -284013,7 +284013,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 16 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.869647+00:00",
+      "detected_at": "2026-08-16T14:18:51.372621+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Haliya%2C%20Guided%20by%20Light",
@@ -284029,7 +284029,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 16 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.869471+00:00",
+      "detected_at": "2026-08-16T14:18:51.372491+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Wish",
@@ -284045,7 +284045,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 16 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.869421+00:00",
+      "detected_at": "2026-08-16T14:18:51.372449+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Valakut%20Awakening",
@@ -284061,7 +284061,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 16 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.869371+00:00",
+      "detected_at": "2026-08-16T14:18:51.372402+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Ruby%20Medallion",
@@ -284077,7 +284077,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 16 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.869271+00:00",
+      "detected_at": "2026-08-16T14:18:51.372298+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Ral%2C%20Monsoon%20Mage",
@@ -284093,7 +284093,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 18 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.868925+00:00",
+      "detected_at": "2026-08-16T14:18:51.372017+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Hurkyl%27s%20Recall",
@@ -284109,7 +284109,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 19 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.868655+00:00",
+      "detected_at": "2026-08-16T14:18:51.371799+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Brotherhood%27s%20End",
@@ -284125,7 +284125,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 20 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.868492+00:00",
+      "detected_at": "2026-08-16T14:18:51.371684+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Kaheera%2C%20the%20Orphanguard",
@@ -284141,7 +284141,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 20 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.868344+00:00",
+      "detected_at": "2026-08-16T14:18:51.371560+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Delighted%20Halfling",
@@ -284157,7 +284157,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 21 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.868234+00:00",
+      "detected_at": "2026-08-16T14:18:51.371465+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Wistfulness",
@@ -284173,7 +284173,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 21 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.868144+00:00",
+      "detected_at": "2026-08-16T14:18:51.371391+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Pact%20of%20Negation",
@@ -284189,7 +284189,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 22 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.868032+00:00",
+      "detected_at": "2026-08-16T14:18:51.371281+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Ulamog%2C%20the%20Ceaseless%20Hunger",
@@ -284205,7 +284205,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 22 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.867922+00:00",
+      "detected_at": "2026-08-16T14:18:51.371190+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Strix%20Serenade",
@@ -284221,7 +284221,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 24 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.867408+00:00",
+      "detected_at": "2026-08-16T14:18:51.370771+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=All%20Is%20Dust",
@@ -284237,7 +284237,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 24 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.867292+00:00",
+      "detected_at": "2026-08-16T14:18:51.370673+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Arcbound%20Ravager",
@@ -284253,7 +284253,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 25 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.867013+00:00",
+      "detected_at": "2026-08-16T14:18:51.370436+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Pest%20Control",
@@ -284269,7 +284269,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 25 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.866900+00:00",
+      "detected_at": "2026-08-16T14:18:51.370346+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Mirrorpool",
@@ -284285,7 +284285,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 25 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.866790+00:00",
+      "detected_at": "2026-08-16T14:18:51.370240+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Cultivator%20Colossus",
@@ -284301,7 +284301,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 25 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.866679+00:00",
+      "detected_at": "2026-08-16T14:18:51.370146+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Hanweir%20Battlements",
@@ -284317,7 +284317,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 25 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.866492+00:00",
+      "detected_at": "2026-08-16T14:18:51.370008+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Primeval%20Titan",
@@ -284333,7 +284333,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 25 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.866171+00:00",
+      "detected_at": "2026-08-16T14:18:51.369740+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Amulet%20of%20Vigor",
@@ -284349,7 +284349,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 25 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.866059+00:00",
+      "detected_at": "2026-08-16T14:18:51.369649+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Tolaria%20West",
@@ -284365,7 +284365,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 25 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.865948+00:00",
+      "detected_at": "2026-08-16T14:18:51.369559+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Scapeshift",
@@ -284381,7 +284381,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 25 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.865729+00:00",
+      "detected_at": "2026-08-16T14:18:51.369380+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Echoing%20Deeps",
@@ -284397,7 +284397,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 26 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.865568+00:00",
+      "detected_at": "2026-08-16T14:18:51.369230+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Superior%20Spider-Man",
@@ -284413,7 +284413,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 26 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.865389+00:00",
+      "detected_at": "2026-08-16T14:18:51.369101+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Cori-Steel%20Cutter",
@@ -284429,7 +284429,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 27 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.865260+00:00",
+      "detected_at": "2026-08-16T14:18:51.368996+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=The%20Stone%20Brain",
@@ -284445,7 +284445,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 27 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.865066+00:00",
+      "detected_at": "2026-08-16T14:18:51.368835+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Verdant%20Catacombs",
@@ -284461,7 +284461,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 28 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.865004+00:00",
+      "detected_at": "2026-08-16T14:18:51.368782+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Hedge%20Maze",
@@ -284477,7 +284477,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 28 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.864842+00:00",
+      "detected_at": "2026-08-16T14:18:51.368647+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Swan%20Song",
@@ -284493,7 +284493,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 28 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.864803+00:00",
+      "detected_at": "2026-08-16T14:18:51.368613+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Collector%20Ouphe",
@@ -284509,7 +284509,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 30 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.864586+00:00",
+      "detected_at": "2026-08-16T14:18:51.368413+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Extinguisher%20Battleship",
@@ -284525,7 +284525,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 30 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.864492+00:00",
+      "detected_at": "2026-08-16T14:18:51.368294+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Cityscape%20Leveler",
@@ -284541,7 +284541,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 32 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.864413+00:00",
+      "detected_at": "2026-08-16T14:18:51.368187+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=The%20Filigree%20Sylex",
@@ -284557,7 +284557,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 32 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.864280+00:00",
+      "detected_at": "2026-08-16T14:18:51.368031+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Six",
@@ -284573,7 +284573,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 32 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.864077+00:00",
+      "detected_at": "2026-08-16T14:18:51.367874+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=The%20Mycosynth%20Gardens",
@@ -284589,7 +284589,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 32 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.863974+00:00",
+      "detected_at": "2026-08-16T14:18:51.367786+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Past%20in%20Flames",
@@ -284605,7 +284605,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 33 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.863923+00:00",
+      "detected_at": "2026-08-16T14:18:51.367740+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Goryo%27s%20Vengeance",
@@ -284621,7 +284621,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 33 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.863711+00:00",
+      "detected_at": "2026-08-16T14:18:51.367558+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Shifting%20Woodland",
@@ -284637,7 +284637,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 33 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.863599+00:00",
+      "detected_at": "2026-08-16T14:18:51.367466+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Commercial%20District",
@@ -284653,7 +284653,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 34 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.863390+00:00",
+      "detected_at": "2026-08-16T14:18:51.367274+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Otawara%2C%20Soaring%20City",
@@ -284669,7 +284669,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 35 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.862996+00:00",
+      "detected_at": "2026-08-16T14:18:51.366954+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Endurance",
@@ -284685,7 +284685,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 35 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.862906+00:00",
+      "detected_at": "2026-08-16T14:18:51.366881+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Torpor%20Orb",
@@ -284701,7 +284701,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 36 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.862829+00:00",
+      "detected_at": "2026-08-16T14:18:51.366817+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Dryad%20Arbor",
@@ -284717,7 +284717,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 37 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.862654+00:00",
+      "detected_at": "2026-08-16T14:18:51.366675+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Ensnaring%20Bridge",
@@ -284733,7 +284733,7 @@
       "event": "Pro Tour Marvel Super Heroes (Modern)",
       "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-modern-decklists",
       "summary": "Vue dans 37 decklist(s) Modern au Pro Tour Marvel Super Heroes (Modern) — un signal de poids, c'est le plus haut niveau compétitif.",
-      "detected_at": "2026-08-16T13:27:58.862546+00:00",
+      "detected_at": "2026-08-16T14:18:51.366586+00:00",
       "source": "Pro Tour (magic.gg)",
       "card_links": {
         "cardmarket_url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString=Karn%2C%20the%20Great%20Creator",
