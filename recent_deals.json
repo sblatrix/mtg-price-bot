@@ -1,5 +1,18 @@
 [
   {
+    "name": "Supreme Verdict",
+    "expansion": "Ravnica: Clue Edition",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 1.69,
+    "ref_price": 2.36,
+    "discount_pct": 28.4,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-08-17T12:45:38.268Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/ravnica-clue-edition/card/clu-supreme-verdict-211-rare"
+  },
+  {
     "name": "Heroic Intervention",
     "expansion": "Secret Lair Drop",
     "finish": "Standard",
@@ -1285,18 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-08-10T18:46:56.877Z",
     "url": "https://cardnexus.com/fr/explore/mtg/iconic-masters/card/ima-grove-of-the-burnwillows-238-rare"
-  },
-  {
-    "name": "Gaddock Teeg",
-    "expansion": "Lorwyn",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 0.99,
-    "ref_price": 2.04,
-    "discount_pct": 51.5,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-08-10T15:13:31.750Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/lorwyn/card/lrw-gaddock-teeg-248-rare"
   }
 ]
