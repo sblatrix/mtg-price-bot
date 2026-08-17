@@ -5045,5 +5045,49 @@
       "Foil",
       "Standard"
     ]
+  },
+  "68502df159fa724009556233": {
+    "name": "Hokori, Dust Drinker",
+    "slug": "sld-hokori-dust-drinker-420-rare",
+    "nameSlug": "hokori-dust-drinker",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685030be59fa724009561f74": {
+    "name": "Song of Creation",
+    "slug": "sld-song-of-creation-1603-rare",
+    "nameSlug": "song-of-creation",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850301559fa72400955fa9e": {
+    "name": "Prismatic Ending",
+    "slug": "sld-prismatic-ending-1868-rare",
+    "nameSlug": "prismatic-ending",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502df359fa724009557324": {
+    "name": "Heroic Intervention",
+    "slug": "sld-heroic-intervention-1872-rare",
+    "nameSlug": "heroic-intervention",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
