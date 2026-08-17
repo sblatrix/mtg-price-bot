@@ -644,7 +644,7 @@
     "released_at": "2024-03-08"
   },
   "ymkm": {
-    "name": "Alchemy: Murders at Karlov Manor ",
+    "name": "Alchemy: Murders at Karlov Manor",
     "released_at": "2024-03-05"
   },
   "punk": {
@@ -1059,24 +1059,12 @@
     "name": "Transformers Tokens",
     "released_at": "2022-11-18"
   },
-  "bot": {
-    "name": "Transformers",
-    "released_at": "2022-11-18"
-  },
   "ptbro": {
     "name": "The Brothers' War Southeast Asia Tokens",
     "released_at": "2022-11-18"
   },
-  "sbro": {
-    "name": "The Brothers' War Substitute Cards",
-    "released_at": "2022-11-18"
-  },
-  "abro": {
-    "name": "The Brothers' War Art Series",
-    "released_at": "2022-11-18"
-  },
-  "tbrc": {
-    "name": "The Brothers' War Commander Tokens",
+  "bot": {
+    "name": "Transformers",
     "released_at": "2022-11-18"
   },
   "mbro": {
@@ -1091,8 +1079,20 @@
     "name": "The Brothers' War Tokens",
     "released_at": "2022-11-18"
   },
+  "sbro": {
+    "name": "The Brothers' War Substitute Cards",
+    "released_at": "2022-11-18"
+  },
+  "abro": {
+    "name": "The Brothers' War Art Series",
+    "released_at": "2022-11-18"
+  },
   "fbro": {
     "name": "The Brothers' War Jumpstart Front Cards",
+    "released_at": "2022-11-18"
+  },
+  "tbrc": {
+    "name": "The Brothers' War Commander Tokens",
     "released_at": "2022-11-18"
   },
   "slc": {
@@ -1115,12 +1115,12 @@
     "name": "Unfinity Tokens",
     "released_at": "2022-10-07"
   },
-  "unf": {
-    "name": "Unfinity",
-    "released_at": "2022-10-07"
-  },
   "sunf": {
     "name": "Unfinity Sticker Sheets",
+    "released_at": "2022-10-07"
+  },
+  "unf": {
+    "name": "Unfinity",
     "released_at": "2022-10-07"
   },
   "40k": {
@@ -1155,12 +1155,12 @@
     "name": "Dominaria United Tokens",
     "released_at": "2022-09-09"
   },
-  "admu": {
-    "name": "Dominaria United Art Series",
-    "released_at": "2022-09-09"
-  },
   "dmu": {
     "name": "Dominaria United",
+    "released_at": "2022-09-09"
+  },
+  "admu": {
+    "name": "Dominaria United Art Series",
     "released_at": "2022-09-09"
   },
   "wdmu": {
@@ -3147,12 +3147,12 @@
     "name": "Rise of the Eldrazi Tokens",
     "released_at": "2010-04-23"
   },
-  "dde": {
-    "name": "Duel Decks: Phyrexia vs. the Coalition",
-    "released_at": "2010-03-19"
-  },
   "tdde": {
     "name": "Duel Decks: Phyrexia vs. the Coalition Tokens",
+    "released_at": "2010-03-19"
+  },
+  "dde": {
+    "name": "Duel Decks: Phyrexia vs. the Coalition",
     "released_at": "2010-03-19"
   },
   "pwwk": {
