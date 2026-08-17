@@ -5110,5 +5110,27 @@
       "Foil",
       "Standard"
     ]
+  },
+  "68502bc859fa72400954a54d": {
+    "name": "Archmage of Runes",
+    "slug": "fdn-archmage-of-runes-304-rare",
+    "nameSlug": "archmage-of-runes",
+    "expansion": "Foundations",
+    "expansionSlug": "foundations",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6917ca3cd40375234374232f": {
+    "name": "Boomerang Basics",
+    "slug": "tla-boomerang-basics-46-uncommon",
+    "nameSlug": "boomerang-basics",
+    "expansion": "Avatar: The Last Airbender",
+    "expansionSlug": "avatar-the-last-airbender",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
   }
 }
