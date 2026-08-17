@@ -1,5 +1,57 @@
 [
   {
+    "name": "Herald's Horn",
+    "expansion": "Marvel Super Heroes Commander",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 1.34,
+    "ref_price": 2.63,
+    "discount_pct": 49.0,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-08-17T05:00:52.219Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/marvel-super-heroes-commander/card/msc-heralds-horn-287-uncommon"
+  },
+  {
+    "name": "Raise the Palisade",
+    "expansion": "Marvel Super Heroes Commander",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 4.15,
+    "ref_price": 5.95,
+    "discount_pct": 30.3,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-08-17T05:00:52.219Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/marvel-super-heroes-commander/card/msc-raise-the-palisade-278-rare"
+  },
+  {
+    "name": "Black Widow, Agile Avenger",
+    "expansion": "Marvel Super Heroes Commander",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 8.37,
+    "ref_price": 11.24,
+    "discount_pct": 25.5,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-08-17T05:00:52.219Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/marvel-super-heroes-commander/card/msc-black-widow-agile-avenger-77-rare"
+  },
+  {
+    "name": "Swords to Plowshares",
+    "expansion": "Marvel Super Heroes Commander",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 1.11,
+    "ref_price": 2,
+    "discount_pct": 44.5,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-08-17T05:00:52.219Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/marvel-super-heroes-commander/card/msc-swords-to-plowshares-143-uncommon"
+  },
+  {
     "name": "Secret Lair Drop Artist Series Seb McKinnon",
     "expansion": "Secret Lair Drop",
     "finish": "Standard",
@@ -1246,57 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-08-09T16:25:22.065Z",
     "url": "https://cardnexus.com/fr/explore/mtg/modern-horizons/card/mh1-collector-ouphe-158-rare"
-  },
-  {
-    "name": "Scourge of Kher Ridges",
-    "expansion": "Future Sight",
-    "finish": "Foil",
-    "language": "fr",
-    "price_paid": 6.0,
-    "ref_price": 8.65,
-    "discount_pct": 30.6,
-    "confident": false,
-    "seller_country": "FR",
-    "created_at": "2026-08-09T15:18:32.181Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/future-sight/card/fut-scourge-of-kher-ridges-107-rare"
-  },
-  {
-    "name": "Liliana of the Veil",
-    "expansion": "Innistrad",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 6.0,
-    "ref_price": 9.21,
-    "discount_pct": 34.9,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-08-09T15:19:10.324Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/innistrad/card/isd-liliana-of-the-veil-105-mythic"
-  },
-  {
-    "name": "Jin-Gitaxias, Core Augur",
-    "expansion": "New Phyrexia",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 6.0,
-    "ref_price": 8.44,
-    "discount_pct": 28.9,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-08-09T15:19:21.521Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/new-phyrexia/card/nph-jin-gitaxias-core-augur-37-mythic"
-  },
-  {
-    "name": "Phyrexian Obliterator",
-    "expansion": "New Phyrexia",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 6.0,
-    "ref_price": 8.15,
-    "discount_pct": 26.4,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-08-09T15:19:33.441Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/new-phyrexia/card/nph-phyrexian-obliterator-68-mythic"
   }
 ]
