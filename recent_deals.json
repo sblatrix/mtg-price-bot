@@ -1,5 +1,31 @@
 [
   {
+    "name": "Pinnacle Emissary",
+    "expansion": "Edge of Eternities",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 1.3,
+    "ref_price": 2.88,
+    "discount_pct": 54.9,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-08-18T13:00:09.191Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/edge-of-eternities/card/eoe-pinnacle-emissary-223-rare"
+  },
+  {
+    "name": "Spinerock Tyrant",
+    "expansion": "Lorwyn Eclipsed",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 1.35,
+    "ref_price": 2.07,
+    "discount_pct": 34.8,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-08-18T13:00:09.191Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/lorwyn-eclipsed/card/ecl-spinerock-tyrant-159-mythic"
+  },
+  {
     "name": "Lonis, Genetics Expert",
     "expansion": "Ravnica: Clue Edition",
     "finish": "Standard",
@@ -1272,31 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-08-11T16:01:50.996Z",
     "url": "https://cardnexus.com/fr/explore/mtg/the-hobbit/card/hob-belladonna-took-4-rare"
-  },
-  {
-    "name": "The Eagles Are Coming!",
-    "expansion": "The Hobbit",
-    "finish": "Foil",
-    "language": "en",
-    "price_paid": 1.75,
-    "ref_price": 2.25,
-    "discount_pct": 22.2,
-    "confident": false,
-    "seller_country": "GB",
-    "created_at": "2026-08-11T16:10:51.093Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/the-hobbit/card/hob-the-eagles-are-comingexclamation-12-rare"
-  },
-  {
-    "name": "Vexing Beetle",
-    "expansion": "Legions",
-    "finish": "Foil",
-    "language": "fr",
-    "price_paid": 6.0,
-    "ref_price": 7.76,
-    "discount_pct": 22.7,
-    "confident": false,
-    "seller_country": "FR",
-    "created_at": "2026-08-11T10:19:56.345Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/legions/card/lgn-vexing-beetle-143-rare"
   }
 ]
