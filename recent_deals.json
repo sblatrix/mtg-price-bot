@@ -1,5 +1,18 @@
 [
   {
+    "name": "Stasis",
+    "expansion": "Fourth Edition",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 6.03,
+    "ref_price": 7.6,
+    "discount_pct": 20.7,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-08-17T19:08:22.738Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/fourth-edition/card/4ed-stasis-104-rare"
+  },
+  {
     "name": "Pinnacle Emissary",
     "expansion": "Edge of Eternities",
     "finish": "Standard",
@@ -1285,18 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-08-11T18:19:29.032Z",
     "url": "https://cardnexus.com/fr/explore/mtg/secret-lair-drop/card/sld-temporal-extortion-1859-rare"
-  },
-  {
-    "name": "Belladonna Took",
-    "expansion": "The Hobbit",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 1.5,
-    "ref_price": 2.55,
-    "discount_pct": 41.2,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-08-11T16:01:50.996Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/the-hobbit/card/hob-belladonna-took-4-rare"
   }
 ]
