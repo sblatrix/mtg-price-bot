@@ -1,5 +1,44 @@
 [
   {
+    "name": "Icetill Explorer",
+    "expansion": "Edge of Eternities",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 15.48,
+    "ref_price": 21.15,
+    "discount_pct": 26.8,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-08-19T19:29:43.440Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/edge-of-eternities/card/eoe-icetill-explorer-192-rare"
+  },
+  {
+    "name": "Tortured Existence",
+    "expansion": "The List",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 3.2,
+    "ref_price": 4.94,
+    "discount_pct": 35.2,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-08-19T19:29:43.440Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/the-list/card/plst-tortured-existence-sth-74-common"
+  },
+  {
+    "name": "Berserk",
+    "expansion": "Secrets of Strixhaven Mystical Archive",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 6.3,
+    "ref_price": 8.22,
+    "discount_pct": 23.4,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-08-19T19:29:43.440Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/secrets-of-strixhaven-mystical-archive/card/soa-berserk-50-mythic"
+  },
+  {
     "name": "Dark Deal",
     "expansion": "Fate Reforged",
     "finish": "Standard",
@@ -1259,44 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-08-12T08:53:56.161Z",
     "url": "https://cardnexus.com/fr/explore/mtg/fifth-edition/card/5ed-force-spike-88-common"
-  },
-  {
-    "name": "Bilbo's Gambit",
-    "expansion": "The Hobbit",
-    "finish": "Foil",
-    "language": "en",
-    "price_paid": 3.02,
-    "ref_price": 4.8,
-    "discount_pct": 37.1,
-    "confident": false,
-    "seller_country": "GB",
-    "created_at": "2026-08-12T05:01:44.246Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/the-hobbit/card/hob-bilbos-gambit-5-rare"
-  },
-  {
-    "name": "Iron Hills Blacksmith",
-    "expansion": "The Hobbit",
-    "finish": "Foil",
-    "language": "en",
-    "price_paid": 2.69,
-    "ref_price": 5.1,
-    "discount_pct": 47.3,
-    "confident": false,
-    "seller_country": "GB",
-    "created_at": "2026-08-11T16:10:51.093Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/the-hobbit/card/hob-iron-hills-blacksmith-252-uncommon"
-  },
-  {
-    "name": "Smaug, Wicked Worm",
-    "expansion": "The Hobbit",
-    "finish": "Foil",
-    "language": "fr",
-    "price_paid": 2.5,
-    "ref_price": 3.77,
-    "discount_pct": 33.7,
-    "confident": false,
-    "seller_country": "FR",
-    "created_at": "2026-08-11T18:15:36.900Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/the-hobbit/card/hob-smaug-wicked-worm-164-rare"
   }
 ]
