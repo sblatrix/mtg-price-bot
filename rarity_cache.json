@@ -9074,5 +9074,157 @@
   "Toby, Beastie Befriender|": {
     "rarity": "rare",
     "set": null
+  },
+  "Day of Judgment|m12": {
+    "rarity": "rare",
+    "set": "m12"
+  },
+  "Enduring Curiosity|dsk": {
+    "rarity": "rare",
+    "set": "dsk"
+  },
+  "Wan Shi Tong, Librarian|tla": {
+    "rarity": "mythic",
+    "set": "tla"
+  },
+  "Floodpits Drowner|dsk": {
+    "rarity": "uncommon",
+    "set": "dsk"
+  },
+  "Blood Moon [2XM] (F)|": {
+    "rarity": null,
+    "set": null
+  },
+  "Clarion Conqueror|tdm": {
+    "rarity": "rare",
+    "set": "tdm"
+  },
+  "Sol Ring|tdc": {
+    "rarity": "uncommon",
+    "set": "tdc"
+  },
+  "Fellwar Stone|cmm": {
+    "rarity": "uncommon",
+    "set": "cmm"
+  },
+  "Rampant Growth|dds": {
+    "rarity": "common",
+    "set": "dds"
+  },
+  "Llanowar Elves|m10": {
+    "rarity": "common",
+    "set": "m10"
+  },
+  "Elvish Mystic|c14": {
+    "rarity": "common",
+    "set": "c14"
+  },
+  "Spectacular Tactics|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Essence Channeler|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Valakut, the Molten Pinnacle|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Dryad of the Ilysian Grove|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Jund|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Beastrider Vanguard|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Glimmerpost|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Cloudpost|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Prism Ring|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Bontu's Monument|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Bubbling Muck|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Heartless Summoning|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Innocent Blood|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Resentful Revelation|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Blackmail|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Relic of Legends|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Shred Memory|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Dead of Winter|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Carnival of Souls|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Grim Tutor|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Dimir Machinations|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "The Sibsig Ceremony|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Sunken Hollow|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Fauna Shaman|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Acererak The Archlich|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Peat Bog|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Portal to Phyrexia|": {
+    "rarity": "mythic",
+    "set": null
   }
 }
