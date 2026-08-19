@@ -144,6 +144,19 @@ def get_latest_price(card_name: str, source: str):
     return rows[0] if rows else None
 
 
+def get_set_code(card_name: str) -> str | None:
+    """Récupère le set_code le plus récent connu pour une carte, toutes
+    sources confondues (Scryfall renseigne toujours ce champ, CardNexus non)."""
+    conn = get_connection()
+    row = conn.execute(
+        "SELECT set_code FROM price_history WHERE card_name = ? AND set_code IS NOT NULL "
+        "ORDER BY fetched_at DESC LIMIT 1",
+        (card_name,),
+    ).fetchone()
+    conn.close()
+    return row["set_code"] if row else None
+
+
 def get_price_history_asc(card_name: str, source: str, limit: int = 200):
     """Historique complet, du plus ancien au plus récent - utile pour le calcul de rupture."""
     conn = get_connection()

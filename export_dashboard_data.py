@@ -12,7 +12,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import quote
 
-from db import get_connection, get_all_tracked_cards, get_latest_cardmarket_official_price, get_cardmarket_official_history
+from db import get_connection, get_all_tracked_cards, get_latest_cardmarket_official_price, get_cardmarket_official_history, get_set_code
 from trend_detector import compute_trend, compute_cross_source_gap
 
 ROOT = Path(__file__).parent
@@ -156,6 +156,7 @@ def build_cardmarket_official_block(card_name: str):
 def build_card_entry(card_name: str) -> dict:
     entry = {
         "name": card_name,
+        "set_code": get_set_code(card_name),
         "finishes": {},
         "cardmarket_official": build_cardmarket_official_block(card_name),
         "card_links": build_card_links(card_name),

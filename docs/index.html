@@ -527,6 +527,9 @@
       <option value="standard">Standard</option>
       <option value="foil">Foil</option>
     </select>
+    <select id="set-filter">
+      <option value="all">Toutes extensions</option>
+    </select>
     <label>Prix min <input type="number" id="price-min" placeholder="0" min="0" step="0.5" style="width:70px"></label>
     <label>Prix max <input type="number" id="price-max" placeholder="∞" min="0" step="0.5" style="width:70px"></label>
     <label><input type="checkbox" id="signal-only"> Signal seulement (tendance ou écart)</label>
@@ -545,6 +548,7 @@
             <th data-key="has_web_signal">💬</th>
             <th data-key="starred">★</th>
             <th data-key="name">Carte</th>
+            <th data-key="set_code">Set</th>
             <th data-key="finish">Fin.</th>
             <th data-key="cm_low">Low CM</th>
             <th data-key="cm_avg">Avg CM</th>
@@ -823,6 +827,7 @@ function flattenRows(cards){
         name: card.name,
         finish,
         _card_links: card.card_links,
+        set_code: card.set_code,
         has_competitive_signal: card.has_competitive_signal || false,
         has_web_signal: card.has_web_signal || false,
         cm_low: f.cm_low, cm_avg: f.cm_avg, cm_avg1: f.cm_avg1, cm_trend: f.cm_trend, cm_avg7: f.cm_avg7,
@@ -864,6 +869,7 @@ function sortRows(rows){
 function filterRows(rows){
   const q = document.getElementById('search-input').value.trim().toLowerCase();
   const finishFilter = document.getElementById('finish-filter').value;
+  const setFilter = document.getElementById('set-filter').value;
   const signalOnly = document.getElementById('signal-only').checked;
   const competitiveOnly = document.getElementById('competitive-only').checked;
   const webOnly = document.getElementById('web-only').checked;
@@ -876,6 +882,7 @@ function filterRows(rows){
   return rows.filter(r=>{
     if(q && !r.name.toLowerCase().includes(q)) return false;
     if(finishFilter !== 'all' && r.finish !== finishFilter) return false;
+    if(setFilter !== 'all' && r.set_code !== setFilter) return false;
     if(signalOnly && r.trend_pct === null && r.cross_source_gap_pct === null) return false;
     if(competitiveOnly && !r.has_competitive_signal) return false;
     if(webOnly && !r.has_web_signal) return false;
@@ -1056,7 +1063,7 @@ function renderTable(){
   document.getElementById('row-count').textContent = `${sorted.length} / ${allRows.length} ligne(s)`;
 
   if(sorted.length === 0){
-    tbody.innerHTML = `<tr><td colspan="21" class="empty">Aucune ligne ne correspond aux filtres.</td></tr>`;
+    tbody.innerHTML = `<tr><td colspan="22" class="empty">Aucune ligne ne correspond aux filtres.</td></tr>`;
     return;
   }
 
@@ -1075,6 +1082,7 @@ function renderTable(){
           <button class="remove-watchlist-btn" data-card-name="${escapeHtml(r.name)}" title="Retirer de la watchlist">✕</button>
         </span>
       </td>
+      <td class="cell-muted" style="text-transform:uppercase;">${r.set_code || '—'}</td>
       <td class="cell-muted">${r.finish === 'foil' ? 'Foil' : 'Std'}</td>
       <td>${fmtEur(r.cm_low)}</td>
       <td>${fmtEur(r.cm_avg)}</td>
@@ -1433,7 +1441,7 @@ document.querySelectorAll('#watchlist-table thead th').forEach(th=>{
   });
 });
 
-['search-input', 'finish-filter', 'signal-only', 'competitive-only', 'web-only', 'starred-only', 'price-min', 'price-max'].forEach(id=>{
+['search-input', 'finish-filter', 'set-filter', 'signal-only', 'competitive-only', 'web-only', 'starred-only', 'price-min', 'price-max'].forEach(id=>{
   document.getElementById(id).addEventListener('input', renderTable);
 });
 
@@ -1484,9 +1492,20 @@ fetch('./data.json?_=' + Date.now())
     document.getElementById('ticker').innerHTML = buildTicker(data.cards, data.recent_deals) + buildTicker(data.cards, data.recent_deals);
 
     allRows = flattenRows(data.cards);
+
+    // peuple le filtre extension avec les sets réellement présents dans les données, triés
+    const setFilterEl = document.getElementById('set-filter');
+    const uniqueSets = Array.from(new Set(allRows.map(r => r.set_code).filter(Boolean))).sort();
+    uniqueSets.forEach(code => {
+      const opt = document.createElement('option');
+      opt.value = code;
+      opt.textContent = code.toUpperCase();
+      setFilterEl.appendChild(opt);
+    });
+
     if(allRows.length === 0){
       document.getElementById('watchlist-tbody').innerHTML =
-        `<tr><td colspan="21" class="empty">Aucune carte suivie pour l'instant. Lance <code>python collector.py</code> et <code>python deal_scanner.py</code> au moins une fois pour peupler le dashboard.</td></tr>`;
+        `<tr><td colspan="22" class="empty">Aucune carte suivie pour l'instant. Lance <code>python collector.py</code> et <code>python deal_scanner.py</code> au moins une fois pour peupler le dashboard.</td></tr>`;
     } else {
       renderTable();
     }
@@ -1507,7 +1526,7 @@ fetch('./data.json?_=' + Date.now())
   .catch(err => {
     document.getElementById('updated').textContent = 'Erreur de chargement';
     document.getElementById('watchlist-tbody').innerHTML =
-      `<tr><td colspan="21" class="empty">Impossible de charger data.json. Vérifie que le fichier existe dans /docs et que GitHub Pages est activé (Settings → Pages → source: /docs).</td></tr>`;
+      `<tr><td colspan="22" class="empty">Impossible de charger data.json. Vérifie que le fichier existe dans /docs et que GitHub Pages est activé (Settings → Pages → source: /docs).</td></tr>`;
     console.error(err);
   });
 </script>
