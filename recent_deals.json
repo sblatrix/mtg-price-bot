@@ -1,5 +1,18 @@
 [
   {
+    "name": "Nazgûl",
+    "expansion": "The Lord of the Rings: Tales of Middle-earth",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 14.13,
+    "ref_price": 24.96,
+    "discount_pct": 43.4,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-08-20T05:21:52.920Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/the-lord-of-the-rings-tales-of-middle-earth/card/ltr-nazgul-338-uncommon"
+  },
+  {
     "name": "Approach of the Second Sun",
     "expansion": "The List",
     "finish": "Standard",
@@ -1285,18 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-08-12T08:43:10.366Z",
     "url": "https://cardnexus.com/fr/explore/mtg/strixhaven-mystical-archive/card/sta-weather-the-storm-121-rare"
-  },
-  {
-    "name": "Panharmonicon",
-    "expansion": "Double Masters 2022",
-    "finish": "Foil",
-    "language": "ja",
-    "price_paid": 10.0,
-    "ref_price": 13.68,
-    "discount_pct": 26.9,
-    "confident": false,
-    "seller_country": "FR",
-    "created_at": "2026-08-12T08:46:04.848Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/double-masters-2022/card/2x2-panharmonicon-395-rare"
   }
 ]
