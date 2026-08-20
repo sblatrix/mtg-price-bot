@@ -1,5 +1,31 @@
 [
   {
+    "name": "Ajani Goldmane",
+    "expansion": "Lorwyn",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 1.69,
+    "ref_price": 2.14,
+    "discount_pct": 21.0,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-08-20T13:03:19.459Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/lorwyn/card/lrw-ajani-goldmane-1-rare"
+  },
+  {
+    "name": "Archmage of Runes",
+    "expansion": "Foundations",
+    "finish": "Foil",
+    "language": "fr",
+    "price_paid": 6.5,
+    "ref_price": 8.26,
+    "discount_pct": 21.3,
+    "confident": false,
+    "seller_country": "FR",
+    "created_at": "2026-08-20T13:39:56.660Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/foundations/card/fdn-archmage-of-runes-304-rare"
+  },
+  {
     "name": "Experimental Confectioner",
     "expansion": "Wilds of Eldraine",
     "finish": "Standard",
@@ -1272,31 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-08-11T10:48:58.783Z",
     "url": "https://cardnexus.com/fr/explore/mtg/bloomburrow/card/blb-alania-divergent-storm-327-rare"
-  },
-  {
-    "name": "Force of Vigor",
-    "expansion": "Marvel Universe",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 3.0,
-    "ref_price": 3.79,
-    "discount_pct": 20.8,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-08-11T19:10:21.377Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/marvel-universe/card/mar-force-of-vigor-77-mythic"
-  },
-  {
-    "name": "Vision Charm",
-    "expansion": "Visions",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 1.0,
-    "ref_price": 2.01,
-    "discount_pct": 50.2,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-08-11T20:31:00.000Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/visions/card/vis-vision-charm-49-common"
   }
 ]
