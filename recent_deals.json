@@ -1,5 +1,31 @@
 [
   {
+    "name": "Icetill Explorer",
+    "expansion": "Edge of Eternities",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 16.31,
+    "ref_price": 21.38,
+    "discount_pct": 23.7,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-08-20T14:38:15.369Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/edge-of-eternities/card/eoe-icetill-explorer-192-rare"
+  },
+  {
+    "name": "Solve the Equation",
+    "expansion": "Strixhaven: School of Mages",
+    "finish": "Foil",
+    "language": "ja",
+    "price_paid": 2.0,
+    "ref_price": 3.12,
+    "discount_pct": 35.9,
+    "confident": false,
+    "seller_country": "FR",
+    "created_at": "2026-08-20T14:59:50.659Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/strixhaven-school-of-mages/card/stx-solve-the-equation-54-uncommon"
+  },
+  {
     "name": "Ajani Goldmane",
     "expansion": "Lorwyn",
     "finish": "Standard",
@@ -1272,31 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-08-13T05:50:08.790Z",
     "url": "https://cardnexus.com/fr/explore/mtg/the-dark/card/drk-mana-clash-72-rare"
-  },
-  {
-    "name": "Brood Birthing",
-    "expansion": "Rise of the Eldrazi",
-    "finish": "Foil",
-    "language": "fr",
-    "price_paid": 4.21,
-    "ref_price": 5.64,
-    "discount_pct": 25.4,
-    "confident": false,
-    "seller_country": "FR",
-    "created_at": "2026-08-13T05:50:12.303Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/rise-of-the-eldrazi/card/roe-brood-birthing-138-common"
-  },
-  {
-    "name": "Alania, Divergent Storm",
-    "expansion": "Bloomburrow",
-    "finish": "Foil",
-    "language": "en",
-    "price_paid": 2.86,
-    "ref_price": 3.73,
-    "discount_pct": 23.3,
-    "confident": false,
-    "seller_country": "FR",
-    "created_at": "2026-08-11T10:48:58.783Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/bloomburrow/card/blb-alania-divergent-storm-327-rare"
   }
 ]
