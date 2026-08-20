@@ -1,5 +1,18 @@
 [
   {
+    "name": "Fate Unraveler",
+    "expansion": "Commander 2015",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 1.5,
+    "ref_price": 2.6,
+    "discount_pct": 42.3,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-08-20T07:01:47.053Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/commander-2015/card/c15-fate-unraveler-126-rare"
+  },
+  {
     "name": "Nazgûl",
     "expansion": "The Lord of the Rings: Tales of Middle-earth",
     "finish": "Standard",
@@ -1285,18 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-08-12T08:40:25.887Z",
     "url": "https://cardnexus.com/fr/explore/mtg/secret-lair-drop/card/sld-silence-7003-rare"
-  },
-  {
-    "name": "Weather the Storm",
-    "expansion": "Strixhaven Mystical Archive",
-    "finish": "Foil",
-    "language": "ja",
-    "price_paid": 10.0,
-    "ref_price": 14.85,
-    "discount_pct": 32.7,
-    "confident": false,
-    "seller_country": "FR",
-    "created_at": "2026-08-12T08:43:10.366Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/strixhaven-mystical-archive/card/sta-weather-the-storm-121-rare"
   }
 ]
