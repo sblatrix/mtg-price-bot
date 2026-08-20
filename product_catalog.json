@@ -5247,5 +5247,27 @@
     "finishes": [
       "Standard"
     ]
+  },
+  "68502bc859fa724009549d17": {
+    "name": "Adeline, Resplendent Cathar",
+    "slug": "mid-adeline-resplendent-cathar-1-rare",
+    "nameSlug": "adeline-resplendent-cathar",
+    "expansion": "Innistrad: Midnight Hunt",
+    "expansionSlug": "innistrad-midnight-hunt",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502d0659fa724009552ab5": {
+    "name": "Experimental Confectioner",
+    "slug": "woe-experimental-confectioner-314-uncommon",
+    "nameSlug": "experimental-confectioner",
+    "expansion": "Wilds of Eldraine",
+    "expansionSlug": "wilds-of-eldraine",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
