@@ -1,5 +1,31 @@
 [
   {
+    "name": "Murmuring Mystic",
+    "expansion": "Special Guests",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 3.62,
+    "ref_price": 5.62,
+    "discount_pct": 35.6,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-08-20T08:24:51.294Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/special-guests/card/spg-murmuring-mystic-151-mythic"
+  },
+  {
+    "name": "Boomerang Basics",
+    "expansion": "Avatar: The Last Airbender",
+    "finish": "Foil",
+    "language": "en",
+    "price_paid": 1.5,
+    "ref_price": 2.05,
+    "discount_pct": 26.8,
+    "confident": false,
+    "seller_country": "FR",
+    "created_at": "2026-08-20T20:38:51.403Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/avatar-the-last-airbender/card/tla-boomerang-basics-46-uncommon"
+  },
+  {
     "name": "Nazgûl",
     "expansion": "The Lord of the Rings: Tales of Middle-earth",
     "finish": "Standard",
@@ -1272,31 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-08-13T05:48:14.742Z",
     "url": "https://cardnexus.com/fr/explore/mtg/dragons-of-tarkir/card/dtk-dragonlord-silumgar-220-mythic"
-  },
-  {
-    "name": "Kolaghan, the Storm's Fury",
-    "expansion": "Fate Reforged",
-    "finish": "Foil",
-    "language": "fr",
-    "price_paid": 2.0,
-    "ref_price": 2.57,
-    "discount_pct": 22.2,
-    "confident": false,
-    "seller_country": "FR",
-    "created_at": "2026-08-13T05:48:17.063Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/fate-reforged/card/frf-kolaghan-the-storms-fury-155-rare"
-  },
-  {
-    "name": "Knight of the Kitchen Sink",
-    "expansion": "Unstable",
-    "finish": "Foil",
-    "language": "en",
-    "price_paid": 69.99,
-    "ref_price": 105.04,
-    "discount_pct": 33.4,
-    "confident": false,
-    "seller_country": "FR",
-    "created_at": "2026-08-13T05:49:20.404Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/unstable/card/ust-knight-of-the-kitchen-sink-12a-uncommon"
   }
 ]
