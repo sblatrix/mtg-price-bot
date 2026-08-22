@@ -1,5 +1,18 @@
 [
   {
+    "name": "Guttural Response",
+    "expansion": "Shadowmoor",
+    "finish": "Foil",
+    "language": "ja",
+    "price_paid": 9.0,
+    "ref_price": 12.93,
+    "discount_pct": 30.4,
+    "confident": false,
+    "seller_country": "FR",
+    "created_at": "2026-08-22T20:00:20.578Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/shadowmoor/card/shm-guttural-response-208-uncommon"
+  },
+  {
     "name": "Shapeshifter's Marrow",
     "expansion": "Future Sight",
     "finish": "Foil",
@@ -1285,18 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-08-13T21:00:08.249Z",
     "url": "https://cardnexus.com/fr/explore/mtg/onslaught/card/ons-polluted-delta-321-rare"
-  },
-  {
-    "name": "Anje Falkenrath",
-    "expansion": "Commander 2019",
-    "finish": "Foil",
-    "language": "fr",
-    "price_paid": 1.0,
-    "ref_price": 2.02,
-    "discount_pct": 50.5,
-    "confident": false,
-    "seller_country": "FR",
-    "created_at": "2026-08-13T20:23:07.204Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/commander-2019/card/c19-anje-falkenrath-37-mythic"
   }
 ]
