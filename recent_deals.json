@@ -1,5 +1,18 @@
 [
   {
+    "name": "Stasis",
+    "expansion": "Fourth Edition",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 6.03,
+    "ref_price": 7.7,
+    "discount_pct": 21.7,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-08-20T13:44:27.307Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/fourth-edition/card/4ed-stasis-104-rare"
+  },
+  {
     "name": "Norman Osborn // Green Goblin",
     "expansion": "Marvel's Spider-Man",
     "finish": "Standard",
@@ -1285,18 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-08-13T05:48:09.531Z",
     "url": "https://cardnexus.com/fr/explore/mtg/foundations-promos/card/pfdn-abyssal-harvester-54s-rare"
-  },
-  {
-    "name": "Contagion Engine",
-    "expansion": "Scars of Mirrodin",
-    "finish": "Standard",
-    "language": "ja",
-    "price_paid": 7.5,
-    "ref_price": 11.59,
-    "discount_pct": 35.3,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-08-13T05:48:09.531Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/scars-of-mirrodin/card/som-contagion-engine-145-rare"
   }
 ]
