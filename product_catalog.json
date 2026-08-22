@@ -5313,5 +5313,79 @@
       "Standard",
       "Foil"
     ]
+  },
+  "685032e459fa7240095690aa": {
+    "name": "Winternight Stories",
+    "slug": "tdm-winternight-stories-67-rare",
+    "nameSlug": "winternight-stories",
+    "expansion": "Tarkir: Dragonstorm",
+    "expansionSlug": "tarkir-dragonstorm",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c2f59fa72400954dba1": {
+    "name": "Brazen Borrower // Petty Theft",
+    "slug": "eld-brazen-borrower-petty-theft-39-mythic",
+    "nameSlug": "brazen-borrower-petty-theft",
+    "expansion": "Throne of Eldraine",
+    "expansionSlug": "throne-of-eldraine",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502e6e59fa72400955a1bf": {
+    "name": "Lord of the Nazgûl",
+    "slug": "ltc-lord-of-the-nazgul-60-rare",
+    "nameSlug": "lord-of-the-nazgul",
+    "expansion": "Tales of Middle-earth Commander",
+    "expansionSlug": "tales-of-middle-earth-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502e6c59fa7240095587bc": {
+    "name": "Light-Paws, Emperor's Voice",
+    "slug": "neo-light-paws-emperors-voice-25-rare",
+    "nameSlug": "light-paws-emperors-voice",
+    "expansion": "Kamigawa: Neon Dynasty",
+    "expansionSlug": "kamigawa-neon-dynasty",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502e6e59fa724009559baf": {
+    "name": "Liliana of the Veil",
+    "slug": "dmu-liliana-of-the-veil-373-mythic",
+    "nameSlug": "liliana-of-the-veil",
+    "expansion": "Dominaria United",
+    "expansionSlug": "dominaria-united",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502f7e59fa72400955df78": {
+    "name": "Poxwalkers",
+    "slug": "40k-poxwalkers-49-rare",
+    "nameSlug": "poxwalkers",
+    "expansion": "Warhammer 40,000 Commander",
+    "expansionSlug": "warhammer-40000-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502ef159fa72400955c7e1": {
+    "name": "Minas Tirith",
+    "slug": "pltr-minas-tirith-256s-rare",
+    "nameSlug": "minas-tirith",
+    "expansion": "Tales of Middle-earth Promos",
+    "expansionSlug": "tales-of-middle-earth-promos",
+    "finishes": [
+      "Foil"
+    ]
   }
 }
