@@ -9426,5 +9426,61 @@
   "Scryb Ranger|": {
     "rarity": "uncommon",
     "set": null
+  },
+  "Torpor Orb|big": {
+    "rarity": "mythic",
+    "set": "big"
+  },
+  "Esper Origins|fin": {
+    "rarity": "rare",
+    "set": "fin"
+  },
+  "Icetill Explorer|eoe": {
+    "rarity": "rare",
+    "set": "eoe"
+  },
+  "Sazh's Chocobo|fin": {
+    "rarity": "uncommon",
+    "set": "fin"
+  },
+  "Mightform Harmonizer|eoe": {
+    "rarity": "rare",
+    "set": "eoe"
+  },
+  "Mossborn Hydra|fdn": {
+    "rarity": "rare",
+    "set": "fdn"
+  },
+  "Earthbender Ascension|tla": {
+    "rarity": "rare",
+    "set": "tla"
+  },
+  "Enter the Avatar State|tla": {
+    "rarity": "uncommon",
+    "set": "tla"
+  },
+  "Brainstorm|cst": {
+    "rarity": "common",
+    "set": "cst"
+  },
+  "Swords to Plowshares|c16": {
+    "rarity": "uncommon",
+    "set": "c16"
+  },
+  "The One Ring <bundle> [LTR] (F)|": {
+    "rarity": null,
+    "set": null
+  },
+  "Sol Ring|c15": {
+    "rarity": "uncommon",
+    "set": "c15"
+  },
+  "Skullclamp|mb1": {
+    "rarity": null,
+    "set": "mb1"
+  },
+  "Key to the Side-Door|": {
+    "rarity": "uncommon",
+    "set": null
   }
 }
