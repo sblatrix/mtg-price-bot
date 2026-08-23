@@ -1,5 +1,18 @@
 [
   {
+    "name": "Contagion Engine",
+    "expansion": "Scars of Mirrodin",
+    "finish": "Standard",
+    "language": "ja",
+    "price_paid": 7.5,
+    "ref_price": 11.84,
+    "discount_pct": 36.7,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-08-23T04:43:09.633Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/scars-of-mirrodin/card/som-contagion-engine-145-rare"
+  },
+  {
     "name": "Guttural Response",
     "expansion": "Shadowmoor",
     "finish": "Foil",
@@ -1285,18 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-08-14T04:39:21.170Z",
     "url": "https://cardnexus.com/fr/explore/mtg/commander-2019/card/c19-grim-haruspex-118-rare"
-  },
-  {
-    "name": "Polluted Delta",
-    "expansion": "Onslaught",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 64.92,
-    "ref_price": 81.99,
-    "discount_pct": 20.8,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-08-13T21:00:08.249Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/onslaught/card/ons-polluted-delta-321-rare"
   }
 ]
