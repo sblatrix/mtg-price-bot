@@ -1,5 +1,18 @@
 [
   {
+    "name": "Kolaghan, the Storm's Fury",
+    "expansion": "Fate Reforged",
+    "finish": "Foil",
+    "language": "fr",
+    "price_paid": 2.0,
+    "ref_price": 2.57,
+    "discount_pct": 22.2,
+    "confident": false,
+    "seller_country": "FR",
+    "created_at": "2026-08-24T20:19:32.724Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/fate-reforged/card/frf-kolaghan-the-storms-fury-155-rare"
+  },
+  {
     "name": "Mithril Coat",
     "expansion": "The Lord of the Rings: Tales of Middle-earth",
     "finish": "Standard",
@@ -1285,18 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-08-15T07:29:04.277Z",
     "url": "https://cardnexus.com/fr/explore/mtg/dragons-of-tarkir/card/dtk-dragonlord-silumgar-220-mythic"
-  },
-  {
-    "name": "Grim Haruspex",
-    "expansion": "Commander 2019",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 2.3,
-    "ref_price": 2.92,
-    "discount_pct": 21.2,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-08-15T07:30:20.621Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/commander-2019/card/c19-grim-haruspex-118-rare"
   }
 ]
