@@ -1,5 +1,31 @@
 [
   {
+    "name": "Sentinel of the Nameless City",
+    "format": "pioneer",
+    "rarity": "rare",
+    "pct_of_decks": 11,
+    "pct_change": 11,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-08-24T06:30:38.842311+00:00",
+    "url": "https://www.mtggoldfish.com/price/lost-caverns-of-ixalan/211/sentinel-of-the-nameless-city#paper",
+    "summary": "Nouvelle entrée en pioneer : 11% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Blasphemous Act",
+    "format": "commander",
+    "rarity": "rare",
+    "pct_of_decks": 18,
+    "pct_change": 18,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-08-24T06:30:38.842311+00:00",
+    "url": "https://www.mtggoldfish.com/price/teenage-mutant-ninja-turtles-commander/47/blasphemous-act#paper",
+    "summary": "Nouvelle entrée en commander : 18% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Torpor Orb",
     "format": "standard",
     "rarity": "mythic",
