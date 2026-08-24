@@ -5485,5 +5485,58 @@
       "Standard",
       "Foil"
     ]
+  },
+  "6850323059fa72400956851b": {
+    "name": "Tombstone Stairwell",
+    "slug": "mir-tombstone-stairwell-149-rare",
+    "nameSlug": "tombstone-stairwell",
+    "expansion": "Mirage",
+    "expansionSlug": "mirage",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "69e1040993c168406dc0b4bc": {
+    "name": "Smallpox",
+    "slug": "soa-smallpox-98-rare",
+    "nameSlug": "smallpox",
+    "expansion": "Secrets of Strixhaven Mystical Archive",
+    "expansionSlug": "secrets-of-strixhaven-mystical-archive",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68ee1d27b37fd6bebc325fcb": {
+    "name": "Deceit",
+    "slug": "ecl-deceit-293-mythic",
+    "nameSlug": "deceit",
+    "expansion": "Lorwyn Eclipsed",
+    "expansionSlug": "lorwyn-eclipsed",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502d7a59fa7240095539b6": {
+    "name": "Fury",
+    "slug": "spg-fury-47-mythic",
+    "nameSlug": "fury",
+    "expansion": "Special Guests",
+    "expansionSlug": "special-guests",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d0559fa724009551cb8": {
+    "name": "Emperor of Bones",
+    "slug": "mh3-emperor-of-bones-90-rare",
+    "nameSlug": "emperor-of-bones",
+    "expansion": "Modern Horizons 3",
+    "expansionSlug": "modern-horizons-3",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
