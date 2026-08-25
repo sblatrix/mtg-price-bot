@@ -1,18 +1,14 @@
 {
-  "slz": {
-    "name": "The Zeta Set",
-    "released_at": "2026-12-31"
-  },
   "ttrk": {
     "name": "Star Trek Tokens",
     "released_at": "2026-11-13"
   },
-  "trk": {
-    "name": "Star Trek",
-    "released_at": "2026-11-13"
-  },
   "trc": {
     "name": "Star Trek Commander",
+    "released_at": "2026-11-13"
+  },
+  "trk": {
+    "name": "Star Trek",
     "released_at": "2026-11-13"
   },
   "sds": {
@@ -23,48 +19,52 @@
     "name": "Mystery Booster Commander Edition",
     "released_at": "2026-11-09"
   },
-  "frc": {
-    "name": "Reality Fracture Commander",
-    "released_at": "2026-10-02"
-  },
   "fra": {
     "name": "Reality Fracture",
     "released_at": "2026-10-02"
   },
+  "frc": {
+    "name": "Reality Fracture Commander",
+    "released_at": "2026-10-02"
+  },
+  "slz": {
+    "name": "The Zeta Set",
+    "released_at": "2026-09-02"
+  },
   "thob": {
     "name": "The Hobbit Tokens",
-    "released_at": "2026-08-14"
-  },
-  "hob": {
-    "name": "The Hobbit",
     "released_at": "2026-08-14"
   },
   "hoc": {
     "name": "The Hobbit Eternal",
     "released_at": "2026-08-14"
   },
-  "amsh": {
-    "name": "Marvel Super Heroes Art Series",
+  "hob": {
+    "name": "The Hobbit",
+    "released_at": "2026-08-14"
+  },
+  "fmsc": {
+    "name": "Marvel Super Heroes Jumpstart Front Cards",
     "released_at": "2026-06-26"
   },
   "msh": {
     "name": "Marvel Super Heroes",
     "released_at": "2026-06-26"
   },
-  "fmsc": {
-    "name": "Marvel Super Heroes Jumpstart Front Cards",
-    "released_at": "2026-06-26"
-  },
   "tmsh": {
     "name": "Marvel Super Heroes Tokens",
     "released_at": "2026-06-26"
   },
-  "tmsc": {
-    "name": "Marvel Super Heroes Commander Tokens",
+  "amsh": {
+    "name": "Marvel Super Heroes Art Series",
     "released_at": "2026-06-26"
   },
   "msc": {
     "name": "Marvel Super Heroes Commander",
+    "released_at": "2026-06-26"
+  },
+  "tmsc": {
+    "name": "Marvel Super Heroes Commander Tokens",
     "released_at": "2026-06-26"
   },
   "ysos": {
@@ -75,16 +75,20 @@
     "name": "Secrets of Strixhaven Promos",
     "released_at": "2026-04-24"
   },
-  "soa": {
-    "name": "Secrets of Strixhaven Mystical Archive",
+  "soc": {
+    "name": "Secrets of Strixhaven Commander",
+    "released_at": "2026-04-24"
+  },
+  "tsos": {
+    "name": "Secrets of Strixhaven Tokens",
     "released_at": "2026-04-24"
   },
   "asos": {
     "name": "Secrets of Strixhaven Art Series",
     "released_at": "2026-04-24"
   },
-  "soc": {
-    "name": "Secrets of Strixhaven Commander",
+  "soa": {
+    "name": "Secrets of Strixhaven Mystical Archive",
     "released_at": "2026-04-24"
   },
   "sos": {
@@ -95,9 +99,21 @@
     "name": "Secrets of Strixhaven Commander Tokens",
     "released_at": "2026-04-24"
   },
-  "tsos": {
-    "name": "Secrets of Strixhaven Tokens",
-    "released_at": "2026-04-24"
+  "tmc": {
+    "name": "Teenage Mutant Ninja Turtles Eternal",
+    "released_at": "2026-03-06"
+  },
+  "pza": {
+    "name": "Teenage Mutant Ninja Turtles Source Material",
+    "released_at": "2026-03-06"
+  },
+  "ttmc": {
+    "name": "Teenage Mutant Ninja Turtles Eternal Tokens",
+    "released_at": "2026-03-06"
+  },
+  "tmt": {
+    "name": "Teenage Mutant Ninja Turtles",
+    "released_at": "2026-03-06"
   },
   "ttmt": {
     "name": "Teenage Mutant Ninja Turtles Tokens",
@@ -107,24 +123,8 @@
     "name": "Teenage Mutant Ninja Turtles Art Series",
     "released_at": "2026-03-06"
   },
-  "tmt": {
-    "name": "Teenage Mutant Ninja Turtles",
-    "released_at": "2026-03-06"
-  },
-  "tmc": {
-    "name": "Teenage Mutant Ninja Turtles Eternal",
-    "released_at": "2026-03-06"
-  },
   "ftmc": {
     "name": "Teenage Mutant Ninja Turtles Eternal Front Cards",
-    "released_at": "2026-03-06"
-  },
-  "ttmc": {
-    "name": "Teenage Mutant Ninja Turtles Eternal Tokens",
-    "released_at": "2026-03-06"
-  },
-  "pza": {
-    "name": "Teenage Mutant Ninja Turtles Source Material",
     "released_at": "2026-03-06"
   },
   "pl26": {
@@ -147,24 +147,24 @@
     "name": "Lorwyn Eclipsed Tokens",
     "released_at": "2026-01-23"
   },
-  "tecc": {
-    "name": "Lorwyn Eclipsed Commander Tokens",
+  "aecl": {
+    "name": "Lorwyn Eclipsed Art Series",
     "released_at": "2026-01-23"
   },
   "ecl": {
     "name": "Lorwyn Eclipsed",
     "released_at": "2026-01-23"
   },
-  "aecl": {
-    "name": "Lorwyn Eclipsed Art Series",
+  "tecc": {
+    "name": "Lorwyn Eclipsed Commander Tokens",
     "released_at": "2026-01-23"
-  },
-  "pw26": {
-    "name": "Wizards Play Network 2026",
-    "released_at": "2026-01-01"
   },
   "pf26": {
     "name": "MagicFest 2026",
+    "released_at": "2026-01-01"
+  },
+  "pw26": {
+    "name": "Wizards Play Network 2026",
     "released_at": "2026-01-01"
   },
   "afic": {
@@ -175,20 +175,20 @@
     "name": "Avatar: The Last Airbender Promos",
     "released_at": "2025-11-21"
   },
-  "tla": {
-    "name": "Avatar: The Last Airbender",
-    "released_at": "2025-11-21"
-  },
   "ttla": {
     "name": "Avatar: The Last Airbender Tokens",
+    "released_at": "2025-11-21"
+  },
+  "tla": {
+    "name": "Avatar: The Last Airbender",
     "released_at": "2025-11-21"
   },
   "ftla": {
     "name": "Avatar: The Last Airbender Beginner Box Front Cards",
     "released_at": "2025-11-21"
   },
-  "atle": {
-    "name": "Avatar: the Last Airbender Eternal Art Series",
+  "jtla": {
+    "name": "Avatar: The Last Airbender Jumpstart Front Cards",
     "released_at": "2025-11-21"
   },
   "tle": {
@@ -199,12 +199,12 @@
     "name": "Avatar: the Last Airbender Art Series",
     "released_at": "2025-11-21"
   },
-  "jtla": {
-    "name": "Avatar: The Last Airbender Jumpstart Front Cards",
-    "released_at": "2025-11-21"
-  },
   "ttle": {
     "name": "Avatar: The Last Airbender Eternal Tokens",
+    "released_at": "2025-11-21"
+  },
+  "atle": {
+    "name": "Avatar: the Last Airbender Eternal Art Series",
     "released_at": "2025-11-21"
   },
   "lmar": {
@@ -215,40 +215,40 @@
     "name": "Marvel's Spider-Man Promos",
     "released_at": "2025-09-26"
   },
-  "tspm": {
-    "name": "Marvel's Spider-Man Tokens",
-    "released_at": "2025-09-26"
-  },
   "aspm": {
     "name": "Marvel's Spider-Man Art Series",
+    "released_at": "2025-09-26"
+  },
+  "tspm": {
+    "name": "Marvel's Spider-Man Tokens",
     "released_at": "2025-09-26"
   },
   "spe": {
     "name": "Marvel's Spider-Man Eternal",
     "released_at": "2025-09-26"
   },
-  "spm": {
-    "name": "Marvel's Spider-Man",
-    "released_at": "2025-09-26"
-  },
   "mar": {
     "name": "Marvel Universe",
+    "released_at": "2025-09-26"
+  },
+  "spm": {
+    "name": "Marvel's Spider-Man",
     "released_at": "2025-09-26"
   },
   "aa4": {
     "name": "Arena Anthology 4",
     "released_at": "2025-09-23"
   },
-  "aa3": {
-    "name": "Arena Anthology 3",
+  "omb": {
+    "name": "Through the Omenpaths Bonus Sheet",
     "released_at": "2025-09-23"
   },
   "om1": {
     "name": "Through the Omenpaths",
     "released_at": "2025-09-23"
   },
-  "omb": {
-    "name": "Through the Omenpaths Bonus Sheet",
+  "aa3": {
+    "name": "Arena Anthology 3",
     "released_at": "2025-09-23"
   },
   "ph23": {
