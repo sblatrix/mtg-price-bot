@@ -1,5 +1,18 @@
 [
   {
+    "name": "Scion of the Ur-Dragon",
+    "expansion": "Time Spiral",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 2.5,
+    "ref_price": 3.22,
+    "discount_pct": 22.4,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-08-23T09:18:14.533Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/time-spiral/card/tsp-scion-of-the-ur-dragon-246-rare"
+  },
+  {
     "name": "Frenzied Baloth",
     "expansion": "Edge of Eternities",
     "finish": "Standard",
@@ -1285,18 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-08-16T13:30:49.180Z",
     "url": "https://cardnexus.com/fr/explore/mtg/rise-of-the-eldrazi/card/roe-eldrazi-temple-227-rare"
-  },
-  {
-    "name": "Child of Alara",
-    "expansion": "Secret Lair Drop",
-    "finish": "Foil",
-    "language": "ja",
-    "price_paid": 15.15,
-    "ref_price": 21.29,
-    "discount_pct": 28.8,
-    "confident": false,
-    "seller_country": "FR",
-    "created_at": "2026-08-16T13:31:43.785Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/secret-lair-drop/card/sld-child-of-alara-1599-mythic"
   }
 ]
