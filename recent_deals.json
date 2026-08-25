@@ -1,5 +1,31 @@
 [
   {
+    "name": "Insidious Roots",
+    "expansion": "Murders at Karlov Manor",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 0.8,
+    "ref_price": 2,
+    "discount_pct": 60.0,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-08-25T19:44:41.325Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/murders-at-karlov-manor/card/mkm-insidious-roots-313-uncommon"
+  },
+  {
+    "name": "Island",
+    "expansion": "Phyrexia: All Will Be One",
+    "finish": "Foil",
+    "language": "en",
+    "price_paid": 3.98,
+    "ref_price": 5,
+    "discount_pct": 20.4,
+    "confident": false,
+    "seller_country": "FR",
+    "created_at": "2026-08-25T19:55:36.103Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/phyrexia-all-will-be-one/card/one-island-366-common"
+  },
+  {
     "name": "Mithril Coat",
     "expansion": "The Lord of the Rings: Tales of Middle-earth",
     "finish": "Standard",
@@ -1272,31 +1298,5 @@
     "seller_country": "US",
     "created_at": "2026-08-17T05:00:52.219Z",
     "url": "https://cardnexus.com/fr/explore/mtg/marvel-super-heroes-commander/card/msc-swords-to-plowshares-143-uncommon"
-  },
-  {
-    "name": "Secret Lair Drop Artist Series Seb McKinnon",
-    "expansion": "Secret Lair Drop",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 36.3,
-    "ref_price": 49.8,
-    "discount_pct": 27.1,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-08-16T21:00:01.479Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/secret-lair-drop/card/sld-secret-lair-drop-artist-series-seb-mckinnon"
-  },
-  {
-    "name": "Cleric",
-    "expansion": "Theros",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 1.61,
-    "ref_price": 2.47,
-    "discount_pct": 34.8,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-08-16T19:33:38.339Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/theros/card/ths-cleric-1-special"
   }
 ]

@@ -5569,5 +5569,26 @@
       "Standard",
       "Foil"
     ]
+  },
+  "68502df259fa7240095568c6": {
+    "name": "Island",
+    "slug": "one-island-366-common",
+    "nameSlug": "island",
+    "expansion": "Phyrexia: All Will Be One",
+    "expansionSlug": "phyrexia-all-will-be-one",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "68502df359fa7240095573e8": {
+    "name": "Insidious Roots",
+    "slug": "mkm-insidious-roots-313-uncommon",
+    "nameSlug": "insidious-roots",
+    "expansion": "Murders at Karlov Manor",
+    "expansionSlug": "murders-at-karlov-manor",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
