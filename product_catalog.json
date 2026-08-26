@@ -5622,5 +5622,45 @@
     "finishes": [
       "Foil"
     ]
+  },
+  "68502eee59fa72400955a44b": {
+    "name": "Mutavault",
+    "slug": "clb-mutavault-903-rare",
+    "nameSlug": "mutavault",
+    "expansion": "Commander Legends: Battle for Baldur's Gate",
+    "expansionSlug": "commander-legends-battle-for-baldurs-gate",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502c9659fa72400954f20b": {
+    "name": "Crop Rotation",
+    "slug": "ddr-crop-rotation-7-common",
+    "nameSlug": "crop-rotation",
+    "expansion": "Duel Decks: Nissa vs. Ob Nixilis",
+    "expansionSlug": "duel-decks-nissa-vs-ob-nixilis",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502d0559fa724009551cbf": {
+    "name": "Emperor of Bones",
+    "slug": "pmh3-emperor-of-bones-90s-rare",
+    "nameSlug": "emperor-of-bones",
+    "expansion": "Modern Horizons 3 Promos",
+    "expansionSlug": "modern-horizons-3-promos",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "68502c9659fa72400954f195": {
+    "name": "Dark Ritual",
+    "slug": "plst-dark-ritual-a25-82-common",
+    "nameSlug": "dark-ritual",
+    "expansion": "The List",
+    "expansionSlug": "the-list",
+    "finishes": [
+      "Standard"
+    ]
   }
 }

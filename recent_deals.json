@@ -1,5 +1,57 @@
 [
   {
+    "name": "Dark Ritual",
+    "expansion": "The List",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 4.79,
+    "ref_price": 7.84,
+    "discount_pct": 38.9,
+    "confident": true,
+    "seller_country": "GB",
+    "created_at": "2026-08-26T16:15:34.274Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/the-list/card/plst-dark-ritual-a25-82-common"
+  },
+  {
+    "name": "Emperor of Bones",
+    "expansion": "Modern Horizons 3 Promos",
+    "finish": "Foil",
+    "language": "en",
+    "price_paid": 4.15,
+    "ref_price": 6.76,
+    "discount_pct": 38.6,
+    "confident": false,
+    "seller_country": "GB",
+    "created_at": "2026-08-26T16:15:34.274Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/modern-horizons-3-promos/card/pmh3-emperor-of-bones-90s-rare"
+  },
+  {
+    "name": "Crop Rotation",
+    "expansion": "Duel Decks: Nissa vs. Ob Nixilis",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 2.96,
+    "ref_price": 3.88,
+    "discount_pct": 23.7,
+    "confident": true,
+    "seller_country": "GB",
+    "created_at": "2026-08-26T16:15:34.274Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/duel-decks-nissa-vs-ob-nixilis/card/ddr-crop-rotation-7-common"
+  },
+  {
+    "name": "Mutavault",
+    "expansion": "Commander Legends: Battle for Baldur's Gate",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 3.39,
+    "ref_price": 4.47,
+    "discount_pct": 24.2,
+    "confident": true,
+    "seller_country": "GB",
+    "created_at": "2026-08-26T16:15:34.274Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/commander-legends-battle-for-baldurs-gate/card/clb-mutavault-903-rare"
+  },
+  {
     "name": "Coat of Arms",
     "expansion": "Ninth Edition",
     "finish": "Standard",
@@ -1246,57 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-08-17T08:16:12.463Z",
     "url": "https://cardnexus.com/fr/explore/mtg/secret-lair-drop/card/sld-song-of-creation-1603-rare"
-  },
-  {
-    "name": "Child of Alara",
-    "expansion": "Secret Lair Drop",
-    "finish": "Standard",
-    "language": "ja",
-    "price_paid": 12.12,
-    "ref_price": 16.59,
-    "discount_pct": 26.9,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-08-17T08:16:12.463Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/secret-lair-drop/card/sld-child-of-alara-1599-mythic"
-  },
-  {
-    "name": "Diabolic Tutor",
-    "expansion": "Secret Lair Drop",
-    "finish": "Standard",
-    "language": "ja",
-    "price_paid": 4.49,
-    "ref_price": 5.67,
-    "discount_pct": 20.8,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-08-17T08:16:12.463Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/secret-lair-drop/card/sld-diabolic-tutor-1592-rare"
-  },
-  {
-    "name": "Hokori, Dust Drinker",
-    "expansion": "Secret Lair Drop",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 2.02,
-    "ref_price": 2.6,
-    "discount_pct": 22.3,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-08-17T08:16:12.463Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/secret-lair-drop/card/sld-hokori-dust-drinker-420-rare"
-  },
-  {
-    "name": "Berserk",
-    "expansion": "Secrets of Strixhaven Mystical Archive",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 6.27,
-    "ref_price": 7.92,
-    "discount_pct": 20.8,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-08-17T05:33:12.131Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/secrets-of-strixhaven-mystical-archive/card/soa-berserk-50-mythic"
   }
 ]
