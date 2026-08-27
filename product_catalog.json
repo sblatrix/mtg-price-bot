@@ -5727,5 +5727,26 @@
       "Standard",
       "Foil"
     ]
+  },
+  "69e1040993c168406dc0b709": {
+    "name": "Germination Practicum",
+    "slug": "sos-germination-practicum-149-mythic",
+    "nameSlug": "germination-practicum",
+    "expansion": "Secrets of Strixhaven",
+    "expansionSlug": "secrets-of-strixhaven",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502ef059fa72400955c270": {
+    "name": "Mental Misstep",
+    "slug": "mb2-mental-misstep-30-uncommon",
+    "nameSlug": "mental-misstep",
+    "expansion": "Mystery Booster 2",
+    "expansionSlug": "mystery-booster-2",
+    "finishes": [
+      "Standard"
+    ]
   }
 }
