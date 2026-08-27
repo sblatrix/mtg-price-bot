@@ -1,5 +1,57 @@
 [
   {
+    "name": "Tidespout Tyrant",
+    "expansion": "Ravnica Remastered",
+    "finish": "Foil",
+    "language": "en",
+    "price_paid": 2.99,
+    "ref_price": 4.64,
+    "discount_pct": 35.6,
+    "confident": false,
+    "seller_country": "FR",
+    "created_at": "2026-08-27T04:50:34.110Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/ravnica-remastered/card/rvr-tidespout-tyrant-320-rare"
+  },
+  {
+    "name": "North Wind Avatar",
+    "expansion": "Teenage Mutant Ninja Turtles",
+    "finish": "Foil",
+    "language": "fr",
+    "price_paid": 3.0,
+    "ref_price": 3.79,
+    "discount_pct": 20.8,
+    "confident": false,
+    "seller_country": "FR",
+    "created_at": "2026-08-27T08:00:09.285Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/teenage-mutant-ninja-turtles/card/tmt-north-wind-avatar-248-mythic"
+  },
+  {
+    "name": "Venat, Heart of Hydaelyn // Hydaelyn, the Mothercrystal",
+    "expansion": "Final Fantasy",
+    "finish": "Foil",
+    "language": "en",
+    "price_paid": 4.0,
+    "ref_price": 6.77,
+    "discount_pct": 40.9,
+    "confident": false,
+    "seller_country": "FR",
+    "created_at": "2026-08-27T08:05:47.286Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/final-fantasy/card/fin-venat-heart-of-hydaelyn-hydaelyn-the-mothercrystal-329-rare"
+  },
+  {
+    "name": "Zenos yae Galvus // Shinryu, Transcendent Rival",
+    "expansion": "Final Fantasy",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 2.5,
+    "ref_price": 3.6,
+    "discount_pct": 30.6,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-08-27T08:09:24.885Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/final-fantasy/card/fin-zenos-yae-galvus-shinryu-transcendent-rival-384-rare"
+  },
+  {
     "name": "Nature's Lore",
     "expansion": "Final Fantasy Commander",
     "finish": "Standard",
@@ -1246,57 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-08-17T19:10:04.982Z",
     "url": "https://cardnexus.com/fr/explore/mtg/rise-of-the-eldrazi/card/roe-brood-birthing-138-common"
-  },
-  {
-    "name": "Abyssal Harvester",
-    "expansion": "Foundations Promos",
-    "finish": "Foil",
-    "language": "fr",
-    "price_paid": 1.35,
-    "ref_price": 2.73,
-    "discount_pct": 50.5,
-    "confident": false,
-    "seller_country": "FR",
-    "created_at": "2026-08-17T19:16:40.065Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/foundations-promos/card/pfdn-abyssal-harvester-54s-rare"
-  },
-  {
-    "name": "End the Festivities",
-    "expansion": "Secret Lair Drop",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 3.5,
-    "ref_price": 4.46,
-    "discount_pct": 21.5,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-08-17T17:10:27.749Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/secret-lair-drop/card/sld-end-the-festivities-2503-rare"
-  },
-  {
-    "name": "Supreme Verdict",
-    "expansion": "Ravnica: Clue Edition",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 1.69,
-    "ref_price": 2.36,
-    "discount_pct": 28.4,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-08-17T12:45:38.268Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/ravnica-clue-edition/card/clu-supreme-verdict-211-rare"
-  },
-  {
-    "name": "Heroic Intervention",
-    "expansion": "Secret Lair Drop",
-    "finish": "Standard",
-    "language": "ja",
-    "price_paid": 15.77,
-    "ref_price": 21.7,
-    "discount_pct": 27.3,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-08-17T08:16:12.463Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/secret-lair-drop/card/sld-heroic-intervention-1872-rare"
   }
 ]

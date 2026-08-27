@@ -5683,5 +5683,49 @@
       "Standard",
       "Foil"
     ]
+  },
+  "685032e559fa724009569a0f": {
+    "name": "Zenos yae Galvus // Shinryu, Transcendent Rival",
+    "slug": "fin-zenos-yae-galvus-shinryu-transcendent-rival-384-rare",
+    "nameSlug": "zenos-yae-galvus-shinryu-transcendent-rival",
+    "expansion": "Final Fantasy",
+    "expansionSlug": "final-fantasy",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685032e559fa724009569a10": {
+    "name": "Venat, Heart of Hydaelyn // Hydaelyn, the Mothercrystal",
+    "slug": "fin-venat-heart-of-hydaelyn-hydaelyn-the-mothercrystal-329-rare",
+    "nameSlug": "venat-heart-of-hydaelyn-hydaelyn-the-mothercrystal",
+    "expansion": "Final Fantasy",
+    "expansionSlug": "final-fantasy",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "69ae3413b8aecc4cebe7ed30": {
+    "name": "North Wind Avatar",
+    "slug": "tmt-north-wind-avatar-248-mythic",
+    "nameSlug": "north-wind-avatar",
+    "expansion": "Teenage Mutant Ninja Turtles",
+    "expansionSlug": "teenage-mutant-ninja-turtles",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6850322e59fa724009567634": {
+    "name": "Tidespout Tyrant",
+    "slug": "rvr-tidespout-tyrant-320-rare",
+    "nameSlug": "tidespout-tyrant",
+    "expansion": "Ravnica Remastered",
+    "expansionSlug": "ravnica-remastered",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
