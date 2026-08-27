@@ -1,5 +1,31 @@
 [
   {
+    "name": "Nature's Lore",
+    "expansion": "Final Fantasy Commander",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 2.19,
+    "ref_price": 2.92,
+    "discount_pct": 25.0,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-08-26T21:42:26.408Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/final-fantasy-commander/card/fic-natures-lore-311-common"
+  },
+  {
+    "name": "Supreme Verdict",
+    "expansion": "Ravnica: Clue Edition",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 1.69,
+    "ref_price": 2.42,
+    "discount_pct": 30.2,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-08-26T21:53:52.657Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/ravnica-clue-edition/card/clu-supreme-verdict-211-rare"
+  },
+  {
     "name": "Merfolk of the Pearl Trident",
     "expansion": "Limited Edition Beta",
     "finish": "Standard",
@@ -1272,31 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-08-17T08:16:12.463Z",
     "url": "https://cardnexus.com/fr/explore/mtg/secret-lair-drop/card/sld-heroic-intervention-1872-rare"
-  },
-  {
-    "name": "Prismatic Ending",
-    "expansion": "Secret Lair Drop",
-    "finish": "Standard",
-    "language": "ja",
-    "price_paid": 2.02,
-    "ref_price": 2.63,
-    "discount_pct": 23.2,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-08-17T08:16:12.463Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/secret-lair-drop/card/sld-prismatic-ending-1868-rare"
-  },
-  {
-    "name": "Song of Creation",
-    "expansion": "Secret Lair Drop",
-    "finish": "Foil",
-    "language": "ja",
-    "price_paid": 5.35,
-    "ref_price": 6.82,
-    "discount_pct": 21.6,
-    "confident": false,
-    "seller_country": "FR",
-    "created_at": "2026-08-17T08:16:12.463Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/secret-lair-drop/card/sld-song-of-creation-1603-rare"
   }
 ]
