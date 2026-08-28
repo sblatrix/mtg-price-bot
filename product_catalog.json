@@ -5748,5 +5748,58 @@
     "finishes": [
       "Standard"
     ]
+  },
+  "68502c2d59fa72400954bebe": {
+    "name": "Chaos Warp",
+    "slug": "sta-chaos-warp-36-mythic",
+    "nameSlug": "chaos-warp",
+    "expansion": "Strixhaven Mystical Archive",
+    "expansionSlug": "strixhaven-mystical-archive",
+    "finishes": [
+      "Etched",
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502d7a59fa7240095542c8": {
+    "name": "Goblin War Drums",
+    "slug": "7ed-goblin-war-drums-194star-uncommon",
+    "nameSlug": "goblin-war-drums",
+    "expansion": "Seventh Edition",
+    "expansionSlug": "seventh-edition",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "685030bd59fa7240095618d6": {
+    "name": "Shivan Dragon",
+    "slug": "drb-shivan-dragon-13-rare",
+    "nameSlug": "shivan-dragon",
+    "expansion": "From the Vault: Dragons",
+    "expansionSlug": "from-the-vault-dragons",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "685032e659fa72400956a3c1": {
+    "name": "Zodiark, Umbral God",
+    "slug": "fin-zodiark-umbral-god-456-rare",
+    "nameSlug": "zodiark-umbral-god",
+    "expansion": "Final Fantasy",
+    "expansionSlug": "final-fantasy",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685032e459fa72400956958e": {
+    "name": "Vilis, Broker of Blood",
+    "slug": "sld-vilis-broker-of-blood-1567star-rare",
+    "nameSlug": "vilis-broker-of-blood",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil"
+    ]
   }
 }
