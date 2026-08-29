@@ -1,5 +1,31 @@
 [
   {
+    "name": "Sowing Mycospawn",
+    "format": "modern",
+    "rarity": "rare",
+    "pct_of_decks": 10,
+    "pct_change": 10,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-08-29T11:50:14.916661+00:00",
+    "url": "https://www.mtggoldfish.com/price/modern-horizons-3/170/sowing-mycospawn#paper",
+    "summary": "Nouvelle entrée en modern : 10% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Carpet of Flowers",
+    "format": "legacy",
+    "rarity": "rare",
+    "pct_of_decks": 10,
+    "pct_change": 10,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-08-29T11:50:14.916661+00:00",
+    "url": "https://www.mtggoldfish.com/price/doctor-who/229/carpet-of-flowers#paper",
+    "summary": "Nouvelle entrée en legacy : 10% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Emperor of Bones",
     "format": "modern",
     "rarity": "rare",
