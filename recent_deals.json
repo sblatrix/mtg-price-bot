@@ -1,5 +1,31 @@
 [
   {
+    "name": "Emeritus of Abundance // Regrowth",
+    "expansion": "Secrets of Strixhaven",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 2.37,
+    "ref_price": 3.12,
+    "discount_pct": 24.0,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-08-29T22:36:50.557Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/secrets-of-strixhaven/card/sos-emeritus-of-abundance-regrowth-145-mythic"
+  },
+  {
+    "name": "Professor Dellian Fel",
+    "expansion": "Secrets of Strixhaven",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 3.37,
+    "ref_price": 6.55,
+    "discount_pct": 48.5,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-08-29T22:36:50.557Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/secrets-of-strixhaven/card/sos-professor-dellian-fel-214-mythic"
+  },
+  {
     "name": "Isshin, Two Heavens as One",
     "expansion": "Kamigawa: Neon Dynasty",
     "finish": "Foil",
@@ -1272,31 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-08-19T15:10:50.253Z",
     "url": "https://cardnexus.com/fr/explore/mtg/streets-of-new-capenna/card/snc-slip-out-the-back-62-uncommon"
-  },
-  {
-    "name": "An Offer You Can't Refuse",
-    "expansion": "Streets of New Capenna",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 1.2,
-    "ref_price": 2.51,
-    "discount_pct": 52.2,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-08-19T15:10:50.253Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/streets-of-new-capenna/card/snc-an-offer-you-cant-refuse-51-uncommon"
-  },
-  {
-    "name": "Stasis",
-    "expansion": "Fourth Edition",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 6.03,
-    "ref_price": 7.6,
-    "discount_pct": 20.7,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-08-17T19:08:22.738Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/fourth-edition/card/4ed-stasis-104-rare"
   }
 ]
