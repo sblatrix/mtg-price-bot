@@ -10070,5 +10070,65 @@
   "Dwarven Bloodboiler|": {
     "rarity": "rare",
     "set": null
+  },
+  "Icetill Explorer [EOE] (F)|": {
+    "rarity": null,
+    "set": null
+  },
+  "Winternight Stories|tdm": {
+    "rarity": "rare",
+    "set": "tdm"
+  },
+  "Force of Will|2xm": {
+    "rarity": "mythic",
+    "set": "2xm"
+  },
+  "Dark Ritual|dkm": {
+    "rarity": "common",
+    "set": "dkm"
+  },
+  "Bilbo, Thief in the Night <019de536-00a1-72f4-9738-ec7b1a28dc40>|hob": {
+    "rarity": null,
+    "set": "hob"
+  },
+  "Karn, the Great Creator|war": {
+    "rarity": "rare",
+    "set": "war"
+  },
+  "Vren, the Relentless|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Talisman of Curiosity|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Roast|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Emry, Lurker Of The Loch|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Fireblast|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Eidolon of the Great Revel|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Dimir Aqueduct|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Norman Osborn|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Night of Souls' Betrayal|": {
+    "rarity": "rare",
+    "set": null
   }
 }
