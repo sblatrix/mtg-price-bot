@@ -1,5 +1,31 @@
 [
   {
+    "name": "Silent-Blade Oni",
+    "expansion": "Outlaws of Thunder Junction Commander",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 2.5,
+    "ref_price": 3.32,
+    "discount_pct": 24.7,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-08-31T05:57:31.830Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/outlaws-of-thunder-junction-commander/card/otc-silent-blade-oni-241-rare"
+  },
+  {
+    "name": "Nazgûl",
+    "expansion": "The Lord of the Rings: Tales of Middle-earth",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 15.0,
+    "ref_price": 20.66,
+    "discount_pct": 27.4,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-08-31T10:16:04.630Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/the-lord-of-the-rings-tales-of-middle-earth/card/ltr-nazgul-100-uncommon"
+  },
+  {
     "name": "Ruinous Ultimatum",
     "expansion": "Ikoria: Lair of Behemoths",
     "finish": "Standard",
@@ -1272,31 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-08-20T07:01:47.053Z",
     "url": "https://cardnexus.com/fr/explore/mtg/commander-2015/card/c15-fate-unraveler-126-rare"
-  },
-  {
-    "name": "Nazgûl",
-    "expansion": "The Lord of the Rings: Tales of Middle-earth",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 14.13,
-    "ref_price": 24.96,
-    "discount_pct": 43.4,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-08-20T05:21:52.920Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/the-lord-of-the-rings-tales-of-middle-earth/card/ltr-nazgul-338-uncommon"
-  },
-  {
-    "name": "Approach of the Second Sun",
-    "expansion": "The List",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 3.0,
-    "ref_price": 3.76,
-    "discount_pct": 20.2,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-08-19T22:43:46.783Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/the-list/card/plst-approach-of-the-second-sun-akh-4-rare"
   }
 ]

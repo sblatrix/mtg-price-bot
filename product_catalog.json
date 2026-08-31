@@ -5878,5 +5878,26 @@
       "Standard",
       "Foil"
     ]
+  },
+  "68502eef59fa72400955b129": {
+    "name": "Nazgûl",
+    "slug": "ltr-nazgul-100-uncommon",
+    "nameSlug": "nazgul",
+    "expansion": "The Lord of the Rings: Tales of Middle-earth",
+    "expansionSlug": "the-lord-of-the-rings-tales-of-middle-earth",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685030bd59fa724009561792": {
+    "name": "Silent-Blade Oni",
+    "slug": "otc-silent-blade-oni-241-rare",
+    "nameSlug": "silent-blade-oni",
+    "expansion": "Outlaws of Thunder Junction Commander",
+    "expansionSlug": "outlaws-of-thunder-junction-commander",
+    "finishes": [
+      "Standard"
+    ]
   }
 }
