@@ -5856,5 +5856,27 @@
       "Standard",
       "Foil"
     ]
+  },
+  "68502c2f59fa72400954d10f": {
+    "name": "Bruenor Battlehammer",
+    "slug": "afr-bruenor-battlehammer-337-uncommon",
+    "nameSlug": "bruenor-battlehammer",
+    "expansion": "Adventures in the Forgotten Realms",
+    "expansionSlug": "adventures-in-the-forgotten-realms",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850301759fa724009560cea": {
+    "name": "Ruinous Ultimatum",
+    "slug": "iko-ruinous-ultimatum-204-rare",
+    "nameSlug": "ruinous-ultimatum",
+    "expansion": "Ikoria: Lair of Behemoths",
+    "expansionSlug": "ikoria-lair-of-behemoths",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
