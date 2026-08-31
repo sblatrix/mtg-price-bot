@@ -1,5 +1,44 @@
 [
   {
+    "name": "Beledros Witherbloom",
+    "expansion": "Strixhaven: School of Mages",
+    "finish": "Standard",
+    "language": "ja",
+    "price_paid": 3.85,
+    "ref_price": 8.98,
+    "discount_pct": 57.1,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-08-31T13:10:09.361Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/strixhaven-school-of-mages/card/stx-beledros-witherbloom-282-mythic"
+  },
+  {
+    "name": "Sundown Pass",
+    "expansion": "Innistrad: Crimson Vow",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 4.0,
+    "ref_price": 5.83,
+    "discount_pct": 31.4,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-08-31T13:35:56.334Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/innistrad-crimson-vow/card/vow-sundown-pass-285-rare"
+  },
+  {
+    "name": "Xorn",
+    "expansion": "Adventures in the Forgotten Realms",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 8.0,
+    "ref_price": 10.09,
+    "discount_pct": 20.7,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-08-31T14:01:57.427Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/adventures-in-the-forgotten-realms/card/afr-xorn-322-rare"
+  },
+  {
     "name": "Silent-Blade Oni",
     "expansion": "Outlaws of Thunder Junction Commander",
     "finish": "Standard",
@@ -1259,44 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-08-20T13:39:56.660Z",
     "url": "https://cardnexus.com/fr/explore/mtg/foundations/card/fdn-archmage-of-runes-304-rare"
-  },
-  {
-    "name": "Experimental Confectioner",
-    "expansion": "Wilds of Eldraine",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 3.5,
-    "ref_price": 4.66,
-    "discount_pct": 24.9,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-08-20T09:34:48.447Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/wilds-of-eldraine/card/woe-experimental-confectioner-314-uncommon"
-  },
-  {
-    "name": "Adeline, Resplendent Cathar",
-    "expansion": "Innistrad: Midnight Hunt",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 2.0,
-    "ref_price": 2.74,
-    "discount_pct": 27.0,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-08-20T09:48:15.439Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/innistrad-midnight-hunt/card/mid-adeline-resplendent-cathar-1-rare"
-  },
-  {
-    "name": "Fate Unraveler",
-    "expansion": "Commander 2015",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 1.5,
-    "ref_price": 2.6,
-    "discount_pct": 42.3,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-08-20T07:01:47.053Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/commander-2015/card/c15-fate-unraveler-126-rare"
   }
 ]

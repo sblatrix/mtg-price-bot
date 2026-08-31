@@ -5899,5 +5899,38 @@
     "finishes": [
       "Standard"
     ]
+  },
+  "685032e559fa724009569e95": {
+    "name": "Xorn",
+    "slug": "afr-xorn-322-rare",
+    "nameSlug": "xorn",
+    "expansion": "Adventures in the Forgotten Realms",
+    "expansionSlug": "adventures-in-the-forgotten-realms",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850317659fa7240095661fd": {
+    "name": "Sundown Pass",
+    "slug": "vow-sundown-pass-285-rare",
+    "nameSlug": "sundown-pass",
+    "expansion": "Innistrad: Crimson Vow",
+    "expansionSlug": "innistrad-crimson-vow",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502bc959fa72400954aab2": {
+    "name": "Beledros Witherbloom",
+    "slug": "stx-beledros-witherbloom-282-mythic",
+    "nameSlug": "beledros-witherbloom",
+    "expansion": "Strixhaven: School of Mages",
+    "expansionSlug": "strixhaven-school-of-mages",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
