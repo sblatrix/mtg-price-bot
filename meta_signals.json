@@ -1,5 +1,31 @@
 [
   {
+    "name": "Languish",
+    "format": "pioneer",
+    "rarity": "rare",
+    "pct_of_decks": 11,
+    "pct_change": 11,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-09-01T10:36:06.007261+00:00",
+    "url": "https://www.mtggoldfish.com/price/the-lord-of-the-rings-tales-of-middle-earth-commander/202/languish#paper",
+    "summary": "Nouvelle entrée en pioneer : 11% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Karn, the Great Creator",
+    "format": "legacy",
+    "rarity": "rare",
+    "pct_of_decks": 11,
+    "pct_change": 11,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-09-01T10:36:06.007261+00:00",
+    "url": "https://www.mtggoldfish.com/price/war-of-the-spark/1/karn-the-great-creator#paper",
+    "summary": "Nouvelle entrée en legacy : 11% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Mossborn Hydra",
     "format": "standard",
     "rarity": "rare",
