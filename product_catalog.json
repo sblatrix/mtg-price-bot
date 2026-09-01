@@ -5943,5 +5943,38 @@
       "Standard",
       "Foil"
     ]
+  },
+  "68502e6d59fa724009559aa8": {
+    "name": "Karplusan Forest",
+    "slug": "dmu-karplusan-forest-250-rare",
+    "nameSlug": "karplusan-forest",
+    "expansion": "Dominaria United",
+    "expansionSlug": "dominaria-united",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685030bd59fa7240095617d3": {
+    "name": "Shivan Devastator",
+    "slug": "dmu-shivan-devastator-410-mythic",
+    "nameSlug": "shivan-devastator",
+    "expansion": "Dominaria United",
+    "expansionSlug": "dominaria-united",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850323059fa72400956884d": {
+    "name": "Tiamat",
+    "slug": "afr-tiamat-298-mythic",
+    "nameSlug": "tiamat",
+    "expansion": "Adventures in the Forgotten Realms",
+    "expansionSlug": "adventures-in-the-forgotten-realms",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
