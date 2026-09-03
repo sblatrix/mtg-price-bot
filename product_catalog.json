@@ -6020,5 +6020,27 @@
       "Standard",
       "Foil"
     ]
+  },
+  "696569d48b5e9ad6eb7b942a": {
+    "name": "Sunderflock",
+    "slug": "ecl-sunderflock-74-rare",
+    "nameSlug": "sunderflock",
+    "expansion": "Lorwyn Eclipsed",
+    "expansionSlug": "lorwyn-eclipsed",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6a34494763b28b5e34f044ce": {
+    "name": "Training Compound",
+    "slug": "msh-training-compound-275-rare",
+    "nameSlug": "training-compound",
+    "expansion": "Marvel Super Heroes",
+    "expansionSlug": "marvel-super-heroes",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
   }
 }
