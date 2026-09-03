@@ -5987,5 +5987,38 @@
       "Foil",
       "Standard"
     ]
+  },
+  "6a34492f56c7b35513be7ecb": {
+    "name": "Arcane Denial",
+    "slug": "msc-arcane-denial-147-common",
+    "nameSlug": "arcane-denial",
+    "expansion": "Marvel Super Heroes Commander",
+    "expansionSlug": "marvel-super-heroes-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "69e1040993c168406dc0b444": {
+    "name": "Crop Rotation",
+    "slug": "soa-crop-rotation-51-rare",
+    "nameSlug": "crop-rotation",
+    "expansion": "Secrets of Strixhaven Mystical Archive",
+    "expansionSlug": "secrets-of-strixhaven-mystical-archive",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502d0459fa7240095509f2": {
+    "name": "Echoes of Eternity",
+    "slug": "mh3-echoes-of-eternity-4-rare",
+    "nameSlug": "echoes-of-eternity",
+    "expansion": "Modern Horizons 3",
+    "expansionSlug": "modern-horizons-3",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }

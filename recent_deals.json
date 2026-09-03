@@ -1,5 +1,57 @@
 [
   {
+    "name": "Echoes of Eternity",
+    "expansion": "Modern Horizons 3",
+    "finish": "Foil",
+    "language": "fr",
+    "price_paid": 1.07,
+    "ref_price": 2,
+    "discount_pct": 46.5,
+    "confident": false,
+    "seller_country": "FR",
+    "created_at": "2026-09-01T10:29:42.098Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/modern-horizons-3/card/mh3-echoes-of-eternity-4-rare"
+  },
+  {
+    "name": "Crop Rotation",
+    "expansion": "Secrets of Strixhaven Mystical Archive",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 3.0,
+    "ref_price": 3.93,
+    "discount_pct": 23.7,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-09-01T10:53:42.463Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/secrets-of-strixhaven-mystical-archive/card/soa-crop-rotation-51-rare"
+  },
+  {
+    "name": "Bilbo, Thief in the Night",
+    "expansion": "The Hobbit",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 13.0,
+    "ref_price": 16.3,
+    "discount_pct": 20.2,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-09-01T16:36:59.708Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/the-hobbit/card/hob-bilbo-thief-in-the-night-33-mythic"
+  },
+  {
+    "name": "Arcane Denial",
+    "expansion": "Marvel Super Heroes Commander",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 1.25,
+    "ref_price": 2.01,
+    "discount_pct": 37.8,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-09-03T02:00:00.421Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/marvel-super-heroes-commander/card/msc-arcane-denial-147-common"
+  },
+  {
     "name": "Germination Practicum",
     "expansion": "Secrets of Strixhaven",
     "finish": "Foil",
@@ -1246,57 +1298,5 @@
     "seller_country": "CA",
     "created_at": "2026-08-22T02:34:39.352Z",
     "url": "https://cardnexus.com/fr/explore/mtg/throne-of-eldraine/card/eld-brazen-borrower-petty-theft-39-mythic"
-  },
-  {
-    "name": "Winternight Stories",
-    "expansion": "Tarkir: Dragonstorm",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 1.65,
-    "ref_price": 2.18,
-    "discount_pct": 24.3,
-    "confident": true,
-    "seller_country": "CA",
-    "created_at": "2026-08-22T02:34:39.352Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/tarkir-dragonstorm/card/tdm-winternight-stories-67-rare"
-  },
-  {
-    "name": "Stasis",
-    "expansion": "Fourth Edition",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 6.03,
-    "ref_price": 7.7,
-    "discount_pct": 21.7,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-08-20T13:44:27.307Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/fourth-edition/card/4ed-stasis-104-rare"
-  },
-  {
-    "name": "Norman Osborn // Green Goblin",
-    "expansion": "Marvel's Spider-Man",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 6.41,
-    "ref_price": 10.62,
-    "discount_pct": 39.6,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-08-21T17:00:08.112Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/marvels-spider-man/card/spm-norman-osborn-green-goblin-220-mythic"
-  },
-  {
-    "name": "Murmuring Mystic",
-    "expansion": "Special Guests",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 3.62,
-    "ref_price": 5.62,
-    "discount_pct": 35.6,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-08-20T08:24:51.294Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/special-guests/card/spg-murmuring-mystic-151-mythic"
   }
 ]
