@@ -10406,5 +10406,41 @@
   "Tibalt's Trickery|": {
     "rarity": "rare",
     "set": null
+  },
+  "Cori-Steel Cutter <borderless>|tdm": {
+    "rarity": null,
+    "set": "tdm"
+  },
+  "Mycosynth Lattice|plist": {
+    "rarity": null,
+    "set": "plist"
+  },
+  "Feed the Swarm|scd": {
+    "rarity": "common",
+    "set": "scd"
+  },
+  "Hop to It|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Song of Totentanz|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Arcane Omens|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Tezzeret the Seeker|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Krenko's Buzzcrusher|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "The Great Goblin|": {
+    "rarity": "rare",
+    "set": null
   }
 }

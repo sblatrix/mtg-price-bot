@@ -1,5 +1,18 @@
 [
   {
+    "name": "Chromatic Lantern",
+    "format": "commander",
+    "rarity": "rare",
+    "pct_of_decks": 8,
+    "pct_change": 8,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-09-03T10:12:04.413949+00:00",
+    "url": "https://www.mtggoldfish.com/price/lorwyn-eclipsed-commander/138/chromatic-lantern#paper",
+    "summary": "Nouvelle entrée en commander : 8% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Languish",
     "format": "pioneer",
     "rarity": "rare",
