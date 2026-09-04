@@ -10442,5 +10442,77 @@
   "The Great Goblin|": {
     "rarity": "rare",
     "set": null
+  },
+  "Enduring Curiosity <extended>|dsk": {
+    "rarity": null,
+    "set": "dsk"
+  },
+  "Solitude <MH3 Special Guest>|spg": {
+    "rarity": null,
+    "set": "spg"
+  },
+  "Cori-Steel Cutter|tdm": {
+    "rarity": "rare",
+    "set": "tdm"
+  },
+  "Ugin, Eye of the Storms|tdm": {
+    "rarity": "mythic",
+    "set": "tdm"
+  },
+  "Feed the Swarm|plist": {
+    "rarity": null,
+    "set": "plist"
+  },
+  "Generous Gift|scd": {
+    "rarity": "uncommon",
+    "set": "scd"
+  },
+  "Victimize|cns": {
+    "rarity": "uncommon",
+    "set": "cns"
+  },
+  "Nighthowl Pursuer|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Desolation Prowler|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Corpses of the Lost|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Spectral Interference|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Steamcore Scholar|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Run Afoul|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Personal Tutor|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Remote Farm|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Aang|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Mind Twist|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Waterlogged Grove|": {
+    "rarity": "rare",
+    "set": null
   }
 }

@@ -1,5 +1,44 @@
 [
   {
+    "name": "Cori-Steel Cutter",
+    "format": "modern",
+    "rarity": "rare",
+    "pct_of_decks": 10,
+    "pct_change": 10,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-09-04T10:01:57.433035+00:00",
+    "url": "https://www.mtggoldfish.com/price/tarkir-dragonstorm/103/cori-steel-cutter#paper",
+    "summary": "Nouvelle entrée en modern : 10% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Emperor of Bones",
+    "format": "modern",
+    "rarity": "rare",
+    "pct_of_decks": 10,
+    "pct_change": 10,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-09-04T10:01:57.433035+00:00",
+    "url": "https://www.mtggoldfish.com/price/modern-horizons-3/90/emperor-of-bones#paper",
+    "summary": "Nouvelle entrée en modern : 10% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Ugin, Eye of the Storms",
+    "format": "legacy",
+    "rarity": "mythic",
+    "pct_of_decks": 11,
+    "pct_change": 11,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-09-04T10:01:57.433035+00:00",
+    "url": "https://www.mtggoldfish.com/price/tarkir-dragonstorm/1/ugin-eye-of-the-storms#paper",
+    "summary": "Nouvelle entrée en legacy : 11% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Chromatic Lantern",
     "format": "commander",
     "rarity": "rare",
