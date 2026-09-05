@@ -6053,5 +6053,26 @@
       "Foil",
       "Standard"
     ]
+  },
+  "685030c059fa724009563a07": {
+    "name": "Sol Ring",
+    "slug": "40k-sol-ring-249-uncommon",
+    "nameSlug": "sol-ring",
+    "expansion": "Warhammer 40,000 Commander",
+    "expansionSlug": "warhammer-40000-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850323059fa7240095688be": {
+    "name": "Traumatize",
+    "slug": "m11-traumatize-77-rare",
+    "nameSlug": "traumatize",
+    "expansion": "Magic 2011",
+    "expansionSlug": "magic-2011",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
   }
 }
