@@ -1,5 +1,18 @@
 [
   {
+    "name": "Enduring Curiosity",
+    "format": "standard",
+    "rarity": "rare",
+    "pct_of_decks": 14,
+    "pct_change": 14,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-09-05T09:31:20.670447+00:00",
+    "url": "https://www.mtggoldfish.com/price/duskmourn-house-of-horror/51/enduring-curiosity#paper",
+    "summary": "Nouvelle entrée en standard : 14% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Cori-Steel Cutter",
     "format": "modern",
     "rarity": "rare",
