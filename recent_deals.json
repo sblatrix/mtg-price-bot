@@ -1,5 +1,18 @@
 [
   {
+    "name": "The Lord of the Eagles",
+    "expansion": "The Hobbit",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 3.23,
+    "ref_price": 4.13,
+    "discount_pct": 21.8,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-09-05T15:22:34.749Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/the-hobbit/card/hob-the-lord-of-the-eagles-240-rare"
+  },
+  {
     "name": "Passionate Archaeologist",
     "expansion": "Commander Legends: Battle for Baldur's Gate",
     "finish": "Standard",
@@ -1285,18 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-08-22T22:12:37.375Z",
     "url": "https://cardnexus.com/fr/explore/mtg/ikoria-lair-of-behemoths/card/iko-zilortha-strength-incarnate-275-mythic"
-  },
-  {
-    "name": "Xantid Swarm",
-    "expansion": "Scourge",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 6.0,
-    "ref_price": 7.58,
-    "discount_pct": 20.8,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-08-23T14:42:56.867Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/scourge/card/scg-xantid-swarm-135-rare"
   }
 ]
