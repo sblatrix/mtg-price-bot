@@ -6172,5 +6172,27 @@
       "Foil",
       "Standard"
     ]
+  },
+  "68ee1d27b37fd6bebc325f69": {
+    "name": "Blood Crypt",
+    "slug": "ecl-blood-crypt-262-rare",
+    "nameSlug": "blood-crypt",
+    "expansion": "Lorwyn Eclipsed",
+    "expansionSlug": "lorwyn-eclipsed",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68ee1d27b37fd6bebc325fbb": {
+    "name": "Formidable Speaker",
+    "slug": "ecl-formidable-speaker-176-rare",
+    "nameSlug": "formidable-speaker",
+    "expansion": "Lorwyn Eclipsed",
+    "expansionSlug": "lorwyn-eclipsed",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
   }
 }
