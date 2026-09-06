@@ -6204,5 +6204,27 @@
     "finishes": [
       "Standard"
     ]
+  },
+  "6a7b05ab608b51d4198e7ee9": {
+    "name": "Fateful Discovery",
+    "slug": "hob-fateful-discovery-40-mythic",
+    "nameSlug": "fateful-discovery",
+    "expansion": "The Hobbit",
+    "expansionSlug": "the-hobbit",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6850322e59fa724009567103": {
+    "name": "Tribute to the World Tree",
+    "slug": "mom-tribute-to-the-world-tree-211-rare",
+    "nameSlug": "tribute-to-the-world-tree",
+    "expansion": "March of the Machine",
+    "expansionSlug": "march-of-the-machine",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
