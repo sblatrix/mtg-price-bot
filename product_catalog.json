@@ -6226,5 +6226,47 @@
       "Standard",
       "Foil"
     ]
+  },
+  "6a7b05ac2d93e49e6189b7df": {
+    "name": "Inside Information",
+    "slug": "hob-inside-information-76-mythic",
+    "nameSlug": "inside-information",
+    "expansion": "The Hobbit",
+    "expansionSlug": "the-hobbit",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502eee59fa72400955a62c": {
+    "name": "Manor Gate",
+    "slug": "clb-manor-gate-356-common",
+    "nameSlug": "manor-gate",
+    "expansion": "Commander Legends: Battle for Baldur's Gate",
+    "expansionSlug": "commander-legends-battle-for-baldurs-gate",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502eee59fa72400955a655": {
+    "name": "Manor Gate",
+    "slug": "plst-manor-gate-clb-356-common",
+    "nameSlug": "manor-gate",
+    "expansion": "The List",
+    "expansionSlug": "the-list",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "69837107345cd38d927063ff": {
+    "name": "Edge of Eternities Bundle",
+    "slug": "eoe-edge-of-eternities-bundle",
+    "nameSlug": "edge-of-eternities-bundle",
+    "expansion": "Edge of Eternities",
+    "expansionSlug": "edge-of-eternities",
+    "finishes": [
+      "Standard"
+    ]
   }
 }
