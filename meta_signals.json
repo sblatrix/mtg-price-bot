@@ -1,5 +1,18 @@
 [
   {
+    "name": "Sunderflock",
+    "format": "standard",
+    "rarity": "rare",
+    "pct_of_decks": 12,
+    "pct_change": 12,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-09-07T10:50:11.098064+00:00",
+    "url": "https://www.mtggoldfish.com/price/lorwyn-eclipsed/74/sunderflock#paper",
+    "summary": "Nouvelle entrée en standard : 12% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Mossborn Hydra",
     "format": "standard",
     "rarity": "rare",

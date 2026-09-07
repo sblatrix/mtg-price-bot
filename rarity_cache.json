@@ -10598,5 +10598,101 @@
   "Winter, Cynical Opportunist|": {
     "rarity": "mythic",
     "set": null
+  },
+  "Spell Pierce|dft": {
+    "rarity": "uncommon",
+    "set": "dft"
+  },
+  "Pyroblast|5ed": {
+    "rarity": "uncommon",
+    "set": "5ed"
+  },
+  "Three Visits|fic": {
+    "rarity": "uncommon",
+    "set": "fic"
+  },
+  "Garruk's Uprising|plist": {
+    "rarity": null,
+    "set": "plist"
+  },
+  "Victimize|ema": {
+    "rarity": "uncommon",
+    "set": "ema"
+  },
+  "Witherbloom Apprentice|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Living Wish|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Boros Garrison|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Embereth Veteran|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Bump in the Night|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Quicksilver, Brash Blur|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Kavaron Harrier|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Falkenrath Pit Fighter|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Rakdos Cackler|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Forked Bolt|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Pillar of Flame|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Tyrant's Choice|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Plasma Bolt|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Ranger's Firebrand|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Enter the Infinite|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Academy Rector|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Ancient Spring|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Irrigation Ditch|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Queen Marchesa|": {
+    "rarity": "rare",
+    "set": null
   }
 }
