@@ -1,5 +1,44 @@
 [
   {
+    "name": "Cori-Steel Cutter",
+    "format": "modern",
+    "rarity": "rare",
+    "pct_of_decks": 11,
+    "pct_change": 11,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-09-08T10:09:15.686110+00:00",
+    "url": "https://www.mtggoldfish.com/price/tarkir-dragonstorm/103/cori-steel-cutter#paper",
+    "summary": "Nouvelle entrée en modern : 11% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Maelstrom Pulse",
+    "format": "pioneer",
+    "rarity": "rare",
+    "pct_of_decks": 11,
+    "pct_change": 11,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-09-08T10:09:15.686110+00:00",
+    "url": "https://www.mtggoldfish.com/price/foundations/661/maelstrom-pulse#paper",
+    "summary": "Nouvelle entrée en pioneer : 11% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Blasphemous Act",
+    "format": "commander",
+    "rarity": "rare",
+    "pct_of_decks": 17,
+    "pct_change": 17,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-09-08T10:09:15.686110+00:00",
+    "url": "https://www.mtggoldfish.com/price/lost-caverns-of-ixalan-commander/216/blasphemous-act#paper",
+    "summary": "Nouvelle entrée en commander : 17% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Sunderflock",
     "format": "standard",
     "rarity": "rare",
