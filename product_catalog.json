@@ -6300,5 +6300,47 @@
     "finishes": [
       "Foil"
     ]
+  },
+  "6850301759fa7240095613ce": {
+    "name": "Reality Shift",
+    "slug": "sld-reality-shift-1781-rare",
+    "nameSlug": "reality-shift",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d0559fa7240095516a5": {
+    "name": "Eldritch Evolution",
+    "slug": "inr-eldritch-evolution-195-rare",
+    "nameSlug": "eldritch-evolution",
+    "expansion": "Innistrad Remastered",
+    "expansionSlug": "innistrad-remastered",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502bc759fa7240095496e7": {
+    "name": "Anowon, the Ruin Sage",
+    "slug": "voc-anowon-the-ruin-sage-118-rare",
+    "nameSlug": "anowon-the-ruin-sage",
+    "expansion": "Crimson Vow Commander",
+    "expansionSlug": "crimson-vow-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502ef059fa72400955bb39": {
+    "name": "Malakir Bloodwitch",
+    "slug": "voc-malakir-bloodwitch-131-rare",
+    "nameSlug": "malakir-bloodwitch",
+    "expansion": "Crimson Vow Commander",
+    "expansionSlug": "crimson-vow-commander",
+    "finishes": [
+      "Standard"
+    ]
   }
 }
