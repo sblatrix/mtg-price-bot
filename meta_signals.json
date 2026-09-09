@@ -1,5 +1,31 @@
 [
   {
+    "name": "Winternight Stories",
+    "format": "standard",
+    "rarity": "rare",
+    "pct_of_decks": 13,
+    "pct_change": 13,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-09-09T10:12:08.957808+00:00",
+    "url": "https://www.mtggoldfish.com/price/tarkir-dragonstorm/67/winternight-stories#paper",
+    "summary": "Nouvelle entrée en standard : 13% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Abrupt Decay",
+    "format": "pioneer",
+    "rarity": "rare",
+    "pct_of_decks": 27,
+    "pct_change": 27,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-09-09T10:12:08.957808+00:00",
+    "url": "https://www.mtggoldfish.com/price/guilds-of-ravnica-guild-kits/57/abrupt-decay#paper",
+    "summary": "Nouvelle entrée en pioneer : 27% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Cori-Steel Cutter",
     "format": "modern",
     "rarity": "rare",
