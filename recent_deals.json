@@ -1,5 +1,18 @@
 [
   {
+    "name": "Cut Down",
+    "expansion": "Dominaria United",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 1.5,
+    "ref_price": 2.14,
+    "discount_pct": 29.9,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-09-10T16:55:48.286Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/dominaria-united/card/dmu-cut-down-432-uncommon"
+  },
+  {
     "name": "Ancient Bronze Dragon",
     "expansion": "Commander Legends: Battle for Baldur's Gate",
     "finish": "Standard",
@@ -1285,18 +1298,5 @@
     "seller_country": "GB",
     "created_at": "2026-08-26T16:15:34.274Z",
     "url": "https://cardnexus.com/fr/explore/mtg/modern-horizons-3-promos/card/pmh3-emperor-of-bones-90s-rare"
-  },
-  {
-    "name": "Crop Rotation",
-    "expansion": "Duel Decks: Nissa vs. Ob Nixilis",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 2.96,
-    "ref_price": 3.88,
-    "discount_pct": 23.7,
-    "confident": true,
-    "seller_country": "GB",
-    "created_at": "2026-08-26T16:15:34.274Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/duel-decks-nissa-vs-ob-nixilis/card/ddr-crop-rotation-7-common"
   }
 ]
