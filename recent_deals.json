@@ -1,5 +1,31 @@
 [
   {
+    "name": "Joraga Warcaller",
+    "expansion": "Worldwake Promos",
+    "finish": "Foil",
+    "language": "en",
+    "price_paid": 3.0,
+    "ref_price": 4.21,
+    "discount_pct": 28.7,
+    "confident": false,
+    "seller_country": "FR",
+    "created_at": "2026-09-11T15:38:11.088Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/worldwake-promos/card/pwwk-joraga-warcaller-106star-rare"
+  },
+  {
+    "name": "Coat of Arms",
+    "expansion": "Ninth Edition",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 6.0,
+    "ref_price": 8.59,
+    "discount_pct": 30.2,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-09-11T15:38:24.367Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/ninth-edition/card/9ed-coat-of-arms-291-rare"
+  },
+  {
     "name": "Cut Down",
     "expansion": "Dominaria United",
     "finish": "Standard",
@@ -1272,31 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-08-26T20:56:31.959Z",
     "url": "https://cardnexus.com/fr/explore/mtg/limited-edition-beta/card/leb-merfolk-of-the-pearl-trident-67-common"
-  },
-  {
-    "name": "Dark Ritual",
-    "expansion": "The List",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 4.79,
-    "ref_price": 7.84,
-    "discount_pct": 38.9,
-    "confident": true,
-    "seller_country": "GB",
-    "created_at": "2026-08-26T16:15:34.274Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/the-list/card/plst-dark-ritual-a25-82-common"
-  },
-  {
-    "name": "Emperor of Bones",
-    "expansion": "Modern Horizons 3 Promos",
-    "finish": "Foil",
-    "language": "en",
-    "price_paid": 4.15,
-    "ref_price": 6.76,
-    "discount_pct": 38.6,
-    "confident": false,
-    "seller_country": "GB",
-    "created_at": "2026-08-26T16:15:34.274Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/modern-horizons-3-promos/card/pmh3-emperor-of-bones-90s-rare"
   }
 ]
