@@ -10946,5 +10946,33 @@
   "Garruk Wildspeaker|": {
     "rarity": "mythic",
     "set": null
+  },
+  "Cruelclaw's Heist|blb": {
+    "rarity": "rare",
+    "set": "blb"
+  },
+  "Dark Ritual|te": {
+    "rarity": null,
+    "set": "te"
+  },
+  "Memory Guardian|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Pacification Array|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Clockwork Percussionist|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Bitterbloom Bearer|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Fabricate|": {
+    "rarity": "uncommon",
+    "set": null
   }
 }
