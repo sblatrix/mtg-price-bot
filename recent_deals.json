@@ -1,5 +1,31 @@
 [
   {
+    "name": "Karn, Silver Golem",
+    "expansion": "Urza's Saga",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 10.0,
+    "ref_price": 14.32,
+    "discount_pct": 30.2,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-09-12T16:45:37.303Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/urzas-saga/card/usg-karn-silver-golem-298-rare"
+  },
+  {
+    "name": "Chord of Calling",
+    "expansion": "Secret Lair Drop",
+    "finish": "Standard",
+    "language": "ja",
+    "price_paid": 16.85,
+    "ref_price": 23.4,
+    "discount_pct": 28.0,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-09-12T18:00:39.528Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/secret-lair-drop/card/sld-chord-of-calling-1595-rare"
+  },
+  {
     "name": "Secret of Strixhaven Prerelease Lorehold",
     "expansion": "Secrets of Strixhaven",
     "finish": "Standard",
@@ -1272,31 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-08-28T04:09:44.967Z",
     "url": "https://cardnexus.com/fr/explore/mtg/final-fantasy/card/fin-zodiark-umbral-god-456-rare"
-  },
-  {
-    "name": "Shivan Dragon",
-    "expansion": "From the Vault: Dragons",
-    "finish": "Foil",
-    "language": "en",
-    "price_paid": 2.49,
-    "ref_price": 3.71,
-    "discount_pct": 32.9,
-    "confident": false,
-    "seller_country": "FR",
-    "created_at": "2026-08-28T04:34:58.026Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/from-the-vault-dragons/card/drb-shivan-dragon-13-rare"
-  },
-  {
-    "name": "Goblin War Drums",
-    "expansion": "Seventh Edition",
-    "finish": "Foil",
-    "language": "fr",
-    "price_paid": 8.5,
-    "ref_price": 13.24,
-    "discount_pct": 35.8,
-    "confident": false,
-    "seller_country": "FR",
-    "created_at": "2026-08-28T04:37:07.185Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/seventh-edition/card/7ed-goblin-war-drums-194star-uncommon"
   }
 ]
