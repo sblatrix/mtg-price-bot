@@ -6465,5 +6465,27 @@
       "Standard",
       "Foil"
     ]
+  },
+  "68502c2e59fa72400954cc7c": {
+    "name": "Blade of Selves",
+    "slug": "clb-blade-of-selves-301-rare",
+    "nameSlug": "blade-of-selves",
+    "expansion": "Commander Legends: Battle for Baldur's Gate",
+    "expansionSlug": "commander-legends-battle-for-baldurs-gate",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502d7c59fa724009555217": {
+    "name": "Gisa, Glorious Resurrector",
+    "slug": "mid-gisa-glorious-resurrector-103-rare",
+    "nameSlug": "gisa-glorious-resurrector",
+    "expansion": "Innistrad: Midnight Hunt",
+    "expansionSlug": "innistrad-midnight-hunt",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
