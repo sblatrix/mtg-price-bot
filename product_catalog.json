@@ -6531,5 +6531,70 @@
       "Standard",
       "Foil"
     ]
+  },
+  "68502c3059fa72400954de03": {
+    "name": "Bonus Round",
+    "slug": "bbd-bonus-round-56-rare",
+    "nameSlug": "bonus-round",
+    "expansion": "Battlebond",
+    "expansionSlug": "battlebond",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c9559fa72400954e1ec": {
+    "name": "Dance with Calamity",
+    "slug": "moc-dance-with-calamity-116-rare",
+    "nameSlug": "dance-with-calamity",
+    "expansion": "March of the Machine Commander",
+    "expansionSlug": "march-of-the-machine-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "686d780295daf8e6b44c419d": {
+    "name": "Amy Rose",
+    "slug": "sld-amy-rose-2083-mythic",
+    "nameSlug": "amy-rose",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502e6c59fa724009558a81": {
+    "name": "Leyline of the Guildpact",
+    "slug": "pmkm-leyline-of-the-guildpact-217p-rare",
+    "nameSlug": "leyline-of-the-guildpact",
+    "expansion": "Murders at Karlov Manor Promos",
+    "expansionSlug": "murders-at-karlov-manor-promos",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502e6d59fa724009559767": {
+    "name": "Kaya the Inexorable",
+    "slug": "khm-kaya-the-inexorable-288-mythic",
+    "nameSlug": "kaya-the-inexorable",
+    "expansion": "Kaldheim",
+    "expansionSlug": "kaldheim",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502f7f59fa72400955ed74": {
+    "name": "Niv-Mizzet, Parun",
+    "slug": "pgrn-niv-mizzet-parun-192p-rare",
+    "nameSlug": "niv-mizzet-parun",
+    "expansion": "Guilds of Ravnica Promos",
+    "expansionSlug": "guilds-of-ravnica-promos",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
