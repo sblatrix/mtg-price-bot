@@ -6498,5 +6498,27 @@
       "Foil",
       "Standard"
     ]
+  },
+  "685032e559fa72400956a1c6": {
+    "name": "Virtue of Strength // Garenbrig Growth",
+    "slug": "woe-virtue-of-strength-garenbrig-growth-197-mythic",
+    "nameSlug": "virtue-of-strength-garenbrig-growth",
+    "expansion": "Wilds of Eldraine",
+    "expansionSlug": "wilds-of-eldraine",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850322f59fa7240095682de": {
+    "name": "Unstoppable Slasher",
+    "slug": "dsk-unstoppable-slasher-119-rare",
+    "nameSlug": "unstoppable-slasher",
+    "expansion": "Duskmourn: House of Horror",
+    "expansionSlug": "duskmourn-house-of-horror",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
