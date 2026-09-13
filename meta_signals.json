@@ -1,5 +1,31 @@
 [
   {
+    "name": "Winternight Stories",
+    "format": "standard",
+    "rarity": "rare",
+    "pct_of_decks": 14,
+    "pct_change": 14,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-09-13T10:41:27.491870+00:00",
+    "url": "https://www.mtggoldfish.com/price/tarkir-dragonstorm/67/winternight-stories#paper",
+    "summary": "Nouvelle entrée en standard : 14% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Chaos Warp",
+    "format": "commander",
+    "rarity": "rare",
+    "pct_of_decks": 14,
+    "pct_change": 14,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-09-13T10:41:27.491870+00:00",
+    "url": "https://www.mtggoldfish.com/price/edge-of-eternities-commander/49/chaos-warp#paper",
+    "summary": "Nouvelle entrée en commander : 14% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Mossborn Hydra",
     "format": "standard",
     "rarity": "rare",
