@@ -6617,5 +6617,38 @@
     "finishes": [
       "Foil"
     ]
+  },
+  "685032e459fa7240095694e7": {
+    "name": "Wrenn's Resolve",
+    "slug": "mom-wrenns-resolve-173-common",
+    "nameSlug": "wrenns-resolve",
+    "expansion": "March of the Machine",
+    "expansionSlug": "march-of-the-machine",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "696569d38b5e9ad6eb7b932d": {
+    "name": "Goblin Bombardment",
+    "slug": "sch-goblin-bombardment-45-rare",
+    "nameSlug": "goblin-bombardment",
+    "expansion": "Store Championships",
+    "expansionSlug": "store-championships",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502d7959fa724009552f99": {
+    "name": "Goblin Bombardment",
+    "slug": "mh2-goblin-bombardment-279-rare",
+    "nameSlug": "goblin-bombardment",
+    "expansion": "Modern Horizons 2",
+    "expansionSlug": "modern-horizons-2",
+    "finishes": [
+      "Etched",
+      "Foil",
+      "Standard"
+    ]
   }
 }
