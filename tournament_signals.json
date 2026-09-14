@@ -1,27 +1,20 @@
 {
   "standard": {
-    "updated_at": "2026-09-13T10:41:27.491870+00:00",
+    "updated_at": "2026-09-14T11:03:04.191737+00:00",
     "entries": [
       {
         "name": "Flashfreeze",
         "set_code": "fdn",
-        "pct_of_decks": 39,
+        "pct_of_decks": 38,
         "avg_copies": 1.8,
         "url": "https://www.mtggoldfish.com/price/foundations/590/flashfreeze#paper"
       },
       {
         "name": "Strategic Betrayal",
         "set_code": "tdm",
-        "pct_of_decks": 33,
+        "pct_of_decks": 32,
         "avg_copies": 2.4,
         "url": "https://www.mtggoldfish.com/price/tarkir-dragonstorm/94/strategic-betrayal#paper"
-      },
-      {
-        "name": "Disdainful Stroke",
-        "set_code": "ktk",
-        "pct_of_decks": 31,
-        "avg_copies": 1.3,
-        "url": "https://www.mtggoldfish.com/price/khans-of-tarkir/37/disdainful-stroke#paper"
       },
       {
         "name": "Duress",
@@ -29,6 +22,13 @@
         "pct_of_decks": 31,
         "avg_copies": 3.3,
         "url": "https://www.mtggoldfish.com/price/magic-2014-core-set/97/duress#paper"
+      },
+      {
+        "name": "Disdainful Stroke",
+        "set_code": "ktk",
+        "pct_of_decks": 31,
+        "avg_copies": 1.3,
+        "url": "https://www.mtggoldfish.com/price/khans-of-tarkir/37/disdainful-stroke#paper"
       },
       {
         "name": "Spell Pierce",
@@ -40,8 +40,8 @@
       {
         "name": "Requiting Hex",
         "set_code": "ecl",
-        "pct_of_decks": 28,
-        "avg_copies": 3.4,
+        "pct_of_decks": 27,
+        "avg_copies": 3.3,
         "url": "https://www.mtggoldfish.com/price/lorwyn-eclipsed/116/requiting-hex#paper"
       },
       {
@@ -52,18 +52,18 @@
         "url": "https://www.mtggoldfish.com/price/the-big-score/27/torpor-orb#paper"
       },
       {
-        "name": "Shoot the Sheriff [OTJ] (F)",
-        "set_code": null,
-        "pct_of_decks": 25,
-        "avg_copies": 2.1,
-        "url": "https://www.mtggoldfish.com/price/outlaws-of-thunder-junction/106/shoot-the-sheriff-foil#paper"
-      },
-      {
         "name": "Llanowar Elves",
         "set_code": "evg",
         "pct_of_decks": 25,
         "avg_copies": 4.0,
         "url": "https://www.mtggoldfish.com/price/duel-decks-elves-vs-goblins/9/llanowar-elves#paper"
+      },
+      {
+        "name": "Shoot the Sheriff [OTJ] (F)",
+        "set_code": null,
+        "pct_of_decks": 25,
+        "avg_copies": 2.1,
+        "url": "https://www.mtggoldfish.com/price/outlaws-of-thunder-junction/106/shoot-the-sheriff-foil#paper"
       },
       {
         "name": "Spell Snare",
@@ -115,18 +115,18 @@
         "url": "https://www.mtggoldfish.com/price/final-fantasy/200/sazhs-chocobo#paper"
       },
       {
-        "name": "Mightform Harmonizer",
-        "set_code": "eoe",
-        "pct_of_decks": 21,
-        "avg_copies": 3.7,
-        "url": "https://www.mtggoldfish.com/price/edge-of-eternities/200/mightform-harmonizer#paper"
-      },
-      {
         "name": "Ghost Vacuum <showcase>",
         "set_code": "dsk",
         "pct_of_decks": 21,
         "avg_copies": 1.3,
         "url": "https://www.mtggoldfish.com/price/duskmourn-house-of-horror/326/ghost-vacuum-showcase#paper"
+      },
+      {
+        "name": "Mightform Harmonizer",
+        "set_code": "eoe",
+        "pct_of_decks": 21,
+        "avg_copies": 3.8,
+        "url": "https://www.mtggoldfish.com/price/edge-of-eternities/200/mightform-harmonizer#paper"
       },
       {
         "name": "Icetill Explorer",
@@ -143,11 +143,11 @@
         "url": "https://www.mtggoldfish.com/price/lorwyn-eclipsed/192/sapling-nursery#paper"
       },
       {
-        "name": "Rest in Peace <extended>",
-        "set_code": "acr",
+        "name": "Burst Lightning",
+        "set_code": "fdn",
         "pct_of_decks": 20,
-        "avg_copies": 2.6,
-        "url": "https://www.mtggoldfish.com/price/assassins-creed/156/rest-in-peace-extended#paper"
+        "avg_copies": 3.2,
+        "url": "https://www.mtggoldfish.com/price/foundations/192/burst-lightning#paper"
       },
       {
         "name": "Esper Origins",
@@ -157,30 +157,30 @@
         "url": "https://www.mtggoldfish.com/price/final-fantasy/185/esper-origins#paper"
       },
       {
-        "name": "Bitter Triumph <019d68fa-4a91-7da8-bed4-13d4367abe7c>",
-        "set_code": "soa",
+        "name": "Rest in Peace <extended>",
+        "set_code": "acr",
         "pct_of_decks": 20,
-        "avg_copies": 2.3,
-        "url": "https://www.mtggoldfish.com/price/secrets-of-strixhaven-mystical-archive/26/bitter-triumph-borderless-showcase#paper"
+        "avg_copies": 2.5,
+        "url": "https://www.mtggoldfish.com/price/assassins-creed/156/rest-in-peace-extended#paper"
       },
       {
-        "name": "Burst Lightning",
-        "set_code": "fdn",
-        "pct_of_decks": 20,
-        "avg_copies": 3.2,
-        "url": "https://www.mtggoldfish.com/price/foundations/192/burst-lightning#paper"
+        "name": "Bitter Triumph <019d68fa-4a91-7da8-bed4-13d4367abe7c>",
+        "set_code": "soa",
+        "pct_of_decks": 19,
+        "avg_copies": 2.2,
+        "url": "https://www.mtggoldfish.com/price/secrets-of-strixhaven-mystical-archive/26/bitter-triumph-borderless-showcase#paper"
       },
       {
         "name": "Wan Shi Tong, Librarian",
         "set_code": "tla",
-        "pct_of_decks": 20,
+        "pct_of_decks": 19,
         "avg_copies": 1.6,
         "url": "https://www.mtggoldfish.com/price/avatar-the-last-airbender/78/wan-shi-tong-librarian#paper"
       },
       {
         "name": "Soul-Guide Lantern",
         "set_code": "fdn",
-        "pct_of_decks": 19,
+        "pct_of_decks": 18,
         "avg_copies": 1.6,
         "url": "https://www.mtggoldfish.com/price/foundations/680/soul-guide-lantern#paper"
       },
@@ -194,7 +194,7 @@
       {
         "name": "Stock Up <019d409c-b382-7c98-b4e8-fd38a29e9b0a>",
         "set_code": "soa",
-        "pct_of_decks": 18,
+        "pct_of_decks": 17,
         "avg_copies": 2.9,
         "url": "https://www.mtggoldfish.com/price/secrets-of-strixhaven-mystical-archive/24/stock-up-borderless-showcase#paper"
       },
@@ -202,7 +202,7 @@
         "name": "Meltstrider's Resolve",
         "set_code": "eoe",
         "pct_of_decks": 17,
-        "avg_copies": 3.6,
+        "avg_copies": 3.7,
         "url": "https://www.mtggoldfish.com/price/edge-of-eternities/199/meltstriders-resolve#paper"
       },
       {
@@ -220,9 +220,16 @@
         "url": "https://www.mtggoldfish.com/price/lorwyn-eclipsed/154/sear#paper"
       },
       {
+        "name": "Opt <beginner box>",
+        "set_code": "fdn",
+        "pct_of_decks": 15,
+        "avg_copies": 4.0,
+        "url": "https://www.mtggoldfish.com/price/foundations/512/opt-beginner box#paper"
+      },
+      {
         "name": "Winternight Stories",
         "set_code": "tdm",
-        "pct_of_decks": 14,
+        "pct_of_decks": 15,
         "avg_copies": 2.3,
         "url": "https://www.mtggoldfish.com/price/tarkir-dragonstorm/67/winternight-stories#paper"
       },
@@ -234,25 +241,11 @@
         "url": "https://www.mtggoldfish.com/price/secrets-of-strixhaven-mystical-archive/58/shared-roots-borderless-showcase#paper"
       },
       {
-        "name": "Opt <beginner box>",
-        "set_code": "fdn",
+        "name": "Prismari Charm <019d4526-d454-783f-b8e1-15f44270c287>",
+        "set_code": "sos",
         "pct_of_decks": 14,
-        "avg_copies": 4.0,
-        "url": "https://www.mtggoldfish.com/price/foundations/512/opt-beginner box#paper"
-      },
-      {
-        "name": "Leatherhead, Swamp Stalker [TMT] (F)",
-        "set_code": null,
-        "pct_of_decks": 14,
-        "avg_copies": 1.4,
-        "url": "https://www.mtggoldfish.com/price/teenage-mutant-ninja-turtles/117/leatherhead-swamp-stalker-foil#paper"
-      },
-      {
-        "name": "Negate",
-        "set_code": "aer",
-        "pct_of_decks": 14,
-        "avg_copies": 1.3,
-        "url": "https://www.mtggoldfish.com/price/aether-revolt/40/negate#paper"
+        "avg_copies": 3.7,
+        "url": "https://www.mtggoldfish.com/price/secrets-of-strixhaven/211/prismari-charm#paper"
       },
       {
         "name": "Sleight of Hand",
@@ -262,11 +255,11 @@
         "url": "https://www.mtggoldfish.com/price/wilds-of-eldraine/67/sleight-of-hand#paper"
       },
       {
-        "name": "Prismari Charm <019d4526-d454-783f-b8e1-15f44270c287>",
-        "set_code": "sos",
+        "name": "Traumatic Critique <019d53de-043a-7bd9-b862-248e57cdc020> [SOS] (F)",
+        "set_code": null,
         "pct_of_decks": 14,
-        "avg_copies": 3.7,
-        "url": "https://www.mtggoldfish.com/price/secrets-of-strixhaven/211/prismari-charm#paper"
+        "avg_copies": 3.1,
+        "url": "https://www.mtggoldfish.com/price/secrets-of-strixhaven/239/traumatic-critique-foil#paper"
       },
       {
         "name": "Colorstorm Stallion <019d4501-1fd8-7561-992c-898750fc77ea>",
@@ -276,46 +269,32 @@
         "url": "https://www.mtggoldfish.com/price/secrets-of-strixhaven/180/colorstorm-stallion#paper"
       },
       {
-        "name": "Traumatic Critique <019d53de-043a-7bd9-b862-248e57cdc020> [SOS] (F)",
-        "set_code": null,
-        "pct_of_decks": 13,
-        "avg_copies": 3.1,
-        "url": "https://www.mtggoldfish.com/price/secrets-of-strixhaven/239/traumatic-critique-foil#paper"
-      },
-      {
-        "name": "Voice of Victory",
-        "set_code": "tdm",
-        "pct_of_decks": 13,
-        "avg_copies": 2.8,
-        "url": "https://www.mtggoldfish.com/price/tarkir-dragonstorm/33/voice-of-victory#paper"
-      },
-      {
         "name": "Sunderflock [ECL] (F)",
         "set_code": null,
-        "pct_of_decks": 13,
+        "pct_of_decks": 14,
         "avg_copies": 3.9,
         "url": "https://www.mtggoldfish.com/price/lorwyn-eclipsed/74/sunderflock-foil#paper"
       },
       {
         "name": "Eddymurk Crab [BLB] (F)",
         "set_code": null,
-        "pct_of_decks": 13,
+        "pct_of_decks": 14,
         "avg_copies": 4.0,
         "url": "https://www.mtggoldfish.com/price/bloomburrow/48/eddymurk-crab-foil#paper"
       },
       {
-        "name": "Get Out",
-        "set_code": "dsk",
-        "pct_of_decks": 13,
-        "avg_copies": 2.3,
-        "url": "https://www.mtggoldfish.com/price/duskmourn-house-of-horror/60/get-out#paper"
+        "name": "Leatherhead, Swamp Stalker [TMT] (F)",
+        "set_code": null,
+        "pct_of_decks": 14,
+        "avg_copies": 1.4,
+        "url": "https://www.mtggoldfish.com/price/teenage-mutant-ninja-turtles/117/leatherhead-swamp-stalker-foil#paper"
       },
       {
-        "name": "Impractical Joke <019d67bf-36dc-7032-ae9a-de0ea5aada1b>",
-        "set_code": "sos",
-        "pct_of_decks": 13,
-        "avg_copies": 1.9,
-        "url": "https://www.mtggoldfish.com/price/secrets-of-strixhaven/119/impractical-joke#paper"
+        "name": "Get Out",
+        "set_code": "dsk",
+        "pct_of_decks": 14,
+        "avg_copies": 2.3,
+        "url": "https://www.mtggoldfish.com/price/duskmourn-house-of-horror/60/get-out#paper"
       },
       {
         "name": "Hearth Elemental",
@@ -325,10 +304,31 @@
         "url": "https://www.mtggoldfish.com/price/wilds-of-eldraine/136/hearth-elemental#paper"
       },
       {
+        "name": "Impractical Joke <019d67bf-36dc-7032-ae9a-de0ea5aada1b>",
+        "set_code": "sos",
+        "pct_of_decks": 13,
+        "avg_copies": 1.9,
+        "url": "https://www.mtggoldfish.com/price/secrets-of-strixhaven/119/impractical-joke#paper"
+      },
+      {
+        "name": "Negate",
+        "set_code": "aer",
+        "pct_of_decks": 13,
+        "avg_copies": 1.3,
+        "url": "https://www.mtggoldfish.com/price/aether-revolt/40/negate#paper"
+      },
+      {
+        "name": "Voice of Victory",
+        "set_code": "tdm",
+        "pct_of_decks": 13,
+        "avg_copies": 2.8,
+        "url": "https://www.mtggoldfish.com/price/tarkir-dragonstorm/33/voice-of-victory#paper"
+      },
+      {
         "name": "Seam Rip",
         "set_code": "eoe",
         "pct_of_decks": 12,
-        "avg_copies": 2.7,
+        "avg_copies": 2.6,
         "url": "https://www.mtggoldfish.com/price/edge-of-eternities/34/seam-rip#paper"
       },
       {
@@ -339,23 +339,23 @@
         "url": "https://www.mtggoldfish.com/price/aetherdrift/316/lumbering-worldwagon-showcase#paper"
       },
       {
-        "name": "Deadly Cover-Up",
-        "set_code": "mkm",
+        "name": "Warg Tactics <019fb4ae-22dd-740c-a2ad-47076e15fafa>",
+        "set_code": "hob",
         "pct_of_decks": 12,
-        "avg_copies": 2.3,
-        "url": "https://www.mtggoldfish.com/price/ravnica-murders-at-karlov-manor/83/deadly-cover-up#paper"
+        "avg_copies": 1.6,
+        "url": "https://www.mtggoldfish.com/price/the-hobbit/139/warg-tactics#paper"
       },
       {
-        "name": "Enduring Curiosity",
-        "set_code": "dsk",
+        "name": "Deadly Cover-Up",
+        "set_code": "mkm",
         "pct_of_decks": 11,
-        "avg_copies": 3.5,
-        "url": "https://www.mtggoldfish.com/price/duskmourn-house-of-horror/51/enduring-curiosity#paper"
+        "avg_copies": 2.3,
+        "url": "https://www.mtggoldfish.com/price/ravnica-murders-at-karlov-manor/83/deadly-cover-up#paper"
       }
     ]
   },
   "modern": {
-    "updated_at": "2026-09-13T10:41:27.491870+00:00",
+    "updated_at": "2026-09-14T11:03:04.191737+00:00",
     "entries": [
       {
         "name": "Consign to Memory",
@@ -381,16 +381,9 @@
       {
         "name": "Wrath of the Skies",
         "set_code": "mh3",
-        "pct_of_decks": 31,
+        "pct_of_decks": 30,
         "avg_copies": 2.8,
         "url": "https://www.mtggoldfish.com/price/modern-horizons-3/49/wrath-of-the-skies#paper"
-      },
-      {
-        "name": "Thoughtseize <showcase>",
-        "set_code": "otp",
-        "pct_of_decks": 30,
-        "avg_copies": 3.5,
-        "url": "https://www.mtggoldfish.com/price/breaking-news/20/thoughtseize-showcase#paper"
       },
       {
         "name": "Spell Snare",
@@ -398,6 +391,13 @@
         "pct_of_decks": 29,
         "avg_copies": 2.0,
         "url": "https://www.mtggoldfish.com/price/lorwyn-eclipsed/71/spell-snare#paper"
+      },
+      {
+        "name": "Thoughtseize <showcase>",
+        "set_code": "otp",
+        "pct_of_decks": 29,
+        "avg_copies": 3.5,
+        "url": "https://www.mtggoldfish.com/price/breaking-news/20/thoughtseize-showcase#paper"
       },
       {
         "name": "Surgical Extraction <showcase>",
@@ -428,13 +428,6 @@
         "url": "https://www.mtggoldfish.com/price/modern-horizons-2/25/prismatic-ending#paper"
       },
       {
-        "name": "Fatal Push <Battle at the Big Bridge>",
-        "set_code": "fca",
-        "pct_of_decks": 23,
-        "avg_copies": 3.2,
-        "url": "https://www.mtggoldfish.com/price/final-fantasy-through-the-ages/9/fatal-push-battle at the big bridge#paper"
-      },
-      {
         "name": "Force of Negation <borderless>",
         "set_code": "tle",
         "pct_of_decks": 23,
@@ -449,9 +442,16 @@
         "url": "https://www.mtggoldfish.com/price/war-of-the-spark/221/teferi-time-raveler#paper"
       },
       {
+        "name": "Fatal Push <Battle at the Big Bridge>",
+        "set_code": "fca",
+        "pct_of_decks": 23,
+        "avg_copies": 3.3,
+        "url": "https://www.mtggoldfish.com/price/final-fantasy-through-the-ages/9/fatal-push-battle at the big bridge#paper"
+      },
+      {
         "name": "Grafdigger's Cage",
         "set_code": "m20",
-        "pct_of_decks": 21,
+        "pct_of_decks": 22,
         "avg_copies": 1.4,
         "url": "https://www.mtggoldfish.com/price/core-set-2020/227/grafdiggers-cage#paper"
       },
@@ -487,7 +487,7 @@
         "name": "Dismember <019d6908-58b6-70b8-8a26-a5b025091963>",
         "set_code": "soa",
         "pct_of_decks": 18,
-        "avg_copies": 2.1,
+        "avg_copies": 2.2,
         "url": "https://www.mtggoldfish.com/price/secrets-of-strixhaven-mystical-archive/28/dismember-borderless-showcase#paper"
       },
       {
@@ -500,16 +500,9 @@
       {
         "name": "Kozilek's Command",
         "set_code": "mh3",
-        "pct_of_decks": 17,
+        "pct_of_decks": 18,
         "avg_copies": 4.0,
         "url": "https://www.mtggoldfish.com/price/modern-horizons-3/11/kozileks-command#paper"
-      },
-      {
-        "name": "Preordain",
-        "set_code": "tdc",
-        "pct_of_decks": 17,
-        "avg_copies": 3.3,
-        "url": "https://www.mtggoldfish.com/price/tarkir-dragonstorm-commander/161/preordain#paper"
       },
       {
         "name": "Pithing Needle",
@@ -519,18 +512,18 @@
         "url": "https://www.mtggoldfish.com/price/innistrad-midnight-hunt/257/pithing-needle#paper"
       },
       {
+        "name": "Preordain",
+        "set_code": "tdc",
+        "pct_of_decks": 17,
+        "avg_copies": 3.3,
+        "url": "https://www.mtggoldfish.com/price/tarkir-dragonstorm-commander/161/preordain#paper"
+      },
+      {
         "name": "Tormod's Crypt",
         "set_code": "m21",
         "pct_of_decks": 16,
         "avg_copies": 2.1,
         "url": "https://www.mtggoldfish.com/price/core-set-2021/241/tormods-crypt#paper"
-      },
-      {
-        "name": "Psychic Frog",
-        "set_code": "mh3",
-        "pct_of_decks": 16,
-        "avg_copies": 4.0,
-        "url": "https://www.mtggoldfish.com/price/modern-horizons-3/199/psychic-frog#paper"
       },
       {
         "name": "Nihil Spellbomb",
@@ -540,25 +533,25 @@
         "url": "https://www.mtggoldfish.com/price/the-list/187/nihil-spellbomb#paper"
       },
       {
-        "name": "Damping Sphere",
-        "set_code": "dmr",
-        "pct_of_decks": 16,
-        "avg_copies": 1.8,
-        "url": "https://www.mtggoldfish.com/price/dominaria-remastered/219/damping-sphere#paper"
-      },
-      {
         "name": "Malevolent Rumble",
         "set_code": "mh3",
         "pct_of_decks": 16,
-        "avg_copies": 3.8,
+        "avg_copies": 3.9,
         "url": "https://www.mtggoldfish.com/price/modern-horizons-3/161/malevolent-rumble#paper"
       },
       {
-        "name": "Unholy Heat",
-        "set_code": "mh2",
+        "name": "Psychic Frog",
+        "set_code": "mh3",
+        "pct_of_decks": 16,
+        "avg_copies": 4.0,
+        "url": "https://www.mtggoldfish.com/price/modern-horizons-3/199/psychic-frog#paper"
+      },
+      {
+        "name": "Damping Sphere",
+        "set_code": "dmr",
         "pct_of_decks": 15,
-        "avg_copies": 3.4,
-        "url": "https://www.mtggoldfish.com/price/modern-horizons-2/145/unholy-heat#paper"
+        "avg_copies": 1.7,
+        "url": "https://www.mtggoldfish.com/price/dominaria-remastered/219/damping-sphere#paper"
       },
       {
         "name": "Emrakul, the Promised End <retro>",
@@ -568,11 +561,25 @@
         "url": "https://www.mtggoldfish.com/price/innistrad-remastered/330/emrakul-the-promised-end-retro#paper"
       },
       {
+        "name": "Unholy Heat",
+        "set_code": "mh2",
+        "pct_of_decks": 15,
+        "avg_copies": 3.4,
+        "url": "https://www.mtggoldfish.com/price/modern-horizons-2/145/unholy-heat#paper"
+      },
+      {
         "name": "Endurance",
         "set_code": "ecc",
         "pct_of_decks": 14,
         "avg_copies": 2.2,
         "url": "https://www.mtggoldfish.com/price/lorwyn-eclipsed-commander/51/endurance#paper"
+      },
+      {
+        "name": "Sowing Mycospawn",
+        "set_code": "mh3",
+        "pct_of_decks": 14,
+        "avg_copies": 3.9,
+        "url": "https://www.mtggoldfish.com/price/modern-horizons-3/170/sowing-mycospawn#paper"
       },
       {
         "name": "Meltdown",
@@ -582,11 +589,11 @@
         "url": "https://www.mtggoldfish.com/price/modern-horizons-3/282/meltdown#paper"
       },
       {
-        "name": "Sink into Stupor",
-        "set_code": "mh3",
-        "pct_of_decks": 14,
-        "avg_copies": 1.9,
-        "url": "https://www.mtggoldfish.com/price/modern-horizons-3/241/sink-into-stupor#paper"
+        "name": "Trinisphere",
+        "set_code": "2xm",
+        "pct_of_decks": 13,
+        "avg_copies": 2.3,
+        "url": "https://www.mtggoldfish.com/price/double-masters/303/trinisphere#paper"
       },
       {
         "name": "Force of Vigor <borderless>",
@@ -596,25 +603,18 @@
         "url": "https://www.mtggoldfish.com/price/marvel-bonus-sheet/77/force-of-vigor-borderless-full-art#paper"
       },
       {
+        "name": "Sink into Stupor",
+        "set_code": "mh3",
+        "pct_of_decks": 13,
+        "avg_copies": 1.9,
+        "url": "https://www.mtggoldfish.com/price/modern-horizons-3/241/sink-into-stupor#paper"
+      },
+      {
         "name": "Wear // Tear",
         "set_code": "dgm",
         "pct_of_decks": 13,
         "avg_copies": 1.8,
         "url": "https://www.mtggoldfish.com/price/dragons-maze/135/wear-tear#paper"
-      },
-      {
-        "name": "Sowing Mycospawn",
-        "set_code": "mh3",
-        "pct_of_decks": 13,
-        "avg_copies": 3.9,
-        "url": "https://www.mtggoldfish.com/price/modern-horizons-3/170/sowing-mycospawn#paper"
-      },
-      {
-        "name": "Trinisphere <Fallout Vault Boy>",
-        "set_code": "sld",
-        "pct_of_decks": 13,
-        "avg_copies": 2.3,
-        "url": "https://www.mtggoldfish.com/price/secret-lair/1485/trinisphere-fallout vault boy#paper"
       },
       {
         "name": "Haywire Mite <019d4a1a-98db-70f6-acb7-d07dc7db4bb2>",
@@ -631,23 +631,30 @@
         "url": "https://www.mtggoldfish.com/price/final-fantasy-through-the-ages/47/natures-claim-search for the frozen esper#paper"
       },
       {
-        "name": "Cori-Steel Cutter <borderless>",
-        "set_code": "tdm",
-        "pct_of_decks": 11,
-        "avg_copies": 4.0,
-        "url": "https://www.mtggoldfish.com/price/tarkir-dragonstorm/343/cori-steel-cutter-borderless#paper"
-      },
-      {
         "name": "Monastery Swiftspear",
         "set_code": "bro",
-        "pct_of_decks": 11,
+        "pct_of_decks": 12,
         "avg_copies": 4.0,
         "url": "https://www.mtggoldfish.com/price/the-brothers-war/144/monastery-swiftspear#paper"
       },
       {
+        "name": "Cori-Steel Cutter <borderless>",
+        "set_code": "tdm",
+        "pct_of_decks": 12,
+        "avg_copies": 4.0,
+        "url": "https://www.mtggoldfish.com/price/tarkir-dragonstorm/343/cori-steel-cutter-borderless#paper"
+      },
+      {
+        "name": "Soul-Guide Lantern",
+        "set_code": "fdn",
+        "pct_of_decks": 12,
+        "avg_copies": 1.1,
+        "url": "https://www.mtggoldfish.com/price/foundations/680/soul-guide-lantern#paper"
+      },
+      {
         "name": "Spell Pierce",
         "set_code": "xln",
-        "pct_of_decks": 11,
+        "pct_of_decks": 12,
         "avg_copies": 1.6,
         "url": "https://www.mtggoldfish.com/price/ixalan/81/spell-pierce#paper"
       },
@@ -659,32 +666,11 @@
         "url": "https://www.mtggoldfish.com/price/phyrexiaall-will-be-one/196/atraxa-grand-unifier#paper"
       },
       {
-        "name": "Soul-Guide Lantern",
-        "set_code": "fdn",
-        "pct_of_decks": 11,
-        "avg_copies": 1.1,
-        "url": "https://www.mtggoldfish.com/price/foundations/680/soul-guide-lantern#paper"
-      },
-      {
-        "name": "Engineered Explosives",
-        "set_code": "2xm",
-        "pct_of_decks": 11,
-        "avg_copies": 2.7,
-        "url": "https://www.mtggoldfish.com/price/double-masters/252/engineered-explosives#paper"
-      },
-      {
         "name": "Griselbrand <retro>",
         "set_code": "inr",
         "pct_of_decks": 11,
         "avg_copies": 1.2,
         "url": "https://www.mtggoldfish.com/price/innistrad-remastered/381/griselbrand-retro#paper"
-      },
-      {
-        "name": "Green Sun's Zenith",
-        "set_code": "mbs",
-        "pct_of_decks": 11,
-        "avg_copies": 3.8,
-        "url": "https://www.mtggoldfish.com/price/mirrodin-besieged/81/green-suns-zenith#paper"
       },
       {
         "name": "Dragon's Rage Channeler",
@@ -701,6 +687,20 @@
         "url": "https://www.mtggoldfish.com/price/modern-horizons/134/lava-dart#paper"
       },
       {
+        "name": "Engineered Explosives",
+        "set_code": "2xm",
+        "pct_of_decks": 11,
+        "avg_copies": 2.7,
+        "url": "https://www.mtggoldfish.com/price/double-masters/252/engineered-explosives#paper"
+      },
+      {
+        "name": "Green Sun's Zenith",
+        "set_code": "mbs",
+        "pct_of_decks": 11,
+        "avg_copies": 3.8,
+        "url": "https://www.mtggoldfish.com/price/mirrodin-besieged/81/green-suns-zenith#paper"
+      },
+      {
         "name": "Expressive Iteration <019d4a1a-78e3-721c-944a-66828324a2e1>",
         "set_code": "soc",
         "pct_of_decks": 10,
@@ -710,12 +710,12 @@
     ]
   },
   "pioneer": {
-    "updated_at": "2026-09-13T10:41:27.491870+00:00",
+    "updated_at": "2026-09-14T11:03:04.191737+00:00",
     "entries": [
       {
         "name": "Thoughtseize <showcase>",
         "set_code": "otp",
-        "pct_of_decks": 32,
+        "pct_of_decks": 31,
         "avg_copies": 3.9,
         "url": "https://www.mtggoldfish.com/price/breaking-news/20/thoughtseize-showcase#paper"
       },
@@ -741,39 +741,46 @@
         "url": "https://www.mtggoldfish.com/price/final-fantasy-through-the-ages/9/fatal-push-battle at the big bridge#paper"
       },
       {
+        "name": "Firebending Lesson",
+        "set_code": "tla",
+        "pct_of_decks": 26,
+        "avg_copies": 2.0,
+        "url": "https://www.mtggoldfish.com/price/avatar-the-last-airbender/138/firebending-lesson#paper"
+      },
+      {
         "name": "Abrupt Decay",
         "set_code": "gk1",
-        "pct_of_decks": 26,
+        "pct_of_decks": 25,
         "avg_copies": 2.6,
         "url": "https://www.mtggoldfish.com/price/guilds-of-ravnica-guild-kits/57/abrupt-decay#paper"
       },
       {
         "name": "Badgermole Cub",
         "set_code": "tla",
-        "pct_of_decks": 26,
+        "pct_of_decks": 25,
         "avg_copies": 3.9,
         "url": "https://www.mtggoldfish.com/price/avatar-the-last-airbender/167/badgermole-cub#paper"
       },
       {
-        "name": "Firebending Lesson",
-        "set_code": "tla",
+        "name": "Burst Lightning",
+        "set_code": "fdn",
         "pct_of_decks": 25,
-        "avg_copies": 2.0,
-        "url": "https://www.mtggoldfish.com/price/avatar-the-last-airbender/138/firebending-lesson#paper"
+        "avg_copies": 3.4,
+        "url": "https://www.mtggoldfish.com/price/foundations/192/burst-lightning#paper"
       },
       {
         "name": "Unlicensed Hearse <showcase>",
         "set_code": "otp",
-        "pct_of_decks": 25,
+        "pct_of_decks": 24,
         "avg_copies": 2.2,
         "url": "https://www.mtggoldfish.com/price/breaking-news/64/unlicensed-hearse-showcase#paper"
       },
       {
-        "name": "Burst Lightning",
-        "set_code": "fdn",
+        "name": "It'll Quench Ya!",
+        "set_code": "tla",
         "pct_of_decks": 24,
-        "avg_copies": 3.4,
-        "url": "https://www.mtggoldfish.com/price/foundations/192/burst-lightning#paper"
+        "avg_copies": 1.9,
+        "url": "https://www.mtggoldfish.com/price/avatar-the-last-airbender/58/itll-quench-ya#paper"
       },
       {
         "name": "Duress",
@@ -783,25 +790,11 @@
         "url": "https://www.mtggoldfish.com/price/magic-2014-core-set/97/duress#paper"
       },
       {
-        "name": "It'll Quench Ya!",
-        "set_code": "tla",
-        "pct_of_decks": 23,
-        "avg_copies": 1.9,
-        "url": "https://www.mtggoldfish.com/price/avatar-the-last-airbender/58/itll-quench-ya#paper"
-      },
-      {
         "name": "Iroh's Demonstration",
         "set_code": "tla",
         "pct_of_decks": 23,
         "avg_copies": 1.0,
         "url": "https://www.mtggoldfish.com/price/avatar-the-last-airbender/141/irohs-demonstration#paper"
-      },
-      {
-        "name": "Bitter Triumph <019d68fa-4a91-7da8-bed4-13d4367abe7c>",
-        "set_code": "soa",
-        "pct_of_decks": 22,
-        "avg_copies": 2.2,
-        "url": "https://www.mtggoldfish.com/price/secrets-of-strixhaven-mystical-archive/26/bitter-triumph-borderless-showcase#paper"
       },
       {
         "name": "Monastery Swiftspear",
@@ -832,25 +825,25 @@
         "url": "https://www.mtggoldfish.com/price/amonkhet/148/soul-scar-mage#paper"
       },
       {
-        "name": "Professor Dellian Fel <019d44f1-46bd-7279-984e-0d3cba0ddfd4>",
-        "set_code": "sos",
-        "pct_of_decks": 21,
-        "avg_copies": 3.0,
-        "url": "https://www.mtggoldfish.com/price/secrets-of-strixhaven/214/professor-dellian-fel#paper"
+        "name": "Bitter Triumph <019d68fa-4a91-7da8-bed4-13d4367abe7c>",
+        "set_code": "soa",
+        "pct_of_decks": 22,
+        "avg_copies": 2.2,
+        "url": "https://www.mtggoldfish.com/price/secrets-of-strixhaven-mystical-archive/26/bitter-triumph-borderless-showcase#paper"
       },
       {
         "name": "Boomerang Basics",
         "set_code": "tla",
-        "pct_of_decks": 21,
+        "pct_of_decks": 22,
         "avg_copies": 3.7,
         "url": "https://www.mtggoldfish.com/price/avatar-the-last-airbender/46/boomerang-basics#paper"
       },
       {
-        "name": "Sheoldred, the Apocalypse",
-        "set_code": "dmu",
-        "pct_of_decks": 20,
-        "avg_copies": 2.7,
-        "url": "https://www.mtggoldfish.com/price/dominaria-united/107/sheoldred-the-apocalypse#paper"
+        "name": "Professor Dellian Fel <019d44f1-46bd-7279-984e-0d3cba0ddfd4>",
+        "set_code": "sos",
+        "pct_of_decks": 21,
+        "avg_copies": 3.1,
+        "url": "https://www.mtggoldfish.com/price/secrets-of-strixhaven/214/professor-dellian-fel#paper"
       },
       {
         "name": "Sleight of Hand",
@@ -860,11 +853,11 @@
         "url": "https://www.mtggoldfish.com/price/wilds-of-eldraine/67/sleight-of-hand#paper"
       },
       {
-        "name": "Unholy Annex // Ritual Chamber",
-        "set_code": "dsk",
+        "name": "Sheoldred, the Apocalypse",
+        "set_code": "dmu",
         "pct_of_decks": 19,
-        "avg_copies": 3.6,
-        "url": "https://www.mtggoldfish.com/price/duskmourn-house-of-horror/118/unholy-annex-ritual-chamber#paper"
+        "avg_copies": 2.8,
+        "url": "https://www.mtggoldfish.com/price/dominaria-united/107/sheoldred-the-apocalypse#paper"
       },
       {
         "name": "Stormchaser's Talent",
@@ -874,11 +867,25 @@
         "url": "https://www.mtggoldfish.com/price/bloomburrow/75/stormchasers-talent#paper"
       },
       {
+        "name": "Unholy Annex // Ritual Chamber",
+        "set_code": "dsk",
+        "pct_of_decks": 19,
+        "avg_copies": 3.6,
+        "url": "https://www.mtggoldfish.com/price/duskmourn-house-of-horror/118/unholy-annex-ritual-chamber#paper"
+      },
+      {
         "name": "Culling Ritual <019d4a1a-731e-763d-9ed3-94050df8be23>",
         "set_code": "soc",
-        "pct_of_decks": 19,
-        "avg_copies": 2.4,
+        "pct_of_decks": 18,
+        "avg_copies": 2.5,
         "url": "https://www.mtggoldfish.com/price/secrets-of-strixhaven-commander/302/culling-ritual#paper"
+      },
+      {
+        "name": "Scorching Shot",
+        "set_code": "otj",
+        "pct_of_decks": 18,
+        "avg_copies": 2.2,
+        "url": "https://www.mtggoldfish.com/price/outlaws-of-thunder-junction/145/scorching-shot#paper"
       },
       {
         "name": "Graveyard Trespasser",
@@ -888,25 +895,11 @@
         "url": "https://www.mtggoldfish.com/price/innistrad-midnight-hunt/104/graveyard-trespasser#paper"
       },
       {
-        "name": "Scorching Shot",
-        "set_code": "otj",
-        "pct_of_decks": 17,
-        "avg_copies": 2.2,
-        "url": "https://www.mtggoldfish.com/price/outlaws-of-thunder-junction/145/scorching-shot#paper"
-      },
-      {
         "name": "Academic Dispute",
         "set_code": "stx",
         "pct_of_decks": 17,
         "avg_copies": 3.9,
         "url": "https://www.mtggoldfish.com/price/strixhaven-school-of-mages/91/academic-dispute#paper"
-      },
-      {
-        "name": "Quantum Riddler [EOE] (F)",
-        "set_code": null,
-        "pct_of_decks": 17,
-        "avg_copies": 3.0,
-        "url": "https://www.mtggoldfish.com/price/edge-of-eternities/72/quantum-riddler-foil#paper"
       },
       {
         "name": "Octopus Form",
@@ -916,25 +909,18 @@
         "url": "https://www.mtggoldfish.com/price/avatar-the-last-airbender/66/octopus-form#paper"
       },
       {
+        "name": "Quantum Riddler [EOE] (F)",
+        "set_code": null,
+        "pct_of_decks": 16,
+        "avg_copies": 3.0,
+        "url": "https://www.mtggoldfish.com/price/edge-of-eternities/72/quantum-riddler-foil#paper"
+      },
+      {
         "name": "Flow State <019d6394-b0e1-70a8-9334-218ee0c030d7>",
         "set_code": "sos",
         "pct_of_decks": 16,
         "avg_copies": 4.0,
         "url": "https://www.mtggoldfish.com/price/secrets-of-strixhaven/49/flow-state#paper"
-      },
-      {
-        "name": "Invoke Despair <bundle> [NEO] (F)",
-        "set_code": null,
-        "pct_of_decks": 16,
-        "avg_copies": 2.6,
-        "url": "https://www.mtggoldfish.com/price/kamigawa-neon-dynasty/506/invoke-despair-bundle-foil#paper"
-      },
-      {
-        "name": "Monstrous Rage <019d6911-873e-741a-962f-c71b58f94970>",
-        "set_code": "soa",
-        "pct_of_decks": 16,
-        "avg_copies": 2.5,
-        "url": "https://www.mtggoldfish.com/price/secrets-of-strixhaven-mystical-archive/45/monstrous-rage-borderless-showcase#paper"
       },
       {
         "name": "Ghost Vacuum <showcase>",
@@ -944,17 +930,31 @@
         "url": "https://www.mtggoldfish.com/price/duskmourn-house-of-horror/326/ghost-vacuum-showcase#paper"
       },
       {
+        "name": "Invoke Despair <bundle> [NEO] (F)",
+        "set_code": null,
+        "pct_of_decks": 16,
+        "avg_copies": 2.6,
+        "url": "https://www.mtggoldfish.com/price/kamigawa-neon-dynasty/506/invoke-despair-bundle-foil#paper"
+      },
+      {
         "name": "Nowhere to Run",
         "set_code": "dsk",
-        "pct_of_decks": 15,
+        "pct_of_decks": 16,
         "avg_copies": 2.0,
         "url": "https://www.mtggoldfish.com/price/duskmourn-house-of-horror/111/nowhere-to-run#paper"
+      },
+      {
+        "name": "Monstrous Rage <019d6911-873e-741a-962f-c71b58f94970>",
+        "set_code": "soa",
+        "pct_of_decks": 15,
+        "avg_copies": 2.5,
+        "url": "https://www.mtggoldfish.com/price/secrets-of-strixhaven-mystical-archive/45/monstrous-rage-borderless-showcase#paper"
       },
       {
         "name": "Disdainful Stroke",
         "set_code": "ktk",
         "pct_of_decks": 15,
-        "avg_copies": 1.3,
+        "avg_copies": 1.4,
         "url": "https://www.mtggoldfish.com/price/khans-of-tarkir/37/disdainful-stroke#paper"
       },
       {
@@ -965,32 +965,18 @@
         "url": "https://www.mtggoldfish.com/price/avatar-the-last-airbender/44/accumulate-wisdom#paper"
       },
       {
-        "name": "Formidable Speaker",
-        "set_code": "ecl",
-        "pct_of_decks": 15,
-        "avg_copies": 3.2,
-        "url": "https://www.mtggoldfish.com/price/lorwyn-eclipsed/176/formidable-speaker#paper"
-      },
-      {
         "name": "Abrade",
         "set_code": "2xm",
-        "pct_of_decks": 14,
+        "pct_of_decks": 15,
         "avg_copies": 1.5,
         "url": "https://www.mtggoldfish.com/price/double-masters/114/abrade#paper"
       },
       {
         "name": "Soul-Guide Lantern",
         "set_code": "fdn",
-        "pct_of_decks": 14,
+        "pct_of_decks": 15,
         "avg_copies": 1.4,
         "url": "https://www.mtggoldfish.com/price/foundations/680/soul-guide-lantern#paper"
-      },
-      {
-        "name": "Screaming Nemesis <borderless>",
-        "set_code": "dsk",
-        "pct_of_decks": 14,
-        "avg_copies": 2.8,
-        "url": "https://www.mtggoldfish.com/price/duskmourn-house-of-horror/348/screaming-nemesis-borderless#paper"
       },
       {
         "name": "Ral, Crackling Wit",
@@ -1000,18 +986,18 @@
         "url": "https://www.mtggoldfish.com/price/bloomburrow/230/ral-crackling-wit#paper"
       },
       {
+        "name": "Formidable Speaker",
+        "set_code": "ecl",
+        "pct_of_decks": 13,
+        "avg_copies": 3.2,
+        "url": "https://www.mtggoldfish.com/price/lorwyn-eclipsed/176/formidable-speaker#paper"
+      },
+      {
         "name": "Languish",
         "set_code": "ltc",
         "pct_of_decks": 13,
         "avg_copies": 1.8,
         "url": "https://www.mtggoldfish.com/price/the-lord-of-the-rings-tales-of-middle-earth-commander/202/languish#paper"
-      },
-      {
-        "name": "Abandon Attachments",
-        "set_code": "tla",
-        "pct_of_decks": 13,
-        "avg_copies": 2.3,
-        "url": "https://www.mtggoldfish.com/price/avatar-the-last-airbender/205/abandon-attachments#paper"
       },
       {
         "name": "Mystical Dispute",
@@ -1021,11 +1007,25 @@
         "url": "https://www.mtggoldfish.com/price/throne-of-eldraine/58/mystical-dispute#paper"
       },
       {
-        "name": "Maelstrom Pulse",
-        "set_code": "fdn",
+        "name": "Screaming Nemesis",
+        "set_code": "dsk",
+        "pct_of_decks": 13,
+        "avg_copies": 2.9,
+        "url": "https://www.mtggoldfish.com/price/duskmourn-house-of-horror/157/screaming-nemesis#paper"
+      },
+      {
+        "name": "Abandon Attachments",
+        "set_code": "tla",
+        "pct_of_decks": 13,
+        "avg_copies": 2.3,
+        "url": "https://www.mtggoldfish.com/price/avatar-the-last-airbender/205/abandon-attachments#paper"
+      },
+      {
+        "name": "Change the Equation",
+        "set_code": "mom",
         "pct_of_decks": 12,
-        "avg_copies": 1.5,
-        "url": "https://www.mtggoldfish.com/price/foundations/661/maelstrom-pulse#paper"
+        "avg_copies": 1.8,
+        "url": "https://www.mtggoldfish.com/price/march-of-the-machine/50/change-the-equation#paper"
       },
       {
         "name": "Rest in Peace <extended>",
@@ -1035,25 +1035,18 @@
         "url": "https://www.mtggoldfish.com/price/assassins-creed/156/rest-in-peace-extended#paper"
       },
       {
+        "name": "Maelstrom Pulse",
+        "set_code": "fdn",
+        "pct_of_decks": 12,
+        "avg_copies": 1.5,
+        "url": "https://www.mtggoldfish.com/price/foundations/661/maelstrom-pulse#paper"
+      },
+      {
         "name": "Pyroclasm",
         "set_code": "a25",
         "pct_of_decks": 12,
-        "avg_copies": 1.9,
+        "avg_copies": 2.0,
         "url": "https://www.mtggoldfish.com/price/masters-25/146/pyroclasm#paper"
-      },
-      {
-        "name": "Change the Equation",
-        "set_code": "mom",
-        "pct_of_decks": 11,
-        "avg_copies": 1.7,
-        "url": "https://www.mtggoldfish.com/price/march-of-the-machine/50/change-the-equation#paper"
-      },
-      {
-        "name": "Beza, the Bounding Spring",
-        "set_code": "blb",
-        "pct_of_decks": 11,
-        "avg_copies": 2.2,
-        "url": "https://www.mtggoldfish.com/price/bloomburrow/2/beza-the-bounding-spring#paper"
       },
       {
         "name": "Cruelclaw's Heist",
@@ -1061,11 +1054,18 @@
         "pct_of_decks": 11,
         "avg_copies": 2.0,
         "url": "https://www.mtggoldfish.com/price/bloomburrow/88/cruelclaws-heist#paper"
+      },
+      {
+        "name": "Price of Freedom",
+        "set_code": "tla",
+        "pct_of_decks": 11,
+        "avg_copies": 1.7,
+        "url": "https://www.mtggoldfish.com/price/avatar-the-last-airbender/149/price-of-freedom#paper"
       }
     ]
   },
   "legacy": {
-    "updated_at": "2026-09-13T10:41:27.491870+00:00",
+    "updated_at": "2026-09-14T11:03:04.191737+00:00",
     "entries": [
       {
         "name": "Force of Will <borderless>",
@@ -1084,8 +1084,8 @@
       {
         "name": "Consign to Memory",
         "set_code": "mh3",
-        "pct_of_decks": 47,
-        "avg_copies": 2.3,
+        "pct_of_decks": 46,
+        "avg_copies": 2.4,
         "url": "https://www.mtggoldfish.com/price/modern-horizons-3/54/consign-to-memory#paper"
       },
       {
@@ -1169,7 +1169,7 @@
         "name": "Tamiyo, Inquisitive Student",
         "set_code": "mh3",
         "pct_of_decks": 24,
-        "avg_copies": 3.7,
+        "avg_copies": 3.8,
         "url": "https://www.mtggoldfish.com/price/modern-horizons-3/242/tamiyo-inquisitive-student#paper"
       },
       {
@@ -1182,7 +1182,7 @@
       {
         "name": "Fatal Push <Battle at the Big Bridge>",
         "set_code": "fca",
-        "pct_of_decks": 24,
+        "pct_of_decks": 23,
         "avg_copies": 3.1,
         "url": "https://www.mtggoldfish.com/price/final-fantasy-through-the-ages/9/fatal-push-battle at the big bridge#paper"
       },
@@ -1196,16 +1196,9 @@
       {
         "name": "Barrowgoyf",
         "set_code": "m3c",
-        "pct_of_decks": 20,
+        "pct_of_decks": 19,
         "avg_copies": 2.6,
         "url": "https://www.mtggoldfish.com/price/modern-horizons-3-commander/102/barrowgoyf#paper"
-      },
-      {
-        "name": "Snuff Out",
-        "set_code": "fic",
-        "pct_of_decks": 19,
-        "avg_copies": 1.5,
-        "url": "https://www.mtggoldfish.com/price/final-fantasy-commander/285/snuff-out#paper"
       },
       {
         "name": "Murktide Regent",
@@ -1215,18 +1208,25 @@
         "url": "https://www.mtggoldfish.com/price/modern-horizons-2/52/murktide-regent#paper"
       },
       {
+        "name": "Bilbo, Thief in the Night <019de536-00a1-72f4-9738-ec7b1a28dc40>",
+        "set_code": "hob",
+        "pct_of_decks": 19,
+        "avg_copies": 2.9,
+        "url": "https://www.mtggoldfish.com/price/the-hobbit/33/bilbo-thief-in-the-night#paper"
+      },
+      {
         "name": "Pyroblast",
         "set_code": "ice",
-        "pct_of_decks": 19,
+        "pct_of_decks": 18,
         "avg_copies": 2.0,
         "url": "https://www.mtggoldfish.com/price/ice-age/pyroblast#paper"
       },
       {
-        "name": "Bilbo, Thief in the Night <019de536-00a1-72f4-9738-ec7b1a28dc40>",
-        "set_code": "hob",
+        "name": "Snuff Out",
+        "set_code": "fic",
         "pct_of_decks": 18,
-        "avg_copies": 2.9,
-        "url": "https://www.mtggoldfish.com/price/the-hobbit/33/bilbo-thief-in-the-night#paper"
+        "avg_copies": 1.5,
+        "url": "https://www.mtggoldfish.com/price/final-fantasy-commander/285/snuff-out#paper"
       },
       {
         "name": "Mishra's Bauble <retro>",
@@ -1238,9 +1238,16 @@
       {
         "name": "Wrath of the Skies",
         "set_code": "mh3",
-        "pct_of_decks": 17,
-        "avg_copies": 2.5,
+        "pct_of_decks": 18,
+        "avg_copies": 2.4,
         "url": "https://www.mtggoldfish.com/price/modern-horizons-3/49/wrath-of-the-skies#paper"
+      },
+      {
+        "name": "The One Ring <bundle> [LTR] (F)",
+        "set_code": null,
+        "pct_of_decks": 16,
+        "avg_copies": 3.7,
+        "url": "https://www.mtggoldfish.com/price/the-lord-of-the-rings-tales-of-middle-earth/451/the-one-ring-bundle-foil#paper"
       },
       {
         "name": "Phelia, Exuberant Shepherd",
@@ -1250,11 +1257,18 @@
         "url": "https://www.mtggoldfish.com/price/modern-horizons-3/40/phelia-exuberant-shepherd#paper"
       },
       {
-        "name": "The One Ring",
-        "set_code": "ltr",
+        "name": "Dismember <019d6908-58b6-70b8-8a26-a5b025091963>",
+        "set_code": "soa",
         "pct_of_decks": 16,
-        "avg_copies": 3.7,
-        "url": "https://www.mtggoldfish.com/price/the-lord-of-the-rings-tales-of-middle-earth/246/the-one-ring#paper"
+        "avg_copies": 1.9,
+        "url": "https://www.mtggoldfish.com/price/secrets-of-strixhaven-mystical-archive/28/dismember-borderless-showcase#paper"
+      },
+      {
+        "name": "Tormod's Crypt",
+        "set_code": "m21",
+        "pct_of_decks": 15,
+        "avg_copies": 1.1,
+        "url": "https://www.mtggoldfish.com/price/core-set-2021/241/tormods-crypt#paper"
       },
       {
         "name": "Brazen Borrower <019d4a19-f767-7231-8932-36581084f3d5>",
@@ -1264,11 +1278,11 @@
         "url": "https://www.mtggoldfish.com/price/secrets-of-strixhaven-commander/190/brazen-borrower#paper"
       },
       {
-        "name": "Dismember <019d6908-58b6-70b8-8a26-a5b025091963>",
+        "name": "Stock Up <019d409c-b382-7c98-b4e8-fd38a29e9b0a>",
         "set_code": "soa",
         "pct_of_decks": 15,
-        "avg_copies": 1.9,
-        "url": "https://www.mtggoldfish.com/price/secrets-of-strixhaven-mystical-archive/28/dismember-borderless-showcase#paper"
+        "avg_copies": 3.9,
+        "url": "https://www.mtggoldfish.com/price/secrets-of-strixhaven-mystical-archive/24/stock-up-borderless-showcase#paper"
       },
       {
         "name": "Atraxa, Grand Unifier",
@@ -1278,39 +1292,25 @@
         "url": "https://www.mtggoldfish.com/price/phyrexiaall-will-be-one/196/atraxa-grand-unifier#paper"
       },
       {
-        "name": "Tormod's Crypt",
-        "set_code": "m21",
+        "name": "Kozilek's Command",
+        "set_code": "mh3",
         "pct_of_decks": 15,
-        "avg_copies": 1.2,
-        "url": "https://www.mtggoldfish.com/price/core-set-2021/241/tormods-crypt#paper"
-      },
-      {
-        "name": "Stock Up <019d409c-b382-7c98-b4e8-fd38a29e9b0a>",
-        "set_code": "soa",
-        "pct_of_decks": 15,
-        "avg_copies": 3.9,
-        "url": "https://www.mtggoldfish.com/price/secrets-of-strixhaven-mystical-archive/24/stock-up-borderless-showcase#paper"
-      },
-      {
-        "name": "Deafening Silence",
-        "set_code": "eld",
-        "pct_of_decks": 15,
-        "avg_copies": 2.9,
-        "url": "https://www.mtggoldfish.com/price/throne-of-eldraine/10/deafening-silence#paper"
+        "avg_copies": 4.0,
+        "url": "https://www.mtggoldfish.com/price/modern-horizons-3/11/kozileks-command#paper"
       },
       {
         "name": "Dark Ritual",
         "set_code": "dkm",
-        "pct_of_decks": 15,
+        "pct_of_decks": 14,
         "avg_copies": 4.0,
         "url": "https://www.mtggoldfish.com/price/deckmasters/82/dark-ritual#paper"
       },
       {
-        "name": "Kozilek's Command",
-        "set_code": "mh3",
+        "name": "Deafening Silence",
+        "set_code": "eld",
         "pct_of_decks": 14,
-        "avg_copies": 4.0,
-        "url": "https://www.mtggoldfish.com/price/modern-horizons-3/11/kozileks-command#paper"
+        "avg_copies": 2.9,
+        "url": "https://www.mtggoldfish.com/price/throne-of-eldraine/10/deafening-silence#paper"
       },
       {
         "name": "Show and Tell <019e8978-843e-7a2e-abe0-cb033ea59429>",
@@ -1334,32 +1334,25 @@
         "url": "https://www.mtggoldfish.com/price/duskmourn-house-of-horror/376/leyline-of-the-void-extended#paper"
       },
       {
-        "name": "Abrade",
-        "set_code": "2xm",
-        "pct_of_decks": 13,
-        "avg_copies": 1.4,
-        "url": "https://www.mtggoldfish.com/price/double-masters/114/abrade#paper"
-      },
-      {
         "name": "Karn, the Great Creator",
         "set_code": "war",
-        "pct_of_decks": 12,
+        "pct_of_decks": 13,
         "avg_copies": 3.9,
         "url": "https://www.mtggoldfish.com/price/war-of-the-spark/1/karn-the-great-creator#paper"
       },
       {
         "name": "Ensnaring Bridge",
         "set_code": "8ed",
-        "pct_of_decks": 12,
+        "pct_of_decks": 13,
         "avg_copies": 1.0,
         "url": "https://www.mtggoldfish.com/price/eighth-edition/300/ensnaring-bridge#paper"
       },
       {
-        "name": "Massacre",
-        "set_code": "plist",
+        "name": "Abrade",
+        "set_code": "2xm",
         "pct_of_decks": 12,
-        "avg_copies": 1.7,
-        "url": "https://www.mtggoldfish.com/price/the-list/58/massacre#paper"
+        "avg_copies": 1.4,
+        "url": "https://www.mtggoldfish.com/price/double-masters/114/abrade#paper"
       },
       {
         "name": "Mycosynth Lattice",
@@ -1369,25 +1362,32 @@
         "url": "https://www.mtggoldfish.com/price/the-list/241/mycosynth-lattice#paper"
       },
       {
-        "name": "Carpet of Flowers",
-        "set_code": "who",
+        "name": "Massacre",
+        "set_code": "plist",
         "pct_of_decks": 12,
-        "avg_copies": 2.6,
-        "url": "https://www.mtggoldfish.com/price/doctor-who/229/carpet-of-flowers#paper"
+        "avg_copies": 1.7,
+        "url": "https://www.mtggoldfish.com/price/the-list/58/massacre#paper"
       },
       {
         "name": "Ugin, Eye of the Storms",
         "set_code": "tdm",
-        "pct_of_decks": 11,
+        "pct_of_decks": 12,
         "avg_copies": 3.3,
         "url": "https://www.mtggoldfish.com/price/tarkir-dragonstorm/1/ugin-eye-of-the-storms#paper"
       },
       {
         "name": "Pithing Needle",
         "set_code": "mid",
-        "pct_of_decks": 11,
+        "pct_of_decks": 12,
         "avg_copies": 1.1,
         "url": "https://www.mtggoldfish.com/price/innistrad-midnight-hunt/257/pithing-needle#paper"
+      },
+      {
+        "name": "Carpet of Flowers",
+        "set_code": "who",
+        "pct_of_decks": 11,
+        "avg_copies": 2.6,
+        "url": "https://www.mtggoldfish.com/price/doctor-who/229/carpet-of-flowers#paper"
       },
       {
         "name": "Kaito, Bane of Nightmares",
@@ -1400,27 +1400,27 @@
         "name": "Erode <019d5451-a4a1-724b-9256-2979fafca34b>",
         "set_code": "sos",
         "pct_of_decks": 11,
-        "avg_copies": 1.8,
+        "avg_copies": 1.9,
         "url": "https://www.mtggoldfish.com/price/secrets-of-strixhaven/15/erode#paper"
       },
       {
         "name": "Nethergoyf",
         "set_code": "mh3",
-        "pct_of_decks": 11,
-        "avg_copies": 3.7,
+        "pct_of_decks": 10,
+        "avg_copies": 3.8,
         "url": "https://www.mtggoldfish.com/price/modern-horizons-3/103/nethergoyf#paper"
       },
       {
-        "name": "Cabal Therapy",
-        "set_code": "mb1",
-        "pct_of_decks": 11,
-        "avg_copies": 2.5,
-        "url": "https://www.mtggoldfish.com/price/mystery-booster/587/cabal-therapy#paper"
+        "name": "Quantum Riddler [EOE] (F)",
+        "set_code": null,
+        "pct_of_decks": 10,
+        "avg_copies": 3.7,
+        "url": "https://www.mtggoldfish.com/price/edge-of-eternities/72/quantum-riddler-foil#paper"
       }
     ]
   },
   "commander": {
-    "updated_at": "2026-09-13T10:41:27.491870+00:00",
+    "updated_at": "2026-09-14T11:03:04.191737+00:00",
     "entries": [
       {
         "name": "Sol Ring",
@@ -1451,11 +1451,11 @@
         "url": "https://www.mtggoldfish.com/price/commander-2016/78/swords-to-plowshares#paper"
       },
       {
-        "name": "Lightning Greaves <019d4a1a-99b1-77db-ba4d-dba689e7a6a3>",
-        "set_code": "soc",
+        "name": "Lightning Greaves",
+        "set_code": "tdc",
         "pct_of_decks": 23,
         "avg_copies": 1.0,
-        "url": "https://www.mtggoldfish.com/price/secrets-of-strixhaven-commander/350/lightning-greaves#paper"
+        "url": "https://www.mtggoldfish.com/price/tarkir-dragonstorm-commander/102/lightning-greaves#paper"
       },
       {
         "name": "Counterspell",
@@ -1466,10 +1466,10 @@
       },
       {
         "name": "Path to Exile",
-        "set_code": "scd",
+        "set_code": "fic",
         "pct_of_decks": 20,
         "avg_copies": 1.0,
-        "url": "https://www.mtggoldfish.com/price/starter-commander/29/path-to-exile#paper"
+        "url": "https://www.mtggoldfish.com/price/final-fantasy-commander/248/path-to-exile#paper"
       },
       {
         "name": "Cultivate",
@@ -1514,18 +1514,18 @@
         "url": "https://www.mtggoldfish.com/price/the-list/2224/thought-vessel#paper"
       },
       {
-        "name": "Chaos Warp",
-        "set_code": "eoc",
-        "pct_of_decks": 14,
-        "avg_copies": 1.0,
-        "url": "https://www.mtggoldfish.com/price/edge-of-eternities-commander/49/chaos-warp#paper"
-      },
-      {
         "name": "Beast Within",
         "set_code": "eoc",
         "pct_of_decks": 14,
         "avg_copies": 1.0,
         "url": "https://www.mtggoldfish.com/price/edge-of-eternities-commander/93/beast-within#paper"
+      },
+      {
+        "name": "Chaos Warp",
+        "set_code": "eoc",
+        "pct_of_decks": 14,
+        "avg_copies": 1.0,
+        "url": "https://www.mtggoldfish.com/price/edge-of-eternities-commander/49/chaos-warp#paper"
       },
       {
         "name": "Rampant Growth",
@@ -1535,18 +1535,18 @@
         "url": "https://www.mtggoldfish.com/price/commander-2016/161/rampant-growth#paper"
       },
       {
-        "name": "Dark Ritual",
-        "set_code": "dkm",
-        "pct_of_decks": 13,
-        "avg_copies": 1.0,
-        "url": "https://www.mtggoldfish.com/price/deckmasters/82/dark-ritual#paper"
-      },
-      {
         "name": "Nature's Lore",
         "set_code": "fic",
         "pct_of_decks": 13,
         "avg_copies": 1.0,
         "url": "https://www.mtggoldfish.com/price/final-fantasy-commander/311/natures-lore#paper"
+      },
+      {
+        "name": "Dark Ritual",
+        "set_code": "dkm",
+        "pct_of_decks": 13,
+        "avg_copies": 1.0,
+        "url": "https://www.mtggoldfish.com/price/deckmasters/82/dark-ritual#paper"
       },
       {
         "name": "Llanowar Elves",
@@ -1556,13 +1556,6 @@
         "url": "https://www.mtggoldfish.com/price/duel-decks-elves-vs-goblins/9/llanowar-elves#paper"
       },
       {
-        "name": "An Offer You Can't Refuse",
-        "set_code": "fic",
-        "pct_of_decks": 12,
-        "avg_copies": 1.0,
-        "url": "https://www.mtggoldfish.com/price/final-fantasy-commander/267/an-offer-you-cant-refuse#paper"
-      },
-      {
         "name": "Heroic Intervention <79 - borderless>",
         "set_code": "mar",
         "pct_of_decks": 12,
@@ -1570,11 +1563,11 @@
         "url": "https://www.mtggoldfish.com/price/marvel-bonus-sheet/79/heroic-intervention-borderless-full-art#paper"
       },
       {
-        "name": "Skullclamp <019edcec-cd37-7c5f-a57a-0401c06af715>",
-        "set_code": "msc",
-        "pct_of_decks": 11,
+        "name": "An Offer You Can't Refuse",
+        "set_code": "fic",
+        "pct_of_decks": 12,
         "avg_copies": 1.0,
-        "url": "https://www.mtggoldfish.com/price/marvel-super-heroes-commander/210/skullclamp#paper"
+        "url": "https://www.mtggoldfish.com/price/final-fantasy-commander/267/an-offer-you-cant-refuse#paper"
       },
       {
         "name": "Solemn Simulacrum <019d4a1a-9dd6-79b1-8903-0e50688779ab>",
@@ -1591,11 +1584,11 @@
         "url": "https://www.mtggoldfish.com/price/aether-revolt/40/negate#paper"
       },
       {
-        "name": "Kodama's Reach",
-        "set_code": "cmd",
+        "name": "Skullclamp",
+        "set_code": "mb1",
         "pct_of_decks": 11,
         "avg_copies": 1.0,
-        "url": "https://www.mtggoldfish.com/price/commander/163/kodamas-reach#paper"
+        "url": "https://www.mtggoldfish.com/price/mystery-booster/1630/skullclamp#paper"
       },
       {
         "name": "Birds of Paradise <019edce9-acb3-7f46-bc39-d3437785ad45>",
@@ -1605,9 +1598,16 @@
         "url": "https://www.mtggoldfish.com/price/marvel-super-heroes-commander/170/birds-of-paradise#paper"
       },
       {
+        "name": "Kodama's Reach",
+        "set_code": "cmd",
+        "pct_of_decks": 11,
+        "avg_copies": 1.0,
+        "url": "https://www.mtggoldfish.com/price/commander/163/kodamas-reach#paper"
+      },
+      {
         "name": "Commander's Sphere",
         "set_code": "voc",
-        "pct_of_decks": 10,
+        "pct_of_decks": 11,
         "avg_copies": 1.0,
         "url": "https://www.mtggoldfish.com/price/innistrad-crimson-vow-commander/163/commanders-sphere#paper"
       },
@@ -1633,13 +1633,6 @@
         "url": "https://www.mtggoldfish.com/price/final-fantasy-commander/372/wayfarers-bauble#paper"
       },
       {
-        "name": "Elvish Mystic <019d4a1a-4abd-7a94-92b2-d9bafb852f32>",
-        "set_code": "soc",
-        "pct_of_decks": 9,
-        "avg_copies": 1.0,
-        "url": "https://www.mtggoldfish.com/price/secrets-of-strixhaven-commander/266/elvish-mystic#paper"
-      },
-      {
         "name": "Three Visits",
         "set_code": "fic",
         "pct_of_decks": 9,
@@ -1654,6 +1647,20 @@
         "url": "https://www.mtggoldfish.com/price/starter-commander/77/feed-the-swarm#paper"
       },
       {
+        "name": "Rhystic Study",
+        "set_code": "pr",
+        "pct_of_decks": 9,
+        "avg_copies": 1.0,
+        "url": "https://www.mtggoldfish.com/price/prophecy/45/rhystic-study#paper"
+      },
+      {
+        "name": "Elvish Mystic",
+        "set_code": "c14",
+        "pct_of_decks": 9,
+        "avg_copies": 1.0,
+        "url": "https://www.mtggoldfish.com/price/commander-2014/191/elvish-mystic#paper"
+      },
+      {
         "name": "Brainstorm <Endwalker>",
         "set_code": "fca",
         "pct_of_decks": 9,
@@ -1661,11 +1668,11 @@
         "url": "https://www.mtggoldfish.com/price/final-fantasy-through-the-ages/28/brainstorm-endwalker#paper"
       },
       {
-        "name": "Rhystic Study",
-        "set_code": "pr",
+        "name": "Cyclonic Rift",
+        "set_code": "2xm",
         "pct_of_decks": 9,
         "avg_copies": 1.0,
-        "url": "https://www.mtggoldfish.com/price/prophecy/45/rhystic-study#paper"
+        "url": "https://www.mtggoldfish.com/price/double-masters/47/cyclonic-rift#paper"
       },
       {
         "name": "Reanimate",
@@ -1682,11 +1689,18 @@
         "url": "https://www.mtggoldfish.com/price/dominaria-remastered/285/frantic-search-retro#paper"
       },
       {
-        "name": "Cyclonic Rift",
-        "set_code": "2xm",
+        "name": "Demonic Tutor",
+        "set_code": "mb1",
         "pct_of_decks": 8,
         "avg_copies": 1.0,
-        "url": "https://www.mtggoldfish.com/price/double-masters/47/cyclonic-rift#paper"
+        "url": "https://www.mtggoldfish.com/price/mystery-booster/620/demonic-tutor#paper"
+      },
+      {
+        "name": "Swan Song",
+        "set_code": "eoc",
+        "pct_of_decks": 8,
+        "avg_copies": 1.0,
+        "url": "https://www.mtggoldfish.com/price/edge-of-eternities-commander/46/swan-song#paper"
       },
       {
         "name": "Generous Gift <019edceb-52b0-7615-bcf0-8dadaca0c073>",
@@ -1694,13 +1708,6 @@
         "pct_of_decks": 8,
         "avg_copies": 1.0,
         "url": "https://www.mtggoldfish.com/price/marvel-super-heroes-commander/133/generous-gift#paper"
-      },
-      {
-        "name": "Demonic Tutor",
-        "set_code": "mb1",
-        "pct_of_decks": 8,
-        "avg_copies": 1.0,
-        "url": "https://www.mtggoldfish.com/price/mystery-booster/620/demonic-tutor#paper"
       },
       {
         "name": "Chromatic Lantern",
@@ -1717,18 +1724,18 @@
         "url": "https://www.mtggoldfish.com/price/the-list/21186/garruks-uprising#paper"
       },
       {
-        "name": "Swan Song",
-        "set_code": "eoc",
-        "pct_of_decks": 8,
-        "avg_copies": 1.0,
-        "url": "https://www.mtggoldfish.com/price/edge-of-eternities-commander/46/swan-song#paper"
-      },
-      {
         "name": "Talisman of Dominance <019edced-1115-7559-8722-927d20c2dd4a>",
         "set_code": "msc",
         "pct_of_decks": 8,
         "avg_copies": 1.0,
         "url": "https://www.mtggoldfish.com/price/marvel-super-heroes-commander/219/talisman-of-dominance#paper"
+      },
+      {
+        "name": "Faithless Looting <019d4a1a-324b-715f-9adb-be51eafe7fb4>",
+        "set_code": "soc",
+        "pct_of_decks": 8,
+        "avg_copies": 1.0,
+        "url": "https://www.mtggoldfish.com/price/secrets-of-strixhaven-commander/244/faithless-looting#paper"
       },
       {
         "name": "Phyrexian Arena <bundle>",
@@ -1738,18 +1745,18 @@
         "url": "https://www.mtggoldfish.com/price/foundations/728/phyrexian-arena-bundle#paper"
       },
       {
-        "name": "Faithless Looting",
-        "set_code": "tdc",
-        "pct_of_decks": 8,
-        "avg_copies": 1.0,
-        "url": "https://www.mtggoldfish.com/price/tarkir-dragonstorm-commander/213/faithless-looting#paper"
-      },
-      {
         "name": "Sakura-Tribe Elder <019d4a1a-5821-7f99-9d4e-2be3f235dc9e>",
         "set_code": "soc",
         "pct_of_decks": 7,
         "avg_copies": 1.0,
         "url": "https://www.mtggoldfish.com/price/secrets-of-strixhaven-commander/285/sakura-tribe-elder#paper"
+      },
+      {
+        "name": "Victimize",
+        "set_code": "mh3",
+        "pct_of_decks": 7,
+        "avg_copies": 1.0,
+        "url": "https://www.mtggoldfish.com/price/modern-horizons-3/278/victimize#paper"
       },
       {
         "name": "Propaganda",
@@ -1759,18 +1766,11 @@
         "url": "https://www.mtggoldfish.com/price/final-fantasy-commander/268/propaganda#paper"
       },
       {
-        "name": "Victimize",
-        "set_code": "ema",
+        "name": "Eternal Witness",
+        "set_code": "scd",
         "pct_of_decks": 7,
         "avg_copies": 1.0,
-        "url": "https://www.mtggoldfish.com/price/eternal-masters/113/victimize#paper"
-      },
-      {
-        "name": "Big Score <019ea50b-7890-7ce0-92b2-a6bb4ebe3b56>",
-        "set_code": "msc",
-        "pct_of_decks": 7,
-        "avg_copies": 1.0,
-        "url": "https://www.mtggoldfish.com/price/marvel-super-heroes-commander/802/big-score#paper"
+        "url": "https://www.mtggoldfish.com/price/starter-commander/181/eternal-witness#paper"
       }
     ]
   }
