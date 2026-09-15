@@ -6650,5 +6650,81 @@
       "Foil",
       "Standard"
     ]
+  },
+  "68502df159fa724009556046": {
+    "name": "Idyllic Tutor",
+    "slug": "pthb-idyllic-tutor-24p-rare",
+    "nameSlug": "idyllic-tutor",
+    "expansion": "Theros Beyond Death Promos",
+    "expansionSlug": "theros-beyond-death-promos",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502d0659fa7240095528d1": {
+    "name": "Felidar Retreat",
+    "slug": "pznr-felidar-retreat-16p-rare",
+    "nameSlug": "felidar-retreat",
+    "expansion": "Zendikar Rising Promos",
+    "expansionSlug": "zendikar-rising-promos",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502bca59fa72400954b32e": {
+    "name": "Amphibian Downpour",
+    "slug": "mh3-amphibian-downpour-449-rare",
+    "nameSlug": "amphibian-downpour",
+    "expansion": "Modern Horizons 3",
+    "expansionSlug": "modern-horizons-3",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850317559fa724009565de8": {
+    "name": "Temporal Fissure",
+    "slug": "scg-temporal-fissure-53-common",
+    "nameSlug": "temporal-fissure",
+    "expansion": "Scourge",
+    "expansionSlug": "scourge",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685030be59fa72400956244a": {
+    "name": "Shark Typhoon",
+    "slug": "sch-shark-typhoon-28-rare",
+    "nameSlug": "shark-typhoon",
+    "expansion": "Store Championships",
+    "expansionSlug": "store-championships",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502bc959fa72400954a70a": {
+    "name": "Alrund's Epiphany",
+    "slug": "khm-alrunds-epiphany-295-mythic",
+    "nameSlug": "alrunds-epiphany",
+    "expansion": "Kaldheim",
+    "expansionSlug": "kaldheim",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c9859fa724009550471": {
+    "name": "Contamination",
+    "slug": "plst-contamination-usg-123-rare",
+    "nameSlug": "contamination",
+    "expansion": "The List",
+    "expansionSlug": "the-list",
+    "finishes": [
+      "Standard"
+    ]
   }
 }
