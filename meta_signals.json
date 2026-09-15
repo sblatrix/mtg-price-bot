@@ -1,5 +1,31 @@
 [
   {
+    "name": "Sire of Seven Deaths",
+    "format": "modern",
+    "rarity": "mythic",
+    "pct_of_decks": 10,
+    "pct_change": 10,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-09-15T10:32:43.381992+00:00",
+    "url": "https://www.mtggoldfish.com/price/foundations/1/sire-of-seven-deaths#paper",
+    "summary": "Nouvelle entrée en modern : 10% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "The One Ring",
+    "format": "legacy",
+    "rarity": "mythic",
+    "pct_of_decks": 15,
+    "pct_change": 15,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-09-15T10:32:43.381992+00:00",
+    "url": "https://www.mtggoldfish.com/price/the-lord-of-the-rings-tales-of-middle-earth/246/the-one-ring#paper",
+    "summary": "Nouvelle entrée en legacy : 15% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Trinisphere",
     "format": "modern",
     "rarity": "mythic",
