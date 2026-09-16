@@ -1,5 +1,31 @@
 [
   {
+    "name": "Leatherhead, Swamp Stalker",
+    "format": "standard",
+    "rarity": "rare",
+    "pct_of_decks": 13,
+    "pct_change": 13,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-09-16T10:21:54.880762+00:00",
+    "url": "https://www.mtggoldfish.com/price/teenage-mutant-ninja-turtles/117/leatherhead-swamp-stalker#paper",
+    "summary": "Nouvelle entrée en standard : 13% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Nethergoyf",
+    "format": "legacy",
+    "rarity": "mythic",
+    "pct_of_decks": 10,
+    "pct_change": 10,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-09-16T10:21:54.880762+00:00",
+    "url": "https://www.mtggoldfish.com/price/modern-horizons-3/103/nethergoyf#paper",
+    "summary": "Nouvelle entrée en legacy : 10% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Sire of Seven Deaths",
     "format": "modern",
     "rarity": "mythic",
