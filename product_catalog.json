@@ -6748,5 +6748,27 @@
       "Standard",
       "Foil"
     ]
+  },
+  "68502c2e59fa72400954c662": {
+    "name": "Broken Bond",
+    "slug": "dom-broken-bond-157-common",
+    "nameSlug": "broken-bond",
+    "expansion": "Dominaria",
+    "expansionSlug": "dominaria",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502df159fa7240095561b4": {
+    "name": "Hullbreaker Horror",
+    "slug": "vow-hullbreaker-horror-63-rare",
+    "nameSlug": "hullbreaker-horror",
+    "expansion": "Innistrad: Crimson Vow",
+    "expansionSlug": "innistrad-crimson-vow",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
