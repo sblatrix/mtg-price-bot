@@ -1,5 +1,31 @@
 [
   {
+    "name": "Mizzix's Mastery",
+    "expansion": "Final Fantasy: Through the Ages",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 4.27,
+    "ref_price": 7.22,
+    "discount_pct": 40.9,
+    "confident": true,
+    "seller_country": "HR",
+    "created_at": "2026-09-18T17:00:06.983Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/final-fantasy-through-the-ages/card/fca-mizzixs-mastery-41-rare"
+  },
+  {
+    "name": "Dark Confidant",
+    "expansion": "Final Fantasy",
+    "finish": "Foil",
+    "language": "en",
+    "price_paid": 4.27,
+    "ref_price": 6.25,
+    "discount_pct": 31.7,
+    "confident": false,
+    "seller_country": "HR",
+    "created_at": "2026-09-18T17:00:06.983Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/final-fantasy/card/fin-dark-confidant-94-mythic"
+  },
+  {
     "name": "Island",
     "expansion": "Final Fantasy Commander",
     "finish": "Foil",
@@ -1272,31 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-09-05T07:05:16.841Z",
     "url": "https://cardnexus.com/fr/explore/mtg/ravnica-city-of-guilds/card/rav-savra-queen-of-the-golgari-225-rare"
-  },
-  {
-    "name": "Shivan Devastator",
-    "expansion": "Dominaria United",
-    "finish": "Foil",
-    "language": "en",
-    "price_paid": 5.4,
-    "ref_price": 6.86,
-    "discount_pct": 21.3,
-    "confident": false,
-    "seller_country": "GB",
-    "created_at": "2026-09-05T02:16:16.808Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/dominaria-united/card/dmu-shivan-devastator-410-mythic"
-  },
-  {
-    "name": "Ragavan, Nimble Pilferer",
-    "expansion": "Modern Horizons 2",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 25.0,
-    "ref_price": 33.63,
-    "discount_pct": 25.7,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-09-04T09:16:12.640Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/modern-horizons-2/card/mh2-ragavan-nimble-pilferer-138-mythic"
   }
 ]

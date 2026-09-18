@@ -6833,5 +6833,27 @@
     "finishes": [
       "Foil"
     ]
+  },
+  "68502c9659fa72400954eb62": {
+    "name": "Dark Confidant",
+    "slug": "fin-dark-confidant-94-mythic",
+    "nameSlug": "dark-confidant",
+    "expansion": "Final Fantasy",
+    "expansionSlug": "final-fantasy",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502eee59fa72400955a5ec": {
+    "name": "Mizzix's Mastery",
+    "slug": "fca-mizzixs-mastery-41-rare",
+    "nameSlug": "mizzixs-mastery",
+    "expansion": "Final Fantasy: Through the Ages",
+    "expansionSlug": "final-fantasy-through-the-ages",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
