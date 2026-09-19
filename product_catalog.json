@@ -6855,5 +6855,27 @@
       "Standard",
       "Foil"
     ]
+  },
+  "685030c059fa72400956329a": {
+    "name": "Shadowspear",
+    "slug": "thb-shadowspear-345-rare",
+    "nameSlug": "shadowspear",
+    "expansion": "Theros Beyond Death",
+    "expansionSlug": "theros-beyond-death",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c9659fa72400954f20d": {
+    "name": "Crop Rotation",
+    "slug": "dmr-crop-rotation-154-uncommon",
+    "nameSlug": "crop-rotation",
+    "expansion": "Dominaria Remastered",
+    "expansionSlug": "dominaria-remastered",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
   }
 }
