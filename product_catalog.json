@@ -6888,5 +6888,38 @@
       "Foil",
       "Standard"
     ]
+  },
+  "68502e6c59fa724009558b0d": {
+    "name": "Kambal, Profiteering Mayor",
+    "slug": "otj-kambal-profiteering-mayor-211-rare",
+    "nameSlug": "kambal-profiteering-mayor",
+    "expansion": "Outlaws of Thunder Junction",
+    "expansionSlug": "outlaws-of-thunder-junction",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850323059fa724009568a40": {
+    "name": "Tibalt's Trickery",
+    "slug": "khm-tibalts-trickery-153-rare",
+    "nameSlug": "tibalts-trickery",
+    "expansion": "Kaldheim",
+    "expansionSlug": "kaldheim",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c2d59fa72400954bcd2": {
+    "name": "Birgi, God of Storytelling // Harnfel, Horn of Bounty",
+    "slug": "khm-birgi-god-of-storytelling-harnfel-horn-of-bounty-123-rare",
+    "nameSlug": "birgi-god-of-storytelling-harnfel-horn-of-bounty",
+    "expansion": "Kaldheim",
+    "expansionSlug": "kaldheim",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
