@@ -1,5 +1,31 @@
 [
   {
+    "name": "Silence",
+    "expansion": "Magic 2011",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 5.0,
+    "ref_price": 6.27,
+    "discount_pct": 20.3,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-09-20T07:28:31.186Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/magic-2011/card/m11-silence-30-rare"
+  },
+  {
+    "name": "Lord of the Pit",
+    "expansion": "Tenth Edition",
+    "finish": "Foil",
+    "language": "fr",
+    "price_paid": 6.0,
+    "ref_price": 8.33,
+    "discount_pct": 28.0,
+    "confident": false,
+    "seller_country": "FR",
+    "created_at": "2026-09-20T07:38:13.482Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/tenth-edition/card/10e-lord-of-the-pit-154star-rare"
+  },
+  {
     "name": "Birgi, God of Storytelling // Harnfel, Horn of Bounty",
     "expansion": "Kaldheim",
     "finish": "Standard",
@@ -1272,31 +1298,5 @@
     "seller_country": "IT",
     "created_at": "2026-09-06T12:39:31.135Z",
     "url": "https://cardnexus.com/fr/explore/mtg/the-lost-caverns-of-ixalan/card/lci-the-lost-caverns-of-ixalan-draft-booster-box"
-  },
-  {
-    "name": "Formidable Speaker",
-    "expansion": "Lorwyn Eclipsed",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 7.52,
-    "ref_price": 10.92,
-    "discount_pct": 31.1,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-09-06T07:23:49.246Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/lorwyn-eclipsed/card/ecl-formidable-speaker-176-rare"
-  },
-  {
-    "name": "Blood Crypt",
-    "expansion": "Lorwyn Eclipsed",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 7.07,
-    "ref_price": 9.12,
-    "discount_pct": 22.5,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-09-06T07:23:49.246Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/lorwyn-eclipsed/card/ecl-blood-crypt-262-rare"
   }
 ]
