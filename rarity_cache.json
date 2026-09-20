@@ -11246,5 +11246,53 @@
   "Withering Boon|": {
     "rarity": "uncommon",
     "set": null
+  },
+  "Annul|ths": {
+    "rarity": "common",
+    "set": "ths"
+  },
+  "Ephemerate <01a057f5-2008-7a90-b4a8-3a4675ca66ec>|sld": {
+    "rarity": null,
+    "set": "sld"
+  },
+  "Scorching Shot [OTJ] (F)|": {
+    "rarity": null,
+    "set": null
+  },
+  "Get Lost|lci": {
+    "rarity": "rare",
+    "set": "lci"
+  },
+  "Arcane Signet <Amonkhet>|drc": {
+    "rarity": null,
+    "set": "drc"
+  },
+  "Solemn Simulacrum|dsc": {
+    "rarity": "rare",
+    "set": "dsc"
+  },
+  "Generous Gift <precon>|cmr": {
+    "rarity": null,
+    "set": "cmr"
+  },
+  "Clay-Fired Bricks|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "White Auracite|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Back for Seconds|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Vengeful Tracker|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Vapor Snag|": {
+    "rarity": "common",
+    "set": null
   }
 }

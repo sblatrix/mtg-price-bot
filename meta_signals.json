@@ -1,5 +1,57 @@
 [
   {
+    "name": "Sapling Nursery",
+    "format": "standard",
+    "rarity": "rare",
+    "pct_of_decks": 19,
+    "pct_change": 19,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-09-20T10:10:28.791204+00:00",
+    "url": "https://www.mtggoldfish.com/price/lorwyn-eclipsed/192/sapling-nursery#paper",
+    "summary": "Nouvelle entrée en standard : 19% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Icetill Explorer",
+    "format": "standard",
+    "rarity": "rare",
+    "pct_of_decks": 19,
+    "pct_change": 19,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-09-20T10:10:28.791204+00:00",
+    "url": "https://www.mtggoldfish.com/price/edge-of-eternities/192/icetill-explorer#paper",
+    "summary": "Nouvelle entrée en standard : 19% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Get Lost",
+    "format": "pioneer",
+    "rarity": "rare",
+    "pct_of_decks": 12,
+    "pct_change": 12,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-09-20T10:10:28.791204+00:00",
+    "url": "https://www.mtggoldfish.com/price/lost-caverns-of-ixalan/14/get-lost#paper",
+    "summary": "Nouvelle entrée en pioneer : 12% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Solemn Simulacrum",
+    "format": "commander",
+    "rarity": "rare",
+    "pct_of_decks": 11,
+    "pct_change": 11,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-09-20T10:10:28.791204+00:00",
+    "url": "https://www.mtggoldfish.com/price/duskmourn-house-of-horror-commander/253/solemn-simulacrum#paper",
+    "summary": "Nouvelle entrée en commander : 11% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Sire of Seven Deaths",
     "format": "modern",
     "rarity": "mythic",
