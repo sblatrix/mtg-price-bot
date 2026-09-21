@@ -1,5 +1,18 @@
 [
   {
+    "name": "Avatar's Wrath",
+    "expansion": "Avatar: The Last Airbender",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 3.0,
+    "ref_price": 3.82,
+    "discount_pct": 21.5,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-09-21T18:49:21.608Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/avatar-the-last-airbender/card/tla-avatars-wrath-12-rare"
+  },
+  {
     "name": "Phyrexian Marauder",
     "expansion": "Visions",
     "finish": "Standard",
@@ -1285,18 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-09-06T19:16:02.826Z",
     "url": "https://cardnexus.com/fr/explore/mtg/march-of-the-machine/card/mom-tribute-to-the-world-tree-211-rare"
-  },
-  {
-    "name": "Fateful Discovery",
-    "expansion": "The Hobbit",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 3.0,
-    "ref_price": 4.07,
-    "discount_pct": 26.3,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-09-06T19:39:03.446Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/the-hobbit/card/hob-fateful-discovery-40-mythic"
   }
 ]
