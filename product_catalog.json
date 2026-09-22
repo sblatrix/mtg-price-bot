@@ -6964,5 +6964,25 @@
       "Foil",
       "Standard"
     ]
+  },
+  "68502d7b59fa7240095548f2": {
+    "name": "Force Spike",
+    "slug": "ddj-force-spike-14-common",
+    "nameSlug": "force-spike",
+    "expansion": "Duel Decks: Izzet vs. Golgari",
+    "expansionSlug": "duel-decks-izzet-vs-golgari",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502c2f59fa72400954db00": {
+    "name": "Bureau Headmaster",
+    "slug": "acr-bureau-headmaster-296-uncommon",
+    "nameSlug": "bureau-headmaster",
+    "expansion": "Assassin's Creed",
+    "expansionSlug": "assassins-creed",
+    "finishes": [
+      "Standard"
+    ]
   }
 }
