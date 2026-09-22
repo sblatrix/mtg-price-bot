@@ -1,5 +1,44 @@
 [
   {
+    "name": "Icetill Explorer",
+    "format": "standard",
+    "rarity": "rare",
+    "pct_of_decks": 18,
+    "pct_change": 18,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-09-22T10:25:25.619368+00:00",
+    "url": "https://www.mtggoldfish.com/price/edge-of-eternities/192/icetill-explorer#paper",
+    "summary": "Nouvelle entrée en standard : 18% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Get Lost",
+    "format": "standard",
+    "rarity": "rare",
+    "pct_of_decks": 11,
+    "pct_change": 11,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-09-22T10:25:25.619368+00:00",
+    "url": "https://www.mtggoldfish.com/price/lost-caverns-of-ixalan/14/get-lost#paper",
+    "summary": "Nouvelle entrée en standard : 11% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Chaos Warp",
+    "format": "commander",
+    "rarity": "rare",
+    "pct_of_decks": 14,
+    "pct_change": 14,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-09-22T10:25:25.619368+00:00",
+    "url": "https://www.mtggoldfish.com/price/edge-of-eternities-commander/49/chaos-warp#paper",
+    "summary": "Nouvelle entrée en commander : 14% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Sapling Nursery",
     "format": "standard",
     "rarity": "rare",
