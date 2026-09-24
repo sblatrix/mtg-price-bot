@@ -6995,5 +6995,36 @@
       "Foil",
       "Standard"
     ]
+  },
+  "68502df359fa7240095574e7": {
+    "name": "Horn of Gondor",
+    "slug": "ltr-horn-of-gondor-788-rare",
+    "nameSlug": "horn-of-gondor",
+    "expansion": "The Lord of the Rings: Tales of Middle-earth",
+    "expansionSlug": "the-lord-of-the-rings-tales-of-middle-earth",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "68502c9759fa72400954f685": {
+    "name": "Darkslick Shores",
+    "slug": "one-darkslick-shores-250-rare",
+    "nameSlug": "darkslick-shores",
+    "expansion": "Phyrexia: All Will Be One",
+    "expansionSlug": "phyrexia-all-will-be-one",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850317359fa7240095643ad": {
+    "name": "Swamp",
+    "slug": "mir-swamp-340-common",
+    "nameSlug": "swamp",
+    "expansion": "Mirage",
+    "expansionSlug": "mirage",
+    "finishes": [
+      "Standard"
+    ]
   }
 }
