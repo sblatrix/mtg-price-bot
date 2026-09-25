@@ -1,5 +1,44 @@
 [
   {
+    "name": "Savra, Queen of the Golgari",
+    "expansion": "Ravnica Remastered",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 3.0,
+    "ref_price": 6.4,
+    "discount_pct": 53.1,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-09-25T12:50:02.720Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/ravnica-remastered/card/rvr-savra-queen-of-the-golgari-218-rare"
+  },
+  {
+    "name": "Sphere of Safety",
+    "expansion": "Return to Ravnica",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 2.0,
+    "ref_price": 4.15,
+    "discount_pct": 51.8,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-09-25T14:04:00.650Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/return-to-ravnica/card/rtr-sphere-of-safety-24-uncommon"
+  },
+  {
+    "name": "Repurposed Enforcer",
+    "expansion": "Reality Fracture",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 1.25,
+    "ref_price": 3.5,
+    "discount_pct": 64.3,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-09-25T14:48:17.891Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/reality-fracture/card/fra-repurposed-enforcer-335-rare"
+  },
+  {
     "name": "Long-Lost Lances",
     "expansion": "The Hobbit Eternal",
     "finish": "Standard",
@@ -1259,44 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-09-08T09:45:45.846Z",
     "url": "https://cardnexus.com/fr/explore/mtg/the-hobbit/card/hob-beorn-the-fierce-119-mythic"
-  },
-  {
-    "name": "Edge of Eternities Bundle",
-    "expansion": "Edge of Eternities",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 69.95,
-    "ref_price": 87.57,
-    "discount_pct": 20.1,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-09-07T14:32:46.762Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/edge-of-eternities/card/eoe-edge-of-eternities-bundle"
-  },
-  {
-    "name": "The Unbeatable Squirrel Girl",
-    "expansion": "Marvel Super Heroes",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 2.32,
-    "ref_price": 3.04,
-    "discount_pct": 23.7,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-09-07T15:50:10.858Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/marvel-super-heroes/card/msh-the-unbeatable-squirrel-girl-193-rare"
-  },
-  {
-    "name": "Light-Paws, Emperor's Voice",
-    "expansion": "Kamigawa: Neon Dynasty",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 2.32,
-    "ref_price": 3.6,
-    "discount_pct": 35.6,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-09-07T15:50:10.858Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/kamigawa-neon-dynasty/card/neo-light-paws-emperors-voice-25-rare"
   }
 ]

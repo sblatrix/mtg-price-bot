@@ -7059,5 +7059,27 @@
       "Foil",
       "Standard"
     ]
+  },
+  "6aa7c23d53550ff9f00419f9": {
+    "name": "Repurposed Enforcer",
+    "slug": "fra-repurposed-enforcer-335-rare",
+    "nameSlug": "repurposed-enforcer",
+    "expansion": "Reality Fracture",
+    "expansionSlug": "reality-fracture",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "685030c059fa724009563609": {
+    "name": "Savra, Queen of the Golgari",
+    "slug": "rvr-savra-queen-of-the-golgari-218-rare",
+    "nameSlug": "savra-queen-of-the-golgari",
+    "expansion": "Ravnica Remastered",
+    "expansionSlug": "ravnica-remastered",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
