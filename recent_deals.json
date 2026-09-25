@@ -1,5 +1,31 @@
 [
   {
+    "name": "Long-Lost Lances",
+    "expansion": "The Hobbit Eternal",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 1.59,
+    "ref_price": 3.56,
+    "discount_pct": 55.3,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-09-25T08:33:59.136Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/the-hobbit-eternal/card/hoc-long-lost-lances-7-rare"
+  },
+  {
+    "name": "Glamdring",
+    "expansion": "The Hobbit Eternal",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 3.18,
+    "ref_price": 4.33,
+    "discount_pct": 26.6,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-09-25T08:33:59.136Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/the-hobbit-eternal/card/hoc-glamdring-42-mythic"
+  },
+  {
     "name": "Dryad Arbor",
     "expansion": "Time Spiral Remastered",
     "finish": "Foil",
@@ -1272,31 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-09-07T15:50:10.858Z",
     "url": "https://cardnexus.com/fr/explore/mtg/kamigawa-neon-dynasty/card/neo-light-paws-emperors-voice-25-rare"
-  },
-  {
-    "name": "Passionate Archaeologist",
-    "expansion": "Commander Legends: Battle for Baldur's Gate",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 14.21,
-    "ref_price": 21.82,
-    "discount_pct": 34.9,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-09-07T15:50:10.858Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/commander-legends-battle-for-baldurs-gate/card/clb-passionate-archaeologist-633-mythic"
-  },
-  {
-    "name": "Nalfeshnee",
-    "expansion": "Commander Legends: Battle for Baldur's Gate",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 6.66,
-    "ref_price": 9.38,
-    "discount_pct": 29.0,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-09-07T15:50:10.858Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/commander-legends-battle-for-baldurs-gate/card/clb-nalfeshnee-632-rare"
   }
 ]
