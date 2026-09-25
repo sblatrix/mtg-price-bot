@@ -7081,5 +7081,37 @@
       "Standard",
       "Foil"
     ]
+  },
+  "68b98489ffc22b0fa46d3805": {
+    "name": "Mindbreak Trap",
+    "slug": "mar-mindbreak-trap-11-mythic",
+    "nameSlug": "mindbreak-trap",
+    "expansion": "Marvel Universe",
+    "expansionSlug": "marvel-universe",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685032e559fa72400956a151": {
+    "name": "Will-o'-the-Wisp",
+    "slug": "4ed-will-o-the-wisp-171-rare",
+    "nameSlug": "will-o-the-wisp",
+    "expansion": "Fourth Edition",
+    "expansionSlug": "fourth-edition",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "685030bf59fa7240095630c6": {
+    "name": "Sheltered by Ghosts",
+    "slug": "dsk-sheltered-by-ghosts-30-uncommon",
+    "nameSlug": "sheltered-by-ghosts",
+    "expansion": "Duskmourn: House of Horror",
+    "expansionSlug": "duskmourn-house-of-horror",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
