@@ -7113,5 +7113,37 @@
       "Standard",
       "Foil"
     ]
+  },
+  "68502c2f59fa72400954d9c3": {
+    "name": "Burning Inquiry",
+    "slug": "plst-burning-inquiry-m10-128-common",
+    "nameSlug": "burning-inquiry",
+    "expansion": "The List",
+    "expansionSlug": "the-list",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502df059fa724009555834": {
+    "name": "Guardian Project",
+    "slug": "rna-guardian-project-130-rare",
+    "nameSlug": "guardian-project",
+    "expansion": "Ravnica Allegiance",
+    "expansionSlug": "ravnica-allegiance",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "696569d48b5e9ad6eb7b940e": {
+    "name": "Harmonized Crescendo",
+    "slug": "ecl-harmonized-crescendo-384-mythic",
+    "nameSlug": "harmonized-crescendo",
+    "expansion": "Lorwyn Eclipsed",
+    "expansionSlug": "lorwyn-eclipsed",
+    "finishes": [
+      "Foil"
+    ]
   }
 }
