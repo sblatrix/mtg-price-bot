@@ -1,5 +1,57 @@
 [
   {
+    "name": "Get Lost",
+    "format": "standard",
+    "rarity": "rare",
+    "pct_of_decks": 12,
+    "pct_change": 12,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-09-26T10:22:46.375378+00:00",
+    "url": "https://www.mtggoldfish.com/price/lost-caverns-of-ixalan/14/get-lost#paper",
+    "summary": "Nouvelle entrée en standard : 12% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Cori-Steel Cutter",
+    "format": "modern",
+    "rarity": "rare",
+    "pct_of_decks": 12,
+    "pct_change": 12,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-09-26T10:22:46.375378+00:00",
+    "url": "https://www.mtggoldfish.com/price/tarkir-dragonstorm/103/cori-steel-cutter#paper",
+    "summary": "Nouvelle entrée en modern : 12% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Get Lost",
+    "format": "pioneer",
+    "rarity": "rare",
+    "pct_of_decks": 14,
+    "pct_change": 14,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-09-26T10:22:46.375378+00:00",
+    "url": "https://www.mtggoldfish.com/price/lost-caverns-of-ixalan/14/get-lost#paper",
+    "summary": "Nouvelle entrée en pioneer : 14% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "The One Ring",
+    "format": "legacy",
+    "rarity": "mythic",
+    "pct_of_decks": 12,
+    "pct_change": 12,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-09-26T10:22:46.375378+00:00",
+    "url": "https://www.mtggoldfish.com/price/the-lord-of-the-rings-tales-of-middle-earth/246/the-one-ring#paper",
+    "summary": "Nouvelle entrée en legacy : 12% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Abrupt Decay",
     "format": "pioneer",
     "rarity": "rare",
