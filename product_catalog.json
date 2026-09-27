@@ -7651,5 +7651,48 @@
       "Foil",
       "Standard"
     ]
+  },
+  "68502df259fa724009556c98": {
+    "name": "Haunted Ridge",
+    "slug": "mid-haunted-ridge-263-rare",
+    "nameSlug": "haunted-ridge",
+    "expansion": "Innistrad: Midnight Hunt",
+    "expansionSlug": "innistrad-midnight-hunt",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6aa7c23a69176270848fb5f3": {
+    "name": "Flesh Duplicate",
+    "slug": "spg-flesh-duplicate-161-mythic",
+    "nameSlug": "flesh-duplicate",
+    "expansion": "Special Guests",
+    "expansionSlug": "special-guests",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6a7b05aef98b84cfd24c69ae": {
+    "name": "Thranduil, Sindarin Liege // Silvan Rally",
+    "slug": "hob-thranduil-sindarin-liege-silvan-rally-269-uncommon",
+    "nameSlug": "thranduil-sindarin-liege-silvan-rally",
+    "expansion": "The Hobbit",
+    "expansionSlug": "the-hobbit",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "6ab7b010c5d3a4ef6d3897da": {
+    "name": "Marwyn, the Clearcutter",
+    "slug": "fra-marwyn-the-clearcutter-310-uncommon",
+    "nameSlug": "marwyn-the-clearcutter",
+    "expansion": "Reality Fracture",
+    "expansionSlug": "reality-fracture",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
   }
 }

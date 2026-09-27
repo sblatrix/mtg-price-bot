@@ -1,5 +1,57 @@
 [
   {
+    "name": "Marwyn, the Clearcutter",
+    "expansion": "Reality Fracture",
+    "finish": "Foil",
+    "language": "en",
+    "price_paid": 1.26,
+    "ref_price": 3.5,
+    "discount_pct": 64.0,
+    "confident": false,
+    "seller_country": "DE",
+    "created_at": "2026-09-27T06:58:09.272Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/reality-fracture/card/fra-marwyn-the-clearcutter-310-uncommon"
+  },
+  {
+    "name": "Thranduil, Sindarin Liege // Silvan Rally",
+    "expansion": "The Hobbit",
+    "finish": "Foil",
+    "language": "en",
+    "price_paid": 2.0,
+    "ref_price": 2.92,
+    "discount_pct": 31.5,
+    "confident": false,
+    "seller_country": "FR",
+    "created_at": "2026-09-27T09:37:27.970Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/the-hobbit/card/hob-thranduil-sindarin-liege-silvan-rally-269-uncommon"
+  },
+  {
+    "name": "Flesh Duplicate",
+    "expansion": "Special Guests",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 8.0,
+    "ref_price": 19.25,
+    "discount_pct": 58.4,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-09-27T11:27:34.510Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/special-guests/card/spg-flesh-duplicate-161-mythic"
+  },
+  {
+    "name": "Haunted Ridge",
+    "expansion": "Innistrad: Midnight Hunt",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 4.5,
+    "ref_price": 6.27,
+    "discount_pct": 28.2,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-09-27T12:00:12.149Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/innistrad-midnight-hunt/card/mid-haunted-ridge-263-rare"
+  },
+  {
     "name": "Omnipresence",
     "expansion": "Reality Fracture",
     "finish": "Standard",
@@ -1246,57 +1298,5 @@
     "seller_country": "HR",
     "created_at": "2026-09-18T17:00:06.983Z",
     "url": "https://cardnexus.com/fr/explore/mtg/final-fantasy/card/fin-dark-confidant-94-mythic"
-  },
-  {
-    "name": "Island",
-    "expansion": "Final Fantasy Commander",
-    "finish": "Foil",
-    "language": "en",
-    "price_paid": 2.19,
-    "ref_price": 3.22,
-    "discount_pct": 32.0,
-    "confident": false,
-    "seller_country": "GB",
-    "created_at": "2026-09-18T06:37:38.796Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/final-fantasy-commander/card/fic-island-479-common"
-  },
-  {
-    "name": "Nissa, Genesis Mage",
-    "expansion": "Hour of Devastation",
-    "finish": "Foil",
-    "language": "fr",
-    "price_paid": 1.5,
-    "ref_price": 2.07,
-    "discount_pct": 27.5,
-    "confident": false,
-    "seller_country": "FR",
-    "created_at": "2026-09-17T23:38:22.000Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/hour-of-devastation/card/hou-nissa-genesis-mage-200-mythic"
-  },
-  {
-    "name": "Monica Rambeau // Photon, Living Light",
-    "expansion": "Marvel Super Heroes",
-    "finish": "Foil",
-    "language": "en",
-    "price_paid": 1.99,
-    "ref_price": 2.55,
-    "discount_pct": 22.0,
-    "confident": false,
-    "seller_country": "US",
-    "created_at": "2026-09-17T05:38:38.485Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/marvel-super-heroes/card/msh-monica-rambeau-photon-living-light-23-mythic"
-  },
-  {
-    "name": "King T'Challa // Black Panther, Hope Enduring",
-    "expansion": "Marvel Super Heroes",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 15.0,
-    "ref_price": 19.89,
-    "discount_pct": 24.6,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-09-16T13:35:42.817Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/marvel-super-heroes/card/msh-king-tchalla-black-panther-hope-enduring-346-mythic"
   }
 ]
