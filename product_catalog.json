@@ -7475,5 +7475,49 @@
       "Foil",
       "Standard"
     ]
+  },
+  "68502bc759fa72400954934c": {
+    "name": "Ao, the Dawn Sky",
+    "slug": "neo-ao-the-dawn-sky-406-mythic",
+    "nameSlug": "ao-the-dawn-sky",
+    "expansion": "Kamigawa: Neon Dynasty",
+    "expansionSlug": "kamigawa-neon-dynasty",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850322d59fa7240095669e3": {
+    "name": "The Wandering Emperor",
+    "slug": "neo-the-wandering-emperor-316-mythic",
+    "nameSlug": "the-wandering-emperor",
+    "expansion": "Kamigawa: Neon Dynasty",
+    "expansionSlug": "kamigawa-neon-dynasty",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d0459fa72400955090b": {
+    "name": "Drannith Magistrate",
+    "slug": "iko-drannith-magistrate-11-rare",
+    "nameSlug": "drannith-magistrate",
+    "expansion": "Ikoria: Lair of Behemoths",
+    "expansionSlug": "ikoria-lair-of-behemoths",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6aa7c24037e793fcaa97a82c": {
+    "name": "Master of Barbs",
+    "slug": "fra-master-of-barbs-88-rare",
+    "nameSlug": "master-of-barbs",
+    "expansion": "Reality Fracture",
+    "expansionSlug": "reality-fracture",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
   }
 }
