@@ -1,5 +1,31 @@
 [
   {
+    "name": "Mossborn Hydra",
+    "format": "standard",
+    "rarity": "rare",
+    "pct_of_decks": 16,
+    "pct_change": 16,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-09-27T10:54:09.140353+00:00",
+    "url": "https://www.mtggoldfish.com/price/foundations/107/mossborn-hydra#paper",
+    "summary": "Nouvelle entrée en standard : 16% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Sunderflock",
+    "format": "standard",
+    "rarity": "rare",
+    "pct_of_decks": 15,
+    "pct_change": 15,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-09-27T10:54:09.140353+00:00",
+    "url": "https://www.mtggoldfish.com/price/lorwyn-eclipsed/74/sunderflock#paper",
+    "summary": "Nouvelle entrée en standard : 15% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Get Lost",
     "format": "standard",
     "rarity": "rare",
