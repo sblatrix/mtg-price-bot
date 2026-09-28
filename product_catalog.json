@@ -8400,5 +8400,27 @@
     "finishes": [
       "Standard"
     ]
+  },
+  "68502bc859fa724009549d01": {
+    "name": "Avoid Fate",
+    "slug": "tsb-avoid-fate-73-special",
+    "nameSlug": "avoid-fate",
+    "expansion": "Time Spiral Timeshifted",
+    "expansionSlug": "time-spiral-timeshifted",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6ab7aff96aa863c4cf94a270": {
+    "name": "Mystic Gate",
+    "slug": "frc-mystic-gate-76-rare",
+    "nameSlug": "mystic-gate",
+    "expansion": "Reality Fracture Commander",
+    "expansionSlug": "reality-fracture-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
   }
 }
