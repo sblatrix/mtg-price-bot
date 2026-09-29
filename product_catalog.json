@@ -8465,5 +8465,38 @@
       "Standard",
       "Foil"
     ]
+  },
+  "6ab7b00fd88f1754ec552005": {
+    "name": "Simulacrum Shaper",
+    "slug": "fra-simulacrum-shaper-332-rare",
+    "nameSlug": "simulacrum-shaper",
+    "expansion": "Reality Fracture",
+    "expansionSlug": "reality-fracture",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6ab7aff9998612f8e7bfa3b7": {
+    "name": "Serra's Emissary",
+    "slug": "frc-serras-emissary-32-mythic",
+    "nameSlug": "serras-emissary",
+    "expansion": "Reality Fracture Commander",
+    "expansionSlug": "reality-fracture-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6aa7c23fbd856b3ca6101cf7": {
+    "name": "Vraska, Soul of Stone",
+    "slug": "fra-vraska-soul-of-stone-318-rare",
+    "nameSlug": "vraska-soul-of-stone",
+    "expansion": "Reality Fracture",
+    "expansionSlug": "reality-fracture",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
   }
 }
