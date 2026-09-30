@@ -8604,5 +8604,125 @@
     "finishes": [
       "Standard"
     ]
+  },
+  "69e1040993c168406dc0b663": {
+    "name": "Turbulent Moor",
+    "slug": "soc-turbulent-moor-104-rare",
+    "nameSlug": "turbulent-moor",
+    "expansion": "Secrets of Strixhaven Commander",
+    "expansionSlug": "secrets-of-strixhaven-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6ab7b00c917696ede15f4009": {
+    "name": "Tam, the Possibility",
+    "slug": "fra-tam-the-possibility-317-rare",
+    "nameSlug": "tam-the-possibility",
+    "expansion": "Reality Fracture",
+    "expansionSlug": "reality-fracture",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6850301659fa724009560863": {
+    "name": "Raucous Theater",
+    "slug": "mkm-raucous-theater-266-rare",
+    "nameSlug": "raucous-theater",
+    "expansion": "Murders at Karlov Manor",
+    "expansionSlug": "murders-at-karlov-manor",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502ef059fa72400955be72": {
+    "name": "Needleverge Pathway // Pillarverge Pathway",
+    "slug": "znr-needleverge-pathway-pillarverge-pathway-288-rare",
+    "nameSlug": "needleverge-pathway-pillarverge-pathway",
+    "expansion": "Zendikar Rising",
+    "expansionSlug": "zendikar-rising",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502e6c59fa72400955877d": {
+    "name": "Kroxa, Titan of Death's Hunger",
+    "slug": "mul-kroxa-titan-of-deaths-hunger-49-mythic",
+    "nameSlug": "kroxa-titan-of-deaths-hunger",
+    "expansion": "Multiverse Legends",
+    "expansionSlug": "multiverse-legends",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502df159fa7240095565ac": {
+    "name": "Hengegate Pathway // Mistgate Pathway",
+    "slug": "khm-hengegate-pathway-mistgate-pathway-293-rare",
+    "nameSlug": "hengegate-pathway-mistgate-pathway",
+    "expansion": "Kaldheim",
+    "expansionSlug": "kaldheim",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d7a59fa724009553af6": {
+    "name": "Grafdigger's Cage",
+    "slug": "m20-grafdiggers-cage-227-rare",
+    "nameSlug": "grafdiggers-cage",
+    "expansion": "Core Set 2020",
+    "expansionSlug": "core-set-2020",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c9659fa72400954f2a2": {
+    "name": "Cragcrown Pathway // Timbercrown Pathway",
+    "slug": "znr-cragcrown-pathway-timbercrown-pathway-287-rare",
+    "nameSlug": "cragcrown-pathway-timbercrown-pathway",
+    "expansion": "Zendikar Rising",
+    "expansionSlug": "zendikar-rising",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c2f59fa72400954d3d6": {
+    "name": "Clearwater Pathway // Murkwater Pathway",
+    "slug": "znr-clearwater-pathway-murkwater-pathway-286-rare",
+    "nameSlug": "clearwater-pathway-murkwater-pathway",
+    "expansion": "Zendikar Rising",
+    "expansionSlug": "zendikar-rising",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c2d59fa72400954bb9a": {
+    "name": "Blightstep Pathway // Searstep Pathway",
+    "slug": "khm-blightstep-pathway-searstep-pathway-252-rare",
+    "nameSlug": "blightstep-pathway-searstep-pathway",
+    "expansion": "Kaldheim",
+    "expansionSlug": "kaldheim",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502bca59fa72400954b42f": {
+    "name": "Bala Ged Recovery // Bala Ged Sanctuary",
+    "slug": "znr-bala-ged-recovery-bala-ged-sanctuary-180-uncommon",
+    "nameSlug": "bala-ged-recovery-bala-ged-sanctuary",
+    "expansion": "Zendikar Rising",
+    "expansionSlug": "zendikar-rising",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
