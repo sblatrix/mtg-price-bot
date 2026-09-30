@@ -571,16 +571,16 @@
     "name": "Assassin's Creed Minigames",
     "released_at": "2024-07-05"
   },
+  "tacr": {
+    "name": "Assassin's Creed Tokens",
+    "released_at": "2024-07-05"
+  },
   "acr": {
     "name": "Assassin's Creed",
     "released_at": "2024-07-05"
   },
   "aacr": {
     "name": "Assassin's Creed Art Series",
-    "released_at": "2024-07-05"
-  },
-  "tacr": {
-    "name": "Assassin's Creed Tokens",
     "released_at": "2024-07-05"
   },
   "pmh3": {
@@ -591,12 +591,16 @@
     "name": "Modern Horizons 3 Substitute Cards",
     "released_at": "2024-06-14"
   },
-  "tm3c": {
-    "name": "Modern Horizons 3 Commander Tokens",
-    "released_at": "2024-06-14"
-  },
   "amh3": {
     "name": "Modern Horizons 3 Art Series",
+    "released_at": "2024-06-14"
+  },
+  "m3c": {
+    "name": "Modern Horizons 3 Commander",
+    "released_at": "2024-06-14"
+  },
+  "tm3c": {
+    "name": "Modern Horizons 3 Commander Tokens",
     "released_at": "2024-06-14"
   },
   "tmh3": {
@@ -607,10 +611,6 @@
     "name": "Modern Horizons 3",
     "released_at": "2024-06-14"
   },
-  "m3c": {
-    "name": "Modern Horizons 3 Commander",
-    "released_at": "2024-06-14"
-  },
   "h2r": {
     "name": "Modern Horizons 2 Timeshifts",
     "released_at": "2024-06-14"
@@ -619,28 +619,16 @@
     "name": "Alchemy: Outlaws of Thunder Junction",
     "released_at": "2024-05-07"
   },
-  "potj": {
-    "name": "Outlaws of Thunder Junction Promos",
-    "released_at": "2024-04-19"
-  },
   "totj": {
     "name": "Outlaws of Thunder Junction Tokens",
     "released_at": "2024-04-19"
   },
+  "potj": {
+    "name": "Outlaws of Thunder Junction Promos",
+    "released_at": "2024-04-19"
+  },
   "aotj": {
     "name": "Outlaws of Thunder Junction Art Series",
-    "released_at": "2024-04-19"
-  },
-  "big": {
-    "name": "The Big Score",
-    "released_at": "2024-04-19"
-  },
-  "tbig": {
-    "name": "The Big Score Tokens",
-    "released_at": "2024-04-19"
-  },
-  "otc": {
-    "name": "Outlaws of Thunder Junction Commander",
     "released_at": "2024-04-19"
   },
   "otp": {
@@ -651,6 +639,14 @@
     "name": "Outlaws of Thunder Junction Commander Tokens",
     "released_at": "2024-04-19"
   },
+  "tbig": {
+    "name": "The Big Score Tokens",
+    "released_at": "2024-04-19"
+  },
+  "big": {
+    "name": "The Big Score",
+    "released_at": "2024-04-19"
+  },
   "otj": {
     "name": "Outlaws of Thunder Junction",
     "released_at": "2024-04-19"
@@ -659,12 +655,16 @@
     "name": "Breaking News Tokens",
     "released_at": "2024-04-19"
   },
-  "pip": {
-    "name": "Fallout",
-    "released_at": "2024-03-08"
+  "otc": {
+    "name": "Outlaws of Thunder Junction Commander",
+    "released_at": "2024-04-19"
   },
   "tpip": {
     "name": "Fallout Tokens",
+    "released_at": "2024-03-08"
+  },
+  "pip": {
+    "name": "Fallout",
     "released_at": "2024-03-08"
   },
   "ymkm": {
@@ -675,40 +675,40 @@
     "name": "Black Lotus Unknown Planechase",
     "released_at": "2024-02-24"
   },
-  "fclu": {
-    "name": "Ravnica: Clue Edition Front Cards",
-    "released_at": "2024-02-23"
-  },
   "clu": {
     "name": "Ravnica: Clue Edition",
+    "released_at": "2024-02-23"
+  },
+  "fclu": {
+    "name": "Ravnica: Clue Edition Front Cards",
     "released_at": "2024-02-23"
   },
   "pss4": {
     "name": "MKM Standard Showdown",
     "released_at": "2024-02-10"
   },
-  "tmkm": {
-    "name": "Murders at Karlov Manor Tokens",
-    "released_at": "2024-02-09"
-  },
-  "amkm": {
-    "name": "Murders at Karlov Manor Art Series",
-    "released_at": "2024-02-09"
-  },
   "pmkm": {
     "name": "Murders at Karlov Manor Promos",
+    "released_at": "2024-02-09"
+  },
+  "tmkm": {
+    "name": "Murders at Karlov Manor Tokens",
     "released_at": "2024-02-09"
   },
   "tmkc": {
     "name": "Murders at Karlov Manor Commander Tokens",
     "released_at": "2024-02-09"
   },
-  "mkc": {
-    "name": "Murders at Karlov Manor Commander",
+  "amkm": {
+    "name": "Murders at Karlov Manor Art Series",
     "released_at": "2024-02-09"
   },
   "mkm": {
     "name": "Murders at Karlov Manor",
+    "released_at": "2024-02-09"
+  },
+  "mkc": {
+    "name": "Murders at Karlov Manor Commander",
     "released_at": "2024-02-09"
   },
   "wmkm": {
@@ -727,12 +727,12 @@
     "name": "Ravnica Remastered",
     "released_at": "2024-01-12"
   },
-  "pf24": {
-    "name": "MagicFest 2024",
-    "released_at": "2024-01-01"
-  },
   "pw24": {
     "name": "Wizards Play Network 2024",
+    "released_at": "2024-01-01"
+  },
+  "pf24": {
+    "name": "MagicFest 2024",
     "released_at": "2024-01-01"
   },
   "ylci": {
@@ -763,12 +763,16 @@
     "name": "The Lost Caverns of Ixalan Commander Tokens",
     "released_at": "2023-11-17"
   },
+  "pmat": {
+    "name": "March of the Machine: The Aftermath Promos",
+    "released_at": "2023-11-17"
+  },
   "trex": {
     "name": "Jurassic World Collection Tokens",
     "released_at": "2023-11-17"
   },
-  "pmat": {
-    "name": "March of the Machine: The Aftermath Promos",
+  "lci": {
+    "name": "The Lost Caverns of Ixalan",
     "released_at": "2023-11-17"
   },
   "rex": {
@@ -777,10 +781,6 @@
   },
   "slci": {
     "name": "The Lost Caverns of Ixalan Substitute Cards",
-    "released_at": "2023-11-17"
-  },
-  "lci": {
-    "name": "The Lost Caverns of Ixalan",
     "released_at": "2023-11-17"
   },
   "altc": {
@@ -803,28 +803,32 @@
     "name": "Wilds of Eldraine Promos",
     "released_at": "2023-09-08"
   },
-  "woc": {
-    "name": "Wilds of Eldraine Commander",
-    "released_at": "2023-09-08"
-  },
   "twoc": {
     "name": "Wilds of Eldraine Commander Tokens",
-    "released_at": "2023-09-08"
-  },
-  "wot": {
-    "name": "Wilds of Eldraine: Enchanting Tales",
-    "released_at": "2023-09-08"
-  },
-  "wwoe": {
-    "name": "WOE Japanese Promo Tokens",
     "released_at": "2023-09-08"
   },
   "awoe": {
     "name": "Wilds of Eldraine Art Series",
     "released_at": "2023-09-08"
   },
+  "wot": {
+    "name": "Wilds of Eldraine: Enchanting Tales",
+    "released_at": "2023-09-08"
+  },
+  "woc": {
+    "name": "Wilds of Eldraine Commander",
+    "released_at": "2023-09-08"
+  },
+  "wwoe": {
+    "name": "WOE Japanese Promo Tokens",
+    "released_at": "2023-09-08"
+  },
   "twoe": {
     "name": "Wilds of Eldraine Tokens",
+    "released_at": "2023-09-08"
+  },
+  "pmda": {
+    "name": "Magic × Duel Masters Promos",
     "released_at": "2023-09-08"
   },
   "ptsr": {
@@ -833,10 +837,6 @@
   },
   "woe": {
     "name": "Wilds of Eldraine",
-    "released_at": "2023-09-08"
-  },
-  "pmda": {
-    "name": "Magic × Duel Masters Promos",
     "released_at": "2023-09-08"
   },
   "p30t": {
@@ -883,20 +883,20 @@
     "name": "Tales of Middle-earth Front Cards",
     "released_at": "2023-06-23"
   },
-  "mltr": {
-    "name": "The Lord of the Rings: Tales of Middle-earth Minigames",
-    "released_at": "2023-06-23"
-  },
-  "ltr": {
-    "name": "The Lord of the Rings: Tales of Middle-earth",
-    "released_at": "2023-06-23"
-  },
   "tltr": {
     "name": "Tales of Middle-earth Tokens",
     "released_at": "2023-06-23"
   },
   "altr": {
     "name": "Tales of Middle-earth Art Series",
+    "released_at": "2023-06-23"
+  },
+  "ltr": {
+    "name": "The Lord of the Rings: Tales of Middle-earth",
+    "released_at": "2023-06-23"
+  },
+  "mltr": {
+    "name": "The Lord of the Rings: Tales of Middle-earth Minigames",
     "released_at": "2023-06-23"
   },
   "tltc": {

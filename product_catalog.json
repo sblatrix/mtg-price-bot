@@ -8584,5 +8584,25 @@
       "Foil",
       "Standard"
     ]
+  },
+  "68502d0459fa7240095513a5": {
+    "name": "Dovescape",
+    "slug": "gk2-dovescape-11-rare",
+    "nameSlug": "dovescape",
+    "expansion": "RNA Guild Kit",
+    "expansionSlug": "rna-guild-kit",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850322e59fa7240095672ef": {
+    "name": "Thousand-Year Elixir",
+    "slug": "c21-thousand-year-elixir-271-rare",
+    "nameSlug": "thousand-year-elixir",
+    "expansion": "Commander 2021",
+    "expansionSlug": "commander-2021",
+    "finishes": [
+      "Standard"
+    ]
   }
 }
