@@ -11854,5 +11854,45 @@
   "Krosan Wayfarer|": {
     "rarity": "common",
     "set": null
+  },
+  "Stock Up|dft": {
+    "rarity": "uncommon",
+    "set": "dft"
+  },
+  "Mossborn Hydra <extended>|fdn": {
+    "rarity": null,
+    "set": "fdn"
+  },
+  "Greedy Freebooter [LCI] (F)|": {
+    "rarity": null,
+    "set": null
+  },
+  "Biotech Specialist|eoe": {
+    "rarity": "rare",
+    "set": "eoe"
+  },
+  "Liliana the Faultless|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Ajani Resolute|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Pompous Battlemage|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Roiling Canopy|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Theorist's Proxy|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Vohar, Vodalian Desecrator|": {
+    "rarity": "uncommon",
+    "set": null
   }
 }
