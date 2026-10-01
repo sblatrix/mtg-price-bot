@@ -8767,5 +8767,82 @@
     "finishes": [
       "Standard"
     ]
+  },
+  "69e1040993c168406dc0b7ca": {
+    "name": "Sundown Pass",
+    "slug": "sos-sundown-pass-305-rare",
+    "nameSlug": "sundown-pass",
+    "expansion": "Secrets of Strixhaven",
+    "expansionSlug": "secrets-of-strixhaven",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "69e1040993c168406dc0b6c4": {
+    "name": "Deathcap Glade",
+    "slug": "sos-deathcap-glade-253-rare",
+    "nameSlug": "deathcap-glade",
+    "expansion": "Secrets of Strixhaven",
+    "expansionSlug": "secrets-of-strixhaven",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502f7e59fa72400955de6c": {
+    "name": "Phyrexian Arena",
+    "slug": "fdn-phyrexian-arena-322-rare",
+    "nameSlug": "phyrexian-arena",
+    "expansion": "Foundations",
+    "expansionSlug": "foundations",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6ab7b00fa1089d21344a5b52": {
+    "name": "Lich's Relic",
+    "slug": "fra-lichs-relic-365-rare",
+    "nameSlug": "lichs-relic",
+    "expansion": "Reality Fracture",
+    "expansionSlug": "reality-fracture",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6ab7b00f8c28a2463a053edb": {
+    "name": "Identity Echo",
+    "slug": "fra-identity-echo-371-rare",
+    "nameSlug": "identity-echo",
+    "expansion": "Reality Fracture",
+    "expansionSlug": "reality-fracture",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6ab7b00e0988b98379cca873": {
+    "name": "Jace, Reality Sculptor",
+    "slug": "fra-jace-reality-sculptor-300-rare",
+    "nameSlug": "jace-reality-sculptor",
+    "expansion": "Reality Fracture",
+    "expansionSlug": "reality-fracture",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502f7d59fa72400955db4e": {
+    "name": "Okaun, Eye of Chaos",
+    "slug": "bbd-okaun-eye-of-chaos-6-rare",
+    "nameSlug": "okaun-eye-of-chaos",
+    "expansion": "Battlebond",
+    "expansionSlug": "battlebond",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
