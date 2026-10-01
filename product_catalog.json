@@ -8724,5 +8724,48 @@
       "Standard",
       "Foil"
     ]
+  },
+  "685032e459fa7240095698b0": {
+    "name": "Wear // Tear",
+    "slug": "pip-wear-tear-222-uncommon",
+    "nameSlug": "wear-tear",
+    "expansion": "Fallout",
+    "expansionSlug": "fallout",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502df359fa724009557661": {
+    "name": "Hedge Maze",
+    "slug": "mkm-hedge-maze-262-rare",
+    "nameSlug": "hedge-maze",
+    "expansion": "Murders at Karlov Manor",
+    "expansionSlug": "murders-at-karlov-manor",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c2d59fa72400954bd01": {
+    "name": "Brightclimb Pathway // Grimclimb Pathway",
+    "slug": "znr-brightclimb-pathway-grimclimb-pathway-285-rare",
+    "nameSlug": "brightclimb-pathway-grimclimb-pathway",
+    "expansion": "Zendikar Rising",
+    "expansionSlug": "zendikar-rising",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502f7d59fa72400955dd83": {
+    "name": "Noxious Ghoul",
+    "slug": "plst-noxious-ghoul-lgn-77-uncommon",
+    "nameSlug": "noxious-ghoul",
+    "expansion": "The List",
+    "expansionSlug": "the-list",
+    "finishes": [
+      "Standard"
+    ]
   }
 }
