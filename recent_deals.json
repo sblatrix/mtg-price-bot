@@ -1,5 +1,31 @@
 [
   {
+    "name": "Genji Glove",
+    "expansion": "Final Fantasy",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 4.0,
+    "ref_price": 5.06,
+    "discount_pct": 20.9,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-10-02T16:44:05.847Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/final-fantasy/card/fin-genji-glove-258-rare"
+  },
+  {
+    "name": "Hedge Shredder",
+    "expansion": "Duskmourn: House of Horror",
+    "finish": "Foil",
+    "language": "en",
+    "price_paid": 2.0,
+    "ref_price": 2.66,
+    "discount_pct": 24.8,
+    "confident": false,
+    "seller_country": "FR",
+    "created_at": "2026-10-02T17:03:13.048Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/duskmourn-house-of-horror/card/dsk-hedge-shredder-320-rare"
+  },
+  {
     "name": "Ingris Stingerquill",
     "expansion": "Reality Fracture",
     "finish": "Standard",
@@ -1272,31 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-09-27T23:20:56.936Z",
     "url": "https://cardnexus.com/fr/explore/mtg/portal-three-kingdoms/card/ptk-hua-tuo-honored-physician-137-rare"
-  },
-  {
-    "name": "Huang Zhong, Shu General",
-    "expansion": "Portal Three Kingdoms",
-    "finish": "Standard",
-    "language": "ja",
-    "price_paid": 15.0,
-    "ref_price": 21.94,
-    "discount_pct": 31.6,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-09-27T23:20:56.936Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/portal-three-kingdoms/card/ptk-huang-zhong-shu-general-8-rare"
-  },
-  {
-    "name": "Ideas Unbound",
-    "expansion": "Saviors of Kamigawa",
-    "finish": "Foil",
-    "language": "fr",
-    "price_paid": 8.0,
-    "ref_price": 17.46,
-    "discount_pct": 54.2,
-    "confident": false,
-    "seller_country": "FR",
-    "created_at": "2026-09-27T23:20:56.936Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/saviors-of-kamigawa/card/sok-ideas-unbound-40-common"
   }
 ]
