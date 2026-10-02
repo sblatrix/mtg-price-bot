@@ -1,5 +1,31 @@
 [
   {
+    "name": "Slip Out the Back",
+    "expansion": "Streets of New Capenna",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 3.0,
+    "ref_price": 3.78,
+    "discount_pct": 20.6,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-10-02T02:47:29.542Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/streets-of-new-capenna/card/snc-slip-out-the-back-62-uncommon"
+  },
+  {
+    "name": "Summon: Bahamut",
+    "expansion": "Final Fantasy",
+    "finish": "Foil",
+    "language": "en",
+    "price_paid": 25.33,
+    "ref_price": 32.97,
+    "discount_pct": 23.2,
+    "confident": false,
+    "seller_country": "FR",
+    "created_at": "2026-10-02T07:49:17.347Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/final-fantasy/card/fin-summon-bahamut-1-mythic"
+  },
+  {
     "name": "Uldaros Theorix",
     "expansion": "Reality Fracture",
     "finish": "Standard",
@@ -1272,31 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-09-27T23:21:00.677Z",
     "url": "https://cardnexus.com/fr/explore/mtg/fifth-edition/card/5ed-lord-of-atlantis-100-rare"
-  },
-  {
-    "name": "Kongming, \"Sleeping Dragon\"",
-    "expansion": "Portal Three Kingdoms",
-    "finish": "Standard",
-    "language": "ja",
-    "price_paid": 7.0,
-    "ref_price": 14.43,
-    "discount_pct": 51.5,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-09-27T23:21:00.677Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/portal-three-kingdoms/card/ptk-kongming-sleeping-dragon-9-rare"
-  },
-  {
-    "name": "Maralen of the Mornsong",
-    "expansion": "Morningtide",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 10.0,
-    "ref_price": 15.05,
-    "discount_pct": 33.6,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-09-27T23:21:01.347Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/morningtide/card/mor-maralen-of-the-mornsong-65-rare"
   }
 ]
