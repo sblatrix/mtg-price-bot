@@ -1,5 +1,31 @@
 [
   {
+    "name": "Get Lost",
+    "format": "standard",
+    "rarity": "rare",
+    "pct_of_decks": 13,
+    "pct_change": 13,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-10-02T11:26:12.551998+00:00",
+    "url": "https://www.mtggoldfish.com/price/lost-caverns-of-ixalan/14/get-lost#paper",
+    "summary": "Nouvelle entrée en standard : 13% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Get Lost",
+    "format": "pioneer",
+    "rarity": "rare",
+    "pct_of_decks": 16,
+    "pct_change": 16,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-10-02T11:26:12.551998+00:00",
+    "url": "https://www.mtggoldfish.com/price/lost-caverns-of-ixalan/14/get-lost#paper",
+    "summary": "Nouvelle entrée en pioneer : 16% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Icetill Explorer",
     "format": "standard",
     "rarity": "rare",
