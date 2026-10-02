@@ -8866,5 +8866,56 @@
       "Standard",
       "Foil"
     ]
+  },
+  "6850317359fa7240095645cc": {
+    "name": "Swords to Plowshares",
+    "slug": "dsc-swords-to-plowshares-106-uncommon",
+    "nameSlug": "swords-to-plowshares",
+    "expansion": "Duskmourn: House of Horror Commander",
+    "expansionSlug": "duskmourn-house-of-horror-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850322e59fa7240095670c4": {
+    "name": "Timely Ward",
+    "slug": "dsc-timely-ward-107-rare",
+    "nameSlug": "timely-ward",
+    "expansion": "Duskmourn: House of Horror Commander",
+    "expansionSlug": "duskmourn-house-of-horror-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850317559fa7240095657e2": {
+    "name": "Sphere of Safety",
+    "slug": "dsc-sphere-of-safety-104-uncommon",
+    "nameSlug": "sphere-of-safety",
+    "expansion": "Duskmourn: House of Horror Commander",
+    "expansionSlug": "duskmourn-house-of-horror-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6a7b05abda0fc1c47bee3c9e": {
+    "name": "Gleaming Splendor",
+    "slug": "hob-gleaming-splendor-275-mythic",
+    "nameSlug": "gleaming-splendor",
+    "expansion": "The Hobbit",
+    "expansionSlug": "the-hobbit",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "6aa7c23e8bc3914d407e6517": {
+    "name": "Ingris Stingerquill",
+    "slug": "fra-ingris-stingerquill-409-mythic",
+    "nameSlug": "ingris-stingerquill",
+    "expansion": "Reality Fracture",
+    "expansionSlug": "reality-fracture",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
   }
 }
