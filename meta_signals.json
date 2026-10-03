@@ -1,5 +1,31 @@
 [
   {
+    "name": "Trinisphere",
+    "format": "modern",
+    "rarity": "mythic",
+    "pct_of_decks": 19,
+    "pct_change": 19,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-10-03T10:42:48.738567+00:00",
+    "url": "https://www.mtggoldfish.com/price/double-masters/303/trinisphere#paper",
+    "summary": "Nouvelle entrée en modern : 19% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Eldrazi Confluence",
+    "format": "legacy",
+    "rarity": "rare",
+    "pct_of_decks": 10,
+    "pct_change": 10,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-10-03T10:42:48.738567+00:00",
+    "url": "https://www.mtggoldfish.com/price/modern-horizons-3-commander/32/eldrazi-confluence#paper",
+    "summary": "Nouvelle entrée en legacy : 10% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Get Lost",
     "format": "standard",
     "rarity": "rare",
