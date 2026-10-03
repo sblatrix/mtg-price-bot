@@ -1,5 +1,57 @@
 [
   {
+    "name": "Echocasting Symposium",
+    "expansion": "Secrets of Strixhaven",
+    "finish": "Foil",
+    "language": "fr",
+    "price_paid": 3.55,
+    "ref_price": 4.48,
+    "discount_pct": 20.8,
+    "confident": false,
+    "seller_country": "FR",
+    "created_at": "2026-10-01T18:24:51.891Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/secrets-of-strixhaven/card/sos-echocasting-symposium-291-mythic"
+  },
+  {
+    "name": "Bast, Panther Goddess",
+    "expansion": "Marvel Super Heroes Commander",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 3.93,
+    "ref_price": 4.97,
+    "discount_pct": 20.9,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-10-01T18:24:51.891Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/marvel-super-heroes-commander/card/msc-bast-panther-goddess-392-rare"
+  },
+  {
+    "name": "Monologue Tax",
+    "expansion": "Duskmourn: House of Horror Commander",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 2.0,
+    "ref_price": 2.59,
+    "discount_pct": 22.8,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-10-02T14:39:56.681Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/duskmourn-house-of-horror-commander/card/dsc-monologue-tax-100-rare"
+  },
+  {
+    "name": "Uldaros Theorix",
+    "expansion": "Reality Fracture",
+    "finish": "Foil",
+    "language": "en",
+    "price_paid": 7.92,
+    "ref_price": 12.85,
+    "discount_pct": 38.4,
+    "confident": false,
+    "seller_country": "DE",
+    "created_at": "2026-10-03T01:48:33.442Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/reality-fracture/card/fra-uldaros-theorix-358-mythic"
+  },
+  {
     "name": "Dark Matter Manipulator",
     "expansion": "Reality Fracture",
     "finish": "Foil",
@@ -1246,57 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-09-27T23:20:49.934Z",
     "url": "https://cardnexus.com/fr/explore/mtg/future-sight/card/fut-delay-35-uncommon"
-  },
-  {
-    "name": "Extirpate",
-    "expansion": "Planar Chaos",
-    "finish": "Foil",
-    "language": "fr",
-    "price_paid": 6.0,
-    "ref_price": 8.87,
-    "discount_pct": 32.4,
-    "confident": false,
-    "seller_country": "FR",
-    "created_at": "2026-09-27T23:20:52.353Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/planar-chaos/card/plc-extirpate-71-rare"
-  },
-  {
-    "name": "Drowned Catacomb",
-    "expansion": "Tales of Middle-earth Commander",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 2.0,
-    "ref_price": 2.77,
-    "discount_pct": 27.8,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-09-27T23:20:53.930Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/tales-of-middle-earth-commander/card/ltc-drowned-catacomb-305-rare"
-  },
-  {
-    "name": "Grapeshot",
-    "expansion": "Time Spiral Remastered",
-    "finish": "Foil",
-    "language": "fr",
-    "price_paid": 1.0,
-    "ref_price": 2.36,
-    "discount_pct": 57.6,
-    "confident": false,
-    "seller_country": "FR",
-    "created_at": "2026-09-27T23:20:55.355Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/time-spiral-remastered/card/tsr-grapeshot-166-common"
-  },
-  {
-    "name": "Flight",
-    "expansion": "Limited Edition Beta",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 10.0,
-    "ref_price": 18.55,
-    "discount_pct": 46.1,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-09-27T23:20:56.145Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/limited-edition-beta/card/leb-flight-59-common"
   }
 ]

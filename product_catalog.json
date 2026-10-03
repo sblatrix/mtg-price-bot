@@ -8950,5 +8950,36 @@
       "Foil",
       "Standard"
     ]
+  },
+  "68502ef059fa72400955bef1": {
+    "name": "Monologue Tax",
+    "slug": "dsc-monologue-tax-100-rare",
+    "nameSlug": "monologue-tax",
+    "expansion": "Duskmourn: House of Horror Commander",
+    "expansionSlug": "duskmourn-house-of-horror-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6a34493385d75f20e9a4c076": {
+    "name": "Bast, Panther Goddess",
+    "slug": "msc-bast-panther-goddess-392-rare",
+    "nameSlug": "bast-panther-goddess",
+    "expansion": "Marvel Super Heroes Commander",
+    "expansionSlug": "marvel-super-heroes-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "69e1040993c168406dc0b6d3": {
+    "name": "Echocasting Symposium",
+    "slug": "sos-echocasting-symposium-291-mythic",
+    "nameSlug": "echocasting-symposium",
+    "expansion": "Secrets of Strixhaven",
+    "expansionSlug": "secrets-of-strixhaven",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
   }
 }
