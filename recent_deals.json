@@ -1,5 +1,18 @@
 [
   {
+    "name": "Mental Misstep",
+    "expansion": "Mystery Booster 2",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 199.0,
+    "ref_price": 380,
+    "discount_pct": 47.6,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-10-03T20:36:56.388Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/mystery-booster-2/card/mb2-mental-misstep-30-uncommon"
+  },
+  {
     "name": "Secret of Strixhaven Prerelease Witherbloom",
     "expansion": "Secrets of Strixhaven",
     "finish": "Standard",
@@ -1285,18 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-09-27T23:20:46.793Z",
     "url": "https://cardnexus.com/fr/explore/mtg/time-spiral/card/tsp-chronosavant-9-rare"
-  },
-  {
-    "name": "Chaos Warp",
-    "expansion": "Strixhaven Mystical Archive",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 4.0,
-    "ref_price": 6.02,
-    "discount_pct": 33.6,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-09-27T23:20:47.450Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/strixhaven-mystical-archive/card/sta-chaos-warp-36-mythic"
   }
 ]
