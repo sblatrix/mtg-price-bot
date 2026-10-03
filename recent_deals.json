@@ -1,5 +1,44 @@
 [
   {
+    "name": "Ivory Tower",
+    "expansion": "Antiquities",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 20.0,
+    "ref_price": 25.41,
+    "discount_pct": 21.3,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-10-03T13:36:44.703Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/antiquities/card/atq-ivory-tower-53-uncommon"
+  },
+  {
+    "name": "Tendershoot Dryad",
+    "expansion": "Bloomburrow Commander",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 1.32,
+    "ref_price": 2.15,
+    "discount_pct": 38.6,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-10-03T13:55:52.442Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/bloomburrow-commander/card/blc-tendershoot-dryad-242-rare"
+  },
+  {
+    "name": "Seismic Assault",
+    "expansion": "Exodus",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 1.66,
+    "ref_price": 2.13,
+    "discount_pct": 22.1,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-10-03T15:11:56.623Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/exodus/card/exo-seismic-assault-101-rare"
+  },
+  {
     "name": "Echocasting Symposium",
     "expansion": "Secrets of Strixhaven",
     "finish": "Foil",
@@ -1259,44 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-09-27T23:20:47.450Z",
     "url": "https://cardnexus.com/fr/explore/mtg/mercadian-masques/card/mmq-charisma-66-rare"
-  },
-  {
-    "name": "Chalice of the Void",
-    "expansion": "Time Spiral Remastered",
-    "finish": "Foil",
-    "language": "fr",
-    "price_paid": 150.0,
-    "ref_price": 208.57,
-    "discount_pct": 28.1,
-    "confident": false,
-    "seller_country": "FR",
-    "created_at": "2026-09-27T23:20:48.191Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/time-spiral-remastered/card/tsr-chalice-of-the-void-390-special"
-  },
-  {
-    "name": "Choice of Damnations",
-    "expansion": "Saviors of Kamigawa",
-    "finish": "Standard",
-    "language": "fr",
-    "price_paid": 7.0,
-    "ref_price": 9.63,
-    "discount_pct": 27.3,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-09-27T23:20:48.950Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/saviors-of-kamigawa/card/sok-choice-of-damnations-62-rare"
-  },
-  {
-    "name": "Delay",
-    "expansion": "Future Sight",
-    "finish": "Foil",
-    "language": "en",
-    "price_paid": 15.0,
-    "ref_price": 34.49,
-    "discount_pct": 56.5,
-    "confident": false,
-    "seller_country": "FR",
-    "created_at": "2026-09-27T23:20:49.934Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/future-sight/card/fut-delay-35-uncommon"
   }
 ]

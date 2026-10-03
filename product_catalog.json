@@ -8981,5 +8981,35 @@
       "Foil",
       "Standard"
     ]
+  },
+  "685030c059fa72400956329f": {
+    "name": "Seismic Assault",
+    "slug": "exo-seismic-assault-101-rare",
+    "nameSlug": "seismic-assault",
+    "expansion": "Exodus",
+    "expansionSlug": "exodus",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850317659fa724009566465": {
+    "name": "Tendershoot Dryad",
+    "slug": "blc-tendershoot-dryad-242-rare",
+    "nameSlug": "tendershoot-dryad",
+    "expansion": "Bloomburrow Commander",
+    "expansionSlug": "bloomburrow-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502e6b59fa724009558494": {
+    "name": "Ivory Tower",
+    "slug": "atq-ivory-tower-53-uncommon",
+    "nameSlug": "ivory-tower",
+    "expansion": "Antiquities",
+    "expansionSlug": "antiquities",
+    "finishes": [
+      "Standard"
+    ]
   }
 }
