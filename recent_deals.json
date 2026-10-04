@@ -1,5 +1,18 @@
 [
   {
+    "name": "Tyvar Kell",
+    "expansion": "Kaldheim",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 4.0,
+    "ref_price": 5.1,
+    "discount_pct": 21.6,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-10-03T16:38:10.514Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/kaldheim/card/khm-tyvar-kell-198-mythic"
+  },
+  {
     "name": "Gogo, Mysterious Mime",
     "expansion": "Final Fantasy Commander",
     "finish": "Foil",
@@ -1285,18 +1298,5 @@
     "seller_country": "FR",
     "created_at": "2026-09-27T23:20:46.793Z",
     "url": "https://cardnexus.com/fr/explore/mtg/portal-three-kingdoms/card/ptk-cao-ren-wei-commander-69-rare"
-  },
-  {
-    "name": "Chronosavant",
-    "expansion": "Time Spiral",
-    "finish": "Foil",
-    "language": "en",
-    "price_paid": 1.0,
-    "ref_price": 2.09,
-    "discount_pct": 52.2,
-    "confident": false,
-    "seller_country": "FR",
-    "created_at": "2026-09-27T23:20:46.793Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/time-spiral/card/tsp-chronosavant-9-rare"
   }
 ]
