@@ -9032,5 +9032,26 @@
     "finishes": [
       "Standard"
     ]
+  },
+  "68502f7c59fa72400955ce85": {
+    "name": "Occult Epiphany",
+    "slug": "voc-occult-epiphany-52-rare",
+    "nameSlug": "occult-epiphany",
+    "expansion": "Crimson Vow Commander",
+    "expansionSlug": "crimson-vow-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6a622181cc5eba4ffd7e110a": {
+    "name": "Gollum, Riddle Master",
+    "slug": "hob-gollum-riddle-master-70-mythic",
+    "nameSlug": "gollum-riddle-master",
+    "expansion": "The Hobbit",
+    "expansionSlug": "the-hobbit",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
   }
 }
