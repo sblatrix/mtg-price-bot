@@ -1,5 +1,31 @@
 [
   {
+    "name": "Lorwyn Eclipsed Fat Pack Bundle",
+    "expansion": "Lorwyn Eclipsed",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 44.99,
+    "ref_price": 111.71,
+    "discount_pct": 59.7,
+    "confident": true,
+    "seller_country": "BE",
+    "created_at": "2026-10-04T09:50:26.941Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/lorwyn-eclipsed/card/ecl-lorwyn-eclipsed-fat-pack-bundle"
+  },
+  {
+    "name": "Preordain",
+    "expansion": "Secrets of Strixhaven Mystical Archive",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 2.0,
+    "ref_price": 2.64,
+    "discount_pct": 24.2,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-10-04T11:51:18.279Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/secrets-of-strixhaven-mystical-archive/card/soa-preordain-21-rare"
+  },
+  {
     "name": "Tyvar Kell",
     "expansion": "Kaldheim",
     "finish": "Standard",
@@ -1272,31 +1298,5 @@
     "seller_country": "DE",
     "created_at": "2026-09-27T22:33:09.549Z",
     "url": "https://cardnexus.com/fr/explore/mtg/reality-fracture/card/fra-extrapolate-the-impossible-55-rare"
-  },
-  {
-    "name": "Cao Cao, Lord of Wei",
-    "expansion": "Portal Three Kingdoms",
-    "finish": "Standard",
-    "language": "ja",
-    "price_paid": 10.0,
-    "ref_price": 20.16,
-    "discount_pct": 50.4,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-09-27T23:20:46.793Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/portal-three-kingdoms/card/ptk-cao-cao-lord-of-wei-68-rare"
-  },
-  {
-    "name": "Cao Ren, Wei Commander",
-    "expansion": "Portal Three Kingdoms",
-    "finish": "Standard",
-    "language": "ja",
-    "price_paid": 25.0,
-    "ref_price": 41.87,
-    "discount_pct": 40.3,
-    "confident": true,
-    "seller_country": "FR",
-    "created_at": "2026-09-27T23:20:46.793Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/portal-three-kingdoms/card/ptk-cao-ren-wei-commander-69-rare"
   }
 ]
