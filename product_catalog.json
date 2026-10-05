@@ -9086,5 +9086,110 @@
       "Foil",
       "Standard"
     ]
+  },
+  "6850322c59fa72400956655c": {
+    "name": "Torbran, Thane of Red Fell",
+    "slug": "eld-torbran-thane-of-red-fell-147-rare",
+    "nameSlug": "torbran-thane-of-red-fell",
+    "expansion": "Throne of Eldraine",
+    "expansionSlug": "throne-of-eldraine",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d0559fa724009551624": {
+    "name": "Evolution Sage",
+    "slug": "znc-evolution-sage-65-uncommon",
+    "nameSlug": "evolution-sage",
+    "expansion": "Zendikar Rising Commander",
+    "expansionSlug": "zendikar-rising-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502d7b59fa724009554590": {
+    "name": "God-Eternal Bontu",
+    "slug": "pwar-god-eternal-bontu-92s-mythic",
+    "nameSlug": "god-eternal-bontu",
+    "expansion": "War of the Spark Promos",
+    "expansionSlug": "war-of-the-spark-promos",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "68502e6e59fa72400955a09b": {
+    "name": "Jarad, Golgari Lich Lord",
+    "slug": "ddj-jarad-golgari-lich-lord-45-mythic",
+    "nameSlug": "jarad-golgari-lich-lord",
+    "expansion": "Duel Decks: Izzet vs. Golgari",
+    "expansionSlug": "duel-decks-izzet-vs-golgari",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "68502bc959fa72400954adbf": {
+    "name": "Aurelia, Exemplar of Justice",
+    "slug": "pgrn-aurelia-exemplar-of-justice-153p-mythic",
+    "nameSlug": "aurelia-exemplar-of-justice",
+    "expansion": "Guilds of Ravnica Promos",
+    "expansionSlug": "guilds-of-ravnica-promos",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685030bd59fa724009561bc2": {
+    "name": "Skullclamp",
+    "slug": "c16-skullclamp-271-uncommon",
+    "nameSlug": "skullclamp",
+    "expansion": "Commander 2016",
+    "expansionSlug": "commander-2016",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502eef59fa72400955ae28": {
+    "name": "March of Swirling Mist",
+    "slug": "neo-march-of-swirling-mist-61-rare",
+    "nameSlug": "march-of-swirling-mist",
+    "expansion": "Kamigawa: Neon Dynasty",
+    "expansionSlug": "kamigawa-neon-dynasty",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c2f59fa72400954d55a": {
+    "name": "Bone Miser",
+    "slug": "c19-bone-miser-15-rare",
+    "nameSlug": "bone-miser",
+    "expansion": "Commander 2019",
+    "expansionSlug": "commander-2019",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502df159fa72400955661f": {
+    "name": "Gutless Plunderer",
+    "slug": "fdn-gutless-plunderer-60-common",
+    "nameSlug": "gutless-plunderer",
+    "expansion": "Foundations",
+    "expansionSlug": "foundations",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502df159fa72400955617a": {
+    "name": "Hobgoblin Bandit Lord",
+    "slug": "afr-hobgoblin-bandit-lord-147-rare",
+    "nameSlug": "hobgoblin-bandit-lord",
+    "expansion": "Adventures in the Forgotten Realms",
+    "expansionSlug": "adventures-in-the-forgotten-realms",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
