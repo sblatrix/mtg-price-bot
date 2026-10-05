@@ -9064,5 +9064,27 @@
       "Foil",
       "Standard"
     ]
+  },
+  "6850322d59fa72400956687f": {
+    "name": "Treefolk Harbinger",
+    "slug": "lrw-treefolk-harbinger-239-uncommon",
+    "nameSlug": "treefolk-harbinger",
+    "expansion": "Lorwyn",
+    "expansionSlug": "lorwyn",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d0559fa724009551b66": {
+    "name": "Fierce Guardianship",
+    "slug": "cmm-fierce-guardianship-694-rare",
+    "nameSlug": "fierce-guardianship",
+    "expansion": "Commander Masters",
+    "expansionSlug": "commander-masters",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
   }
 }

@@ -1,5 +1,31 @@
 [
   {
+    "name": "Fierce Guardianship",
+    "expansion": "Commander Masters",
+    "finish": "Foil",
+    "language": "fr",
+    "price_paid": 90.0,
+    "ref_price": 125.83,
+    "discount_pct": 28.5,
+    "confident": false,
+    "seller_country": "FR",
+    "created_at": "2026-10-05T10:40:51.638Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/commander-masters/card/cmm-fierce-guardianship-694-rare"
+  },
+  {
+    "name": "Treefolk Harbinger",
+    "expansion": "Lorwyn",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 2.5,
+    "ref_price": 3.31,
+    "discount_pct": 24.5,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-10-05T12:40:02.438Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/lorwyn/card/lrw-treefolk-harbinger-239-uncommon"
+  },
+  {
     "name": "Elves of Deep Shadow",
     "expansion": "Ravnica: City of Guilds",
     "finish": "Standard",
@@ -1272,31 +1298,5 @@
     "seller_country": "DE",
     "created_at": "2026-09-28T17:43:43.507Z",
     "url": "https://cardnexus.com/fr/explore/mtg/reality-fracture/card/fra-curse-marred-demon-79-rare"
-  },
-  {
-    "name": "Technodrome",
-    "expansion": "Teenage Mutant Ninja Turtles",
-    "finish": "Foil",
-    "language": "en",
-    "price_paid": 2.55,
-    "ref_price": 3.22,
-    "discount_pct": 20.8,
-    "confident": false,
-    "seller_country": "US",
-    "created_at": "2026-09-28T04:46:45.575Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/teenage-mutant-ninja-turtles/card/tmt-technodrome-179-mythic"
-  },
-  {
-    "name": "Proctor of Potential",
-    "expansion": "Reality Fracture",
-    "finish": "Foil",
-    "language": "en",
-    "price_paid": 2.93,
-    "ref_price": 4.48,
-    "discount_pct": 34.6,
-    "confident": false,
-    "seller_country": "DE",
-    "created_at": "2026-09-28T05:12:51.694Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/reality-fracture/card/fra-proctor-of-potential-354-rare"
   }
 ]
