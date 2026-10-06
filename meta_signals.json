@@ -1,5 +1,31 @@
 [
   {
+    "name": "Icetill Explorer",
+    "format": "standard",
+    "rarity": "rare",
+    "pct_of_decks": 11,
+    "pct_change": 11,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-10-06T12:17:05.841266+00:00",
+    "url": "https://www.mtggoldfish.com/price/edge-of-eternities/192/icetill-explorer#paper",
+    "summary": "Nouvelle entrée en standard : 11% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Ral, Crackling Wit",
+    "format": "pioneer",
+    "rarity": "mythic",
+    "pct_of_decks": 11,
+    "pct_change": 11,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-10-06T12:17:05.841266+00:00",
+    "url": "https://www.mtggoldfish.com/price/bloomburrow/230/ral-crackling-wit#paper",
+    "summary": "Nouvelle entrée en pioneer : 11% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "The Ooze",
     "format": "standard",
     "rarity": "rare",
