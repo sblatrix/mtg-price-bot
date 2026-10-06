@@ -1,5 +1,57 @@
 [
   {
+    "name": "Chain of Vapor",
+    "expansion": "Onslaught",
+    "finish": "Foil",
+    "language": "fr",
+    "price_paid": 150.0,
+    "ref_price": 219.83,
+    "discount_pct": 31.8,
+    "confident": false,
+    "seller_country": "FR",
+    "created_at": "2026-10-06T05:51:35.163Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/onslaught/card/ons-chain-of-vapor-73-uncommon"
+  },
+  {
+    "name": "Fabricate",
+    "expansion": "Mirrodin",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 2.4,
+    "ref_price": 4.1,
+    "discount_pct": 41.5,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-10-06T09:37:48.967Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/mirrodin/card/mrd-fabricate-35-uncommon"
+  },
+  {
+    "name": "Pyrohemia",
+    "expansion": "Planar Chaos",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 3.8,
+    "ref_price": 5.86,
+    "discount_pct": 35.2,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-10-06T09:38:47.137Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/planar-chaos/card/plc-pyrohemia-119-uncommon"
+  },
+  {
+    "name": "Carpet of Flowers",
+    "expansion": "Doctor Who",
+    "finish": "Foil",
+    "language": "en",
+    "price_paid": 3.6,
+    "ref_price": 4.55,
+    "discount_pct": 20.9,
+    "confident": false,
+    "seller_country": "GB",
+    "created_at": "2026-10-06T10:49:52.992Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/doctor-who/card/who-carpet-of-flowers-475-rare"
+  },
+  {
     "name": "Chief Warg's Company",
     "expansion": "The Hobbit",
     "finish": "Standard",
@@ -1246,57 +1298,5 @@
     "seller_country": "DE",
     "created_at": "2026-09-29T05:28:49.422Z",
     "url": "https://cardnexus.com/fr/explore/mtg/reality-fracture/card/fra-karn-gilded-guardian-316-rare"
-  },
-  {
-    "name": "Loyal Tutor",
-    "expansion": "Reality Fracture",
-    "finish": "Foil",
-    "language": "en",
-    "price_paid": 7.97,
-    "ref_price": 12.88,
-    "discount_pct": 38.1,
-    "confident": false,
-    "seller_country": "DE",
-    "created_at": "2026-09-29T05:28:49.422Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/reality-fracture/card/fra-loyal-tutor-424-rare"
-  },
-  {
-    "name": "Pyre Rhymer // Molten Tide",
-    "expansion": "Reality Fracture",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 2.07,
-    "ref_price": 3.07,
-    "discount_pct": 32.6,
-    "confident": true,
-    "seller_country": "DE",
-    "created_at": "2026-09-29T05:28:56.197Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/reality-fracture/card/fra-pyre-rhymer-molten-tide-429-rare"
-  },
-  {
-    "name": "Cruel Calculations",
-    "expansion": "Reality Fracture",
-    "finish": "Foil",
-    "language": "en",
-    "price_paid": 3.14,
-    "ref_price": 5.21,
-    "discount_pct": 39.7,
-    "confident": false,
-    "seller_country": "DE",
-    "created_at": "2026-09-29T05:28:56.197Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/reality-fracture/card/fra-cruel-calculations-336-rare"
-  },
-  {
-    "name": "Vraska, the Cutting Glare",
-    "expansion": "Reality Fracture",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 1.01,
-    "ref_price": 2.04,
-    "discount_pct": 50.5,
-    "confident": true,
-    "seller_country": "DE",
-    "created_at": "2026-09-29T05:28:56.197Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/reality-fracture/card/fra-vraska-the-cutting-glare-319-rare"
   }
 ]
