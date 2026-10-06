@@ -9246,5 +9246,36 @@
       "Standard",
       "Foil"
     ]
+  },
+  "69e1040993c168406dc0b6b2": {
+    "name": "Cauldron of Essence",
+    "slug": "sos-cauldron-of-essence-347-rare",
+    "nameSlug": "cauldron-of-essence",
+    "expansion": "Secrets of Strixhaven",
+    "expansionSlug": "secrets-of-strixhaven",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502c9759fa72400954f6b4": {
+    "name": "Cryptolith Rite",
+    "slug": "psoi-cryptolith-rite-200s-rare",
+    "nameSlug": "cryptolith-rite",
+    "expansion": "Shadows over Innistrad Promos",
+    "expansionSlug": "shadows-over-innistrad-promos",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "6850322d59fa724009566850": {
+    "name": "Terra, Herald of Hope",
+    "slug": "fic-terra-herald-of-hope-223-mythic",
+    "nameSlug": "terra-herald-of-hope",
+    "expansion": "Final Fantasy Commander",
+    "expansionSlug": "final-fantasy-commander",
+    "finishes": [
+      "Foil"
+    ]
   }
 }

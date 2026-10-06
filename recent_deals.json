@@ -1,5 +1,44 @@
 [
   {
+    "name": "Terra, Herald of Hope",
+    "expansion": "Final Fantasy Commander",
+    "finish": "Foil",
+    "language": "en",
+    "price_paid": 2.06,
+    "ref_price": 2.94,
+    "discount_pct": 29.9,
+    "confident": false,
+    "seller_country": "GB",
+    "created_at": "2026-10-06T12:39:21.531Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/final-fantasy-commander/card/fic-terra-herald-of-hope-223-mythic"
+  },
+  {
+    "name": "Cryptolith Rite",
+    "expansion": "Shadows over Innistrad Promos",
+    "finish": "Foil",
+    "language": "fr",
+    "price_paid": 15.0,
+    "ref_price": 19.82,
+    "discount_pct": 24.3,
+    "confident": false,
+    "seller_country": "FR",
+    "created_at": "2026-10-06T13:10:05.506Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/shadows-over-innistrad-promos/card/psoi-cryptolith-rite-200s-rare"
+  },
+  {
+    "name": "Cauldron of Essence",
+    "expansion": "Secrets of Strixhaven",
+    "finish": "Foil",
+    "language": "en",
+    "price_paid": 3.54,
+    "ref_price": 4.71,
+    "discount_pct": 24.8,
+    "confident": false,
+    "seller_country": "GB",
+    "created_at": "2026-10-06T13:51:17.390Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/secrets-of-strixhaven/card/sos-cauldron-of-essence-347-rare"
+  },
+  {
     "name": "Chain of Vapor",
     "expansion": "Onslaught",
     "finish": "Foil",
@@ -1259,44 +1298,5 @@
     "seller_country": "DE",
     "created_at": "2026-09-29T15:36:47.969Z",
     "url": "https://cardnexus.com/fr/explore/mtg/reality-fracture/card/fra-flickering-hound-359-rare"
-  },
-  {
-    "name": "Haunted Ridge",
-    "expansion": "Reality Fracture",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 1.79,
-    "ref_price": 2.38,
-    "discount_pct": 24.8,
-    "confident": true,
-    "seller_country": "DE",
-    "created_at": "2026-09-29T16:25:30.749Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/reality-fracture/card/fra-haunted-ridge-180-rare"
-  },
-  {
-    "name": "Denzilore Fatehold",
-    "expansion": "Reality Fracture",
-    "finish": "Foil",
-    "language": "en",
-    "price_paid": 8.39,
-    "ref_price": 17.22,
-    "discount_pct": 51.3,
-    "confident": false,
-    "seller_country": "DE",
-    "created_at": "2026-09-29T05:28:49.422Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/reality-fracture/card/fra-denzilore-fatehold-349-mythic"
-  },
-  {
-    "name": "Karn, Gilded Guardian",
-    "expansion": "Reality Fracture",
-    "finish": "Foil",
-    "language": "en",
-    "price_paid": 4.68,
-    "ref_price": 13.05,
-    "discount_pct": 64.1,
-    "confident": false,
-    "seller_country": "DE",
-    "created_at": "2026-09-29T05:28:49.422Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/reality-fracture/card/fra-karn-gilded-guardian-316-rare"
   }
 ]
