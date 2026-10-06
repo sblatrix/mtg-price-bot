@@ -1,5 +1,18 @@
 [
   {
+    "name": "Chief Warg's Company",
+    "expansion": "The Hobbit",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 1.36,
+    "ref_price": 2.22,
+    "discount_pct": 38.7,
+    "confident": true,
+    "seller_country": "GB",
+    "created_at": "2026-10-05T13:33:07.137Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/the-hobbit/card/hob-chief-wargs-company-208-rare"
+  },
+  {
     "name": "Reiterate",
     "expansion": "Time Spiral Remastered",
     "finish": "Standard",
@@ -1285,18 +1298,5 @@
     "seller_country": "DE",
     "created_at": "2026-09-29T05:28:56.197Z",
     "url": "https://cardnexus.com/fr/explore/mtg/reality-fracture/card/fra-vraska-the-cutting-glare-319-rare"
-  },
-  {
-    "name": "Kwia Vigorbloom",
-    "expansion": "Reality Fracture",
-    "finish": "Foil",
-    "language": "en",
-    "price_paid": 40.93,
-    "ref_price": 95.81,
-    "discount_pct": 57.3,
-    "confident": false,
-    "seller_country": "DE",
-    "created_at": "2026-09-29T05:37:37.573Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/reality-fracture/card/fra-kwia-vigorbloom-410-mythic"
   }
 ]
