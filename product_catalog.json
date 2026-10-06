@@ -9277,5 +9277,27 @@
     "finishes": [
       "Foil"
     ]
+  },
+  "6a7097de338e702bdb907be0": {
+    "name": "Beorn the Fierce",
+    "slug": "hob-beorn-the-fierce-230-mythic",
+    "nameSlug": "beorn-the-fierce",
+    "expansion": "The Hobbit",
+    "expansionSlug": "the-hobbit",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502bc859fa724009549ef2": {
+    "name": "All-Out Assault",
+    "slug": "tdm-all-out-assault-167-mythic",
+    "nameSlug": "all-out-assault",
+    "expansion": "Tarkir: Dragonstorm",
+    "expansionSlug": "tarkir-dragonstorm",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
