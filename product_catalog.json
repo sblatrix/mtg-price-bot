@@ -9342,5 +9342,350 @@
       "Foil",
       "Standard"
     ]
+  },
+  "68502bc859fa72400954a6cc": {
+    "name": "Arcane Denial",
+    "slug": "drc-arcane-denial-70-common",
+    "nameSlug": "arcane-denial",
+    "expansion": "Aetherdrift Commander",
+    "expansionSlug": "aetherdrift-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502f7c59fa72400955c922": {
+    "name": "Panharmonicon",
+    "slug": "drc-panharmonicon-135-rare",
+    "nameSlug": "panharmonicon",
+    "expansion": "Aetherdrift Commander",
+    "expansionSlug": "aetherdrift-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502d0459fa7240095512da": {
+    "name": "Elder Gargaroth",
+    "slug": "drc-elder-gargaroth-111-mythic",
+    "nameSlug": "elder-gargaroth",
+    "expansion": "Aetherdrift Commander",
+    "expansionSlug": "aetherdrift-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850317659fa72400956636d": {
+    "name": "Stridehangar Automaton",
+    "slug": "drc-stridehangar-automaton-19-rare",
+    "nameSlug": "stridehangar-automaton",
+    "expansion": "Aetherdrift Commander",
+    "expansionSlug": "aetherdrift-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502e6e59fa724009559dba": {
+    "name": "Loran's Escape",
+    "slug": "bro-lorans-escape-14-common",
+    "nameSlug": "lorans-escape",
+    "expansion": "The Brothers' War",
+    "expansionSlug": "the-brothers-war",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6a622181d5dce37e58ec88a2": {
+    "name": "Desolation of Smaug",
+    "slug": "hob-desolation-of-smaug-226-rare",
+    "nameSlug": "desolation-of-smaug",
+    "expansion": "The Hobbit",
+    "expansionSlug": "the-hobbit",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6850317359fa7240095648c8": {
+    "name": "Stoneskin",
+    "slug": "clb-stoneskin-45-uncommon",
+    "nameSlug": "stoneskin",
+    "expansion": "Commander Legends: Battle for Baldur's Gate",
+    "expansionSlug": "commander-legends-battle-for-baldurs-gate",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6a203ae13c32f48d1fce6018": {
+    "name": "Tom Bombadil",
+    "slug": "hoc-tom-bombadil-38-mythic",
+    "nameSlug": "tom-bombadil",
+    "expansion": "The Hobbit Eternal",
+    "expansionSlug": "the-hobbit-eternal",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6a7b05af028874b5389ad60d": {
+    "name": "Dawn of a New Age",
+    "slug": "hoc-dawn-of-a-new-age-13-mythic",
+    "nameSlug": "dawn-of-a-new-age",
+    "expansion": "The Hobbit Eternal",
+    "expansionSlug": "the-hobbit-eternal",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502e6d59fa72400955994d": {
+    "name": "Koma, World-Eater",
+    "slug": "fdn-koma-world-eater-347-rare",
+    "nameSlug": "koma-world-eater",
+    "expansion": "Foundations",
+    "expansionSlug": "foundations",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850301459fa72400955f02a": {
+    "name": "Quilled Greatwurm",
+    "slug": "fdn-quilled-greatwurm-111-mythic",
+    "nameSlug": "quilled-greatwurm",
+    "expansion": "Foundations",
+    "expansionSlug": "foundations",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6917ca39d4037523437421ac": {
+    "name": "Aang, Swift Savior // Aang and La, Ocean's Fury",
+    "slug": "tla-aang-swift-savior-aang-and-la-oceans-fury-204-rare",
+    "nameSlug": "aang-swift-savior-aang-and-la-oceans-fury",
+    "expansion": "Avatar: The Last Airbender",
+    "expansionSlug": "avatar-the-last-airbender",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6a344944cb690619e4584b61": {
+    "name": "Mole Man, Moloid Master",
+    "slug": "msh-mole-man-moloid-master-177-rare",
+    "nameSlug": "mole-man-moloid-master",
+    "expansion": "Marvel Super Heroes",
+    "expansionSlug": "marvel-super-heroes",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "696569d48b5e9ad6eb7b946d": {
+    "name": "Twilight Diviner",
+    "slug": "ecl-twilight-diviner-122-rare",
+    "nameSlug": "twilight-diviner",
+    "expansion": "Lorwyn Eclipsed",
+    "expansionSlug": "lorwyn-eclipsed",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "685032e559fa724009569d72": {
+    "name": "Violent Outburst",
+    "slug": "j25-violent-outburst-746-common",
+    "nameSlug": "violent-outburst",
+    "expansion": "Foundations Jumpstart",
+    "expansionSlug": "foundations-jumpstart",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502e6e59fa724009559c9e": {
+    "name": "Lyra Dawnbringer",
+    "slug": "dmr-lyra-dawnbringer-413-mythic",
+    "nameSlug": "lyra-dawnbringer",
+    "expansion": "Dominaria Remastered",
+    "expansionSlug": "dominaria-remastered",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502ef059fa72400955c101": {
+    "name": "Muldrotha, the Gravetide",
+    "slug": "fdn-muldrotha-the-gravetide-243-mythic",
+    "nameSlug": "muldrotha-the-gravetide",
+    "expansion": "Foundations",
+    "expansionSlug": "foundations",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c9759fa72400954f6bb": {
+    "name": "Darkslick Shores",
+    "slug": "zne-darkslick-shores-12-mythic",
+    "nameSlug": "darkslick-shores",
+    "expansion": "Zendikar Rising Expeditions",
+    "expansionSlug": "zendikar-rising-expeditions",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850317359fa7240095646d5": {
+    "name": "Talon Gates of Madara",
+    "slug": "m3c-talon-gates-of-madara-82-rare",
+    "nameSlug": "talon-gates-of-madara",
+    "expansion": "Modern Horizons 3 Commander",
+    "expansionSlug": "modern-horizons-3-commander",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6a96039be21c5dc53abcfb54": {
+    "name": "Secret Lair Drop Secret Lair x Stardew Valley Welcome to Stardew Valley Non Foil Edition",
+    "slug": "sld-secret-lair-drop-secret-lair-x-stardew-valley-welcome-to-stardew-valley-non-foil-edition",
+    "nameSlug": "secret-lair-drop-secret-lair-x-stardew-valley-welcome-to-stardew-valley-non-foil-edition",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6a7097e0a3cbd4d650de9129": {
+    "name": "Cavern-Hoard Dragon",
+    "slug": "hoc-cavern-hoard-dragon-63-mythic",
+    "nameSlug": "cavern-hoard-dragon",
+    "expansion": "The Hobbit Eternal",
+    "expansionSlug": "the-hobbit-eternal",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "68502c2f59fa72400954d814": {
+    "name": "Callidus Assassin",
+    "slug": "40k-callidus-assassin-109-rare",
+    "nameSlug": "callidus-assassin",
+    "expansion": "Warhammer 40,000 Commander",
+    "expansionSlug": "warhammer-40000-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6aa7c239cd097b8619ee3f8d": {
+    "name": "Fabricate",
+    "slug": "sld-fabricate-7121-rare",
+    "nameSlug": "fabricate",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6a96039bf6f22e77b095525f": {
+    "name": "Secret Lair x The Hobbit: A Marvelous Mathoms - Smaug's Spoils",
+    "slug": "sld-secret-lair-x-the-hobbit-a-marvelous-mathoms-smaugs-spoils",
+    "nameSlug": "secret-lair-x-the-hobbit-a-marvelous-mathoms-smaugs-spoils",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6a96039a502bfd6cbe0cad77": {
+    "name": "Secret Lair Drop Secret Lair x Dwarf Fortress Create New World Non Foil Edition",
+    "slug": "sld-secret-lair-drop-secret-lair-x-dwarf-fortress-create-new-world-non-foil-edition",
+    "nameSlug": "secret-lair-drop-secret-lair-x-dwarf-fortress-create-new-world-non-foil-edition",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6a96039b2efcad25ee48177f": {
+    "name": "Secret Lair x The Hobbit: A Marvelous Mathoms - Over the Edge of the Wild (foil)",
+    "slug": "sld-secret-lair-x-the-hobbit-a-marvelous-mathoms-over-the-edge-of-the-wild-foil",
+    "nameSlug": "secret-lair-x-the-hobbit-a-marvelous-mathoms-over-the-edge-of-the-wild-foil",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6a96039b8fa3e2b8efc3c4d1": {
+    "name": "Secret Lair x The Hobbit: A Marvelous Mathoms - Over the Edge of the Wild",
+    "slug": "sld-secret-lair-x-the-hobbit-a-marvelous-mathoms-over-the-edge-of-the-wild",
+    "nameSlug": "secret-lair-x-the-hobbit-a-marvelous-mathoms-over-the-edge-of-the-wild",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6a960399d13d8e53d508c143": {
+    "name": "Secret Lair Drop Secret Lair x Dwarf Fortress Create New World Traditional Foil Edition",
+    "slug": "sld-secret-lair-drop-secret-lair-x-dwarf-fortress-create-new-world-traditional-foil-edition",
+    "nameSlug": "secret-lair-drop-secret-lair-x-dwarf-fortress-create-new-world-traditional-foil-edition",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6a96039d0824440a778fe37f": {
+    "name": "Secret Lair Drop Secret Lair x My Little Pony The Lands of Equestria Non Foil Edition",
+    "slug": "sld-secret-lair-drop-secret-lair-x-my-little-pony-the-lands-of-equestria-non-foil-edition",
+    "nameSlug": "secret-lair-drop-secret-lair-x-my-little-pony-the-lands-of-equestria-non-foil-edition",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6a96039a76d79700df3bf6e5": {
+    "name": "Secret Lair Drop Omens of Chaos Non Foil Edition",
+    "slug": "sld-secret-lair-drop-omens-of-chaos-non-foil-edition",
+    "nameSlug": "secret-lair-drop-omens-of-chaos-non-foil-edition",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6a96039a893bf1111f698f1b": {
+    "name": "Secret Lair Drop Back in My Day Non Foil Edition",
+    "slug": "sld-secret-lair-drop-back-in-my-day-non-foil-edition",
+    "nameSlug": "secret-lair-drop-back-in-my-day-non-foil-edition",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6a96039d224861044c6c2318": {
+    "name": "Secret Lair Drop The Eyes Have It Non Foil Edition",
+    "slug": "sld-secret-lair-drop-the-eyes-have-it-non-foil-edition",
+    "nameSlug": "secret-lair-drop-the-eyes-have-it-non-foil-edition",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6a622181bb70db741781e18f": {
+    "name": "Elrond, Moon-Reader",
+    "slug": "hob-elrond-moon-reader-290-mythic",
+    "nameSlug": "elrond-moon-reader",
+    "expansion": "The Hobbit",
+    "expansionSlug": "the-hobbit",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
   }
 }
