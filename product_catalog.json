@@ -9299,5 +9299,48 @@
       "Standard",
       "Foil"
     ]
+  },
+  "68502bc859fa72400954a2e2": {
+    "name": "Archmage Emeritus",
+    "slug": "stx-archmage-emeritus-377-rare",
+    "nameSlug": "archmage-emeritus",
+    "expansion": "Strixhaven: School of Mages",
+    "expansionSlug": "strixhaven-school-of-mages",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "68502c9659fa72400954ec8e": {
+    "name": "Delina, Wild Mage",
+    "slug": "afr-delina-wild-mage-317-rare",
+    "nameSlug": "delina-wild-mage",
+    "expansion": "Adventures in the Forgotten Realms",
+    "expansionSlug": "adventures-in-the-forgotten-realms",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "69ae3412b8aecc4cebe7eb6e": {
+    "name": "Brainstorm",
+    "slug": "pza-brainstorm-4-mythic",
+    "nameSlug": "brainstorm",
+    "expansion": "Teenage Mutant Ninja Turtles Source Material",
+    "expansionSlug": "teenage-mutant-ninja-turtles-source-material",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "69ae3413b8aecc4cebe7ed0e": {
+    "name": "Michelangelo, Weirdness to 11",
+    "slug": "tmt-michelangelo-weirdness-to-11-214-rare",
+    "nameSlug": "michelangelo-weirdness-to-11",
+    "expansion": "Teenage Mutant Ninja Turtles",
+    "expansionSlug": "teenage-mutant-ninja-turtles",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
   }
 }
