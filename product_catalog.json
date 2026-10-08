@@ -10660,5 +10660,858 @@
     "finishes": [
       "Standard"
     ]
+  },
+  "68502c9759fa72400954f8ef": {
+    "name": "Conspicuous Snoop",
+    "slug": "m21-conspicuous-snoop-139-rare",
+    "nameSlug": "conspicuous-snoop",
+    "expansion": "Core Set 2021",
+    "expansionSlug": "core-set-2021",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850317459fa724009564f60": {
+    "name": "Sowing Mycospawn",
+    "slug": "mh3-sowing-mycospawn-340-rare",
+    "nameSlug": "sowing-mycospawn",
+    "expansion": "Modern Horizons 3",
+    "expansionSlug": "modern-horizons-3",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "687262e3620a85f87e0fe593": {
+    "name": "Horizon Explorer",
+    "slug": "eoc-horizon-explorer-35-rare",
+    "nameSlug": "horizon-explorer",
+    "expansion": "Edge of Eternities Commander",
+    "expansionSlug": "edge-of-eternities-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6a62217dff9b5b31d1855fd9": {
+    "name": "Cultivate",
+    "slug": "sld-cultivate-2679-rare",
+    "nameSlug": "cultivate",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6a4512bbe785f10afbbd6fc5": {
+    "name": "Utopia Sprawl",
+    "slug": "sld-utopia-sprawl-2693-rare",
+    "nameSlug": "utopia-sprawl",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "685030be59fa724009562844": {
+    "name": "Scourge of Valkas",
+    "slug": "ima-scourge-of-valkas-145-rare",
+    "nameSlug": "scourge-of-valkas",
+    "expansion": "Iconic Masters",
+    "expansionSlug": "iconic-masters",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d7959fa724009553241": {
+    "name": "Ghostly Flicker",
+    "slug": "khc-ghostly-flicker-39-common",
+    "nameSlug": "ghostly-flicker",
+    "expansion": "Kaldheim Commander",
+    "expansionSlug": "kaldheim-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502d7a59fa724009553997": {
+    "name": "Gitaxian Probe",
+    "slug": "mb2-gitaxian-probe-28-common",
+    "nameSlug": "gitaxian-probe",
+    "expansion": "Mystery Booster 2",
+    "expansionSlug": "mystery-booster-2",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502df259fa7240095571d9": {
+    "name": "Hydroblast",
+    "slug": "mb2-hydroblast-165-common",
+    "nameSlug": "hydroblast",
+    "expansion": "Mystery Booster 2",
+    "expansionSlug": "mystery-booster-2",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502e6d59fa7240095595f0": {
+    "name": "Lae'zel, Vlaakith's Champion",
+    "slug": "clb-laezel-vlaakiths-champion-29-rare",
+    "nameSlug": "laezel-vlaakiths-champion",
+    "expansion": "Commander Legends: Battle for Baldur's Gate",
+    "expansionSlug": "commander-legends-battle-for-baldurs-gate",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d0659fa724009552680": {
+    "name": "Dragonhawk, Fate's Tempest",
+    "slug": "blb-dragonhawk-fates-tempest-132-mythic",
+    "nameSlug": "dragonhawk-fates-tempest",
+    "expansion": "Bloomburrow",
+    "expansionSlug": "bloomburrow",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68ee1d29b37fd6bebc3261c7": {
+    "name": "Unearth",
+    "slug": "sld-unearth-2191-rare",
+    "nameSlug": "unearth",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502e6e59fa724009559bad": {
+    "name": "Liliana of the Veil",
+    "slug": "dmu-liliana-of-the-veil-97-mythic",
+    "nameSlug": "liliana-of-the-veil",
+    "expansion": "Dominaria United",
+    "expansionSlug": "dominaria-united",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850301459fa72400955f4c7": {
+    "name": "Rishadan Port",
+    "slug": "mb2-rishadan-port-241-rare",
+    "nameSlug": "rishadan-port",
+    "expansion": "Mystery Booster 2",
+    "expansionSlug": "mystery-booster-2",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6a344946e522c4fe374b917a": {
+    "name": "Gleaming Bastion",
+    "slug": "msh-gleaming-bastion-267-rare",
+    "nameSlug": "gleaming-bastion",
+    "expansion": "Marvel Super Heroes",
+    "expansionSlug": "marvel-super-heroes",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6850322f59fa724009567e71": {
+    "name": "Valkyrie's Call",
+    "slug": "fdn-valkyries-call-302-mythic",
+    "nameSlug": "valkyries-call",
+    "expansion": "Foundations",
+    "expansionSlug": "foundations",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850322e59fa7240095670cc": {
+    "name": "Tower of the Magistrate",
+    "slug": "mb2-tower-of-the-magistrate-242-rare",
+    "nameSlug": "tower-of-the-magistrate",
+    "expansion": "Mystery Booster 2",
+    "expansionSlug": "mystery-booster-2",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d7b59fa724009554e79": {
+    "name": "Flawless Maneuver",
+    "slug": "cmm-flawless-maneuver-692-rare",
+    "nameSlug": "flawless-maneuver",
+    "expansion": "Commander Masters",
+    "expansionSlug": "commander-masters",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d0459fa724009550aaa": {
+    "name": "Ethersworn Canonist",
+    "slug": "mb2-ethersworn-canonist-10-rare",
+    "nameSlug": "ethersworn-canonist",
+    "expansion": "Mystery Booster 2",
+    "expansionSlug": "mystery-booster-2",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "696569d38b5e9ad6eb7b92db": {
+    "name": "Forest",
+    "slug": "slp-forest-35-rare",
+    "nameSlug": "forest",
+    "expansion": "Secret Lair Promo",
+    "expansionSlug": "secret-lair-promo",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "688e481d7d3de933adc87d45": {
+    "name": "Blast Zone",
+    "slug": "eos-blast-zone-2-rare",
+    "nameSlug": "blast-zone",
+    "expansion": "Edge of Eternities: Stellar Sights",
+    "expansionSlug": "edge-of-eternities-stellar-sights",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502e6e59fa724009559b66": {
+    "name": "Liliana of the Dark Realms",
+    "slug": "pmei-liliana-of-the-dark-realms-2024-8-mythic",
+    "nameSlug": "liliana-of-the-dark-realms",
+    "expansion": "Media and Collaboration Promos",
+    "expansionSlug": "media-and-collaboration-promos",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "6a62217dd5e63ac9753ebe46": {
+    "name": "Dark Ritual",
+    "slug": "sld-dark-ritual-2678-rare",
+    "nameSlug": "dark-ritual",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "69e1040993c168406dc0b6c6": {
+    "name": "Decorum Dissertation",
+    "slug": "sos-decorum-dissertation-292-mythic",
+    "nameSlug": "decorum-dissertation",
+    "expansion": "Secrets of Strixhaven",
+    "expansionSlug": "secrets-of-strixhaven",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502d7a59fa724009554000": {
+    "name": "Fountainport",
+    "slug": "blb-fountainport-368-rare",
+    "nameSlug": "fountainport",
+    "expansion": "Bloomburrow",
+    "expansionSlug": "bloomburrow",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "69ae3412b8aecc4cebe7ebe3": {
+    "name": "Talisman of Resilience",
+    "slug": "soc-talisman-of-resilience-432-mythic",
+    "nameSlug": "talisman-of-resilience",
+    "expansion": "Secrets of Strixhaven Commander",
+    "expansionSlug": "secrets-of-strixhaven-commander",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "68591a1c5f6860674f1f812e": {
+    "name": "Godless Shrine",
+    "slug": "eoe-godless-shrine-254-rare",
+    "nameSlug": "godless-shrine",
+    "expansion": "Edge of Eternities",
+    "expansionSlug": "edge-of-eternities",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502f7d59fa72400955da7d": {
+    "name": "Pithing Needle",
+    "slug": "2x2-pithing-needle-397-rare",
+    "nameSlug": "pithing-needle",
+    "expansion": "Double Masters 2022",
+    "expansionSlug": "double-masters-2022",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6a62217d2ac7e5031f0d8774": {
+    "name": "Path of Ancestry",
+    "slug": "sld-path-of-ancestry-2684-rare",
+    "nameSlug": "path-of-ancestry",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "69e1040993c168406dc0b4b5": {
+    "name": "Sheoldred's Edict",
+    "slug": "soa-sheoldreds-edict-32-rare",
+    "nameSlug": "sheoldreds-edict",
+    "expansion": "Secrets of Strixhaven Mystical Archive",
+    "expansionSlug": "secrets-of-strixhaven-mystical-archive",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "687262e4620a85f87e0fe725": {
+    "name": "Susur Secundi, Void Altar",
+    "slug": "eoe-susur-secundi-void-altar-259-mythic",
+    "nameSlug": "susur-secundi-void-altar",
+    "expansion": "Edge of Eternities",
+    "expansionSlug": "edge-of-eternities",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502e6d59fa72400955951d": {
+    "name": "Kogla, the Titan Ape",
+    "slug": "iko-kogla-the-titan-ape-328-rare",
+    "nameSlug": "kogla-the-titan-ape",
+    "expansion": "Ikoria: Lair of Behemoths",
+    "expansionSlug": "ikoria-lair-of-behemoths",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6a344944f50ce92a7e2c9042": {
+    "name": "Earth's Mightiest Heroes",
+    "slug": "msh-earths-mightiest-heroes-349-mythic",
+    "nameSlug": "earths-mightiest-heroes",
+    "expansion": "Marvel Super Heroes",
+    "expansionSlug": "marvel-super-heroes",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "685030bd59fa7240095618a1": {
+    "name": "Sliver Hive",
+    "slug": "pf25-sliver-hive-7-rare",
+    "nameSlug": "sliver-hive",
+    "expansion": "MagicFest 2025",
+    "expansionSlug": "magicfest-2025",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "6850301559fa72400955f6ae": {
+    "name": "Primeval Titan",
+    "slug": "sld-primeval-titan-494-mythic",
+    "nameSlug": "primeval-titan",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6a203ae13c32f48d1fce60cf": {
+    "name": "Scholar of New Horizons",
+    "slug": "sld-scholar-of-new-horizons-7143-rare",
+    "nameSlug": "scholar-of-new-horizons",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "69e1040993c168406dc0b6ec": {
+    "name": "Erode",
+    "slug": "sos-erode-310-rare",
+    "nameSlug": "erode",
+    "expansion": "Secrets of Strixhaven",
+    "expansionSlug": "secrets-of-strixhaven",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "69ea8da1ad705b41e09ec948": {
+    "name": "Consecrated Sphinx",
+    "slug": "pf26-consecrated-sphinx-4-mythic",
+    "nameSlug": "consecrated-sphinx",
+    "expansion": "MagicFest 2026",
+    "expansionSlug": "magicfest-2026",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "6850322d59fa724009566f53": {
+    "name": "Unexpected Windfall",
+    "slug": "pip-unexpected-windfall-193-common",
+    "nameSlug": "unexpected-windfall",
+    "expansion": "Fallout",
+    "expansionSlug": "fallout",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502e6d59fa72400955962f": {
+    "name": "Khalni Garden",
+    "slug": "ddr-khalni-garden-28-common",
+    "nameSlug": "khalni-garden",
+    "expansion": "Duel Decks: Nissa vs. Ob Nixilis",
+    "expansionSlug": "duel-decks-nissa-vs-ob-nixilis",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "688e481e7d3de933adc87f78": {
+    "name": "Spider-Man, Miles Morales",
+    "slug": "spe-spider-man-miles-morales-18-mythic",
+    "nameSlug": "spider-man-miles-morales",
+    "expansion": "Marvel's Spider-Man Eternal",
+    "expansionSlug": "marvels-spider-man-eternal",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "688e481e7d3de933adc87f5f": {
+    "name": "Lyla, Holographic Assistant",
+    "slug": "spe-lyla-holographic-assistant-7-uncommon",
+    "nameSlug": "lyla-holographic-assistant",
+    "expansion": "Marvel's Spider-Man Eternal",
+    "expansionSlug": "marvels-spider-man-eternal",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6aa7c23d9464330935f9d89f": {
+    "name": "Pompous Battlemage // Improvised Act",
+    "slug": "fra-pompous-battlemage-improvised-act-90-rare",
+    "nameSlug": "pompous-battlemage-improvised-act",
+    "expansion": "Reality Fracture",
+    "expansionSlug": "reality-fracture",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6ab7affab7f3b3e8c15c8b0f": {
+    "name": "Turbulent Crater",
+    "slug": "frc-turbulent-crater-16-rare",
+    "nameSlug": "turbulent-crater",
+    "expansion": "Reality Fracture Commander",
+    "expansionSlug": "reality-fracture-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "696569d58b5e9ad6eb7b9578": {
+    "name": "The Coming of Galactus",
+    "slug": "msh-the-coming-of-galactus-307-mythic",
+    "nameSlug": "the-coming-of-galactus",
+    "expansion": "Marvel Super Heroes",
+    "expansionSlug": "marvel-super-heroes",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502df159fa724009555e8f": {
+    "name": "High Fae Trickster",
+    "slug": "fdn-high-fae-trickster-453-rare",
+    "nameSlug": "high-fae-trickster",
+    "expansion": "Foundations",
+    "expansionSlug": "foundations",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68ee1d27b37fd6bebc325f8a": {
+    "name": "Opposition Agent",
+    "slug": "mar-opposition-agent-19-mythic",
+    "nameSlug": "opposition-agent",
+    "expansion": "Marvel Universe",
+    "expansionSlug": "marvel-universe",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c2e59fa72400954c57b": {
+    "name": "Black Market Connections",
+    "slug": "acr-black-market-connections-87-rare",
+    "nameSlug": "black-market-connections",
+    "expansion": "Assassin's Creed",
+    "expansionSlug": "assassins-creed",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850301659fa7240095601f1": {
+    "name": "Psychic Frog",
+    "slug": "pmh3-psychic-frog-199s-rare",
+    "nameSlug": "psychic-frog",
+    "expansion": "Modern Horizons 3 Promos",
+    "expansionSlug": "modern-horizons-3-promos",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "68502c9659fa72400954f086": {
+    "name": "Codsworth, Handy Helper",
+    "slug": "pip-codsworth-handy-helper-14-rare",
+    "nameSlug": "codsworth-handy-helper",
+    "expansion": "Fallout",
+    "expansionSlug": "fallout",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850301659fa72400956028f": {
+    "name": "Riverpyre Verge",
+    "slug": "dft-riverpyre-verge-372-rare",
+    "nameSlug": "riverpyre-verge",
+    "expansion": "Aetherdrift",
+    "expansionSlug": "aetherdrift",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c9759fa72400954fb67": {
+    "name": "Dimir Signet",
+    "slug": "sld-dimir-signet-287-rare",
+    "nameSlug": "dimir-signet",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Standard",
+      "Etched"
+    ]
+  },
+  "68502e6c59fa724009558dee": {
+    "name": "Izzet Signet",
+    "slug": "sld-izzet-signet-293-rare",
+    "nameSlug": "izzet-signet",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Etched",
+      "Standard"
+    ]
+  },
+  "69cd79e5d5a6e6043dc4eb2c": {
+    "name": "Sol Ring",
+    "slug": "sld-sol-ring-ifiyw-5-rare",
+    "nameSlug": "sol-ring",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502f8059fa72400955efb7": {
+    "name": "Plaza of Heroes",
+    "slug": "dmu-plaza-of-heroes-252-rare",
+    "nameSlug": "plaza-of-heroes",
+    "expansion": "Dominaria United",
+    "expansionSlug": "dominaria-united",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850317459fa724009565373": {
+    "name": "Stormcarved Coast",
+    "slug": "vow-stormcarved-coast-284-rare",
+    "nameSlug": "stormcarved-coast",
+    "expansion": "Innistrad: Crimson Vow",
+    "expansionSlug": "innistrad-crimson-vow",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850317559fa724009565bac": {
+    "name": "Sunbaked Canyon",
+    "slug": "acr-sunbaked-canyon-111-rare",
+    "nameSlug": "sunbaked-canyon",
+    "expansion": "Assassin's Creed",
+    "expansionSlug": "assassins-creed",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c2d59fa72400954bbc6": {
+    "name": "Birds of Paradise",
+    "slug": "rvr-birds-of-paradise-432-rare",
+    "nameSlug": "birds-of-paradise",
+    "expansion": "Ravnica Remastered",
+    "expansionSlug": "ravnica-remastered",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502bc859fa724009549e4e": {
+    "name": "All Will Be One",
+    "slug": "one-all-will-be-one-118-mythic",
+    "nameSlug": "all-will-be-one",
+    "expansion": "Phyrexia: All Will Be One",
+    "expansionSlug": "phyrexia-all-will-be-one",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685030c059fa7240095639bb": {
+    "name": "Sokrates, Athenian Teacher",
+    "slug": "acr-sokrates-athenian-teacher-121-rare",
+    "nameSlug": "sokrates-athenian-teacher",
+    "expansion": "Assassin's Creed",
+    "expansionSlug": "assassins-creed",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850317259fa724009563f7d": {
+    "name": "Teferi, Time Raveler",
+    "slug": "blc-teferi-time-raveler-92-rare",
+    "nameSlug": "teferi-time-raveler",
+    "expansion": "Bloomburrow Commander",
+    "expansionSlug": "bloomburrow-commander",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6917ca37d403752343741fa1": {
+    "name": "Ba Sing Se",
+    "slug": "tla-ba-sing-se-266-rare",
+    "nameSlug": "ba-sing-se",
+    "expansion": "Avatar: The Last Airbender",
+    "expansionSlug": "avatar-the-last-airbender",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "69ae3413b8aecc4cebe7ec9e": {
+    "name": "Dark Leo & Shredder",
+    "slug": "tmt-dark-leo-and-shredder-142-mythic",
+    "nameSlug": "dark-leo-and-shredder",
+    "expansion": "Teenage Mutant Ninja Turtles",
+    "expansionSlug": "teenage-mutant-ninja-turtles",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6850317559fa724009565f93": {
+    "name": "Temporal Trespass",
+    "slug": "acr-temporal-trespass-86-mythic",
+    "nameSlug": "temporal-trespass",
+    "expansion": "Assassin's Creed",
+    "expansionSlug": "assassins-creed",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "696569d58b5e9ad6eb7b9531": {
+    "name": "Vibrance",
+    "slug": "ecl-vibrance-295-mythic",
+    "nameSlug": "vibrance",
+    "expansion": "Lorwyn Eclipsed",
+    "expansionSlug": "lorwyn-eclipsed",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6850322d59fa724009566e06": {
+    "name": "Thoughtseize",
+    "slug": "otp-thoughtseize-20-mythic",
+    "nameSlug": "thoughtseize",
+    "expansion": "Breaking News",
+    "expansionSlug": "breaking-news",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6917ca3dd403752343742457": {
+    "name": "Earthbender Ascension",
+    "slug": "tla-earthbender-ascension-175-rare",
+    "nameSlug": "earthbender-ascension",
+    "expansion": "Avatar: The Last Airbender",
+    "expansionSlug": "avatar-the-last-airbender",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502d0559fa724009551720": {
+    "name": "Fabled Passage",
+    "slug": "blb-fabled-passage-252-rare",
+    "nameSlug": "fabled-passage",
+    "expansion": "Bloomburrow",
+    "expansionSlug": "bloomburrow",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6917ca39d4037523437421e8": {
+    "name": "Tectonic Split",
+    "slug": "tle-tectonic-split-208-rare",
+    "nameSlug": "tectonic-split",
+    "expansion": "Avatar: The Last Airbender Eternal",
+    "expansionSlug": "avatar-the-last-airbender-eternal",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "685030bf59fa7240095631dd": {
+    "name": "Sheoldred's Edict",
+    "slug": "one-sheoldreds-edict-108-uncommon",
+    "nameSlug": "sheoldreds-edict",
+    "expansion": "Phyrexia: All Will Be One",
+    "expansionSlug": "phyrexia-all-will-be-one",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d0459fa72400955077d": {
+    "name": "Fanatic of Rhonas",
+    "slug": "mh3-fanatic-of-rhonas-152-rare",
+    "nameSlug": "fanatic-of-rhonas",
+    "expansion": "Modern Horizons 3",
+    "expansionSlug": "modern-horizons-3",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68ee1d28b37fd6bebc3260dd": {
+    "name": "Dark Ritual",
+    "slug": "tmc-dark-ritual-131-mythic",
+    "nameSlug": "dark-ritual",
+    "expansion": "Teenage Mutant Ninja Turtles Eternal",
+    "expansionSlug": "teenage-mutant-ninja-turtles-eternal",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "68502bc759fa724009549a39": {
+    "name": "Anowon, the Ruin Thief",
+    "slug": "znc-anowon-the-ruin-thief-7-mythic",
+    "nameSlug": "anowon-the-ruin-thief",
+    "expansion": "Zendikar Rising Commander",
+    "expansionSlug": "zendikar-rising-commander",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685032e459fa724009569407": {
+    "name": "Wight of the Reliquary",
+    "slug": "mh3-wight-of-the-reliquary-207-rare",
+    "nameSlug": "wight-of-the-reliquary",
+    "expansion": "Modern Horizons 3",
+    "expansionSlug": "modern-horizons-3",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502e6c59fa724009558d03": {
+    "name": "Kellogg, Dangerous Mind",
+    "slug": "pip-kellogg-dangerous-mind-106-rare",
+    "nameSlug": "kellogg-dangerous-mind",
+    "expansion": "Fallout",
+    "expansionSlug": "fallout",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685030bf59fa724009562d58": {
+    "name": "Sauron, the Lidless Eye",
+    "slug": "ltr-sauron-the-lidless-eye-396-mythic",
+    "nameSlug": "sauron-the-lidless-eye",
+    "expansion": "The Lord of the Rings: Tales of Middle-earth",
+    "expansionSlug": "the-lord-of-the-rings-tales-of-middle-earth",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "685032e559fa72400956a1bd": {
+    "name": "Veyran, Voice of Duality",
+    "slug": "otc-veyran-voice-of-duality-248-mythic",
+    "nameSlug": "veyran-voice-of-duality",
+    "expansion": "Outlaws of Thunder Junction Commander",
+    "expansionSlug": "outlaws-of-thunder-junction-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502d0659fa72400955283a": {
+    "name": "Dragonlord Dromoka",
+    "slug": "tdc-dragonlord-dromoka-286-mythic",
+    "nameSlug": "dragonlord-dromoka",
+    "expansion": "Tarkir: Dragonstorm Commander",
+    "expansionSlug": "tarkir-dragonstorm-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502bc959fa72400954aa70": {
+    "name": "Altaïr Ibn-La'Ahad",
+    "slug": "acr-altair-ibn-laahad-45-mythic",
+    "nameSlug": "altair-ibn-laahad",
+    "expansion": "Assassin's Creed",
+    "expansionSlug": "assassins-creed",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
