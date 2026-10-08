@@ -11513,5 +11513,81 @@
       "Standard",
       "Foil"
     ]
+  },
+  "685030bd59fa724009561c61": {
+    "name": "Skullclamp",
+    "slug": "fic-skullclamp-355-uncommon",
+    "nameSlug": "skullclamp",
+    "expansion": "Final Fantasy Commander",
+    "expansionSlug": "final-fantasy-commander",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d7c59fa724009554f78": {
+    "name": "Graven Cairns",
+    "slug": "fic-graven-cairns-401-rare",
+    "nameSlug": "graven-cairns",
+    "expansion": "Final Fantasy Commander",
+    "expansionSlug": "final-fantasy-commander",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c2f59fa72400954d66d": {
+    "name": "Clever Concealment",
+    "slug": "fic-clever-concealment-236-rare",
+    "nameSlug": "clever-concealment",
+    "expansion": "Final Fantasy Commander",
+    "expansionSlug": "final-fantasy-commander",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d7b59fa724009554ace": {
+    "name": "Gogo, Mysterious Mime",
+    "slug": "fic-gogo-mysterious-mime-56-rare",
+    "nameSlug": "gogo-mysterious-mime",
+    "expansion": "Final Fantasy Commander",
+    "expansionSlug": "final-fantasy-commander",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685030be59fa7240095622ca": {
+    "name": "Skyclave Apparition",
+    "slug": "znr-skyclave-apparition-322-rare",
+    "nameSlug": "skyclave-apparition",
+    "expansion": "Zendikar Rising",
+    "expansionSlug": "zendikar-rising",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502e6c59fa724009558f6e": {
+    "name": "Kenrith, the Returned King",
+    "slug": "eld-kenrith-the-returned-king-303-mythic",
+    "nameSlug": "kenrith-the-returned-king",
+    "expansion": "Throne of Eldraine",
+    "expansionSlug": "throne-of-eldraine",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685032e459fa724009569115": {
+    "name": "Wave Goodbye",
+    "slug": "lcc-wave-goodbye-79-rare",
+    "nameSlug": "wave-goodbye",
+    "expansion": "The Lost Caverns of Ixalan Commander",
+    "expansionSlug": "the-lost-caverns-of-ixalan-commander",
+    "finishes": [
+      "Standard"
+    ]
   }
 }
