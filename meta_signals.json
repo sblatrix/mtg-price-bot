@@ -1,5 +1,57 @@
 [
   {
+    "name": "The Ooze",
+    "format": "standard",
+    "rarity": "rare",
+    "pct_of_decks": 12,
+    "pct_change": 12,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-10-09T12:09:29.499426+00:00",
+    "url": "https://www.mtggoldfish.com/price/teenage-mutant-ninja-turtles/177/the-ooze#paper",
+    "summary": "Nouvelle entrée en standard : 12% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Quantum Riddler",
+    "format": "modern",
+    "rarity": "mythic",
+    "pct_of_decks": 23,
+    "pct_change": 23,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-10-09T12:09:29.499426+00:00",
+    "url": "https://www.mtggoldfish.com/price/edge-of-eternities/72/quantum-riddler#paper",
+    "summary": "Nouvelle entrée en modern : 23% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Quantum Riddler",
+    "format": "pioneer",
+    "rarity": "mythic",
+    "pct_of_decks": 13,
+    "pct_change": 13,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-10-09T12:09:29.499426+00:00",
+    "url": "https://www.mtggoldfish.com/price/edge-of-eternities/72/quantum-riddler#paper",
+    "summary": "Nouvelle entrée en pioneer : 13% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Quantum Riddler",
+    "format": "legacy",
+    "rarity": "mythic",
+    "pct_of_decks": 12,
+    "pct_change": 12,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-10-09T12:09:29.499426+00:00",
+    "url": "https://www.mtggoldfish.com/price/edge-of-eternities/72/quantum-riddler#paper",
+    "summary": "Nouvelle entrée en legacy : 12% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Grafdigger's Cage",
     "format": "legacy",
     "rarity": "rare",
