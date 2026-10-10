@@ -13269,5 +13269,232 @@
       "Standard",
       "Foil"
     ]
+  },
+  "6850301559fa72400955f74c": {
+    "name": "Relic of Progenitus",
+    "slug": "brc-relic-of-progenitus-157-uncommon",
+    "nameSlug": "relic-of-progenitus",
+    "expansion": "The Brothers' War Commander",
+    "expansionSlug": "the-brothers-war-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "685030c059fa724009563972": {
+    "name": "Sokenzan, Crucible of Defiance",
+    "slug": "neo-sokenzan-crucible-of-defiance-504-rare",
+    "nameSlug": "sokenzan-crucible-of-defiance",
+    "expansion": "Kamigawa: Neon Dynasty",
+    "expansionSlug": "kamigawa-neon-dynasty",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d0459fa7240095506cf": {
+    "name": "Edgar, Charmed Groom // Edgar Markov's Coffin",
+    "slug": "vow-edgar-charmed-groom-edgar-markovs-coffin-311-rare",
+    "nameSlug": "edgar-charmed-groom-edgar-markovs-coffin",
+    "expansion": "Innistrad: Crimson Vow",
+    "expansionSlug": "innistrad-crimson-vow",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502df159fa72400955616c": {
+    "name": "Grief",
+    "slug": "mh2-grief-87-mythic",
+    "nameSlug": "grief",
+    "expansion": "Modern Horizons 2",
+    "expansionSlug": "modern-horizons-2",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850301759fa724009560ea3": {
+    "name": "Righteous Valkyrie",
+    "slug": "khm-righteous-valkyrie-24-rare",
+    "nameSlug": "righteous-valkyrie",
+    "expansion": "Kaldheim",
+    "expansionSlug": "kaldheim",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502e6d59fa7240095598c1": {
+    "name": "Koma, Cosmos Serpent",
+    "slug": "khm-koma-cosmos-serpent-326-mythic",
+    "nameSlug": "koma-cosmos-serpent",
+    "expansion": "Kaldheim",
+    "expansionSlug": "kaldheim",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850301659fa72400956028a": {
+    "name": "Riverglide Pathway // Lavaglide Pathway",
+    "slug": "znr-riverglide-pathway-lavaglide-pathway-289-rare",
+    "nameSlug": "riverglide-pathway-lavaglide-pathway",
+    "expansion": "Zendikar Rising",
+    "expansionSlug": "zendikar-rising",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502eee59fa72400955a3fc": {
+    "name": "Mangara, the Diplomat",
+    "slug": "m21-mangara-the-diplomat-343-mythic",
+    "nameSlug": "mangara-the-diplomat",
+    "expansion": "Core Set 2021",
+    "expansionSlug": "core-set-2021",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685030bf59fa724009562f5d": {
+    "name": "Serum Visions",
+    "slug": "sld-serum-visions-32-rare",
+    "nameSlug": "serum-visions",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "68502d7b59fa724009554b5b": {
+    "name": "Force of Vigor",
+    "slug": "mh1-force-of-vigor-164-rare",
+    "nameSlug": "force-of-vigor",
+    "expansion": "Modern Horizons",
+    "expansionSlug": "modern-horizons",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6a344946b993fbf6c8722217": {
+    "name": "Dark Fortress",
+    "slug": "msh-dark-fortress-264-rare",
+    "nameSlug": "dark-fortress",
+    "expansion": "Marvel Super Heroes",
+    "expansionSlug": "marvel-super-heroes",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "685030bd59fa724009561e45": {
+    "name": "Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel",
+    "slug": "fin-sephiroth-fabled-soldier-sephiroth-one-winged-angel-115-mythic",
+    "nameSlug": "sephiroth-fabled-soldier-sephiroth-one-winged-angel",
+    "expansion": "Final Fantasy",
+    "expansionSlug": "final-fantasy",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "686d780395daf8e6b44c42df": {
+    "name": "Clarion Conqueror",
+    "slug": "tdm-clarion-conqueror-377-rare",
+    "nameSlug": "clarion-conqueror",
+    "expansion": "Tarkir: Dragonstorm",
+    "expansionSlug": "tarkir-dragonstorm",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d7959fa7240095532b1": {
+    "name": "Floodfarm Verge",
+    "slug": "dsk-floodfarm-verge-330-rare",
+    "nameSlug": "floodfarm-verge",
+    "expansion": "Duskmourn: House of Horror",
+    "expansionSlug": "duskmourn-house-of-horror",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850322f59fa724009567f5d": {
+    "name": "Valley Floodcaller",
+    "slug": "blb-valley-floodcaller-79-rare",
+    "nameSlug": "valley-floodcaller",
+    "expansion": "Bloomburrow",
+    "expansionSlug": "bloomburrow",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850323159fa724009568c33": {
+    "name": "The Capitoline Triad",
+    "slug": "acr-the-capitoline-triad-117-mythic",
+    "nameSlug": "the-capitoline-triad",
+    "expansion": "Assassin's Creed",
+    "expansionSlug": "assassins-creed",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502eef59fa72400955b89a": {
+    "name": "Maelstrom Wanderer",
+    "slug": "cmm-maelstrom-wanderer-684-rare",
+    "nameSlug": "maelstrom-wanderer",
+    "expansion": "Commander Masters",
+    "expansionSlug": "commander-masters",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c2d59fa72400954c19c": {
+    "name": "Bitterthorn, Nissa's Animus",
+    "slug": "moc-bitterthorn-nissas-animus-45-rare",
+    "nameSlug": "bitterthorn-nissas-animus",
+    "expansion": "March of the Machine Commander",
+    "expansionSlug": "march-of-the-machine-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502bc759fa7240095492ba": {
+    "name": "Ashnod's Altar",
+    "slug": "brr-ashnods-altar-67-rare",
+    "nameSlug": "ashnods-altar",
+    "expansion": "The Brothers' War Retro Artifacts",
+    "expansionSlug": "the-brothers-war-retro-artifacts",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c9559fa72400954e6aa": {
+    "name": "Determined Iteration",
+    "slug": "ncc-determined-iteration-45-rare",
+    "nameSlug": "determined-iteration",
+    "expansion": "New Capenna Commander",
+    "expansionSlug": "new-capenna-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502c2d59fa72400954c2c4": {
+    "name": "Boseiju, Who Endures",
+    "slug": "neo-boseiju-who-endures-501-rare",
+    "nameSlug": "boseiju-who-endures",
+    "expansion": "Kamigawa: Neon Dynasty",
+    "expansionSlug": "kamigawa-neon-dynasty",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
