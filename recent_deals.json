@@ -1,5 +1,31 @@
 [
   {
+    "name": "Implement of Combustion",
+    "expansion": "Aether Revolt",
+    "finish": "Foil",
+    "language": "en",
+    "price_paid": 1.9,
+    "ref_price": 3.37,
+    "discount_pct": 43.6,
+    "confident": false,
+    "seller_country": "US",
+    "created_at": "2026-10-10T14:48:51.319Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/aether-revolt/card/aer-implement-of-combustion-155-common"
+  },
+  {
+    "name": "Illusionist's Stratagem",
+    "expansion": "Aether Revolt",
+    "finish": "Foil",
+    "language": "en",
+    "price_paid": 1.37,
+    "ref_price": 2.16,
+    "discount_pct": 36.6,
+    "confident": false,
+    "seller_country": "US",
+    "created_at": "2026-10-10T14:48:52.021Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/aether-revolt/card/aer-illusionists-stratagem-36-uncommon"
+  },
+  {
     "name": "Bojuka Bog",
     "expansion": "Secrets of Strixhaven Commander",
     "finish": "Standard",
@@ -1272,31 +1298,5 @@
     "seller_country": "US",
     "created_at": "2026-10-09T16:08:53.123Z",
     "url": "https://cardnexus.com/fr/explore/mtg/commander-2021/card/c21-breena-the-demagogue-1-mythic"
-  },
-  {
-    "name": "Rionya, Fire Dancer",
-    "expansion": "Commander 2021",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 1.75,
-    "ref_price": 2.34,
-    "discount_pct": 25.2,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-10-09T16:09:13.521Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/commander-2021/card/c21-rionya-fire-dancer-55-rare"
-  },
-  {
-    "name": "Lolth, Spider Queen",
-    "expansion": "Adventures in the Forgotten Realms",
-    "finish": "Foil",
-    "language": "en",
-    "price_paid": 10.44,
-    "ref_price": 13.99,
-    "discount_pct": 25.4,
-    "confident": false,
-    "seller_country": "US",
-    "created_at": "2026-10-09T16:09:25.523Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/adventures-in-the-forgotten-realms/card/afr-lolth-spider-queen-284-mythic"
   }
 ]

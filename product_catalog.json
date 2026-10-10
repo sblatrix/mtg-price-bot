@@ -13247,5 +13247,27 @@
     "finishes": [
       "Standard"
     ]
+  },
+  "68502df259fa724009556956": {
+    "name": "Illusionist's Stratagem",
+    "slug": "aer-illusionists-stratagem-36-uncommon",
+    "nameSlug": "illusionists-stratagem",
+    "expansion": "Aether Revolt",
+    "expansionSlug": "aether-revolt",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502df359fa724009557570": {
+    "name": "Implement of Combustion",
+    "slug": "aer-implement-of-combustion-155-common",
+    "nameSlug": "implement-of-combustion",
+    "expansion": "Aether Revolt",
+    "expansionSlug": "aether-revolt",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
