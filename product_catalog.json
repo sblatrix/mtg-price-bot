@@ -12850,5 +12850,113 @@
       "Standard",
       "Foil"
     ]
+  },
+  "69e1040993c168406dc0b3ef": {
+    "name": "Duty Beyond Death",
+    "slug": "sld-duty-beyond-death-2387-rare",
+    "nameSlug": "duty-beyond-death",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "69e1040993c168406dc0b5c1": {
+    "name": "Naktamun Lorespinner // Wheel of Fortune",
+    "slug": "soc-naktamun-lorespinner-wheel-of-fortune-33-rare",
+    "nameSlug": "naktamun-lorespinner-wheel-of-fortune",
+    "expansion": "Secrets of Strixhaven Commander",
+    "expansionSlug": "secrets-of-strixhaven-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "69e1040993c168406dc0b53f": {
+    "name": "Eiganjo Dynastorian // Replenish",
+    "slug": "soc-eiganjo-dynastorian-replenish-63-rare",
+    "nameSlug": "eiganjo-dynastorian-replenish",
+    "expansion": "Secrets of Strixhaven Commander",
+    "expansionSlug": "secrets-of-strixhaven-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "69ae3413b8aecc4cebe7ec07": {
+    "name": "Continue?",
+    "slug": "tmc-continuequestion-7-rare",
+    "nameSlug": "continuequestion",
+    "expansion": "Teenage Mutant Ninja Turtles Eternal",
+    "expansionSlug": "teenage-mutant-ninja-turtles-eternal",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "688e481e7d3de933adc88031": {
+    "name": "Multiversal Passage",
+    "slug": "spm-multiversal-passage-180-rare",
+    "nameSlug": "multiversal-passage",
+    "expansion": "Marvel's Spider-Man",
+    "expansionSlug": "marvels-spider-man",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685032e459fa724009569072": {
+    "name": "Yuna, Hope of Spira",
+    "slug": "fin-yuna-hope-of-spira-250-mythic",
+    "nameSlug": "yuna-hope-of-spira",
+    "expansion": "Final Fantasy",
+    "expansionSlug": "final-fantasy",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850301659fa72400956028d": {
+    "name": "Riverpyre Verge",
+    "slug": "dft-riverpyre-verge-260-rare",
+    "nameSlug": "riverpyre-verge",
+    "expansion": "Aetherdrift",
+    "expansionSlug": "aetherdrift",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685030bf59fa724009562930": {
+    "name": "Shattered Sanctum",
+    "slug": "inr-shattered-sanctum-283-rare",
+    "nameSlug": "shattered-sanctum",
+    "expansion": "Innistrad Remastered",
+    "expansionSlug": "innistrad-remastered",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d0459fa7240095513d3": {
+    "name": "Ezio Auditore da Firenze",
+    "slug": "acr-ezio-auditore-da-firenze-113-mythic",
+    "nameSlug": "ezio-auditore-da-firenze",
+    "expansion": "Assassin's Creed",
+    "expansionSlug": "assassins-creed",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c2f59fa72400954d57d": {
+    "name": "Cleopatra, Exiled Pharaoh",
+    "slug": "acr-cleopatra-exiled-pharaoh-52-mythic",
+    "nameSlug": "cleopatra-exiled-pharaoh",
+    "expansion": "Assassin's Creed",
+    "expansionSlug": "assassins-creed",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
