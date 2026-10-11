@@ -14175,5 +14175,403 @@
     "finishes": [
       "Standard"
     ]
+  },
+  "68502df259fa724009556d32": {
+    "name": "Griselbrand",
+    "slug": "inr-griselbrand-381-mythic",
+    "nameSlug": "griselbrand",
+    "expansion": "Innistrad Remastered",
+    "expansionSlug": "innistrad-remastered",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "69e1040993c168406dc0b407": {
+    "name": "Shared Roots",
+    "slug": "sld-shared-roots-2391-rare",
+    "nameSlug": "shared-roots",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6850301759fa724009560e68": {
+    "name": "Prosperous Partnership",
+    "slug": "ncc-prosperous-partnership-178-rare",
+    "nameSlug": "prosperous-partnership",
+    "expansion": "New Capenna Commander",
+    "expansionSlug": "new-capenna-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850317559fa724009565fbf": {
+    "name": "Tainted Adversary",
+    "slug": "mid-tainted-adversary-350-mythic",
+    "nameSlug": "tainted-adversary",
+    "expansion": "Innistrad: Midnight Hunt",
+    "expansionSlug": "innistrad-midnight-hunt",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502df259fa724009556800": {
+    "name": "Herald of Secret Streams",
+    "slug": "lcc-herald-of-secret-streams-158-rare",
+    "nameSlug": "herald-of-secret-streams",
+    "expansion": "The Lost Caverns of Ixalan Commander",
+    "expansionSlug": "the-lost-caverns-of-ixalan-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502d7c59fa72400955528c": {
+    "name": "Go-Shintai of Life's Origin",
+    "slug": "nec-go-shintai-of-lifes-origin-66-mythic",
+    "nameSlug": "go-shintai-of-lifes-origin",
+    "expansion": "Neon Dynasty Commander",
+    "expansionSlug": "neon-dynasty-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850322d59fa724009566713": {
+    "name": "Tormod's Crypt",
+    "slug": "dmr-tormods-crypt-388-uncommon",
+    "nameSlug": "tormods-crypt",
+    "expansion": "Dominaria Remastered",
+    "expansionSlug": "dominaria-remastered",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6850322d59fa724009566ded": {
+    "name": "Tourach, Dread Cantor",
+    "slug": "plst-tourach-dread-cantor-mh2-102-mythic",
+    "nameSlug": "tourach-dread-cantor",
+    "expansion": "The List",
+    "expansionSlug": "the-list",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "696569d58b5e9ad6eb7b94ed": {
+    "name": "Catharsis",
+    "slug": "ecl-catharsis-292-mythic",
+    "nameSlug": "catharsis",
+    "expansion": "Lorwyn Eclipsed",
+    "expansionSlug": "lorwyn-eclipsed",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6850317659fa72400956642e": {
+    "name": "Tenacious Underdog",
+    "slug": "snc-tenacious-underdog-445-rare",
+    "nameSlug": "tenacious-underdog",
+    "expansion": "Streets of New Capenna",
+    "expansionSlug": "streets-of-new-capenna",
+    "finishes": [
+      "Etched"
+    ]
+  },
+  "6850322c59fa7240095665da": {
+    "name": "Terminate",
+    "slug": "arb-terminate-46-common",
+    "nameSlug": "terminate",
+    "expansion": "Alara Reborn",
+    "expansionSlug": "alara-reborn",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6850322d59fa724009566d65": {
+    "name": "Trespasser's Curse",
+    "slug": "akh-trespassers-curse-112-common",
+    "nameSlug": "trespassers-curse",
+    "expansion": "Amonkhet",
+    "expansionSlug": "amonkhet",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850323059fa7240095688c7": {
+    "name": "Thraben Inspector",
+    "slug": "tsr-thraben-inspector-305-special",
+    "nameSlug": "thraben-inspector",
+    "expansion": "Time Spiral Remastered",
+    "expansionSlug": "time-spiral-remastered",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850317559fa7240095656f4": {
+    "name": "Svyelun of Sea and Sky",
+    "slug": "mh2-svyelun-of-sea-and-sky-393-mythic",
+    "nameSlug": "svyelun-of-sea-and-sky",
+    "expansion": "Modern Horizons 2",
+    "expansionSlug": "modern-horizons-2",
+    "finishes": [
+      "Etched",
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6850322d59fa724009566de6": {
+    "name": "Tourach, Dread Cantor",
+    "slug": "mh2-tourach-dread-cantor-312-mythic",
+    "nameSlug": "tourach-dread-cantor",
+    "expansion": "Modern Horizons 2",
+    "expansionSlug": "modern-horizons-2",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685032e459fa724009568f4e": {
+    "name": "Wrath of God",
+    "slug": "dmr-wrath-of-god-279-rare",
+    "nameSlug": "wrath-of-god",
+    "expansion": "Dominaria Remastered",
+    "expansionSlug": "dominaria-remastered",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "685032e459fa724009569122": {
+    "name": "Wrath of the Skies",
+    "slug": "mh3-wrath-of-the-skies-397-rare",
+    "nameSlug": "wrath-of-the-skies",
+    "expansion": "Modern Horizons 3",
+    "expansionSlug": "modern-horizons-3",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502f7f59fa72400955e826": {
+    "name": "Planar Despair",
+    "slug": "apc-planar-despair-50-rare",
+    "nameSlug": "planar-despair",
+    "expansion": "Apocalypse",
+    "expansionSlug": "apocalypse",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685030be59fa724009562157": {
+    "name": "Shard Volley",
+    "slug": "mor-shard-volley-103-common",
+    "nameSlug": "shard-volley",
+    "expansion": "Morningtide",
+    "expansionSlug": "morningtide",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502e6b59fa7240095581e8": {
+    "name": "Louvaq, the Aberrant",
+    "slug": "cmb1-louvaq-the-aberrant-95-rare",
+    "nameSlug": "louvaq-the-aberrant",
+    "expansion": "Mystery Booster Playtest Cards 2019",
+    "expansionSlug": "mystery-booster-playtest-cards-2019",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502d0559fa724009551a0b": {
+    "name": "Erebos, Bleak-Hearted",
+    "slug": "thb-erebos-bleak-hearted-93-mythic",
+    "nameSlug": "erebos-bleak-hearted",
+    "expansion": "Theros Beyond Death",
+    "expansionSlug": "theros-beyond-death",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502df259fa724009556b5b": {
+    "name": "Gyruda, Doom of Depths",
+    "slug": "iko-gyruda-doom-of-depths-351-rare",
+    "nameSlug": "gyruda-doom-of-depths",
+    "expansion": "Ikoria: Lair of Behemoths",
+    "expansionSlug": "ikoria-lair-of-behemoths",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502ef059fa72400955c0cf": {
+    "name": "Muldrotha, the Gravetide",
+    "slug": "cmr-muldrotha-the-gravetide-528-mythic",
+    "nameSlug": "muldrotha-the-gravetide",
+    "expansion": "Commander Legends",
+    "expansionSlug": "commander-legends",
+    "finishes": [
+      "Etched"
+    ]
+  },
+  "68502d0659fa724009552822": {
+    "name": "Faithless Looting",
+    "slug": "sta-faithless-looting-101-rare",
+    "nameSlug": "faithless-looting",
+    "expansion": "Strixhaven Mystical Archive",
+    "expansionSlug": "strixhaven-mystical-archive",
+    "finishes": [
+      "Standard",
+      "Foil",
+      "Etched"
+    ]
+  },
+  "68502df159fa724009555dec": {
+    "name": "Intrepid Adversary",
+    "slug": "pmid-intrepid-adversary-25p-mythic",
+    "nameSlug": "intrepid-adversary",
+    "expansion": "Innistrad: Midnight Hunt Promos",
+    "expansionSlug": "innistrad-midnight-hunt-promos",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502ef159fa72400955c3cd": {
+    "name": "Nahiri, the Unforgiving",
+    "slug": "pone-nahiri-the-unforgiving-211s-mythic",
+    "nameSlug": "nahiri-the-unforgiving",
+    "expansion": "Phyrexia: All Will Be One Promos",
+    "expansionSlug": "phyrexia-all-will-be-one-promos",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "68502d7c59fa724009555094": {
+    "name": "Gimli, Mournful Avenger",
+    "slug": "ltr-gimli-mournful-avenger-436-rare",
+    "nameSlug": "gimli-mournful-avenger",
+    "expansion": "The Lord of the Rings: Tales of Middle-earth",
+    "expansionSlug": "the-lord-of-the-rings-tales-of-middle-earth",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502eee59fa72400955a7be": {
+    "name": "Merry, Esquire of Rohan",
+    "slug": "ltr-merry-esquire-of-rohan-437-rare",
+    "nameSlug": "merry-esquire-of-rohan",
+    "expansion": "The Lord of the Rings: Tales of Middle-earth",
+    "expansionSlug": "the-lord-of-the-rings-tales-of-middle-earth",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685030bf59fa724009562ea5": {
+    "name": "Shelob, Child of Ungoliant",
+    "slug": "ltr-shelob-child-of-ungoliant-374-rare",
+    "nameSlug": "shelob-child-of-ungoliant",
+    "expansion": "The Lord of the Rings: Tales of Middle-earth",
+    "expansionSlug": "the-lord-of-the-rings-tales-of-middle-earth",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502df359fa72400955750e": {
+    "name": "Hew the Entwood",
+    "slug": "ltr-hew-the-entwood-361-mythic",
+    "nameSlug": "hew-the-entwood",
+    "expansion": "The Lord of the Rings: Tales of Middle-earth",
+    "expansionSlug": "the-lord-of-the-rings-tales-of-middle-earth",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502d7a59fa724009553968": {
+    "name": "Fury",
+    "slug": "h2r-fury-10-mythic",
+    "nameSlug": "fury",
+    "expansion": "Modern Horizons 2 Timeshifts",
+    "expansionSlug": "modern-horizons-2-timeshifts",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502eee59fa72400955a59a": {
+    "name": "Manifold Mouse",
+    "slug": "blb-manifold-mouse-318-rare",
+    "nameSlug": "manifold-mouse",
+    "expansion": "Bloomburrow",
+    "expansionSlug": "bloomburrow",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c9559fa72400954e332": {
+    "name": "Dandân",
+    "slug": "5ed-dandan-79-common",
+    "nameSlug": "dandan",
+    "expansion": "Fifth Edition",
+    "expansionSlug": "fifth-edition",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502d0559fa724009552071": {
+    "name": "Fiery Justice",
+    "slug": "tsb-fiery-justice-92-special",
+    "nameSlug": "fiery-justice",
+    "expansion": "Time Spiral Timeshifted",
+    "expansionSlug": "time-spiral-timeshifted",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c2d59fa72400954b8de": {
+    "name": "Buried Ruin",
+    "slug": "m12-buried-ruin-224-uncommon",
+    "nameSlug": "buried-ruin",
+    "expansion": "Magic 2012",
+    "expansionSlug": "magic-2012",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502bc959fa72400954a875": {
+    "name": "Angelic Skirmisher",
+    "slug": "gtc-angelic-skirmisher-3-rare",
+    "nameSlug": "angelic-skirmisher",
+    "expansion": "Gatecrash",
+    "expansionSlug": "gatecrash",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502e6e59fa724009559fd8": {
+    "name": "Kindred Summons",
+    "slug": "c17-kindred-summons-32-rare",
+    "nameSlug": "kindred-summons",
+    "expansion": "Commander 2017",
+    "expansionSlug": "commander-2017",
+    "finishes": [
+      "Standard"
+    ]
   }
 }
