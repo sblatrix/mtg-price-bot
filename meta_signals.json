@@ -1,5 +1,44 @@
 [
   {
+    "name": "Icetill Explorer",
+    "format": "standard",
+    "rarity": "rare",
+    "pct_of_decks": 11,
+    "pct_change": 11,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-10-11T11:40:33.954656+00:00",
+    "url": "https://www.mtggoldfish.com/price/edge-of-eternities/192/icetill-explorer#paper",
+    "summary": "Nouvelle entrée en standard : 11% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Cori-Steel Cutter",
+    "format": "modern",
+    "rarity": "rare",
+    "pct_of_decks": 11,
+    "pct_change": 11,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-10-11T11:40:33.954656+00:00",
+    "url": "https://www.mtggoldfish.com/price/tarkir-dragonstorm/103/cori-steel-cutter#paper",
+    "summary": "Nouvelle entrée en modern : 11% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Abrupt Decay",
+    "format": "pioneer",
+    "rarity": "rare",
+    "pct_of_decks": 20,
+    "pct_change": 20,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-10-11T11:40:33.954656+00:00",
+    "url": "https://www.mtggoldfish.com/price/guilds-of-ravnica-guild-kits/57/abrupt-decay#paper",
+    "summary": "Nouvelle entrée en pioneer : 20% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Get Lost",
     "format": "standard",
     "rarity": "rare",
