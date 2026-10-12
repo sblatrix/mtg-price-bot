@@ -15920,5 +15920,132 @@
       "Standard",
       "Foil"
     ]
+  },
+  "686d780595daf8e6b44c44fa": {
+    "name": "Cleaver Skaab",
+    "slug": "sld-cleaver-skaab-834-rare",
+    "nameSlug": "cleaver-skaab",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "68502c2d59fa72400954c4b3": {
+    "name": "Citadel Gate",
+    "slug": "clb-citadel-gate-349-common",
+    "nameSlug": "citadel-gate",
+    "expansion": "Commander Legends: Battle for Baldur's Gate",
+    "expansionSlug": "commander-legends-battle-for-baldurs-gate",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c2e59fa72400954cb12": {
+    "name": "Blade Historian",
+    "slug": "stx-blade-historian-165-rare",
+    "nameSlug": "blade-historian",
+    "expansion": "Strixhaven: School of Mages",
+    "expansionSlug": "strixhaven-school-of-mages",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d7a59fa724009553d23": {
+    "name": "Fyndhorn Elves",
+    "slug": "cmr-fyndhorn-elves-228-common",
+    "nameSlug": "fyndhorn-elves",
+    "expansion": "Commander Legends",
+    "expansionSlug": "commander-legends",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6ab7aff97c619f46c2b680f3": {
+    "name": "Reflecting Pool",
+    "slug": "frc-reflecting-pool-23-rare",
+    "nameSlug": "reflecting-pool",
+    "expansion": "Reality Fracture Commander",
+    "expansionSlug": "reality-fracture-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6a4512bc553820ca0c467eec": {
+    "name": "Nissa, Resurgent Animist",
+    "slug": "sld-nissa-resurgent-animist-2658-mythic",
+    "nameSlug": "nissa-resurgent-animist",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "6a203ae13c32f48d1fce60d2": {
+    "name": "Skirk Prospector",
+    "slug": "sld-skirk-prospector-2414-rare",
+    "nameSlug": "skirk-prospector",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "69ea8da1ad705b41e09ec954": {
+    "name": "Mountain",
+    "slug": "sld-mountain-7126-common",
+    "nameSlug": "mountain",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "687262e3620a85f87e0fe681": {
+    "name": "Nova Hellkite",
+    "slug": "eoe-nova-hellkite-309-rare",
+    "nameSlug": "nova-hellkite",
+    "expansion": "Edge of Eternities",
+    "expansionSlug": "edge-of-eternities",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502f7c59fa72400955d174": {
+    "name": "Ponder",
+    "slug": "tdc-ponder-159-common",
+    "nameSlug": "ponder",
+    "expansion": "Tarkir: Dragonstorm Commander",
+    "expansionSlug": "tarkir-dragonstorm-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502d7a59fa724009553aad": {
+    "name": "Goblin Bushwhacker",
+    "slug": "spg-goblin-bushwhacker-78-mythic",
+    "nameSlug": "goblin-bushwhacker",
+    "expansion": "Special Guests",
+    "expansionSlug": "special-guests",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502df059fa724009555c16": {
+    "name": "High Fae Trickster",
+    "slug": "fdn-high-fae-trickster-40-rare",
+    "nameSlug": "high-fae-trickster",
+    "expansion": "Foundations",
+    "expansionSlug": "foundations",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
