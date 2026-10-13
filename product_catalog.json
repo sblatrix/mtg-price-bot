@@ -16155,5 +16155,127 @@
       "Standard",
       "Foil"
     ]
+  },
+  "6a203ae13c32f48d1fce6008": {
+    "name": "The Arkenstone // Seek the Heart",
+    "slug": "hob-the-arkenstone-seek-the-heart-234-mythic",
+    "nameSlug": "the-arkenstone-seek-the-heart",
+    "expansion": "The Hobbit",
+    "expansionSlug": "the-hobbit",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "69e1040993c168406dc0b789": {
+    "name": "Ral Zarek, Guest Lecturer",
+    "slug": "sos-ral-zarek-guest-lecturer-282-mythic",
+    "nameSlug": "ral-zarek-guest-lecturer",
+    "expansion": "Secrets of Strixhaven",
+    "expansionSlug": "secrets-of-strixhaven",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "696569d58b5e9ad6eb7b9568": {
+    "name": "Bruce Banner // The Incredible Hulk",
+    "slug": "msh-bruce-banner-the-incredible-hulk-49-mythic",
+    "nameSlug": "bruce-banner-the-incredible-hulk",
+    "expansion": "Marvel Super Heroes",
+    "expansionSlug": "marvel-super-heroes",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6917ca39d4037523437421e6": {
+    "name": "Tectonic Split",
+    "slug": "tle-tectonic-split-144-rare",
+    "nameSlug": "tectonic-split",
+    "expansion": "Avatar: The Last Airbender Eternal",
+    "expansionSlug": "avatar-the-last-airbender-eternal",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502bc959fa72400954a957": {
+    "name": "Augur of Autumn",
+    "slug": "mid-augur-of-autumn-168-rare",
+    "nameSlug": "augur-of-autumn",
+    "expansion": "Innistrad: Midnight Hunt",
+    "expansionSlug": "innistrad-midnight-hunt",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502e6c59fa724009558de7": {
+    "name": "Lightning Bolt",
+    "slug": "sta-lightning-bolt-105-rare",
+    "nameSlug": "lightning-bolt",
+    "expansion": "Strixhaven Mystical Archive",
+    "expansionSlug": "strixhaven-mystical-archive",
+    "finishes": [
+      "Etched",
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502d0559fa724009551b1d": {
+    "name": "Dwarven Recruiter",
+    "slug": "ody-dwarven-recruiter-186-uncommon",
+    "nameSlug": "dwarven-recruiter",
+    "expansion": "Odyssey",
+    "expansionSlug": "odyssey",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502eee59fa72400955a7ea": {
+    "name": "Mantle of the Ancients",
+    "slug": "pip-mantle-of-the-ancients-165-rare",
+    "nameSlug": "mantle-of-the-ancients",
+    "expansion": "Fallout",
+    "expansionSlug": "fallout",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c9759fa72400954fc17": {
+    "name": "Den of the Bugbear",
+    "slug": "afr-den-of-the-bugbear-351-rare",
+    "nameSlug": "den-of-the-bugbear",
+    "expansion": "Adventures in the Forgotten Realms",
+    "expansionSlug": "adventures-in-the-forgotten-realms",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502bc959fa72400954ac71": {
+    "name": "Artifact Mutation",
+    "slug": "sld-artifact-mutation-269-rare",
+    "nameSlug": "artifact-mutation",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850322d59fa724009566b14": {
+    "name": "Urza's Power Plant",
+    "slug": "2xm-urzas-power-plant-371-rare",
+    "nameSlug": "urzas-power-plant",
+    "expansion": "Double Masters",
+    "expansionSlug": "double-masters",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
