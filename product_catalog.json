@@ -16613,5 +16613,93 @@
       "Foil",
       "Standard"
     ]
+  },
+  "68502c9859fa72400955047b": {
+    "name": "Crypt Incursion",
+    "slug": "dgm-crypt-incursion-23-common",
+    "nameSlug": "crypt-incursion",
+    "expansion": "Dragon's Maze",
+    "expansionSlug": "dragons-maze",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850301559fa72400955f800": {
+    "name": "Rorix Bladewing",
+    "slug": "ons-rorix-bladewing-224-rare",
+    "nameSlug": "rorix-bladewing",
+    "expansion": "Onslaught",
+    "expansionSlug": "onslaught",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "69ae3412b8aecc4cebe7eb6d": {
+    "name": "Ashcoat of the Shadow Swarm",
+    "slug": "pza-ashcoat-of-the-shadow-swarm-6-mythic",
+    "nameSlug": "ashcoat-of-the-shadow-swarm",
+    "expansion": "Teenage Mutant Ninja Turtles Source Material",
+    "expansionSlug": "teenage-mutant-ninja-turtles-source-material",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "696569d58b5e9ad6eb7b94ba": {
+    "name": "Champions of the Perfect",
+    "slug": "ecl-champions-of-the-perfect-365-rare",
+    "nameSlug": "champions-of-the-perfect",
+    "expansion": "Lorwyn Eclipsed",
+    "expansionSlug": "lorwyn-eclipsed",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6917ca37d403752343742037": {
+    "name": "Aang, Airbending Master",
+    "slug": "tle-aang-airbending-master-171-mythic",
+    "nameSlug": "aang-airbending-master",
+    "expansion": "Avatar: The Last Airbender Eternal",
+    "expansionSlug": "avatar-the-last-airbender-eternal",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6917ca37d403752343742040": {
+    "name": "The Duke, Rebel Sentry",
+    "slug": "tle-the-duke-rebel-sentry-76-uncommon",
+    "nameSlug": "the-duke-rebel-sentry",
+    "expansion": "Avatar: The Last Airbender Eternal",
+    "expansionSlug": "avatar-the-last-airbender-eternal",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6917ca39d403752343742204": {
+    "name": "Brought Back",
+    "slug": "tle-brought-back-1-mythic",
+    "nameSlug": "brought-back",
+    "expansion": "Avatar: The Last Airbender Eternal",
+    "expansionSlug": "avatar-the-last-airbender-eternal",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "69ae3413b8aecc4cebe7ecec": {
+    "name": "Krang, Master Mind",
+    "slug": "tmt-krang-master-mind-230-rare",
+    "nameSlug": "krang-master-mind",
+    "expansion": "Teenage Mutant Ninja Turtles",
+    "expansionSlug": "teenage-mutant-ninja-turtles",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
   }
 }
