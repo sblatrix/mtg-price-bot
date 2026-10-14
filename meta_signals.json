@@ -1,5 +1,57 @@
 [
   {
+    "name": "Pinnacle Starcage",
+    "format": "standard",
+    "rarity": "rare",
+    "pct_of_decks": 11,
+    "pct_change": 11,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-10-14T10:42:34.778252+00:00",
+    "url": "https://www.mtggoldfish.com/price/edge-of-eternities/27/pinnacle-starcage#paper",
+    "summary": "Nouvelle entrée en standard : 11% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Thief of Existence",
+    "format": "modern",
+    "rarity": "rare",
+    "pct_of_decks": 12,
+    "pct_change": 12,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-10-14T10:42:34.778252+00:00",
+    "url": "https://www.mtggoldfish.com/price/modern-horizons-3/174/thief-of-existence#paper",
+    "summary": "Nouvelle entrée en modern : 12% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Abrupt Decay",
+    "format": "pioneer",
+    "rarity": "rare",
+    "pct_of_decks": 20,
+    "pct_change": 20,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-10-14T10:42:34.778252+00:00",
+    "url": "https://www.mtggoldfish.com/price/guilds-of-ravnica-guild-kits/57/abrupt-decay#paper",
+    "summary": "Nouvelle entrée en pioneer : 20% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "The One Ring",
+    "format": "legacy",
+    "rarity": "mythic",
+    "pct_of_decks": 11,
+    "pct_change": 11,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-10-14T10:42:34.778252+00:00",
+    "url": "https://www.mtggoldfish.com/price/the-lord-of-the-rings-tales-of-middle-earth/246/the-one-ring#paper",
+    "summary": "Nouvelle entrée en legacy : 11% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Ghost Vacuum",
     "format": "standard",
     "rarity": "rare",

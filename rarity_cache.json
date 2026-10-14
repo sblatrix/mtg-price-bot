@@ -12526,5 +12526,37 @@
   "Sephiroth, Fabled Soldier|": {
     "rarity": "mythic",
     "set": null
+  },
+  "Pinnacle Starcage|eoe": {
+    "rarity": "rare",
+    "set": "eoe"
+  },
+  "Ancient Stirrings|2xm": {
+    "rarity": "common",
+    "set": "2xm"
+  },
+  "Thief of Existence|mh3": {
+    "rarity": "rare",
+    "set": "mh3"
+  },
+  "Talisman of Resilience|m3c": {
+    "rarity": "uncommon",
+    "set": "m3c"
+  },
+  "Sanctum Prelate|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Jetmir's Garden|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Titania, Protector Of Argoth|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Bruse Tarl, Boorish Herder|": {
+    "rarity": "mythic",
+    "set": null
   }
 }
