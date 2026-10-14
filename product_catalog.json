@@ -16928,5 +16928,26 @@
     "finishes": [
       "Standard"
     ]
+  },
+  "6ab7b0073c1f71b29fb6fabb": {
+    "name": "All Is Dust",
+    "slug": "fdc-all-is-dust-9-rare",
+    "nameSlug": "all-is-dust",
+    "expansion": "Foundations Commander",
+    "expansionSlug": "foundations-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "69e1040993c168406dc0b671": {
+    "name": "Unbound Flourishing",
+    "slug": "soc-unbound-flourishing-126-mythic",
+    "nameSlug": "unbound-flourishing",
+    "expansion": "Secrets of Strixhaven Commander",
+    "expansionSlug": "secrets-of-strixhaven-commander",
+    "finishes": [
+      "Standard"
+    ]
   }
 }
