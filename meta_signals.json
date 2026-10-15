@@ -1,5 +1,31 @@
 [
   {
+    "name": "Deadly Cover-Up",
+    "format": "standard",
+    "rarity": "rare",
+    "pct_of_decks": 11,
+    "pct_change": 11,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-10-15T10:25:45.260843+00:00",
+    "url": "https://www.mtggoldfish.com/price/ravnica-murders-at-karlov-manor/83/deadly-cover-up#paper",
+    "summary": "Nouvelle entrée en standard : 11% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Kaito, Bane of Nightmares",
+    "format": "legacy",
+    "rarity": "mythic",
+    "pct_of_decks": 10,
+    "pct_change": 10,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-10-15T10:25:45.260843+00:00",
+    "url": "https://www.mtggoldfish.com/price/duskmourn-house-of-horror/220/kaito-bane-of-nightmares#paper",
+    "summary": "Nouvelle entrée en legacy : 10% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Pinnacle Starcage",
     "format": "standard",
     "rarity": "rare",
