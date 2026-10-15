@@ -17754,5 +17754,191 @@
     "finishes": [
       "Standard"
     ]
+  },
+  "6a7b05af22c113c8c400805b": {
+    "name": "Elven Passage",
+    "slug": "hob-elven-passage-238-rare",
+    "nameSlug": "elven-passage",
+    "expansion": "The Hobbit",
+    "expansionSlug": "the-hobbit",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6a6221803de968fa964307b2": {
+    "name": "Thorin, King of Durin's Folk",
+    "slug": "hoc-thorin-king-of-durins-folk-3-rare",
+    "nameSlug": "thorin-king-of-durins-folk",
+    "expansion": "The Hobbit Eternal",
+    "expansionSlug": "the-hobbit-eternal",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6a22a72b3c32f48d1fdeaf6b": {
+    "name": "The Ten Rings",
+    "slug": "msh-the-ten-rings-251-mythic",
+    "nameSlug": "the-ten-rings",
+    "expansion": "Marvel Super Heroes",
+    "expansionSlug": "marvel-super-heroes",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "696569d38b5e9ad6eb7b931e": {
+    "name": "Sol Ring",
+    "slug": "ecc-sol-ring-58-uncommon",
+    "nameSlug": "sol-ring",
+    "expansion": "Lorwyn Eclipsed Commander",
+    "expansionSlug": "lorwyn-eclipsed-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "696569d48b5e9ad6eb7b9417": {
+    "name": "Mirrorform",
+    "slug": "ecl-mirrorform-59-mythic",
+    "nameSlug": "mirrorform",
+    "expansion": "Lorwyn Eclipsed",
+    "expansionSlug": "lorwyn-eclipsed",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "696569d58b5e9ad6eb7b9558": {
+    "name": "Dauthi Voidwalker",
+    "slug": "mar-dauthi-voidwalker-63-mythic",
+    "nameSlug": "dauthi-voidwalker",
+    "expansion": "Marvel Universe",
+    "expansionSlug": "marvel-universe",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502bc759fa7240095498a1": {
+    "name": "Ardyn, the Usurper",
+    "slug": "fin-ardyn-the-usurper-379-rare",
+    "nameSlug": "ardyn-the-usurper",
+    "expansion": "Final Fantasy",
+    "expansionSlug": "final-fantasy",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502df059fa7240095556f3": {
+    "name": "Greater Good",
+    "slug": "mb2-greater-good-207-rare",
+    "nameSlug": "greater-good",
+    "expansion": "Mystery Booster 2",
+    "expansionSlug": "mystery-booster-2",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502ef059fa72400955bd15": {
+    "name": "Malcolm, Alluring Scoundrel",
+    "slug": "lci-malcolm-alluring-scoundrel-293-rare",
+    "nameSlug": "malcolm-alluring-scoundrel",
+    "expansion": "The Lost Caverns of Ixalan",
+    "expansionSlug": "the-lost-caverns-of-ixalan",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850317659fa724009566228": {
+    "name": "Sunfall",
+    "slug": "mom-sunfall-349-rare",
+    "nameSlug": "sunfall",
+    "expansion": "March of the Machine",
+    "expansionSlug": "march-of-the-machine",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6ab7b008c2051bfb31446c48": {
+    "name": "Scrawling Crawler",
+    "slug": "fdc-scrawling-crawler-282-rare",
+    "nameSlug": "scrawling-crawler",
+    "expansion": "Foundations Commander",
+    "expansionSlug": "foundations-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6ab7b005b2aa6154763f7398": {
+    "name": "Unexpected Windfall",
+    "slug": "fdc-unexpected-windfall-184-common",
+    "nameSlug": "unexpected-windfall",
+    "expansion": "Foundations Commander",
+    "expansionSlug": "foundations-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6ab7b006c7e72d20d2f1903b": {
+    "name": "Vedalken Archmage",
+    "slug": "fdc-vedalken-archmage-82-rare",
+    "nameSlug": "vedalken-archmage",
+    "expansion": "Foundations Commander",
+    "expansionSlug": "foundations-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6ab7b007d97e35c7a013c5c7": {
+    "name": "Starnheim Aspirant",
+    "slug": "fdc-starnheim-aspirant-51-uncommon",
+    "nameSlug": "starnheim-aspirant",
+    "expansion": "Foundations Commander",
+    "expansionSlug": "foundations-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6ab7b00a1e5a1ad34bbc189c": {
+    "name": "Counterspell",
+    "slug": "fdc-counterspell-61-uncommon",
+    "nameSlug": "counterspell",
+    "expansion": "Foundations Commander",
+    "expansionSlug": "foundations-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6ab7b00a900471737dd7b000": {
+    "name": "Exemplar of Light",
+    "slug": "fdc-exemplar-of-light-28-rare",
+    "nameSlug": "exemplar-of-light",
+    "expansion": "Foundations Commander",
+    "expansionSlug": "foundations-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6aa7c23a10af1cb0ac9f9980": {
+    "name": "Mind Twist",
+    "slug": "spg-mind-twist-166-mythic",
+    "nameSlug": "mind-twist",
+    "expansion": "Special Guests",
+    "expansionSlug": "special-guests",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
   }
 }
