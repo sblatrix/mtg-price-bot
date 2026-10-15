@@ -17722,5 +17722,37 @@
     "finishes": [
       "Standard"
     ]
+  },
+  "68502bca59fa72400954b546": {
+    "name": "An Offer You Can't Refuse",
+    "slug": "fdn-an-offer-you-cant-refuse-160-uncommon",
+    "nameSlug": "an-offer-you-cant-refuse",
+    "expansion": "Foundations",
+    "expansionSlug": "foundations",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502bc659fa72400954928b": {
+    "name": "Accumulated Knowledge",
+    "slug": "nem-accumulated-knowledge-26-common",
+    "nameSlug": "accumulated-knowledge",
+    "expansion": "Nemesis",
+    "expansionSlug": "nemesis",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d7959fa72400955350f": {
+    "name": "Flow of Maggots",
+    "slug": "ice-flow-of-maggots-125-rare",
+    "nameSlug": "flow-of-maggots",
+    "expansion": "Ice Age",
+    "expansionSlug": "ice-age",
+    "finishes": [
+      "Standard"
+    ]
   }
 }
