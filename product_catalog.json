@@ -18990,5 +18990,59 @@
     "finishes": [
       "Standard"
     ]
+  },
+  "68502c2f59fa72400954d3c1": {
+    "name": "Champion of Lambholt",
+    "slug": "2xm-champion-of-lambholt-156-rare",
+    "nameSlug": "champion-of-lambholt",
+    "expansion": "Double Masters",
+    "expansionSlug": "double-masters",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d7b59fa724009554c6a": {
+    "name": "Galvanic Blast",
+    "slug": "2xm-galvanic-blast-125-uncommon",
+    "nameSlug": "galvanic-blast",
+    "expansion": "Double Masters",
+    "expansionSlug": "double-masters",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6ab7b00562a0a520c86c553d": {
+    "name": "Castle Locthwain",
+    "slug": "fdc-castle-locthwain-299-rare",
+    "nameSlug": "castle-locthwain",
+    "expansion": "Foundations Commander",
+    "expansionSlug": "foundations-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "685032e559fa72400956a040": {
+    "name": "Will of the Sultai",
+    "slug": "tdc-will-of-the-sultai-49-rare",
+    "nameSlug": "will-of-the-sultai",
+    "expansion": "Tarkir: Dragonstorm Commander",
+    "expansionSlug": "tarkir-dragonstorm-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "685030c159fa724009563db0": {
+    "name": "Soulstone Sanctuary",
+    "slug": "fdn-soulstone-sanctuary-356-rare",
+    "nameSlug": "soulstone-sanctuary",
+    "expansion": "Foundations",
+    "expansionSlug": "foundations",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
