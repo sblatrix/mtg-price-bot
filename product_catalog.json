@@ -18361,5 +18361,324 @@
       "Foil",
       "Standard"
     ]
+  },
+  "69e1040993c168406dc0b4bf": {
+    "name": "Spell Pierce",
+    "slug": "soa-spell-pierce-88-uncommon",
+    "nameSlug": "spell-pierce",
+    "expansion": "Secrets of Strixhaven Mystical Archive",
+    "expansionSlug": "secrets-of-strixhaven-mystical-archive",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "69e1040993c168406dc0b450": {
+    "name": "Daze",
+    "slug": "soa-daze-80-rare",
+    "nameSlug": "daze",
+    "expansion": "Secrets of Strixhaven Mystical Archive",
+    "expansionSlug": "secrets-of-strixhaven-mystical-archive",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "69ae3412b8aecc4cebe7ebbb": {
+    "name": "Seasoned Dungeoneer",
+    "slug": "sld-seasoned-dungeoneer-2505-rare",
+    "nameSlug": "seasoned-dungeoneer",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6917ca36d403752343741f2a": {
+    "name": "Hymn to Tourach",
+    "slug": "slc-hymn-to-tourach-8-rare",
+    "nameSlug": "hymn-to-tourach",
+    "expansion": "Secret Lair Countdown",
+    "expansionSlug": "secret-lair-countdown",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "69e1040993c168406dc0b42d": {
+    "name": "Bitter Triumph",
+    "slug": "soa-bitter-triumph-156-uncommon",
+    "nameSlug": "bitter-triumph",
+    "expansion": "Secrets of Strixhaven Mystical Archive",
+    "expansionSlug": "secrets-of-strixhaven-mystical-archive",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "69ae3412b8aecc4cebe7ebb1": {
+    "name": "Personal Tutor",
+    "slug": "sld-personal-tutor-2492-rare",
+    "nameSlug": "personal-tutor",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502e6e59fa724009559db2": {
+    "name": "Lys Alana Huntmaster",
+    "slug": "sld-lys-alana-huntmaster-772-rare",
+    "nameSlug": "lys-alana-huntmaster",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "69ae3412b8aecc4cebe7ebb3": {
+    "name": "Plains",
+    "slug": "sld-plains-2509-rare",
+    "nameSlug": "plains",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "69ae3412b8aecc4cebe7eb96": {
+    "name": "Fetid Pools",
+    "slug": "sld-fetid-pools-2520-rare",
+    "nameSlug": "fetid-pools",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "69ae3412b8aecc4cebe7eb8a": {
+    "name": "Canyon Slough",
+    "slug": "sld-canyon-slough-2521-rare",
+    "nameSlug": "canyon-slough",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502d7b59fa724009554a5e": {
+    "name": "Gravebreaker Lamia",
+    "slug": "sld-gravebreaker-lamia-1643-rare",
+    "nameSlug": "gravebreaker-lamia",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "696569d58b5e9ad6eb7b94a7": {
+    "name": "Spinerock Tyrant",
+    "slug": "ecl-spinerock-tyrant-389-mythic",
+    "nameSlug": "spinerock-tyrant",
+    "expansion": "Lorwyn Eclipsed",
+    "expansionSlug": "lorwyn-eclipsed",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "696569d48b5e9ad6eb7b942b": {
+    "name": "Sunderflock",
+    "slug": "ecl-sunderflock-309-rare",
+    "nameSlug": "sunderflock",
+    "expansion": "Lorwyn Eclipsed",
+    "expansionSlug": "lorwyn-eclipsed",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6850323059fa724009568403": {
+    "name": "Tomb Tyrant",
+    "slug": "sld-tomb-tyrant-854-rare",
+    "nameSlug": "tomb-tyrant",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "69ae3412b8aecc4cebe7ebc2": {
+    "name": "Skyshroud Claim",
+    "slug": "sld-skyshroud-claim-2279-rare",
+    "nameSlug": "skyshroud-claim",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6850322e59fa72400956763c": {
+    "name": "Thieving Varmint",
+    "slug": "otc-thieving-varmint-59-rare",
+    "nameSlug": "thieving-varmint",
+    "expansion": "Outlaws of Thunder Junction Commander",
+    "expansionSlug": "outlaws-of-thunder-junction-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "69ae3412b8aecc4cebe7ebd2": {
+    "name": "Wood Elves",
+    "slug": "sld-wood-elves-2280-rare",
+    "nameSlug": "wood-elves",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6917ca3dd403752343742407": {
+    "name": "The Last Agni Kai",
+    "slug": "tla-the-last-agni-kai-314-rare",
+    "nameSlug": "the-last-agni-kai",
+    "expansion": "Avatar: The Last Airbender",
+    "expansionSlug": "avatar-the-last-airbender",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6917ca3cd4037523437423b8": {
+    "name": "Phoenix Fleet Airship",
+    "slug": "tla-phoenix-fleet-airship-323-mythic",
+    "nameSlug": "phoenix-fleet-airship",
+    "expansion": "Avatar: The Last Airbender",
+    "expansionSlug": "avatar-the-last-airbender",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "685032e659fa72400956a2b2": {
+    "name": "Willbreaker",
+    "slug": "ori-willbreaker-84-rare",
+    "nameSlug": "willbreaker",
+    "expansion": "Magic Origins",
+    "expansionSlug": "magic-origins",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850322d59fa724009566e85": {
+    "name": "Urza's Tower",
+    "slug": "2xm-urzas-tower-372-rare",
+    "nameSlug": "urzas-tower",
+    "expansion": "Double Masters",
+    "expansionSlug": "double-masters",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "69ae3413b8aecc4cebe7ecb0": {
+    "name": "Donatello, Mutant Mechanic",
+    "slug": "tmt-donatello-mutant-mechanic-216-mythic",
+    "nameSlug": "donatello-mutant-mechanic",
+    "expansion": "Teenage Mutant Ninja Turtles",
+    "expansionSlug": "teenage-mutant-ninja-turtles",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "69ae3413b8aecc4cebe7ec9f": {
+    "name": "Dark Leo & Shredder",
+    "slug": "tmt-dark-leo-and-shredder-220-mythic",
+    "nameSlug": "dark-leo-and-shredder",
+    "expansion": "Teenage Mutant Ninja Turtles",
+    "expansionSlug": "teenage-mutant-ninja-turtles",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502df359fa7240095574ec": {
+    "name": "Heronblade Elite",
+    "slug": "mic-heronblade-elite-64-rare",
+    "nameSlug": "heronblade-elite",
+    "expansion": "Midnight Hunt Commander",
+    "expansionSlug": "midnight-hunt-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "685030c059fa7240095636df": {
+    "name": "Scurry Oak",
+    "slug": "plst-scurry-oak-mh2-172-uncommon",
+    "nameSlug": "scurry-oak",
+    "expansion": "The List",
+    "expansionSlug": "the-list",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502d7a59fa724009553f83": {
+    "name": "Flame of Anor",
+    "slug": "ltr-flame-of-anor-203-rare",
+    "nameSlug": "flame-of-anor",
+    "expansion": "The Lord of the Rings: Tales of Middle-earth",
+    "expansionSlug": "the-lord-of-the-rings-tales-of-middle-earth",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502bc659fa724009549198": {
+    "name": "Abyssal Harvester",
+    "slug": "fdn-abyssal-harvester-316-rare",
+    "nameSlug": "abyssal-harvester",
+    "expansion": "Foundations",
+    "expansionSlug": "foundations",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502f7e59fa72400955e26b": {
+    "name": "Phyrexian Fleshgorger",
+    "slug": "bro-phyrexian-fleshgorger-121-mythic",
+    "nameSlug": "phyrexian-fleshgorger",
+    "expansion": "The Brothers' War",
+    "expansionSlug": "the-brothers-war",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685030bf59fa724009562e03": {
+    "name": "Shelldock Isle",
+    "slug": "plst-shelldock-isle-lrw-272-rare",
+    "nameSlug": "shelldock-isle",
+    "expansion": "The List",
+    "expansionSlug": "the-list",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502bc859fa724009549e83": {
+    "name": "Aragorn, the Uniter",
+    "slug": "ltr-aragorn-the-uniter-317-mythic",
+    "nameSlug": "aragorn-the-uniter",
+    "expansion": "The Lord of the Rings: Tales of Middle-earth",
+    "expansionSlug": "the-lord-of-the-rings-tales-of-middle-earth",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
