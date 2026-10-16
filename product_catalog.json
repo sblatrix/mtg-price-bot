@@ -18734,5 +18734,101 @@
       "Standard",
       "Foil"
     ]
+  },
+  "68502bc859fa724009549cc8": {
+    "name": "Beacon of Immortality",
+    "slug": "plst-beacon-of-immortality-e02-1-rare",
+    "nameSlug": "beacon-of-immortality",
+    "expansion": "The List",
+    "expansionSlug": "the-list",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502c9759fa72400954fd1e": {
+    "name": "Court of Ambition",
+    "slug": "cmr-court-of-ambition-645-rare",
+    "nameSlug": "court-of-ambition",
+    "expansion": "Commander Legends",
+    "expansionSlug": "commander-legends",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d0559fa724009551d9d": {
+    "name": "Fiery Emancipation",
+    "slug": "pm21-fiery-emancipation-143p-mythic",
+    "nameSlug": "fiery-emancipation",
+    "expansion": "Core Set 2021 Promos",
+    "expansionSlug": "core-set-2021-promos",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502df259fa7240095567d5": {
+    "name": "Grim Lavamancer",
+    "slug": "dmr-grim-lavamancer-324-rare",
+    "nameSlug": "grim-lavamancer",
+    "expansion": "Dominaria Remastered",
+    "expansionSlug": "dominaria-remastered",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6850322f59fa724009567d7e": {
+    "name": "Tocasia's Welcome",
+    "slug": "bro-tocasias-welcome-30-rare",
+    "nameSlug": "tocasias-welcome",
+    "expansion": "The Brothers' War",
+    "expansionSlug": "the-brothers-war",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502d7959fa724009553178": {
+    "name": "Forest",
+    "slug": "dmu-forest-281-common",
+    "nameSlug": "forest",
+    "expansion": "Dominaria United",
+    "expansionSlug": "dominaria-united",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685030bf59fa724009562bbd": {
+    "name": "Snap",
+    "slug": "dmr-snap-66-common",
+    "nameSlug": "snap",
+    "expansion": "Dominaria Remastered",
+    "expansionSlug": "dominaria-remastered",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502e6d59fa72400955902b": {
+    "name": "Lightning Greaves",
+    "slug": "drc-lightning-greaves-55-uncommon",
+    "nameSlug": "lightning-greaves",
+    "expansion": "Aetherdrift Commander",
+    "expansionSlug": "aetherdrift-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502bc859fa72400954a006": {
+    "name": "Beast Whisperer",
+    "slug": "c20-beast-whisperer-167-rare",
+    "nameSlug": "beast-whisperer",
+    "expansion": "Commander 2020",
+    "expansionSlug": "commander-2020",
+    "finishes": [
+      "Standard"
+    ]
   }
 }
