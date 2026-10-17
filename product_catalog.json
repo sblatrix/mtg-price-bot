@@ -19699,5 +19699,79 @@
       "Standard",
       "Foil"
     ]
+  },
+  "6850301659fa7240095607dd": {
+    "name": "Red Elemental Blast",
+    "slug": "a25-red-elemental-blast-147-uncommon",
+    "nameSlug": "red-elemental-blast",
+    "expansion": "Masters 25",
+    "expansionSlug": "masters-25",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "69ae3413b8aecc4cebe7ecf6": {
+    "name": "Leonardo, Cutting Edge",
+    "slug": "tmt-leonardo-cutting-edge-211-rare",
+    "nameSlug": "leonardo-cutting-edge",
+    "expansion": "Teenage Mutant Ninja Turtles",
+    "expansionSlug": "teenage-mutant-ninja-turtles",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "69ae3413b8aecc4cebe7ec34": {
+    "name": "Irma, Part-Time Mutant",
+    "slug": "tmc-irma-part-time-mutant-12-rare",
+    "nameSlug": "irma-part-time-mutant",
+    "expansion": "Teenage Mutant Ninja Turtles Eternal",
+    "expansionSlug": "teenage-mutant-ninja-turtles-eternal",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6a34492da55e4a07ae1d3b6a": {
+    "name": "Birds of Paradise",
+    "slug": "msc-birds-of-paradise-170-rare",
+    "nameSlug": "birds-of-paradise",
+    "expansion": "Marvel Super Heroes Commander",
+    "expansionSlug": "marvel-super-heroes-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6a203ae13c32f48d1fce60b7": {
+    "name": "Goblin Lackey",
+    "slug": "sld-goblin-lackey-2425-rare",
+    "nameSlug": "goblin-lackey",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "69e1040993c168406dc0b5a4": {
+    "name": "Lightning Greaves",
+    "slug": "soc-lightning-greaves-350-uncommon",
+    "nameSlug": "lightning-greaves",
+    "expansion": "Secrets of Strixhaven Commander",
+    "expansionSlug": "secrets-of-strixhaven-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502e6d59fa72400955929f": {
+    "name": "Lightning Greaves",
+    "slug": "tdc-lightning-greaves-102-uncommon",
+    "nameSlug": "lightning-greaves",
+    "expansion": "Tarkir: Dragonstorm Commander",
+    "expansionSlug": "tarkir-dragonstorm-commander",
+    "finishes": [
+      "Standard"
+    ]
   }
 }
