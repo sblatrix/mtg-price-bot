@@ -19245,5 +19245,61 @@
       "Foil",
       "Standard"
     ]
+  },
+  "68502df259fa7240095571d6": {
+    "name": "Hydroblast",
+    "slug": "ema-hydroblast-55-uncommon",
+    "nameSlug": "hydroblast",
+    "expansion": "Eternal Masters",
+    "expansionSlug": "eternal-masters",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6917ca3cd403752343742372": {
+    "name": "Wan Shi Tong, Librarian",
+    "slug": "tla-wan-shi-tong-librarian-78-mythic",
+    "nameSlug": "wan-shi-tong-librarian",
+    "expansion": "Avatar: The Last Airbender",
+    "expansionSlug": "avatar-the-last-airbender",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502d7959fa724009553282": {
+    "name": "Goblin Guide",
+    "slug": "2xm-goblin-guide-347-rare",
+    "nameSlug": "goblin-guide",
+    "expansion": "Double Masters",
+    "expansionSlug": "double-masters",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502d0659fa7240095528a8": {
+    "name": "Doom Blade",
+    "slug": "sta-doom-blade-91-rare",
+    "nameSlug": "doom-blade",
+    "expansion": "Strixhaven Mystical Archive",
+    "expansionSlug": "strixhaven-mystical-archive",
+    "finishes": [
+      "Standard",
+      "Foil",
+      "Etched"
+    ]
+  },
+  "68502df059fa7240095557ae": {
+    "name": "Guardian Project",
+    "slug": "pip-guardian-project-199-rare",
+    "nameSlug": "guardian-project",
+    "expansion": "Fallout",
+    "expansionSlug": "fallout",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
