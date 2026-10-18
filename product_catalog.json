@@ -19935,5 +19935,103 @@
       "Standard",
       "Foil"
     ]
+  },
+  "68502c2f59fa72400954d25c": {
+    "name": "Brainstorm",
+    "slug": "mb2-brainstorm-155-common",
+    "nameSlug": "brainstorm",
+    "expansion": "Mystery Booster 2",
+    "expansionSlug": "mystery-booster-2",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502c2d59fa72400954be7d": {
+    "name": "Chaos Warp",
+    "slug": "pip-chaos-warp-466-rare",
+    "nameSlug": "chaos-warp",
+    "expansion": "Fallout",
+    "expansionSlug": "fallout",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "685032e659fa72400956a30e": {
+    "name": "Wondrous Crucible",
+    "slug": "brc-wondrous-crucible-67-rare",
+    "nameSlug": "wondrous-crucible",
+    "expansion": "The Brothers' War Commander",
+    "expansionSlug": "the-brothers-war-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6a7097df689390db25a012b2": {
+    "name": "Sauron, the Lidless Eye",
+    "slug": "hoc-sauron-the-lidless-eye-37-mythic",
+    "nameSlug": "sauron-the-lidless-eye",
+    "expansion": "The Hobbit Eternal",
+    "expansionSlug": "the-hobbit-eternal",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6917ca3cd4037523437423ac": {
+    "name": "Mai, Scornful Striker",
+    "slug": "tla-mai-scornful-striker-374-rare",
+    "nameSlug": "mai-scornful-striker",
+    "expansion": "Avatar: The Last Airbender",
+    "expansionSlug": "avatar-the-last-airbender",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502bc859fa72400954a653": {
+    "name": "Archmage of Runes",
+    "slug": "fdn-archmage-of-runes-450-rare",
+    "nameSlug": "archmage-of-runes",
+    "expansion": "Foundations",
+    "expansionSlug": "foundations",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502bc759fa724009549bce": {
+    "name": "Archivist of Oghma",
+    "slug": "clb-archivist-of-oghma-553-rare",
+    "nameSlug": "archivist-of-oghma",
+    "expansion": "Commander Legends: Battle for Baldur's Gate",
+    "expansionSlug": "commander-legends-battle-for-baldurs-gate",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502df159fa724009556409": {
+    "name": "Inferno of the Star Mounts",
+    "slug": "afr-inferno-of-the-star-mounts-151-mythic",
+    "nameSlug": "inferno-of-the-star-mounts",
+    "expansion": "Adventures in the Forgotten Realms",
+    "expansionSlug": "adventures-in-the-forgotten-realms",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850322f59fa724009568039": {
+    "name": "Ultima, Origin of Oblivion",
+    "slug": "fin-ultima-origin-of-oblivion-324-rare",
+    "nameSlug": "ultima-origin-of-oblivion",
+    "expansion": "Final Fantasy",
+    "expansionSlug": "final-fantasy",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
