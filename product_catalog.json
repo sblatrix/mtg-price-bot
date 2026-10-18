@@ -19913,5 +19913,27 @@
     "finishes": [
       "Standard"
     ]
+  },
+  "685030bd59fa7240095618e1": {
+    "name": "Sliver Overlord",
+    "slug": "scg-sliver-overlord-139-rare",
+    "nameSlug": "sliver-overlord",
+    "expansion": "Scourge",
+    "expansionSlug": "scourge",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685030bf59fa724009562a36": {
+    "name": "Serra Paragon",
+    "slug": "dmu-serra-paragon-32-mythic",
+    "nameSlug": "serra-paragon",
+    "expansion": "Dominaria United",
+    "expansionSlug": "dominaria-united",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
