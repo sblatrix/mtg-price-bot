@@ -20077,5 +20077,37 @@
       "Standard",
       "Foil"
     ]
+  },
+  "68502c2e59fa72400954cdac": {
+    "name": "Bojuka Bog",
+    "slug": "mb2-bojuka-bog-105-common",
+    "nameSlug": "bojuka-bog",
+    "expansion": "Mystery Booster 2",
+    "expansionSlug": "mystery-booster-2",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502d7b59fa724009554ab0": {
+    "name": "Gix, Yawgmoth Praetor",
+    "slug": "bro-gix-yawgmoth-praetor-326-mythic",
+    "nameSlug": "gix-yawgmoth-praetor",
+    "expansion": "The Brothers' War",
+    "expansionSlug": "the-brothers-war",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850301459fa72400955f141": {
+    "name": "Rammas Echor, Ancient Shield",
+    "slug": "ltc-rammas-echor-ancient-shield-505-rare",
+    "nameSlug": "rammas-echor-ancient-shield",
+    "expansion": "Tales of Middle-earth Commander",
+    "expansionSlug": "tales-of-middle-earth-commander",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
