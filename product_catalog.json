@@ -20033,5 +20033,49 @@
       "Standard",
       "Foil"
     ]
+  },
+  "6aa7c23a6fd8e549b7c88333": {
+    "name": "Root Maze",
+    "slug": "spg-root-maze-168-mythic",
+    "nameSlug": "root-maze",
+    "expansion": "Special Guests",
+    "expansionSlug": "special-guests",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6850323059fa724009568a2a": {
+    "name": "The Battle of Bywater",
+    "slug": "ltr-the-battle-of-bywater-2-rare",
+    "nameSlug": "the-battle-of-bywater",
+    "expansion": "The Lord of the Rings: Tales of Middle-earth",
+    "expansionSlug": "the-lord-of-the-rings-tales-of-middle-earth",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502e6d59fa7240095593df": {
+    "name": "Legolas, Master Archer",
+    "slug": "ltr-legolas-master-archer-435-rare",
+    "nameSlug": "legolas-master-archer",
+    "expansion": "The Lord of the Rings: Tales of Middle-earth",
+    "expansionSlug": "the-lord-of-the-rings-tales-of-middle-earth",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850322c59fa7240095665c7": {
+    "name": "Uro, Titan of Nature's Wrath",
+    "slug": "m3c-uro-titan-of-natures-wrath-277-mythic",
+    "nameSlug": "uro-titan-of-natures-wrath",
+    "expansion": "Modern Horizons 3 Commander",
+    "expansionSlug": "modern-horizons-3-commander",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
