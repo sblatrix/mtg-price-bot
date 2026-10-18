@@ -12726,5 +12726,41 @@
   "Pestilence|": {
     "rarity": "uncommon",
     "set": null
+  },
+  "The Theorist, Jace Beleren <019f70f2-8bc9-7fa6-99ff-3ab674569633>|fra": {
+    "rarity": null,
+    "set": "fra"
+  },
+  "Teferi, Time Raveler|rvr": {
+    "rarity": "mythic",
+    "set": "rvr"
+  },
+  "Preordain|cmr": {
+    "rarity": "common",
+    "set": "cmr"
+  },
+  "Chaos Warp|fic": {
+    "rarity": "rare",
+    "set": "fic"
+  },
+  "Witness Protection|": {
+    "rarity": "common",
+    "set": null
+  },
+  "Combat Research|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Tiamat|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Karador, Ghost Chieftain|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Sundering Titan|": {
+    "rarity": "rare",
+    "set": null
   }
 }
