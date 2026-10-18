@@ -19773,5 +19773,113 @@
     "finishes": [
       "Standard"
     ]
+  },
+  "68502d7a59fa72400955396a": {
+    "name": "Fury",
+    "slug": "mh2-fury-126-mythic",
+    "nameSlug": "fury",
+    "expansion": "Modern Horizons 2",
+    "expansionSlug": "modern-horizons-2",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d7959fa724009552feb": {
+    "name": "Fulminator Mage",
+    "slug": "2xm-fulminator-mage-196-rare",
+    "nameSlug": "fulminator-mage",
+    "expansion": "Double Masters",
+    "expansionSlug": "double-masters",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c2f59fa72400954d9df": {
+    "name": "Chandra's Incinerator",
+    "slug": "m21-chandras-incinerator-136-rare",
+    "nameSlug": "chandras-incinerator",
+    "expansion": "Core Set 2021",
+    "expansionSlug": "core-set-2021",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "69e1040993c168406dc0b6f7": {
+    "name": "Flashback",
+    "slug": "sos-flashback-333-rare",
+    "nameSlug": "flashback",
+    "expansion": "Secrets of Strixhaven",
+    "expansionSlug": "secrets-of-strixhaven",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6917ca38d403752343742146": {
+    "name": "Iroh, Dragon of the West",
+    "slug": "tle-iroh-dragon-of-the-west-119-rare",
+    "nameSlug": "iroh-dragon-of-the-west",
+    "expansion": "Avatar: The Last Airbender Eternal",
+    "expansionSlug": "avatar-the-last-airbender-eternal",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6917ca39d40375234374218a": {
+    "name": "Animal Attendant",
+    "slug": "tle-animal-attendant-128-uncommon",
+    "nameSlug": "animal-attendant",
+    "expansion": "Avatar: The Last Airbender Eternal",
+    "expansionSlug": "avatar-the-last-airbender-eternal",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "687262e4620a85f87e0fe722": {
+    "name": "Kavaron, Memorial World",
+    "slug": "eoe-kavaron-memorial-world-281-mythic",
+    "nameSlug": "kavaron-memorial-world",
+    "expansion": "Edge of Eternities",
+    "expansionSlug": "edge-of-eternities",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6850317559fa724009565c85": {
+    "name": "Taeko, the Patient Avalanche",
+    "slug": "j25-taeko-the-patient-avalanche-39-mythic",
+    "nameSlug": "taeko-the-patient-avalanche",
+    "expansion": "Foundations Jumpstart",
+    "expansionSlug": "foundations-jumpstart",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502bc859fa72400954a348": {
+    "name": "Baleful Strix",
+    "slug": "brc-baleful-strix-120-rare",
+    "nameSlug": "baleful-strix",
+    "expansion": "The Brothers' War Commander",
+    "expansionSlug": "the-brothers-war-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502e6c59fa7240095585a9": {
+    "name": "Jetmir, Nexus of Revels",
+    "slug": "snc-jetmir-nexus-of-revels-193-mythic",
+    "nameSlug": "jetmir-nexus-of-revels",
+    "expansion": "Streets of New Capenna",
+    "expansionSlug": "streets-of-new-capenna",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
