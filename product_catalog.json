@@ -20109,5 +20109,47 @@
       "Standard",
       "Foil"
     ]
+  },
+  "68502df359fa724009557a96": {
+    "name": "Hammers of Moradin",
+    "slug": "clb-hammers-of-moradin-25-uncommon",
+    "nameSlug": "hammers-of-moradin",
+    "expansion": "Commander Legends: Battle for Baldur's Gate",
+    "expansionSlug": "commander-legends-battle-for-baldurs-gate",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6a203ae13c32f48d1fce60b1": {
+    "name": "Empty the Warrens",
+    "slug": "sld-empty-the-warrens-2412-rare",
+    "nameSlug": "empty-the-warrens",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "68ee1d27b37fd6bebc325f98": {
+    "name": "Greensleeves, Maro-Sorcerer",
+    "slug": "sld-greensleeves-maro-sorcerer-2193-mythic",
+    "nameSlug": "greensleeves-maro-sorcerer",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502f7f59fa72400955eae2": {
+    "name": "Ninja of the Deep Hours",
+    "slug": "j25-ninja-of-the-deep-hours-108-common",
+    "nameSlug": "ninja-of-the-deep-hours",
+    "expansion": "Foundations Jumpstart",
+    "expansionSlug": "foundations-jumpstart",
+    "finishes": [
+      "Standard"
+    ]
   }
 }
