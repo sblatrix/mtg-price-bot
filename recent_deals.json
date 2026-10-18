@@ -1,5 +1,57 @@
 [
   {
+    "name": "Pir, Imaginative Rascal",
+    "expansion": "Battlebond",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 3.55,
+    "ref_price": 4.78,
+    "discount_pct": 25.7,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-10-18T05:06:48.623Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/battlebond/card/bbd-pir-imaginative-rascal-11-rare"
+  },
+  {
+    "name": "Steelbane Hydra",
+    "expansion": "New Capenna Commander",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 1.46,
+    "ref_price": 2.34,
+    "discount_pct": 37.6,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-10-18T05:13:20.773Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/new-capenna-commander/card/ncc-steelbane-hydra-313-rare"
+  },
+  {
+    "name": "Patriar's Seal",
+    "expansion": "Commander Legends: Battle for Baldur's Gate",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 3.34,
+    "ref_price": 4.6,
+    "discount_pct": 27.4,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-10-18T05:13:37.761Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/commander-legends-battle-for-baldurs-gate/card/clb-patriars-seal-332-uncommon"
+  },
+  {
+    "name": "Ghoulish Impetus",
+    "expansion": "Commander Masters",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 3.53,
+    "ref_price": 5.69,
+    "discount_pct": 38.0,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-10-18T05:16:43.571Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/commander-masters/card/cmm-ghoulish-impetus-763-rare"
+  },
+  {
     "name": "Jetmir, Nexus of Revels",
     "expansion": "Streets of New Capenna",
     "finish": "Standard",
@@ -1246,57 +1298,5 @@
     "seller_country": "US",
     "created_at": "2026-10-17T17:15:04.866Z",
     "url": "https://cardnexus.com/fr/explore/mtg/avatar-the-last-airbender/card/tla-phoenix-fleet-airship-114-mythic"
-  },
-  {
-    "name": "Clever Concealment",
-    "expansion": "Marvel Super Heroes Commander",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 3.67,
-    "ref_price": 4.61,
-    "discount_pct": 20.4,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-10-17T17:15:05.664Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/marvel-super-heroes-commander/card/msc-clever-concealment-125-rare"
-  },
-  {
-    "name": "Riverpyre Verge",
-    "expansion": "Aetherdrift",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 13.28,
-    "ref_price": 18.81,
-    "discount_pct": 29.4,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-10-17T17:15:05.664Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/aetherdrift/card/dft-riverpyre-verge-260-rare"
-  },
-  {
-    "name": "Boromir, Warden of the Tower",
-    "expansion": "The Lord of the Rings: Tales of Middle-earth",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 4.31,
-    "ref_price": 6.04,
-    "discount_pct": 28.6,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-10-17T17:15:05.664Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/the-lord-of-the-rings-tales-of-middle-earth/card/ltr-boromir-warden-of-the-tower-4-rare"
-  },
-  {
-    "name": "Glarb, Calamity's Augur",
-    "expansion": "Bloomburrow",
-    "finish": "Foil",
-    "language": "en",
-    "price_paid": 5.89,
-    "ref_price": 8.35,
-    "discount_pct": 29.5,
-    "confident": false,
-    "seller_country": "US",
-    "created_at": "2026-10-17T17:16:04.909Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/bloomburrow/card/blb-glarb-calamitys-augur-215-mythic"
   }
 ]

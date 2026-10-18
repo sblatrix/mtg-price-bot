@@ -19881,5 +19881,37 @@
       "Standard",
       "Foil"
     ]
+  },
+  "68502d7959fa72400955360e": {
+    "name": "Ghoulish Impetus",
+    "slug": "cmm-ghoulish-impetus-763-rare",
+    "nameSlug": "ghoulish-impetus",
+    "expansion": "Commander Masters",
+    "expansionSlug": "commander-masters",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502f7e59fa72400955dee1": {
+    "name": "Patriar's Seal",
+    "slug": "clb-patriars-seal-332-uncommon",
+    "nameSlug": "patriars-seal",
+    "expansion": "Commander Legends: Battle for Baldur's Gate",
+    "expansionSlug": "commander-legends-battle-for-baldurs-gate",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850317459fa7240095654b1": {
+    "name": "Steelbane Hydra",
+    "slug": "ncc-steelbane-hydra-313-rare",
+    "nameSlug": "steelbane-hydra",
+    "expansion": "New Capenna Commander",
+    "expansionSlug": "new-capenna-commander",
+    "finishes": [
+      "Standard"
+    ]
   }
 }
