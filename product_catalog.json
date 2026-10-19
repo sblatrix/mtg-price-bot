@@ -20659,5 +20659,49 @@
       "Standard",
       "Foil"
     ]
+  },
+  "6ab7b00d53e0bf9da93b4729": {
+    "name": "Draconic Visitor",
+    "slug": "fra-draconic-visitor-80-rare",
+    "nameSlug": "draconic-visitor",
+    "expansion": "Reality Fracture",
+    "expansionSlug": "reality-fracture",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6a622183698c2ef67931f1fb": {
+    "name": "Garruk, Curse Breaker",
+    "slug": "fra-garruk-curse-breaker-314-mythic",
+    "nameSlug": "garruk-curse-breaker",
+    "expansion": "Reality Fracture",
+    "expansionSlug": "reality-fracture",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6850301459fa72400955f1a3": {
+    "name": "Rise of the Dark Realms",
+    "slug": "fic-rise-of-the-dark-realms-283-mythic",
+    "nameSlug": "rise-of-the-dark-realms",
+    "expansion": "Final Fantasy Commander",
+    "expansionSlug": "final-fantasy-commander",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850317659fa7240095662ca": {
+    "name": "Swiftfoot Boots",
+    "slug": "fic-swiftfoot-boots-361-uncommon",
+    "nameSlug": "swiftfoot-boots",
+    "expansion": "Final Fantasy Commander",
+    "expansionSlug": "final-fantasy-commander",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
