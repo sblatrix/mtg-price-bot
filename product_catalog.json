@@ -20151,5 +20151,67 @@
     "finishes": [
       "Standard"
     ]
+  },
+  "6a7b05b161a1a6140afba592": {
+    "name": "Great Goblin, Foul-Hearted",
+    "slug": "hoc-great-goblin-foul-hearted-105-mythic",
+    "nameSlug": "great-goblin-foul-hearted",
+    "expansion": "The Hobbit Eternal",
+    "expansionSlug": "the-hobbit-eternal",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502e6b59fa724009557f46": {
+    "name": "Lotus Cobra",
+    "slug": "blc-lotus-cobra-229-rare",
+    "nameSlug": "lotus-cobra",
+    "expansion": "Bloomburrow Commander",
+    "expansionSlug": "bloomburrow-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850322f59fa724009567a82": {
+    "name": "Unmask",
+    "slug": "plst-unmask-mmq-168-rare",
+    "nameSlug": "unmask",
+    "expansion": "The List",
+    "expansionSlug": "the-list",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502d7a59fa724009553a58": {
+    "name": "Fury Storm",
+    "slug": "c18-fury-storm-22-rare",
+    "nameSlug": "fury-storm",
+    "expansion": "Commander 2018",
+    "expansionSlug": "commander-2018",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502d7b59fa72400955446c": {
+    "name": "Generous Patron",
+    "slug": "bbd-generous-patron-70-rare",
+    "nameSlug": "generous-patron",
+    "expansion": "Battlebond",
+    "expansionSlug": "battlebond",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502f7e59fa72400955e26d": {
+    "name": "Phyrexian Fleshgorger",
+    "slug": "bro-phyrexian-fleshgorger-332-mythic",
+    "nameSlug": "phyrexian-fleshgorger",
+    "expansion": "The Brothers' War",
+    "expansionSlug": "the-brothers-war",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
