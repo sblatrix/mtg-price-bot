@@ -1,5 +1,31 @@
 [
   {
+    "name": "Sunderflock",
+    "format": "standard",
+    "rarity": "rare",
+    "pct_of_decks": 11,
+    "pct_change": 11,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-10-19T11:22:04.652256+00:00",
+    "url": "https://www.mtggoldfish.com/price/lorwyn-eclipsed/74/sunderflock#paper",
+    "summary": "Nouvelle entrée en standard : 11% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Solemn Simulacrum",
+    "format": "commander",
+    "rarity": "rare",
+    "pct_of_decks": 12,
+    "pct_change": 12,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-10-19T11:22:04.652256+00:00",
+    "url": "https://www.mtggoldfish.com/price/starter-commander/277/solemn-simulacrum#paper",
+    "summary": "Nouvelle entrée en commander : 12% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Earthbender Ascension",
     "format": "standard",
     "rarity": "rare",
