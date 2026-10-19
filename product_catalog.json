@@ -4130,8 +4130,8 @@
     "name": "Bilbo, Fellow Conspirator",
     "slug": "hoc-bilbo-fellow-conspirator-4-rare",
     "nameSlug": "bilbo-fellow-conspirator",
-    "expansion": "The Hobbit Commander",
-    "expansionSlug": "the-hobbit-commander",
+    "expansion": "The Hobbit Eternal",
+    "expansionSlug": "the-hobbit-eternal",
     "finishes": [
       "Foil",
       "Standard"
@@ -20371,6 +20371,290 @@
     "nameSlug": "kutzil-malamet-exemplar",
     "expansion": "The Lost Caverns of Ixalan",
     "expansionSlug": "the-lost-caverns-of-ixalan",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502bc859fa72400954a422": {
+    "name": "Baleful Strix",
+    "slug": "dmc-baleful-strix-143-rare",
+    "nameSlug": "baleful-strix",
+    "expansion": "Dominaria United Commander",
+    "expansionSlug": "dominaria-united-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6a203ae13c32f48d1fce5fed": {
+    "name": "Bilbo, Thief in the Night",
+    "slug": "hob-bilbo-thief-in-the-night-219-mythic",
+    "nameSlug": "bilbo-thief-in-the-night",
+    "expansion": "The Hobbit",
+    "expansionSlug": "the-hobbit",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6aa7c23ad77706c779efae68": {
+    "name": "Austere Command",
+    "slug": "spg-austere-command-160-mythic",
+    "nameSlug": "austere-command",
+    "expansion": "Special Guests",
+    "expansionSlug": "special-guests",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6a96039b7662812c03e77bd5": {
+    "name": "Secret Lair x The Hobbit: A Marvelous Mathoms - He Who Walks Unseen (foil)",
+    "slug": "sld-secret-lair-x-the-hobbit-a-marvelous-mathoms-he-who-walks-unseen-foil",
+    "nameSlug": "secret-lair-x-the-hobbit-a-marvelous-mathoms-he-who-walks-unseen-foil",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6a7097dfa020b8324bbfbcf9": {
+    "name": "Palantír of Orthanc",
+    "slug": "hoc-palantir-of-orthanc-85-mythic",
+    "nameSlug": "palantir-of-orthanc",
+    "expansion": "The Hobbit Eternal",
+    "expansionSlug": "the-hobbit-eternal",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "6a34493c7c319a12f354dfbf": {
+    "name": "Iron Man, Tony Stark",
+    "slug": "msc-iron-man-tony-stark-851-rare",
+    "nameSlug": "iron-man-tony-stark",
+    "expansion": "Marvel Super Heroes Commander",
+    "expansionSlug": "marvel-super-heroes-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6a3449368675f0170cd9f620": {
+    "name": "Minotaur, Roxxon CEO",
+    "slug": "msc-minotaur-roxxon-ceo-539-rare",
+    "nameSlug": "minotaur-roxxon-ceo",
+    "expansion": "Marvel Super Heroes Commander",
+    "expansionSlug": "marvel-super-heroes-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "696569d48b5e9ad6eb7b9388": {
+    "name": "Abundant Countryside",
+    "slug": "ecc-abundant-countryside-42-rare",
+    "nameSlug": "abundant-countryside",
+    "expansion": "Lorwyn Eclipsed Commander",
+    "expansionSlug": "lorwyn-eclipsed-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502d0559fa724009551728": {
+    "name": "Fabled Passage",
+    "slug": "blb-fabled-passage-367-rare",
+    "nameSlug": "fabled-passage",
+    "expansion": "Bloomburrow",
+    "expansionSlug": "bloomburrow",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c9759fa72400954faf2": {
+    "name": "Collector's Cage",
+    "slug": "big-collectors-cage-31-mythic",
+    "nameSlug": "collectors-cage",
+    "expansion": "The Big Score",
+    "expansionSlug": "the-big-score",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c2e59fa72400954c65e": {
+    "name": "Broadside Bombardiers",
+    "slug": "lcc-broadside-bombardiers-54-rare",
+    "nameSlug": "broadside-bombardiers",
+    "expansion": "The Lost Caverns of Ixalan Commander",
+    "expansionSlug": "the-lost-caverns-of-ixalan-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502d7b59fa724009554c43": {
+    "name": "Get Lost",
+    "slug": "lci-get-lost-333-rare",
+    "nameSlug": "get-lost",
+    "expansion": "The Lost Caverns of Ixalan",
+    "expansionSlug": "the-lost-caverns-of-ixalan",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d7b59fa724009554541": {
+    "name": "For the Ancestors",
+    "slug": "cmm-for-the-ancestors-770-rare",
+    "nameSlug": "for-the-ancestors",
+    "expansion": "Commander Masters",
+    "expansionSlug": "commander-masters",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502bc859fa724009549db6": {
+    "name": "Aragorn and Arwen, Wed",
+    "slug": "ltr-aragorn-and-arwen-wed-394-mythic",
+    "nameSlug": "aragorn-and-arwen-wed",
+    "expansion": "The Lord of the Rings: Tales of Middle-earth",
+    "expansionSlug": "the-lord-of-the-rings-tales-of-middle-earth",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502d7b59fa724009554d1e": {
+    "name": "Frodo, Determined Hero",
+    "slug": "ltr-frodo-determined-hero-388-rare",
+    "nameSlug": "frodo-determined-hero",
+    "expansion": "The Lord of the Rings: Tales of Middle-earth",
+    "expansionSlug": "the-lord-of-the-rings-tales-of-middle-earth",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850317459fa724009564dda": {
+    "name": "Surgical Extraction",
+    "slug": "2x2-surgical-extraction-94-rare",
+    "nameSlug": "surgical-extraction",
+    "expansion": "Double Masters 2022",
+    "expansionSlug": "double-masters-2022",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6a7b05b0c6c573af29b8ea74": {
+    "name": "Bilbo, Unexpected Adventurer",
+    "slug": "hoc-bilbo-unexpected-adventurer-98-mythic",
+    "nameSlug": "bilbo-unexpected-adventurer",
+    "expansion": "The Hobbit Eternal",
+    "expansionSlug": "the-hobbit-eternal",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502e6e59fa724009559f5c": {
+    "name": "Kindred Discovery",
+    "slug": "clb-kindred-discovery-81-rare",
+    "nameSlug": "kindred-discovery",
+    "expansion": "Commander Legends: Battle for Baldur's Gate",
+    "expansionSlug": "commander-legends-battle-for-baldurs-gate",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d0459fa724009550ecb": {
+    "name": "Drumbellower",
+    "slug": "nec-drumbellower-40-rare",
+    "nameSlug": "drumbellower",
+    "expansion": "Neon Dynasty Commander",
+    "expansionSlug": "neon-dynasty-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502df259fa724009556a9f": {
+    "name": "Gyome, Master Chef",
+    "slug": "c21-gyome-master-chef-332-mythic",
+    "nameSlug": "gyome-master-chef",
+    "expansion": "Commander 2021",
+    "expansionSlug": "commander-2021",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850322e59fa7240095670de": {
+    "name": "The Grand Tour",
+    "slug": "cmb1-the-grand-tour-30-rare",
+    "nameSlug": "the-grand-tour",
+    "expansion": "Mystery Booster Playtest Cards 2019",
+    "expansionSlug": "mystery-booster-playtest-cards-2019",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502ef059fa72400955bde8": {
+    "name": "Mirrorwing Dragon",
+    "slug": "emn-mirrorwing-dragon-136-mythic",
+    "nameSlug": "mirrorwing-dragon",
+    "expansion": "Eldritch Moon",
+    "expansionSlug": "eldritch-moon",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68946c68c739b636296f7d4a": {
+    "name": "Consult the Star Charts",
+    "slug": "peoe-consult-the-star-charts-51p-rare",
+    "nameSlug": "consult-the-star-charts",
+    "expansion": "Edge of Eternities Promos",
+    "expansionSlug": "edge-of-eternities-promos",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685032e359fa724009568cb1": {
+    "name": "Voice of Victory",
+    "slug": "ptdm-voice-of-victory-33p-rare",
+    "nameSlug": "voice-of-victory",
+    "expansion": "Tarkir: Dragonstorm Promos",
+    "expansionSlug": "tarkir-dragonstorm-promos",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d7959fa7240095535d5": {
+    "name": "Ghoulish Impetus",
+    "slug": "cmm-ghoulish-impetus-732-rare",
+    "nameSlug": "ghoulish-impetus",
+    "expansion": "Commander Masters",
+    "expansionSlug": "commander-masters",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850322e59fa724009567917": {
+    "name": "Titania, Protector of Argoth",
+    "slug": "mh2-titania-protector-of-argoth-416-mythic",
+    "nameSlug": "titania-protector-of-argoth",
+    "expansion": "Modern Horizons 2",
+    "expansionSlug": "modern-horizons-2",
+    "finishes": [
+      "Etched",
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502d0659fa724009552719": {
+    "name": "Final Showdown",
+    "slug": "otj-final-showdown-11-mythic",
+    "nameSlug": "final-showdown",
+    "expansion": "Outlaws of Thunder Junction",
+    "expansionSlug": "outlaws-of-thunder-junction",
     "finishes": [
       "Standard",
       "Foil"
