@@ -1,14 +1,14 @@
 {
+  "mdc": {
+    "name": "Darkhold Destiny Commander",
+    "released_at": "2027-04-09"
+  },
   "tmdd": {
     "name": "Marvel: Darkhold Destiny Tokens",
     "released_at": "2027-04-09"
   },
   "mdd": {
     "name": "Marvel: Darkhold Destiny",
-    "released_at": "2027-04-09"
-  },
-  "mdc": {
-    "name": "Darkhold Destiny Commander",
     "released_at": "2027-04-09"
   },
   "nau": {
@@ -23,6 +23,10 @@
     "name": "MagicFest 2027",
     "released_at": "2027-01-01"
   },
+  "mbc": {
+    "name": "Mystery Booster Commander Edition",
+    "released_at": "2026-11-13"
+  },
   "trc": {
     "name": "Star Trek Commander",
     "released_at": "2026-11-13"
@@ -31,17 +35,13 @@
     "name": "Star Trek Tokens",
     "released_at": "2026-11-13"
   },
-  "trk": {
-    "name": "Star Trek",
-    "released_at": "2026-11-13"
-  },
   "sds": {
     "name": "Stardates",
     "released_at": "2026-11-13"
   },
-  "mbc": {
-    "name": "Mystery Booster Commander Edition",
-    "released_at": "2026-10-19"
+  "trk": {
+    "name": "Star Trek",
+    "released_at": "2026-11-13"
   },
   "yfra": {
     "name": "Alchemy: Reality Fracture",

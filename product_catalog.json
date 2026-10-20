@@ -20832,5 +20832,59 @@
       "Standard",
       "Foil"
     ]
+  },
+  "69ae3413b8aecc4cebe7ed58": {
+    "name": "Rat King, Verminister",
+    "slug": "tmt-rat-king-verminister-266-rare",
+    "nameSlug": "rat-king-verminister",
+    "expansion": "Teenage Mutant Ninja Turtles",
+    "expansionSlug": "teenage-mutant-ninja-turtles",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502d0659fa724009552705": {
+    "name": "Essence Channeler",
+    "slug": "blb-essence-channeler-12-rare",
+    "nameSlug": "essence-channeler",
+    "expansion": "Bloomburrow",
+    "expansionSlug": "bloomburrow",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d7959fa724009553171": {
+    "name": "Forest",
+    "slug": "blb-forest-281-common",
+    "nameSlug": "forest",
+    "expansion": "Bloomburrow",
+    "expansionSlug": "bloomburrow",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502eee59fa72400955aa88": {
+    "name": "Mesmeric Fiend",
+    "slug": "a25-mesmeric-fiend-97-uncommon",
+    "nameSlug": "mesmeric-fiend",
+    "expansion": "Masters 25",
+    "expansionSlug": "masters-25",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c9659fa72400954ef55": {
+    "name": "Cryptic Serpent",
+    "slug": "j22-cryptic-serpent-285-uncommon",
+    "nameSlug": "cryptic-serpent",
+    "expansion": "Jumpstart 2022",
+    "expansionSlug": "jumpstart-2022",
+    "finishes": [
+      "Standard"
+    ]
   }
 }
