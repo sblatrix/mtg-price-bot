@@ -20981,5 +20981,66 @@
     "finishes": [
       "Standard"
     ]
+  },
+  "685032e659fa72400956a3c8": {
+    "name": "Willowrush Verge",
+    "slug": "dft-willowrush-verge-375-rare",
+    "nameSlug": "willowrush-verge",
+    "expansion": "Aetherdrift",
+    "expansionSlug": "aetherdrift",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c2f59fa72400954d6ad": {
+    "name": "Blast-Furnace Hellkite",
+    "slug": "brc-blast-furnace-hellkite-12-rare",
+    "nameSlug": "blast-furnace-hellkite",
+    "expansion": "The Brothers' War Commander",
+    "expansionSlug": "the-brothers-war-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502e6b59fa7240095583ab": {
+    "name": "Keeper of Secrets",
+    "slug": "40k-keeper-of-secrets-78-rare",
+    "nameSlug": "keeper-of-secrets",
+    "expansion": "Warhammer 40,000 Commander",
+    "expansionSlug": "warhammer-40000-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502c2e59fa72400954cecd": {
+    "name": "Blood for the Blood God!",
+    "slug": "40k-blood-for-the-blood-godexclamation-108-rare",
+    "nameSlug": "blood-for-the-blood-godexclamation",
+    "expansion": "Warhammer 40,000 Commander",
+    "expansionSlug": "warhammer-40000-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502c9859fa72400954ffdd": {
+    "name": "Dockside Extortionist",
+    "slug": "c19-dockside-extortionist-24-rare",
+    "nameSlug": "dockside-extortionist",
+    "expansion": "Commander 2019",
+    "expansionSlug": "commander-2019",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502d0759fa724009552ca9": {
+    "name": "Druid of Purification",
+    "slug": "sld-druid-of-purification-877-rare",
+    "nameSlug": "druid-of-purification",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil"
+    ]
   }
 }

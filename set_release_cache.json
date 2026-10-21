@@ -1,31 +1,27 @@
 {
-  "mdc": {
-    "name": "Darkhold Destiny Commander",
-    "released_at": "2027-04-09"
-  },
   "tmdd": {
     "name": "Marvel: Darkhold Destiny Tokens",
+    "released_at": "2027-04-09"
+  },
+  "mdc": {
+    "name": "Darkhold Destiny Commander",
     "released_at": "2027-04-09"
   },
   "mdd": {
     "name": "Marvel: Darkhold Destiny",
     "released_at": "2027-04-09"
   },
-  "nau": {
-    "name": "Nauctis: The Sunken Realm",
-    "released_at": "2027-02-05"
-  },
   "tnau": {
     "name": "Nauctis: The Sunken Realm Tokens",
+    "released_at": "2027-02-05"
+  },
+  "nau": {
+    "name": "Nauctis: The Sunken Realm",
     "released_at": "2027-02-05"
   },
   "pf27": {
     "name": "MagicFest 2027",
     "released_at": "2027-01-01"
-  },
-  "mbc": {
-    "name": "Mystery Booster Commander Edition",
-    "released_at": "2026-11-13"
   },
   "trc": {
     "name": "Star Trek Commander",
@@ -35,13 +31,17 @@
     "name": "Star Trek Tokens",
     "released_at": "2026-11-13"
   },
+  "trk": {
+    "name": "Star Trek",
+    "released_at": "2026-11-13"
+  },
   "sds": {
     "name": "Stardates",
     "released_at": "2026-11-13"
   },
-  "trk": {
-    "name": "Star Trek",
-    "released_at": "2026-11-13"
+  "mbc": {
+    "name": "Mystery Booster Commander Edition",
+    "released_at": "2026-10-19"
   },
   "yfra": {
     "name": "Alchemy: Reality Fracture",
