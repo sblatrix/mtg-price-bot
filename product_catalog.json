@@ -21074,5 +21074,57 @@
       "Foil",
       "Standard"
     ]
+  },
+  "69e1040993c168406dc0b67e": {
+    "name": "War Room",
+    "slug": "soc-war-room-422-rare",
+    "nameSlug": "war-room",
+    "expansion": "Secrets of Strixhaven Commander",
+    "expansionSlug": "secrets-of-strixhaven-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502c2e59fa72400954c898": {
+    "name": "Cephalid Facetaker",
+    "slug": "ncc-cephalid-facetaker-23-rare",
+    "nameSlug": "cephalid-facetaker",
+    "expansion": "New Capenna Commander",
+    "expansionSlug": "new-capenna-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502e6e59fa724009559fd6": {
+    "name": "Kindred Summons",
+    "slug": "afc-kindred-summons-163-rare",
+    "nameSlug": "kindred-summons",
+    "expansion": "Forgotten Realms Commander",
+    "expansionSlug": "forgotten-realms-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502c2e59fa72400954cb58": {
+    "name": "Blade Historian",
+    "slug": "stx-blade-historian-334-rare",
+    "nameSlug": "blade-historian",
+    "expansion": "Strixhaven: School of Mages",
+    "expansionSlug": "strixhaven-school-of-mages",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6a7b05acfa8e48798b9f3d24": {
+    "name": "Fateful Discovery",
+    "slug": "hob-fateful-discovery-220-mythic",
+    "nameSlug": "fateful-discovery",
+    "expansion": "The Hobbit",
+    "expansionSlug": "the-hobbit",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
   }
 }
