@@ -21414,5 +21414,156 @@
       "Standard",
       "Foil"
     ]
+  },
+  "685030c059fa72400956394c": {
+    "name": "Sigardian Savior",
+    "slug": "pmid-sigardian-savior-34s-mythic",
+    "nameSlug": "sigardian-savior",
+    "expansion": "Innistrad: Midnight Hunt Promos",
+    "expansionSlug": "innistrad-midnight-hunt-promos",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "68502e6c59fa72400955877a": {
+    "name": "Jeweled Lotus",
+    "slug": "cmr-jeweled-lotus-319-mythic",
+    "nameSlug": "jeweled-lotus",
+    "expansion": "Commander Legends",
+    "expansionSlug": "commander-legends",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685030bd59fa7240095618ee": {
+    "name": "Skrelv, Defector Mite",
+    "slug": "sld-skrelv-defector-mite-1926-rare",
+    "nameSlug": "skrelv-defector-mite",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502f7d59fa72400955d4d1": {
+    "name": "Overlord of the Hauntwoods",
+    "slug": "dsk-overlord-of-the-hauntwoods-383-mythic",
+    "nameSlug": "overlord-of-the-hauntwoods",
+    "expansion": "Duskmourn: House of Horror",
+    "expansionSlug": "duskmourn-house-of-horror",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850317459fa724009564f56": {
+    "name": "Storm of Saruman",
+    "slug": "ltr-storm-of-saruman-523-mythic",
+    "nameSlug": "storm-of-saruman",
+    "expansion": "The Lord of the Rings: Tales of Middle-earth",
+    "expansionSlug": "the-lord-of-the-rings-tales-of-middle-earth",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685032e559fa724009569939": {
+    "name": "Vexing Puzzlebox",
+    "slug": "clb-vexing-puzzlebox-374-mythic",
+    "nameSlug": "vexing-puzzlebox",
+    "expansion": "Commander Legends: Battle for Baldur's Gate",
+    "expansionSlug": "commander-legends-battle-for-baldurs-gate",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850301459fa72400955f0e7": {
+    "name": "Primal Command",
+    "slug": "sta-primal-command-118-mythic",
+    "nameSlug": "primal-command",
+    "expansion": "Strixhaven Mystical Archive",
+    "expansionSlug": "strixhaven-mystical-archive",
+    "finishes": [
+      "Standard",
+      "Foil",
+      "Etched"
+    ]
+  },
+  "68502bc959fa72400954aa22": {
+    "name": "Arcane Signet",
+    "slug": "cmm-arcane-signet-653-uncommon",
+    "nameSlug": "arcane-signet",
+    "expansion": "Commander Masters",
+    "expansionSlug": "commander-masters",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d7b59fa724009554e78": {
+    "name": "Goldlust Triad",
+    "slug": "tdc-goldlust-triad-34-rare",
+    "nameSlug": "goldlust-triad",
+    "expansion": "Tarkir: Dragonstorm Commander",
+    "expansionSlug": "tarkir-dragonstorm-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502c2d59fa72400954bda6": {
+    "name": "Birthing Ritual",
+    "slug": "mh3-birthing-ritual-337-mythic",
+    "nameSlug": "birthing-ritual",
+    "expansion": "Modern Horizons 3",
+    "expansionSlug": "modern-horizons-3",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502f7c59fa72400955d342": {
+    "name": "Pashalik Mons",
+    "slug": "dmr-pashalik-mons-133-rare",
+    "nameSlug": "pashalik-mons",
+    "expansion": "Dominaria Remastered",
+    "expansionSlug": "dominaria-remastered",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c2f59fa72400954dc25": {
+    "name": "Chromatic Lantern",
+    "slug": "40k-chromatic-lantern-232-rare",
+    "nameSlug": "chromatic-lantern",
+    "expansion": "Warhammer 40,000 Commander",
+    "expansionSlug": "warhammer-40000-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502e6d59fa724009559910": {
+    "name": "Lurrus of the Dream-Den",
+    "slug": "q06-lurrus-of-the-dream-den-9-rare",
+    "nameSlug": "lurrus-of-the-dream-den",
+    "expansion": "Pioneer Challenger Decks 2021",
+    "expansionSlug": "pioneer-challenger-decks-2021",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502bc759fa724009549888": {
+    "name": "Assassin's Trophy",
+    "slug": "pgrn-assassins-trophy-152p-rare",
+    "nameSlug": "assassins-trophy",
+    "expansion": "Guilds of Ravnica Promos",
+    "expansionSlug": "guilds-of-ravnica-promos",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
