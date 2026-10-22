@@ -21254,5 +21254,103 @@
       "Foil",
       "Standard"
     ]
+  },
+  "696569d58b5e9ad6eb7b9548": {
+    "name": "Slippery Bogle",
+    "slug": "spg-slippery-bogle-144-mythic",
+    "nameSlug": "slippery-bogle",
+    "expansion": "Special Guests",
+    "expansionSlug": "special-guests",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6917ca37d403752343742057": {
+    "name": "Monk Gyatso",
+    "slug": "tle-monk-gyatso-81-rare",
+    "nameSlug": "monk-gyatso",
+    "expansion": "Avatar: The Last Airbender Eternal",
+    "expansionSlug": "avatar-the-last-airbender-eternal",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6917ca39d403752343742190": {
+    "name": "Avatar Kyoshi, Earthbender",
+    "slug": "tle-avatar-kyoshi-earthbender-130-mythic",
+    "nameSlug": "avatar-kyoshi-earthbender",
+    "expansion": "Avatar: The Last Airbender Eternal",
+    "expansionSlug": "avatar-the-last-airbender-eternal",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6917ca37d40375234374205e": {
+    "name": "Sokka, Swordmaster",
+    "slug": "tle-sokka-swordmaster-83-mythic",
+    "nameSlug": "sokka-swordmaster",
+    "expansion": "Avatar: The Last Airbender Eternal",
+    "expansionSlug": "avatar-the-last-airbender-eternal",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "685030bf59fa724009562fa3": {
+    "name": "Savage Order",
+    "slug": "rex-savage-order-6-rare",
+    "nameSlug": "savage-order",
+    "expansion": "Jurassic World Collection",
+    "expansionSlug": "jurassic-world-collection",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502eee59fa72400955a7b8": {
+    "name": "Mantle of the Ancients",
+    "slug": "afc-mantle-of-the-ancients-8-rare",
+    "nameSlug": "mantle-of-the-ancients",
+    "expansion": "Forgotten Realms Commander",
+    "expansionSlug": "forgotten-realms-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502df059fa7240095559b5": {
+    "name": "Guardian of Faith",
+    "slug": "afr-guardian-of-faith-18-rare",
+    "nameSlug": "guardian-of-faith",
+    "expansion": "Adventures in the Forgotten Realms",
+    "expansionSlug": "adventures-in-the-forgotten-realms",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685032e459fa7240095695d8": {
+    "name": "Zariel, Archduke of Avernus",
+    "slug": "afr-zariel-archduke-of-avernus-172-mythic",
+    "nameSlug": "zariel-archduke-of-avernus",
+    "expansion": "Adventures in the Forgotten Realms",
+    "expansionSlug": "adventures-in-the-forgotten-realms",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850317559fa724009565f56": {
+    "name": "Temporal Mastery",
+    "slug": "mm3-temporal-mastery-54-mythic",
+    "nameSlug": "temporal-mastery",
+    "expansion": "Modern Masters 2017",
+    "expansionSlug": "modern-masters-2017",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
   }
 }
