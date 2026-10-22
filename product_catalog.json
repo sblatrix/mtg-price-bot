@@ -21070,7 +21070,6 @@
     "expansion": "Foundations Commander",
     "expansionSlug": "foundations-commander",
     "finishes": [
-      "Foil",
       "Standard"
     ]
   },
@@ -21561,6 +21560,212 @@
     "nameSlug": "assassins-trophy",
     "expansion": "Guilds of Ravnica Promos",
     "expansionSlug": "guilds-of-ravnica-promos",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502eed59fa72400955a249": {
+    "name": "Narset, Enlightened Exile",
+    "slug": "mat-narset-enlightened-exile-138-mythic",
+    "nameSlug": "narset-enlightened-exile",
+    "expansion": "March of the Machine: The Aftermath",
+    "expansionSlug": "march-of-the-machine-the-aftermath",
+    "finishes": [
+      "Etched"
+    ]
+  },
+  "685032e559fa724009569fb1": {
+    "name": "Wilhelt, the Rotcleaver",
+    "slug": "mic-wilhelt-the-rotcleaver-2-mythic",
+    "nameSlug": "wilhelt-the-rotcleaver",
+    "expansion": "Midnight Hunt Commander",
+    "expansionSlug": "midnight-hunt-commander",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850317359fa724009564660": {
+    "name": "Starscream, Power Hungry // Starscream, Seeker Leader",
+    "slug": "bot-starscream-power-hungry-starscream-seeker-leader-20-mythic",
+    "nameSlug": "starscream-power-hungry-starscream-seeker-leader",
+    "expansion": "Transformers",
+    "expansionSlug": "transformers",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850317359fa724009564ac5": {
+    "name": "Tamiyo's Journal",
+    "slug": "soi-tamiyos-journal-265crossd-rare",
+    "nameSlug": "tamiyos-journal",
+    "expansion": "Shadows over Innistrad",
+    "expansionSlug": "shadows-over-innistrad",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "6850301659fa7240095602ee": {
+    "name": "Profane Memento",
+    "slug": "m15-profane-memento-226-uncommon",
+    "nameSlug": "profane-memento",
+    "expansion": "Magic 2015",
+    "expansionSlug": "magic-2015",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502e6d59fa7240095590c1": {
+    "name": "Legion Loyalist",
+    "slug": "gtc-legion-loyalist-97-rare",
+    "nameSlug": "legion-loyalist",
+    "expansion": "Gatecrash",
+    "expansionSlug": "gatecrash",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502df159fa724009555fe8": {
+    "name": "Hellkite Tyrant",
+    "slug": "gtc-hellkite-tyrant-94-mythic",
+    "nameSlug": "hellkite-tyrant",
+    "expansion": "Gatecrash",
+    "expansionSlug": "gatecrash",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d7b59fa7240095547a4": {
+    "name": "Godless Shrine",
+    "slug": "gtc-godless-shrine-242-rare",
+    "nameSlug": "godless-shrine",
+    "expansion": "Gatecrash",
+    "expansionSlug": "gatecrash",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c2e59fa72400954c9f1": {
+    "name": "Blackcleave Cliffs",
+    "slug": "zne-blackcleave-cliffs-13-mythic",
+    "nameSlug": "blackcleave-cliffs",
+    "expansion": "Zendikar Rising Expeditions",
+    "expansionSlug": "zendikar-rising-expeditions",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502f7c59fa72400955d264": {
+    "name": "Overgrown Tomb",
+    "slug": "rtr-overgrown-tomb-243-rare",
+    "nameSlug": "overgrown-tomb",
+    "expansion": "Return to Ravnica",
+    "expansionSlug": "return-to-ravnica",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502c2f59fa72400954d9a3": {
+    "name": "Blazemire Verge",
+    "slug": "dsk-blazemire-verge-329-rare",
+    "nameSlug": "blazemire-verge",
+    "expansion": "Duskmourn: House of Horror",
+    "expansionSlug": "duskmourn-house-of-horror",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850301459fa72400955f320": {
+    "name": "Primal Surge",
+    "slug": "avr-primal-surge-189-mythic",
+    "nameSlug": "primal-surge",
+    "expansion": "Avacyn Restored",
+    "expansionSlug": "avacyn-restored",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685030be59fa7240095621e4": {
+    "name": "Secluded Courtyard",
+    "slug": "spg-secluded-courtyard-63-mythic",
+    "nameSlug": "secluded-courtyard",
+    "expansion": "Special Guests",
+    "expansionSlug": "special-guests",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c2f59fa72400954d941": {
+    "name": "Bloodline Keeper // Lord of Lineage",
+    "slug": "isd-bloodline-keeper-lord-of-lineage-90-rare",
+    "nameSlug": "bloodline-keeper-lord-of-lineage",
+    "expansion": "Innistrad",
+    "expansionSlug": "innistrad",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "69e1040993c168406dc0b7a3": {
+    "name": "Silverquill, the Disputant",
+    "slug": "sos-silverquill-the-disputant-226-mythic",
+    "nameSlug": "silverquill-the-disputant",
+    "expansion": "Secrets of Strixhaven",
+    "expansionSlug": "secrets-of-strixhaven",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "685032e559fa72400956a03a": {
+    "name": "Will of the Mardu",
+    "slug": "tdc-will-of-the-mardu-57-rare",
+    "nameSlug": "will-of-the-mardu",
+    "expansion": "Tarkir: Dragonstorm Commander",
+    "expansionSlug": "tarkir-dragonstorm-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "685030bf59fa724009563071": {
+    "name": "Soul Shatter",
+    "slug": "scd-soul-shatter-108-rare",
+    "nameSlug": "soul-shatter",
+    "expansion": "Starter Commander Decks",
+    "expansionSlug": "starter-commander-decks",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502c9859fa72400955031a": {
+    "name": "Dauthi Voidwalker",
+    "slug": "mh2-dauthi-voidwalker-397-rare",
+    "nameSlug": "dauthi-voidwalker",
+    "expansion": "Modern Horizons 2",
+    "expansionSlug": "modern-horizons-2",
+    "finishes": [
+      "Etched",
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502e6c59fa7240095587fc": {
+    "name": "Kroxa, Titan of Death's Hunger",
+    "slug": "sld-kroxa-titan-of-deaths-hunger-225-mythic",
+    "nameSlug": "kroxa-titan-of-deaths-hunger",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
     "finishes": [
       "Standard",
       "Foil"
