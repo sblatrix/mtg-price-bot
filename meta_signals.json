@@ -1,5 +1,31 @@
 [
   {
+    "name": "Thief of Existence",
+    "format": "modern",
+    "rarity": "rare",
+    "pct_of_decks": 11,
+    "pct_change": 11,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-10-22T10:43:42.916203+00:00",
+    "url": "https://www.mtggoldfish.com/price/modern-horizons-3/174/thief-of-existence#paper",
+    "summary": "Nouvelle entrée en modern : 11% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Moonshadow",
+    "format": "legacy",
+    "rarity": "mythic",
+    "pct_of_decks": 11,
+    "pct_change": 11,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-10-22T10:43:42.916203+00:00",
+    "url": "https://www.mtggoldfish.com/price/lorwyn-eclipsed/110/moonshadow#paper",
+    "summary": "Nouvelle entrée en legacy : 11% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Clarion Conqueror",
     "format": "standard",
     "rarity": "rare",
