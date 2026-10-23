@@ -16731,7 +16731,6 @@
     "expansion": "Foundations Commander",
     "expansionSlug": "foundations-commander",
     "finishes": [
-      "Foil",
       "Standard"
     ]
   },
@@ -16753,7 +16752,6 @@
     "expansion": "Foundations Commander",
     "expansionSlug": "foundations-commander",
     "finishes": [
-      "Foil",
       "Standard"
     ]
   },
@@ -16775,7 +16773,6 @@
     "expansion": "Foundations Commander",
     "expansionSlug": "foundations-commander",
     "finishes": [
-      "Foil",
       "Standard"
     ]
   },
@@ -16819,7 +16816,6 @@
     "expansion": "Foundations Commander",
     "expansionSlug": "foundations-commander",
     "finishes": [
-      "Foil",
       "Standard"
     ]
   },
@@ -16841,7 +16837,6 @@
     "expansion": "Foundations Commander",
     "expansionSlug": "foundations-commander",
     "finishes": [
-      "Foil",
       "Standard"
     ]
   },
@@ -17870,7 +17865,6 @@
     "expansion": "Foundations Commander",
     "expansionSlug": "foundations-commander",
     "finishes": [
-      "Foil",
       "Standard"
     ]
   },
@@ -22989,6 +22983,141 @@
     "expansionSlug": "lorwyn-eclipsed",
     "finishes": [
       "Standard"
+    ]
+  },
+  "69ae3411b8aecc4cebe7eb5a": {
+    "name": "Lucy MacLean, Positively Armed",
+    "slug": "sld-lucy-maclean-positively-armed-2447-mythic",
+    "nameSlug": "lucy-maclean-positively-armed",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6a622182b1528a5d9109d165": {
+    "name": "Garruk, Veiled Butcher",
+    "slug": "fra-garruk-veiled-butcher-303-mythic",
+    "nameSlug": "garruk-veiled-butcher",
+    "expansion": "Reality Fracture",
+    "expansionSlug": "reality-fracture",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6ab7b009a139afe03fddc071": {
+    "name": "Archangel of Tithes",
+    "slug": "fdc-archangel-of-tithes-17-mythic",
+    "nameSlug": "archangel-of-tithes",
+    "expansion": "Foundations Commander",
+    "expansionSlug": "foundations-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6ab7b0052e2f069a51ec5b6a": {
+    "name": "Utvara Hellkite",
+    "slug": "fdc-utvara-hellkite-185-mythic",
+    "nameSlug": "utvara-hellkite",
+    "expansion": "Foundations Commander",
+    "expansionSlug": "foundations-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6ab7b0045d2f95f7c03c8d79": {
+    "name": "Ghalta, Primal Hunger",
+    "slug": "fdc-ghalta-primal-hunger-8-mythic",
+    "nameSlug": "ghalta-primal-hunger",
+    "expansion": "Foundations Commander",
+    "expansionSlug": "foundations-commander",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "685032e459fa7240095698c0": {
+    "name": "Voldaren Epicure",
+    "slug": "inr-voldaren-epicure-405-common",
+    "nameSlug": "voldaren-epicure",
+    "expansion": "Innistrad Remastered",
+    "expansionSlug": "innistrad-remastered",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685032e559fa72400956a1e3": {
+    "name": "Veyran, Voice of Duality",
+    "slug": "tdc-veyran-voice-of-duality-310-mythic",
+    "nameSlug": "veyran-voice-of-duality",
+    "expansion": "Tarkir: Dragonstorm Commander",
+    "expansionSlug": "tarkir-dragonstorm-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850322e59fa7240095677c5": {
+    "name": "Throat Slitter",
+    "slug": "plst-throat-slitter-bok-88-uncommon",
+    "nameSlug": "throat-slitter",
+    "expansion": "The List",
+    "expansionSlug": "the-list",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502ef059fa72400955c2b6": {
+    "name": "Mishra's Factory",
+    "slug": "atq-mishras-factory-80a-uncommon",
+    "nameSlug": "mishras-factory",
+    "expansion": "Antiquities",
+    "expansionSlug": "antiquities",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502d7a59fa724009554089": {
+    "name": "Granite Gargoyle",
+    "slug": "3ed-granite-gargoyle-156-rare",
+    "nameSlug": "granite-gargoyle",
+    "expansion": "Revised Edition",
+    "expansionSlug": "revised-edition",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850301659fa7240095606e8": {
+    "name": "Pyrokinesis",
+    "slug": "all-pyrokinesis-78-uncommon",
+    "nameSlug": "pyrokinesis",
+    "expansion": "Alliances",
+    "expansionSlug": "alliances",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502c3059fa72400954ddaf": {
+    "name": "Bonny Pall, Clearcutter",
+    "slug": "otj-bonny-pall-clearcutter-349-rare",
+    "nameSlug": "bonny-pall-clearcutter",
+    "expansion": "Outlaws of Thunder Junction",
+    "expansionSlug": "outlaws-of-thunder-junction",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d7959fa724009553325": {
+    "name": "Gatecreeper Vine",
+    "slug": "rtr-gatecreeper-vine-124-common",
+    "nameSlug": "gatecreeper-vine",
+    "expansion": "Return to Ravnica",
+    "expansionSlug": "return-to-ravnica",
+    "finishes": [
+      "Standard",
+      "Foil"
     ]
   }
 }
