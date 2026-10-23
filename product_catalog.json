@@ -22392,5 +22392,49 @@
       "Foil",
       "Standard"
     ]
+  },
+  "6850301559fa72400955faa0": {
+    "name": "Prismatic Ending",
+    "slug": "spg-prismatic-ending-40-mythic",
+    "nameSlug": "prismatic-ending",
+    "expansion": "Special Guests",
+    "expansionSlug": "special-guests",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6a7b05ac85aa5fa1bf904c85": {
+    "name": "Wizard's Staff",
+    "slug": "hob-wizards-staff-59-rare",
+    "nameSlug": "wizards-staff",
+    "expansion": "The Hobbit",
+    "expansionSlug": "the-hobbit",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502d0559fa7240095520f6": {
+    "name": "Ertai, the Corrupted",
+    "slug": "pls-ertai-the-corrupted-107-rare",
+    "nameSlug": "ertai-the-corrupted",
+    "expansion": "Planeshift",
+    "expansionSlug": "planeshift",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502bc759fa724009549a8e": {
+    "name": "Batwing Brume",
+    "slug": "eve-batwing-brume-81-uncommon",
+    "nameSlug": "batwing-brume",
+    "expansion": "Eventide",
+    "expansionSlug": "eventide",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
