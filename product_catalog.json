@@ -23119,5 +23119,37 @@
       "Standard",
       "Foil"
     ]
+  },
+  "68502c9659fa72400954f187": {
+    "name": "Dark Ritual",
+    "slug": "plst-dark-ritual-dde-18-common",
+    "nameSlug": "dark-ritual",
+    "expansion": "The List",
+    "expansionSlug": "the-list",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502d0659fa724009552c39": {
+    "name": "Etali, Primal Storm",
+    "slug": "fdn-etali-primal-storm-329-rare",
+    "nameSlug": "etali-primal-storm",
+    "expansion": "Foundations",
+    "expansionSlug": "foundations",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502ef059fa72400955b903": {
+    "name": "Mystic Snake",
+    "slug": "spg-mystic-snake-35-mythic",
+    "nameSlug": "mystic-snake",
+    "expansion": "Special Guests",
+    "expansionSlug": "special-guests",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
