@@ -18167,7 +18167,6 @@
     "expansion": "Foundations Commander",
     "expansionSlug": "foundations-commander",
     "finishes": [
-      "Foil",
       "Standard"
     ]
   },
@@ -23486,6 +23485,48 @@
     "finishes": [
       "Standard",
       "Foil"
+    ]
+  },
+  "685032e459fa7240095698d8": {
+    "name": "Wurmcoil Engine",
+    "slug": "brr-wurmcoil-engine-126-mythic",
+    "nameSlug": "wurmcoil-engine",
+    "expansion": "The Brothers' War Retro Artifacts",
+    "expansionSlug": "the-brothers-war-retro-artifacts",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502f7e59fa72400955e488": {
+    "name": "Nihil Spellbomb",
+    "slug": "c17-nihil-spellbomb-218-common",
+    "nameSlug": "nihil-spellbomb",
+    "expansion": "Commander 2017",
+    "expansionSlug": "commander-2017",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502c2d59fa72400954b9bf": {
+    "name": "Caves of Koilos",
+    "slug": "apc-caves-of-koilos-140-rare",
+    "nameSlug": "caves-of-koilos",
+    "expansion": "Apocalypse",
+    "expansionSlug": "apocalypse",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850322e59fa724009567117": {
+    "name": "Thermokarst",
+    "slug": "ice-thermokarst-268-uncommon",
+    "nameSlug": "thermokarst",
+    "expansion": "Ice Age",
+    "expansionSlug": "ice-age",
+    "finishes": [
+      "Standard"
     ]
   }
 }

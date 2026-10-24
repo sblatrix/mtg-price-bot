@@ -1,5 +1,31 @@
 [
   {
+    "name": "Nihil Spellbomb",
+    "expansion": "Commander 2017",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 2.95,
+    "ref_price": 4.2,
+    "discount_pct": 29.8,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-10-24T17:37:02.032Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/commander-2017/card/c17-nihil-spellbomb-218-common"
+  },
+  {
+    "name": "Consult the Star Charts",
+    "expansion": "Edge of Eternities",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 3.29,
+    "ref_price": 4.2,
+    "discount_pct": 21.7,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-10-24T17:38:10.393Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/edge-of-eternities/card/eoe-consult-the-star-charts-51-rare"
+  },
+  {
     "name": "Piety Charm",
     "expansion": "Onslaught",
     "finish": "Foil",
@@ -1272,31 +1298,5 @@
     "seller_country": "US",
     "created_at": "2026-10-22T23:42:50.454Z",
     "url": "https://cardnexus.com/fr/explore/mtg/eighth-edition/card/8ed-death-pit-offering-124star-rare"
-  },
-  {
-    "name": "Ondu Spiritdancer",
-    "expansion": "Commander Masters",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 9.26,
-    "ref_price": 12.6,
-    "discount_pct": 26.5,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-10-22T23:42:52.525Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/commander-masters/card/cmm-ondu-spiritdancer-723-rare"
-  },
-  {
-    "name": "Lathril, Blade of the Elves",
-    "expansion": "Kaldheim Promos",
-    "finish": "Etched",
-    "language": "en",
-    "price_paid": 1.95,
-    "ref_price": 3.9,
-    "discount_pct": 50.0,
-    "confident": false,
-    "seller_country": "US",
-    "created_at": "2026-10-22T23:42:56.112Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/kaldheim-promos/card/pkhm-lathril-blade-of-the-elves-2star-mythic"
   }
 ]
