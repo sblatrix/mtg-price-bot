@@ -16794,7 +16794,6 @@
     "expansion": "Foundations Commander",
     "expansionSlug": "foundations-commander",
     "finishes": [
-      "Foil",
       "Standard"
     ]
   },
@@ -23794,6 +23793,173 @@
     "expansionSlug": "reality-fracture",
     "finishes": [
       "Foil",
+      "Standard"
+    ]
+  },
+  "6ab7b00c55466c260c5595da": {
+    "name": "Darklight Phoenix",
+    "slug": "fra-darklight-phoenix-325-mythic",
+    "nameSlug": "darklight-phoenix",
+    "expansion": "Reality Fracture",
+    "expansionSlug": "reality-fracture",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6a4514a78e20d4b5cfc1539a": {
+    "name": "Wood Elves",
+    "slug": "pw26-wood-elves-16-rare",
+    "nameSlug": "wood-elves",
+    "expansion": "Wizards Play Network 2026",
+    "expansionSlug": "wizards-play-network-2026",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502bc859fa72400954a3e0": {
+    "name": "Atomize",
+    "slug": "pip-atomize-94-rare",
+    "nameSlug": "atomize",
+    "expansion": "Fallout",
+    "expansionSlug": "fallout",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502bc659fa7240095490bb": {
+    "name": "Aboleth Spawn",
+    "slug": "clb-aboleth-spawn-662-rare",
+    "nameSlug": "aboleth-spawn",
+    "expansion": "Commander Legends: Battle for Baldur's Gate",
+    "expansionSlug": "commander-legends-battle-for-baldurs-gate",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "685030bd59fa724009561e5e": {
+    "name": "Sapling of Colfenor",
+    "slug": "c21-sapling-of-colfenor-228-rare",
+    "nameSlug": "sapling-of-colfenor",
+    "expansion": "Commander 2021",
+    "expansionSlug": "commander-2021",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "685032e559fa72400956a0c8": {
+    "name": "Veyran, Voice of Duality",
+    "slug": "c21-veyran-voice-of-duality-3-mythic",
+    "nameSlug": "veyran-voice-of-duality",
+    "expansion": "Commander 2021",
+    "expansionSlug": "commander-2021",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "68502c9659fa72400954f391": {
+    "name": "Council's Judgment",
+    "slug": "2xm-councils-judgment-336-rare",
+    "nameSlug": "councils-judgment",
+    "expansion": "Double Masters",
+    "expansionSlug": "double-masters",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685030bf59fa72400956305d": {
+    "name": "Sneak Attack",
+    "slug": "2xm-sneak-attack-145-mythic",
+    "nameSlug": "sneak-attack",
+    "expansion": "Double Masters",
+    "expansionSlug": "double-masters",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502d0559fa724009551aee": {
+    "name": "Elemental Bond",
+    "slug": "ori-elemental-bond-174-uncommon",
+    "nameSlug": "elemental-bond",
+    "expansion": "Magic Origins",
+    "expansionSlug": "magic-origins",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68ee1d27b37fd6bebc325ff2": {
+    "name": "The Destined Warrior",
+    "slug": "fic-the-destined-warrior-443-rare",
+    "nameSlug": "the-destined-warrior",
+    "expansion": "Final Fantasy Commander",
+    "expansionSlug": "final-fantasy-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6ad9e699d9373e12cbd8d007": {
+    "name": "Swords to Plowshares",
+    "slug": "sld-swords-to-plowshares-2125-rare",
+    "nameSlug": "swords-to-plowshares",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "6ad9e699adc3850ace1b8567": {
+    "name": "Misleading Signpost",
+    "slug": "sld-misleading-signpost-2127-rare",
+    "nameSlug": "misleading-signpost",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "68502c2e59fa72400954ca1b": {
+    "name": "Bountiful Promenade",
+    "slug": "plst-bountiful-promenade-bbd-81-rare",
+    "nameSlug": "bountiful-promenade",
+    "expansion": "The List",
+    "expansionSlug": "the-list",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502eee59fa72400955a390": {
+    "name": "Mutational Advantage",
+    "slug": "pip-mutational-advantage-111-rare",
+    "nameSlug": "mutational-advantage",
+    "expansion": "Fallout",
+    "expansionSlug": "fallout",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c2e59fa72400954cb81": {
+    "name": "Caesar, Legion's Emperor",
+    "slug": "pip-caesar-legions-emperor-1-mythic",
+    "nameSlug": "caesar-legions-emperor",
+    "expansion": "Fallout",
+    "expansionSlug": "fallout",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "68502bc959fa72400954b0ee": {
+    "name": "Aminatou, the Fateshifter",
+    "slug": "plst-aminatou-the-fateshifter-2x2-169-mythic",
+    "nameSlug": "aminatou-the-fateshifter",
+    "expansion": "The List",
+    "expansionSlug": "the-list",
+    "finishes": [
       "Standard"
     ]
   }
