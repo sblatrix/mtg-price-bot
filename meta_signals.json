@@ -1,5 +1,31 @@
 [
   {
+    "name": "Consult the Star Charts",
+    "format": "standard",
+    "rarity": "rare",
+    "pct_of_decks": 13,
+    "pct_change": 13,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-10-24T09:53:19.958386+00:00",
+    "url": "https://www.mtggoldfish.com/price/edge-of-eternities/51/consult-the-star-charts#paper",
+    "summary": "Nouvelle entrée en standard : 13% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Earthbender Ascension",
+    "format": "standard",
+    "rarity": "rare",
+    "pct_of_decks": 10,
+    "pct_change": 10,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-10-24T09:53:19.958386+00:00",
+    "url": "https://www.mtggoldfish.com/price/avatar-the-last-airbender/175/earthbender-ascension#paper",
+    "summary": "Nouvelle entrée en standard : 10% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Thief of Existence",
     "format": "modern",
     "rarity": "rare",
