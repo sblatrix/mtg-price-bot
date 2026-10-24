@@ -17886,7 +17886,6 @@
     "expansion": "Foundations Commander",
     "expansionSlug": "foundations-commander",
     "finishes": [
-      "Foil",
       "Standard"
     ]
   },
@@ -23216,6 +23215,152 @@
     "finishes": [
       "Standard",
       "Foil"
+    ]
+  },
+  "6a34492f70c6e9d039a755d1": {
+    "name": "Nature's Lore",
+    "slug": "msc-natures-lore-177-common",
+    "nameSlug": "natures-lore",
+    "expansion": "Marvel Super Heroes Commander",
+    "expansionSlug": "marvel-super-heroes-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6aa7c2388eea5321d59fb9b5": {
+    "name": "Grand Crescendo",
+    "slug": "sld-grand-crescendo-2432-rare",
+    "nameSlug": "grand-crescendo",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "6a62217d40a67bdde87784e1": {
+    "name": "Stardew Valley",
+    "slug": "sld-stardew-valley-2801-mythic",
+    "nameSlug": "stardew-valley",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6850322d59fa724009566a0a": {
+    "name": "Twinflame Tyrant",
+    "slug": "fdn-twinflame-tyrant-469-mythic",
+    "nameSlug": "twinflame-tyrant",
+    "expansion": "Foundations",
+    "expansionSlug": "foundations",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850322d59fa724009566f5e": {
+    "name": "Tribal Flames",
+    "slug": "inv-tribal-flames-176-common",
+    "nameSlug": "tribal-flames",
+    "expansion": "Invasion",
+    "expansionSlug": "invasion",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502c2c59fa72400954b7db": {
+    "name": "Breeding Pool",
+    "slug": "gtc-breeding-pool-240-rare",
+    "nameSlug": "breeding-pool",
+    "expansion": "Gatecrash",
+    "expansionSlug": "gatecrash",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d0459fa72400955119e": {
+    "name": "Fastbond",
+    "slug": "3ed-fastbond-194-rare",
+    "nameSlug": "fastbond",
+    "expansion": "Revised Edition",
+    "expansionSlug": "revised-edition",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502df259fa724009556f3f": {
+    "name": "Hurr Jackal",
+    "slug": "arn-hurr-jackal-39-common",
+    "nameSlug": "hurr-jackal",
+    "expansion": "Arabian Nights",
+    "expansionSlug": "arabian-nights",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502d7959fa724009552e99": {
+    "name": "Garruk, Apex Predator",
+    "slug": "med-garruk-apex-predator-ws5-mythic",
+    "nameSlug": "garruk-apex-predator",
+    "expansion": "Mythic Edition",
+    "expansionSlug": "mythic-edition",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "685030be59fa72400956276e": {
+    "name": "Sorin Markov",
+    "slug": "med-sorin-markov-ra3-mythic",
+    "nameSlug": "sorin-markov",
+    "expansion": "Mythic Edition",
+    "expansionSlug": "mythic-edition",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "68502df259fa724009557063": {
+    "name": "Havenwood Battleground",
+    "slug": "fem-havenwood-battleground-96-uncommon",
+    "nameSlug": "havenwood-battleground",
+    "expansion": "Fallen Empires",
+    "expansionSlug": "fallen-empires",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850317559fa7240095658d5": {
+    "name": "Teferi, Hero of Dominaria",
+    "slug": "dom-teferi-hero-of-dominaria-207-mythic",
+    "nameSlug": "teferi-hero-of-dominaria",
+    "expansion": "Dominaria",
+    "expansionSlug": "dominaria",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685032e459fa724009569868": {
+    "name": "Worms of the Earth",
+    "slug": "drk-worms-of-the-earth-56-rare",
+    "nameSlug": "worms-of-the-earth",
+    "expansion": "The Dark",
+    "expansionSlug": "the-dark",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502c9559fa72400954e129": {
+    "name": "Copy Artifact",
+    "slug": "3ed-copy-artifact-53-rare",
+    "nameSlug": "copy-artifact",
+    "expansion": "Revised Edition",
+    "expansionSlug": "revised-edition",
+    "finishes": [
+      "Standard"
     ]
   }
 }
