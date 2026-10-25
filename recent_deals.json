@@ -1,5 +1,44 @@
 [
   {
+    "name": "Misleading Signpost",
+    "expansion": "Foundations Commander",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 2.93,
+    "ref_price": 4.05,
+    "discount_pct": 27.7,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-10-25T21:04:13.131Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/foundations-commander/card/fdc-misleading-signpost-69-rare"
+  },
+  {
+    "name": "Birgi, God of Storytelling // Harnfel, Horn of Bounty",
+    "expansion": "Kaldheim",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 16.46,
+    "ref_price": 21.5,
+    "discount_pct": 23.4,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-10-25T21:18:57.319Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/kaldheim/card/khm-birgi-god-of-storytelling-harnfel-horn-of-bounty-311-rare"
+  },
+  {
+    "name": "Halvar, God of Battle // Sword of the Realms",
+    "expansion": "Kaldheim",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 15.61,
+    "ref_price": 20.2,
+    "discount_pct": 22.7,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-10-25T21:19:00.374Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/kaldheim/card/khm-halvar-god-of-battle-sword-of-the-realms-15-mythic"
+  },
+  {
     "name": "Diabolic Revelation",
     "expansion": "Magic 2013",
     "finish": "Standard",
@@ -1259,44 +1298,5 @@
     "seller_country": "US",
     "created_at": "2026-10-23T23:18:21.651Z",
     "url": "https://cardnexus.com/fr/explore/mtg/special-guests/card/spg-mystic-snake-35-mythic"
-  },
-  {
-    "name": "Dark Ritual",
-    "expansion": "The List",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 4.46,
-    "ref_price": 7.2,
-    "discount_pct": 38.1,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-10-23T23:26:54.673Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/the-list/card/plst-dark-ritual-dde-18-common"
-  },
-  {
-    "name": "Blood for the Blood God!",
-    "expansion": "Warhammer 40,000 Commander",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 5.26,
-    "ref_price": 6.8,
-    "discount_pct": 22.6,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-10-23T23:26:54.673Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/warhammer-40000-commander/card/40k-blood-for-the-blood-godexclamation-108-rare"
-  },
-  {
-    "name": "Collector's Cage",
-    "expansion": "The Big Score",
-    "finish": "Foil",
-    "language": "en",
-    "price_paid": 7.64,
-    "ref_price": 10.15,
-    "discount_pct": 24.7,
-    "confident": false,
-    "seller_country": "US",
-    "created_at": "2026-10-23T21:17:05.434Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/the-big-score/card/big-collectors-cage-31-mythic"
   }
 ]
