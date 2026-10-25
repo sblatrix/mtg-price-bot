@@ -24481,5 +24481,49 @@
       "Standard",
       "Foil"
     ]
+  },
+  "6a344938ee358971ad3e04f4": {
+    "name": "Immortus, Master of Eternity",
+    "slug": "msc-immortus-master-of-eternity-623-mythic",
+    "nameSlug": "immortus-master-of-eternity",
+    "expansion": "Marvel Super Heroes Commander",
+    "expansionSlug": "marvel-super-heroes-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6a22a72b3c32f48d1fdeaf65": {
+    "name": "The Mind Stone",
+    "slug": "msh-the-mind-stone-21-mythic",
+    "nameSlug": "the-mind-stone",
+    "expansion": "Marvel Super Heroes",
+    "expansionSlug": "marvel-super-heroes",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6850317559fa7240095656e6": {
+    "name": "Sphere Grid",
+    "slug": "fic-sphere-grid-70-rare",
+    "nameSlug": "sphere-grid",
+    "expansion": "Final Fantasy Commander",
+    "expansionSlug": "final-fantasy-commander",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850322e59fa724009567023": {
+    "name": "Urza, Chief Artificer",
+    "slug": "brc-urza-chief-artificer-49-mythic",
+    "nameSlug": "urza-chief-artificer",
+    "expansion": "The Brothers' War Commander",
+    "expansionSlug": "the-brothers-war-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
   }
 }
