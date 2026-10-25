@@ -24011,5 +24011,58 @@
     "finishes": [
       "Standard"
     ]
+  },
+  "68502eef59fa72400955b799": {
+    "name": "Mirri's Guile",
+    "slug": "mb2-mirris-guile-209-rare",
+    "nameSlug": "mirris-guile",
+    "expansion": "Mystery Booster 2",
+    "expansionSlug": "mystery-booster-2",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502e6c59fa724009558700": {
+    "name": "Klauth, Unrivaled Ancient",
+    "slug": "plst-klauth-unrivaled-ancient-afc-50-mythic",
+    "nameSlug": "klauth-unrivaled-ancient",
+    "expansion": "The List",
+    "expansionSlug": "the-list",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850301659fa7240095603bc": {
+    "name": "Pyroblast",
+    "slug": "ice-pyroblast-213-common",
+    "nameSlug": "pyroblast",
+    "expansion": "Ice Age",
+    "expansionSlug": "ice-age",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502f7f59fa72400955e85a": {
+    "name": "Phyrexian Rager",
+    "slug": "apc-phyrexian-rager-49-common",
+    "nameSlug": "phyrexian-rager",
+    "expansion": "Apocalypse",
+    "expansionSlug": "apocalypse",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850317659fa72400956610a": {
+    "name": "Strongarm Thug",
+    "slug": "mmq-strongarm-thug-165-uncommon",
+    "nameSlug": "strongarm-thug",
+    "expansion": "Mercadian Masques",
+    "expansionSlug": "mercadian-masques",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
