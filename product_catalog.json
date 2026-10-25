@@ -16741,7 +16741,6 @@
     "expansion": "Foundations Commander",
     "expansionSlug": "foundations-commander",
     "finishes": [
-      "Foil",
       "Standard"
     ]
   },
@@ -16783,7 +16782,6 @@
     "expansion": "Foundations Commander",
     "expansionSlug": "foundations-commander",
     "finishes": [
-      "Foil",
       "Standard"
     ]
   },
@@ -16825,7 +16823,6 @@
     "expansion": "Foundations Commander",
     "expansionSlug": "foundations-commander",
     "finishes": [
-      "Foil",
       "Standard"
     ]
   },
@@ -23982,6 +23979,37 @@
     "finishes": [
       "Standard",
       "Foil"
+    ]
+  },
+  "6ab7b0060d33a8a633f82112": {
+    "name": "Ayara, First of Locthwain",
+    "slug": "fdc-ayara-first-of-locthwain-86-rare",
+    "nameSlug": "ayara-first-of-locthwain",
+    "expansion": "Foundations Commander",
+    "expansionSlug": "foundations-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502c2e59fa72400954c63a": {
+    "name": "Carpet of Flowers",
+    "slug": "fca-carpet-of-flowers-44-rare",
+    "nameSlug": "carpet-of-flowers",
+    "expansion": "Final Fantasy: Through the Ages",
+    "expansionSlug": "final-fantasy-through-the-ages",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502f7e59fa72400955e484": {
+    "name": "Nihil Spellbomb",
+    "slug": "brc-nihil-spellbomb-152-common",
+    "nameSlug": "nihil-spellbomb",
+    "expansion": "The Brothers' War Commander",
+    "expansionSlug": "the-brothers-war-commander",
+    "finishes": [
+      "Standard"
     ]
   }
 }

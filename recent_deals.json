@@ -1,5 +1,44 @@
 [
   {
+    "name": "Nihil Spellbomb",
+    "expansion": "The Brothers' War Commander",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 6.36,
+    "ref_price": 9.4,
+    "discount_pct": 32.3,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-10-25T05:21:18.549Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/the-brothers-war-commander/card/brc-nihil-spellbomb-152-common"
+  },
+  {
+    "name": "Carpet of Flowers",
+    "expansion": "Final Fantasy: Through the Ages",
+    "finish": "Standard",
+    "language": "ja",
+    "price_paid": 2.33,
+    "ref_price": 4.15,
+    "discount_pct": 43.9,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-10-25T05:21:51.524Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/final-fantasy-through-the-ages/card/fca-carpet-of-flowers-44-rare"
+  },
+  {
+    "name": "Utvara Hellkite",
+    "expansion": "Foundations Commander",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 3.76,
+    "ref_price": 4.95,
+    "discount_pct": 24.0,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-10-25T05:22:26.228Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/foundations-commander/card/fdc-utvara-hellkite-185-mythic"
+  },
+  {
     "name": "Prismatic Strands",
     "expansion": "Commander 2019",
     "finish": "Standard",
@@ -1259,44 +1298,5 @@
     "seller_country": "US",
     "created_at": "2026-10-23T17:37:24.998Z",
     "url": "https://cardnexus.com/fr/explore/mtg/ravnica-remastered/card/rvr-farseek-347-uncommon"
-  },
-  {
-    "name": "Foundry Inspector",
-    "expansion": "Secret Lair Drop",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 10.22,
-    "ref_price": 14,
-    "discount_pct": 27.0,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-10-23T17:37:57.406Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/secret-lair-drop/card/sld-foundry-inspector-2106-rare"
-  },
-  {
-    "name": "Cavalier of Gales",
-    "expansion": "Foundations Jumpstart",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 1.25,
-    "ref_price": 2.2,
-    "discount_pct": 43.2,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-10-23T17:55:14.424Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/foundations-jumpstart/card/j25-cavalier-of-gales-296-mythic"
-  },
-  {
-    "name": "Gishath, Sun's Avatar",
-    "expansion": "The Lost Caverns of Ixalan Promos",
-    "finish": "Foil",
-    "language": "en",
-    "price_paid": 8.74,
-    "ref_price": 14.65,
-    "discount_pct": 40.3,
-    "confident": false,
-    "seller_country": "US",
-    "created_at": "2026-10-23T18:05:43.043Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/the-lost-caverns-of-ixalan-promos/card/plci-gishath-suns-avatar-229s-mythic"
   }
 ]
