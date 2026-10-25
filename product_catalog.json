@@ -23962,5 +23962,26 @@
     "finishes": [
       "Standard"
     ]
+  },
+  "68502c2e59fa72400954cf60": {
+    "name": "Brain Freeze",
+    "slug": "plst-brain-freeze-scg-29-uncommon",
+    "nameSlug": "brain-freeze",
+    "expansion": "The List",
+    "expansionSlug": "the-list",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502eef59fa72400955b162": {
+    "name": "Nazgûl",
+    "slug": "ltr-nazgul-337-uncommon",
+    "nameSlug": "nazgul",
+    "expansion": "The Lord of the Rings: Tales of Middle-earth",
+    "expansionSlug": "the-lord-of-the-rings-tales-of-middle-earth",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }

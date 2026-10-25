@@ -1,5 +1,18 @@
 [
   {
+    "name": "Prismatic Strands",
+    "expansion": "Commander 2019",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 6.8,
+    "ref_price": 10.45,
+    "discount_pct": 34.9,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-10-25T00:36:54.547Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/commander-2019/card/c19-prismatic-strands-69-common"
+  },
+  {
     "name": "Caesar, Legion's Emperor",
     "expansion": "Fallout",
     "finish": "Foil",
@@ -1285,18 +1298,5 @@
     "seller_country": "US",
     "created_at": "2026-10-23T18:05:43.043Z",
     "url": "https://cardnexus.com/fr/explore/mtg/the-lost-caverns-of-ixalan-promos/card/plci-gishath-suns-avatar-229s-mythic"
-  },
-  {
-    "name": "Baleful Strix",
-    "expansion": "Commander 2013",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 5.45,
-    "ref_price": 6.9,
-    "discount_pct": 21.0,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-10-23T18:29:12.271Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/commander-2013/card/c13-baleful-strix-177-uncommon"
   }
 ]
