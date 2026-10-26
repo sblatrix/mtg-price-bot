@@ -24577,5 +24577,114 @@
     "finishes": [
       "Standard"
     ]
+  },
+  "68502d0559fa724009551723": {
+    "name": "Enduring Tenacity",
+    "slug": "dsk-enduring-tenacity-374-rare",
+    "nameSlug": "enduring-tenacity",
+    "expansion": "Duskmourn: House of Horror",
+    "expansionSlug": "duskmourn-house-of-horror",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502eef59fa72400955b12d": {
+    "name": "Narci, Fable Singer",
+    "slug": "cmm-narci-fable-singer-775-mythic",
+    "nameSlug": "narci-fable-singer",
+    "expansion": "Commander Masters",
+    "expansionSlug": "commander-masters",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850317459fa724009565445": {
+    "name": "Tarmogoyf",
+    "slug": "pip-tarmogoyf-349-mythic",
+    "nameSlug": "tarmogoyf",
+    "expansion": "Fallout",
+    "expansionSlug": "fallout",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6850317659fa724009566219": {
+    "name": "Tainted Pact",
+    "slug": "sta-tainted-pact-96-mythic",
+    "nameSlug": "tainted-pact",
+    "expansion": "Strixhaven Mystical Archive",
+    "expansionSlug": "strixhaven-mystical-archive",
+    "finishes": [
+      "Standard",
+      "Foil",
+      "Etched"
+    ]
+  },
+  "68502e6b59fa7240095583b1": {
+    "name": "Krosan Tusker",
+    "slug": "ons-krosan-tusker-272-common",
+    "nameSlug": "krosan-tusker",
+    "expansion": "Onslaught",
+    "expansionSlug": "onslaught",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6850317659fa72400956614f": {
+    "name": "Tainted Isle",
+    "slug": "pip-tainted-isle-827-uncommon",
+    "nameSlug": "tainted-isle",
+    "expansion": "Fallout",
+    "expansionSlug": "fallout",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "6850322d59fa724009566821": {
+    "name": "The Ur-Dragon",
+    "slug": "cmm-the-ur-dragon-361-mythic",
+    "nameSlug": "the-ur-dragon",
+    "expansion": "Commander Masters",
+    "expansionSlug": "commander-masters",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c9559fa72400954df95": {
+    "name": "Damning Verdict",
+    "slug": "ncc-damning-verdict-116-rare",
+    "nameSlug": "damning-verdict",
+    "expansion": "New Capenna Commander",
+    "expansionSlug": "new-capenna-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502d0659fa724009552801": {
+    "name": "Finale of Devastation",
+    "slug": "cmm-finale-of-devastation-700-mythic",
+    "nameSlug": "finale-of-devastation",
+    "expansion": "Commander Masters",
+    "expansionSlug": "commander-masters",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502bc759fa724009549306": {
+    "name": "Ancient Copper Dragon",
+    "slug": "clb-ancient-copper-dragon-161-mythic",
+    "nameSlug": "ancient-copper-dragon",
+    "expansion": "Commander Legends: Battle for Baldur's Gate",
+    "expansionSlug": "commander-legends-battle-for-baldurs-gate",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
