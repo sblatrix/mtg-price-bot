@@ -24535,5 +24535,47 @@
     "finishes": [
       "Standard"
     ]
+  },
+  "6a7b05b13dd9282218ee8bee": {
+    "name": "Dáin of the Ancient Halls",
+    "slug": "hoc-dain-of-the-ancient-halls-104-mythic",
+    "nameSlug": "dain-of-the-ancient-halls",
+    "expansion": "The Hobbit Eternal",
+    "expansionSlug": "the-hobbit-eternal",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6a62217f6bf1acd5e93ca1ad": {
+    "name": "Treasure Vault",
+    "slug": "hoc-treasure-vault-97-mythic",
+    "nameSlug": "treasure-vault",
+    "expansion": "The Hobbit Eternal",
+    "expansionSlug": "the-hobbit-eternal",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6a622180b280b6b23a8a586d": {
+    "name": "Gandalf, Goblins' Bane // Flameshape",
+    "slug": "hob-gandalf-goblins-bane-flameshape-242-mythic",
+    "nameSlug": "gandalf-goblins-bane-flameshape",
+    "expansion": "The Hobbit",
+    "expansionSlug": "the-hobbit",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6a7b05b023fdfd193d538f2c": {
+    "name": "Bolg, Erebor's Reckoning",
+    "slug": "hoc-bolg-erebors-reckoning-102-mythic",
+    "nameSlug": "bolg-erebors-reckoning",
+    "expansion": "The Hobbit Eternal",
+    "expansionSlug": "the-hobbit-eternal",
+    "finishes": [
+      "Standard"
+    ]
   }
 }
