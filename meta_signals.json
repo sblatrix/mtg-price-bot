@@ -1,5 +1,31 @@
 [
   {
+    "name": "Deceit",
+    "format": "standard",
+    "rarity": "mythic",
+    "pct_of_decks": 10,
+    "pct_change": 10,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-10-26T11:38:57.854273+00:00",
+    "url": "https://www.mtggoldfish.com/price/lorwyn-eclipsed/212/deceit#paper",
+    "summary": "Nouvelle entrée en standard : 10% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Superior Spider-Man",
+    "format": "standard",
+    "rarity": "rare",
+    "pct_of_decks": 10,
+    "pct_change": 10,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-10-26T11:38:57.854273+00:00",
+    "url": "https://www.mtggoldfish.com/price/marvel-spider-man/155/superior-spider-man#paper",
+    "summary": "Nouvelle entrée en standard : 10% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Winternight Stories",
     "format": "standard",
     "rarity": "rare",
@@ -2571,19 +2597,6 @@
     "detected_at": "2026-07-19T07:53:37.067507+00:00",
     "url": "https://www.mtggoldfish.com/price/modern-horizons/145/seasoned-pyromancer#paper",
     "summary": "Nouvelle entrée en modern : 11% des decks du classement.",
-    "source": "MTGGoldfish"
-  },
-  {
-    "name": "Blasphemous Act",
-    "format": "commander",
-    "rarity": "rare",
-    "pct_of_decks": 18,
-    "pct_change": 18,
-    "is_new_entry": true,
-    "in_post_release_window": false,
-    "detected_at": "2026-07-18T07:22:56.857840+00:00",
-    "url": "https://www.mtggoldfish.com/price/lorwyn-eclipsed-commander/89/blasphemous-act#paper",
-    "summary": "Nouvelle entrée en commander : 18% des decks du classement.",
     "source": "MTGGoldfish"
   }
 ]
