@@ -1,5 +1,57 @@
 [
   {
+    "name": "Fabricate",
+    "expansion": "Secret Lair Drop",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 8.06,
+    "ref_price": 10.45,
+    "discount_pct": 22.9,
+    "confident": true,
+    "seller_country": "DE",
+    "created_at": "2026-10-26T02:43:35.650Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/secret-lair-drop/card/sld-fabricate-7121-rare"
+  },
+  {
+    "name": "Multiversal Passage",
+    "expansion": "Marvel's Spider-Man",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 5.47,
+    "ref_price": 7.35,
+    "discount_pct": 25.6,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-10-26T02:55:33.583Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/marvels-spider-man/card/spm-multiversal-passage-180-rare"
+  },
+  {
+    "name": "Eirdu, Carrier of Dawn // Isilu, Carrier of Twilight",
+    "expansion": "Lorwyn Eclipsed",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 1.94,
+    "ref_price": 3.15,
+    "discount_pct": 38.4,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-10-26T02:55:36.399Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/lorwyn-eclipsed/card/ecl-eirdu-carrier-of-dawn-isilu-carrier-of-twilight-13-mythic"
+  },
+  {
+    "name": "Booster Tutor",
+    "expansion": "Unsanctioned",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 3.13,
+    "ref_price": 5.6,
+    "discount_pct": 44.1,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-10-26T02:57:03.903Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/unsanctioned/card/und-booster-tutor-33-uncommon"
+  },
+  {
     "name": "Kindred Discovery",
     "expansion": "Commander Legends: Battle for Baldur's Gate",
     "finish": "Standard",
@@ -1246,57 +1298,5 @@
     "seller_country": "US",
     "created_at": "2026-10-24T13:24:30.338Z",
     "url": "https://cardnexus.com/fr/explore/mtg/the-hobbit-eternal/card/hoc-raise-the-palisade-58-mythic"
-  },
-  {
-    "name": "Hypnotic Specter",
-    "expansion": "Fourth Edition",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 1.79,
-    "ref_price": 2.6,
-    "discount_pct": 31.2,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-10-24T13:50:42.596Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/fourth-edition/card/4ed-hypnotic-specter-142-uncommon"
-  },
-  {
-    "name": "Red Elemental Blast",
-    "expansion": "Revised Edition",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 2.53,
-    "ref_price": 5.1,
-    "discount_pct": 50.4,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-10-24T13:50:42.596Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/revised-edition/card/3ed-red-elemental-blast-171-common"
-  },
-  {
-    "name": "Library of Leng",
-    "expansion": "Revised Edition",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 1.16,
-    "ref_price": 2.55,
-    "discount_pct": 54.5,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-10-24T14:08:00.807Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/revised-edition/card/3ed-library-of-leng-261-uncommon"
-  },
-  {
-    "name": "Copy Artifact",
-    "expansion": "Revised Edition",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 53.57,
-    "ref_price": 73.5,
-    "discount_pct": 27.1,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-10-24T09:04:15.240Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/revised-edition/card/3ed-copy-artifact-53-rare"
   }
 ]
