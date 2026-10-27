@@ -17914,7 +17914,6 @@
     "expansion": "Foundations Commander",
     "expansionSlug": "foundations-commander",
     "finishes": [
-      "Foil",
       "Standard"
     ]
   },
@@ -25244,6 +25243,80 @@
     "finishes": [
       "Standard",
       "Foil"
+    ]
+  },
+  "68502d0559fa724009551822": {
+    "name": "Dust to Dust",
+    "slug": "5ed-dust-to-dust-29-uncommon",
+    "nameSlug": "dust-to-dust",
+    "expansion": "Fifth Edition",
+    "expansionSlug": "fifth-edition",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502eee59fa72400955a701": {
+    "name": "Mnemonic Deluge",
+    "slug": "cmr-mnemonic-deluge-82-mythic",
+    "nameSlug": "mnemonic-deluge",
+    "expansion": "Commander Legends",
+    "expansionSlug": "commander-legends",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850301559fa72400955f757": {
+    "name": "Relic of Progenitus",
+    "slug": "ema-relic-of-progenitus-231-uncommon",
+    "nameSlug": "relic-of-progenitus",
+    "expansion": "Eternal Masters",
+    "expansionSlug": "eternal-masters",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685032e559fa724009569b96": {
+    "name": "Wandering Archaic // Explore the Vastlands",
+    "slug": "stx-wandering-archaic-explore-the-vastlands-6-rare",
+    "nameSlug": "wandering-archaic-explore-the-vastlands",
+    "expansion": "Strixhaven: School of Mages",
+    "expansionSlug": "strixhaven-school-of-mages",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502bc859fa724009549f3c": {
+    "name": "Bearded Axe",
+    "slug": "khm-bearded-axe-388-uncommon",
+    "nameSlug": "bearded-axe",
+    "expansion": "Kaldheim",
+    "expansionSlug": "kaldheim",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6a34493b93fdf758ebab02ed": {
+    "name": "Captain America, Steve Rogers",
+    "slug": "msc-captain-america-steve-rogers-835-rare",
+    "nameSlug": "captain-america-steve-rogers",
+    "expansion": "Marvel Super Heroes Commander",
+    "expansionSlug": "marvel-super-heroes-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68ee1d27b37fd6bebc32600c": {
+    "name": "Brilliant Wings",
+    "slug": "fic-brilliant-wings-454-rare",
+    "nameSlug": "brilliant-wings",
+    "expansion": "Final Fantasy Commander",
+    "expansionSlug": "final-fantasy-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
     ]
   }
 }
