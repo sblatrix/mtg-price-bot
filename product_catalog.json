@@ -25170,5 +25170,80 @@
     "finishes": [
       "Standard"
     ]
+  },
+  "6850317559fa724009565a3a": {
+    "name": "Sphinx of Forgotten Lore",
+    "slug": "fdn-sphinx-of-forgotten-lore-314-mythic",
+    "nameSlug": "sphinx-of-forgotten-lore",
+    "expansion": "Foundations",
+    "expansionSlug": "foundations",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502f7d59fa72400955d885": {
+    "name": "Path of Ancestry",
+    "slug": "sld-path-of-ancestry-250-rare",
+    "nameSlug": "path-of-ancestry",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502e6c59fa724009558f63": {
+    "name": "Jace's Archivist",
+    "slug": "m12-jaces-archivist-59-rare",
+    "nameSlug": "jaces-archivist",
+    "expansion": "Magic 2012",
+    "expansionSlug": "magic-2012",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502e6c59fa724009558b29": {
+    "name": "Kuldotha Rebirth",
+    "slug": "som-kuldotha-rebirth-96-common",
+    "nameSlug": "kuldotha-rebirth",
+    "expansion": "Scars of Mirrodin",
+    "expansionSlug": "scars-of-mirrodin",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850317459fa724009564e4c": {
+    "name": "Sulfurous Springs",
+    "slug": "ice-sulfurous-springs-360-rare",
+    "nameSlug": "sulfurous-springs",
+    "expansion": "Ice Age",
+    "expansionSlug": "ice-age",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850323059fa7240095686b4": {
+    "name": "Unbreakable Formation",
+    "slug": "ltc-unbreakable-formation-179-rare",
+    "nameSlug": "unbreakable-formation",
+    "expansion": "Tales of Middle-earth Commander",
+    "expansionSlug": "tales-of-middle-earth-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850323059fa7240095685e6": {
+    "name": "Thunderscape Battlemage",
+    "slug": "pls-thunderscape-battlemage-75-uncommon",
+    "nameSlug": "thunderscape-battlemage",
+    "expansion": "Planeshift",
+    "expansionSlug": "planeshift",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
