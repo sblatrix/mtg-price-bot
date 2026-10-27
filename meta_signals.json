@@ -1,5 +1,44 @@
 [
   {
+    "name": "Deadly Cover-Up",
+    "format": "standard",
+    "rarity": "rare",
+    "pct_of_decks": 15,
+    "pct_change": 15,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-10-27T11:08:10.177506+00:00",
+    "url": "https://www.mtggoldfish.com/price/ravnica-murders-at-karlov-manor/83/deadly-cover-up#paper",
+    "summary": "Nouvelle entrée en standard : 15% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Unlicensed Hearse",
+    "format": "pioneer",
+    "rarity": "rare",
+    "pct_of_decks": 21,
+    "pct_change": 21,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-10-27T11:08:10.177506+00:00",
+    "url": "https://www.mtggoldfish.com/price/streets-of-new-capenna/246/unlicensed-hearse#paper",
+    "summary": "Nouvelle entrée en pioneer : 21% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Agatha's Soul Cauldron",
+    "format": "pioneer",
+    "rarity": "mythic",
+    "pct_of_decks": 10,
+    "pct_change": 10,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-10-27T11:08:10.177506+00:00",
+    "url": "https://www.mtggoldfish.com/price/wilds-of-eldraine/242/agathas-soul-cauldron#paper",
+    "summary": "Nouvelle entrée en pioneer : 10% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Deceit",
     "format": "standard",
     "rarity": "mythic",
@@ -2558,45 +2597,6 @@
     "detected_at": "2026-07-25T07:46:20.703678+00:00",
     "url": "https://www.mtggoldfish.com/price/innistrad-remastered/5/emrakul-the-promised-end#paper",
     "summary": "Nouvelle entrée en modern : 16% des decks du classement.",
-    "source": "MTGGoldfish"
-  },
-  {
-    "name": "Endurance",
-    "format": "modern",
-    "rarity": "mythic",
-    "pct_of_decks": 11,
-    "pct_change": 11,
-    "is_new_entry": true,
-    "in_post_release_window": false,
-    "detected_at": "2026-07-25T07:46:20.703678+00:00",
-    "url": "https://www.mtggoldfish.com/price/lorwyn-eclipsed-commander/51/endurance#paper",
-    "summary": "Nouvelle entrée en modern : 11% des decks du classement.",
-    "source": "MTGGoldfish"
-  },
-  {
-    "name": "Kaito, Bane of Nightmares",
-    "format": "legacy",
-    "rarity": "mythic",
-    "pct_of_decks": 10,
-    "pct_change": 10,
-    "is_new_entry": true,
-    "in_post_release_window": false,
-    "detected_at": "2026-07-21T08:02:39.051603+00:00",
-    "url": "https://www.mtggoldfish.com/price/duskmourn-house-of-horror/220/kaito-bane-of-nightmares#paper",
-    "summary": "Nouvelle entrée en legacy : 10% des decks du classement.",
-    "source": "MTGGoldfish"
-  },
-  {
-    "name": "Seasoned Pyromancer",
-    "format": "modern",
-    "rarity": "mythic",
-    "pct_of_decks": 11,
-    "pct_change": 11,
-    "is_new_entry": true,
-    "in_post_release_window": false,
-    "detected_at": "2026-07-19T07:53:37.067507+00:00",
-    "url": "https://www.mtggoldfish.com/price/modern-horizons/145/seasoned-pyromancer#paper",
-    "summary": "Nouvelle entrée en modern : 11% des decks du classement.",
     "source": "MTGGoldfish"
   }
 ]
