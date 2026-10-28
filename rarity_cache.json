@@ -13138,5 +13138,33 @@
   "Slaying Fire|": {
     "rarity": "uncommon",
     "set": null
+  },
+  "Deceit [ECL] (F)|": {
+    "rarity": null,
+    "set": null
+  },
+  "Monastery Swiftspear|2x2": {
+    "rarity": "common",
+    "set": "2x2"
+  },
+  "Abrupt Decay|rtr": {
+    "rarity": "rare",
+    "set": "rtr"
+  },
+  "Ponder|ncc": {
+    "rarity": "common",
+    "set": "ncc"
+  },
+  "Mana Drain <showcase>|otp": {
+    "rarity": null,
+    "set": "otp"
+  },
+  "Ball Lightning|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Searing Blood|": {
+    "rarity": "uncommon",
+    "set": null
   }
 }
