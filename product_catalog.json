@@ -25318,5 +25318,45 @@
       "Foil",
       "Standard"
     ]
+  },
+  "68502df359fa724009557a61": {
+    "name": "Hammerheim",
+    "slug": "leg-hammerheim-302-uncommon",
+    "nameSlug": "hammerheim",
+    "expansion": "Legends",
+    "expansionSlug": "legends",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850323059fa724009568c26": {
+    "name": "Urborg",
+    "slug": "leg-urborg-310-uncommon",
+    "nameSlug": "urborg",
+    "expansion": "Legends",
+    "expansionSlug": "legends",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502e6d59fa724009559b37": {
+    "name": "Lesser Werewolf",
+    "slug": "leg-lesser-werewolf-110-uncommon",
+    "nameSlug": "lesser-werewolf",
+    "expansion": "Legends",
+    "expansionSlug": "legends",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502bc959fa72400954ade3": {
+    "name": "Animar, Soul of Elements",
+    "slug": "plst-animar-soul-of-elements-a25-196-mythic",
+    "nameSlug": "animar-soul-of-elements",
+    "expansion": "The List",
+    "expansionSlug": "the-list",
+    "finishes": [
+      "Standard"
+    ]
   }
 }

@@ -1,5 +1,44 @@
 [
   {
+    "name": "Lesser Werewolf",
+    "expansion": "Legends",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 4.05,
+    "ref_price": 5.25,
+    "discount_pct": 22.9,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-10-28T00:56:23.866Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/legends/card/leg-lesser-werewolf-110-uncommon"
+  },
+  {
+    "name": "Urborg",
+    "expansion": "Legends",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 16.28,
+    "ref_price": 21.45,
+    "discount_pct": 24.1,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-10-28T00:56:23.866Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/legends/card/leg-urborg-310-uncommon"
+  },
+  {
+    "name": "Hammerheim",
+    "expansion": "Legends",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 12.48,
+    "ref_price": 16.15,
+    "discount_pct": 22.7,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-10-28T00:56:23.866Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/legends/card/leg-hammerheim-302-uncommon"
+  },
+  {
     "name": "Captain America, Steve Rogers",
     "expansion": "Marvel Super Heroes Commander",
     "finish": "Standard",
@@ -1259,44 +1298,5 @@
     "seller_country": "US",
     "created_at": "2026-10-25T09:25:52.916Z",
     "url": "https://cardnexus.com/fr/explore/mtg/foundations-commander/card/fdc-undead-warchief-131-uncommon"
-  },
-  {
-    "name": "Nihil Spellbomb",
-    "expansion": "The Brothers' War Commander",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 6.36,
-    "ref_price": 9.4,
-    "discount_pct": 32.3,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-10-25T05:21:18.549Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/the-brothers-war-commander/card/brc-nihil-spellbomb-152-common"
-  },
-  {
-    "name": "Carpet of Flowers",
-    "expansion": "Final Fantasy: Through the Ages",
-    "finish": "Standard",
-    "language": "ja",
-    "price_paid": 2.33,
-    "ref_price": 4.15,
-    "discount_pct": 43.9,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-10-25T05:21:51.524Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/final-fantasy-through-the-ages/card/fca-carpet-of-flowers-44-rare"
-  },
-  {
-    "name": "Utvara Hellkite",
-    "expansion": "Foundations Commander",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 3.76,
-    "ref_price": 4.95,
-    "discount_pct": 24.0,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-10-25T05:22:26.228Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/foundations-commander/card/fdc-utvara-hellkite-185-mythic"
   }
 ]
