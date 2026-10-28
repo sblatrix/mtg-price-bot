@@ -1,5 +1,18 @@
 [
   {
+    "name": "Scion of Draco",
+    "expansion": "Modern Horizons 2",
+    "finish": "Etched",
+    "language": "en",
+    "price_paid": 3.87,
+    "ref_price": 6.27,
+    "discount_pct": 38.3,
+    "confident": false,
+    "seller_country": "US",
+    "created_at": "2026-10-28T06:26:22.725Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/modern-horizons-2/card/mh2-scion-of-draco-431-mythic"
+  },
+  {
     "name": "Lesser Werewolf",
     "expansion": "Legends",
     "finish": "Standard",
@@ -1285,18 +1298,5 @@
     "seller_country": "US",
     "created_at": "2026-10-25T09:25:49.411Z",
     "url": "https://cardnexus.com/fr/explore/mtg/mystery-booster-2/card/mb2-mirris-guile-209-rare"
-  },
-  {
-    "name": "Undead Warchief",
-    "expansion": "Foundations Commander",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 2.45,
-    "ref_price": 3.8,
-    "discount_pct": 35.5,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-10-25T09:25:52.916Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/foundations-commander/card/fdc-undead-warchief-131-uncommon"
   }
 ]

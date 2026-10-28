@@ -16720,7 +16720,6 @@
     "expansion": "Foundations Commander",
     "expansionSlug": "foundations-commander",
     "finishes": [
-      "Foil",
       "Standard"
     ]
   },
@@ -17871,7 +17870,6 @@
     "expansion": "Foundations Commander",
     "expansionSlug": "foundations-commander",
     "finishes": [
-      "Foil",
       "Standard"
     ]
   },
@@ -19424,7 +19422,6 @@
     "expansion": "Foundations Commander",
     "expansionSlug": "foundations-commander",
     "finishes": [
-      "Foil",
       "Standard"
     ]
   },
@@ -19435,7 +19432,6 @@
     "expansion": "Foundations Commander",
     "expansionSlug": "foundations-commander",
     "finishes": [
-      "Foil",
       "Standard"
     ]
   },
@@ -25357,6 +25353,18 @@
     "expansionSlug": "the-list",
     "finishes": [
       "Standard"
+    ]
+  },
+  "685030be59fa724009562071": {
+    "name": "Scion of Draco",
+    "slug": "mh2-scion-of-draco-431-mythic",
+    "nameSlug": "scion-of-draco",
+    "expansion": "Modern Horizons 2",
+    "expansionSlug": "modern-horizons-2",
+    "finishes": [
+      "Standard",
+      "Foil",
+      "Etched"
     ]
   }
 }
