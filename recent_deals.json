@@ -1,5 +1,31 @@
 [
   {
+    "name": "Flashback",
+    "expansion": "Secrets of Strixhaven",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 2.69,
+    "ref_price": 3.65,
+    "discount_pct": 26.3,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-10-28T23:27:12.377Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/secrets-of-strixhaven/card/sos-flashback-115-rare"
+  },
+  {
+    "name": "Dark Ritual",
+    "expansion": "Warhammer 40,000 Commander",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 4.26,
+    "ref_price": 5.85,
+    "discount_pct": 27.2,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-10-28T23:27:12.377Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/warhammer-40000-commander/card/40k-dark-ritual-196-common"
+  },
+  {
     "name": "Cloud Dragon",
     "expansion": "Portal",
     "finish": "Standard",
@@ -1272,31 +1298,5 @@
     "seller_country": "US",
     "created_at": "2026-10-25T23:38:23.544Z",
     "url": "https://cardnexus.com/fr/explore/mtg/fallout/card/pip-agent-frank-horrigan-89-rare"
-  },
-  {
-    "name": "Mantle of the Ancients",
-    "expansion": "Fallout",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 4.14,
-    "ref_price": 6,
-    "discount_pct": 31.0,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-10-25T23:38:23.544Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/fallout/card/pip-mantle-of-the-ancients-165-rare"
-  },
-  {
-    "name": "Diamond City",
-    "expansion": "Fallout",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 2.45,
-    "ref_price": 3.15,
-    "discount_pct": 22.2,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-10-25T23:38:23.544Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/fallout/card/pip-diamond-city-147-rare"
   }
 ]
