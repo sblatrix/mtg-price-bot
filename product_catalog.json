@@ -4119,8 +4119,8 @@
     "name": "The Reaver Cleaver",
     "slug": "hoc-the-reaver-cleaver-94-mythic",
     "nameSlug": "the-reaver-cleaver",
-    "expansion": "The Hobbit Commander",
-    "expansionSlug": "the-hobbit-commander",
+    "expansion": "The Hobbit Eternal",
+    "expansionSlug": "the-hobbit-eternal",
     "finishes": [
       "Foil",
       "Standard"
@@ -27034,6 +27034,163 @@
     "finishes": [
       "Foil",
       "Standard"
+    ]
+  },
+  "68502bc759fa7240095496b8": {
+    "name": "Ancient Spring",
+    "slug": "inv-ancient-spring-319-common",
+    "nameSlug": "ancient-spring",
+    "expansion": "Invasion",
+    "expansionSlug": "invasion",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6a62217fa953b52f0fe12b9b": {
+    "name": "Dwarven Warriors",
+    "slug": "hoc-dwarven-warriors-93-mythic",
+    "nameSlug": "dwarven-warriors",
+    "expansion": "The Hobbit Eternal",
+    "expansionSlug": "the-hobbit-eternal",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502e6e59fa724009559eb0": {
+    "name": "Mabel, Heir to Cragflame",
+    "slug": "blb-mabel-heir-to-cragflame-351-rare",
+    "nameSlug": "mabel-heir-to-cragflame",
+    "expansion": "Bloomburrow",
+    "expansionSlug": "bloomburrow",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "685032e659fa72400956a8e3": {
+    "name": "Vren, the Relentless",
+    "slug": "blb-vren-the-relentless-354-rare",
+    "nameSlug": "vren-the-relentless",
+    "expansion": "Bloomburrow",
+    "expansionSlug": "bloomburrow",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "68502c2f59fa72400954d4d6": {
+    "name": "Clement, the Worrywort",
+    "slug": "blb-clement-the-worrywort-347-rare",
+    "nameSlug": "clement-the-worrywort",
+    "expansion": "Bloomburrow",
+    "expansionSlug": "bloomburrow",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "68502d0659fa724009552a0b": {
+    "name": "Finneas, Ace Archer",
+    "slug": "blb-finneas-ace-archer-348-rare",
+    "nameSlug": "finneas-ace-archer",
+    "expansion": "Bloomburrow",
+    "expansionSlug": "bloomburrow",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "68502bc859fa724009549d12": {
+    "name": "Adeline, Resplendent Cathar",
+    "slug": "fca-adeline-resplendent-cathar-1-rare",
+    "nameSlug": "adeline-resplendent-cathar",
+    "expansion": "Final Fantasy: Through the Ages",
+    "expansionSlug": "final-fantasy-through-the-ages",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502bc859fa72400954a280": {
+    "name": "Baleful Strix",
+    "slug": "blc-baleful-strix-86-rare",
+    "nameSlug": "baleful-strix",
+    "expansion": "Bloomburrow Commander",
+    "expansionSlug": "bloomburrow-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502c9559fa72400954e5cc": {
+    "name": "Cori Mountain Monastery",
+    "slug": "tdm-cori-mountain-monastery-393-rare",
+    "nameSlug": "cori-mountain-monastery",
+    "expansion": "Tarkir: Dragonstorm",
+    "expansionSlug": "tarkir-dragonstorm",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c2d59fa72400954c550": {
+    "name": "Charisma Bobblehead",
+    "slug": "pip-charisma-bobblehead-1060-uncommon",
+    "nameSlug": "charisma-bobblehead",
+    "expansion": "Fallout",
+    "expansionSlug": "fallout",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "6a7097e0acd66d15d9170d88": {
+    "name": "Aragorn, the Uniter",
+    "slug": "hoc-aragorn-the-uniter-29-mythic",
+    "nameSlug": "aragorn-the-uniter",
+    "expansion": "The Hobbit Eternal",
+    "expansionSlug": "the-hobbit-eternal",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502e6e59fa724009559fb3": {
+    "name": "Kindred Dominance",
+    "slug": "c17-kindred-dominance-18-rare",
+    "nameSlug": "kindred-dominance",
+    "expansion": "Commander 2017",
+    "expansionSlug": "commander-2017",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502df359fa7240095576e9": {
+    "name": "Island",
+    "slug": "ugl-island-85-common",
+    "nameSlug": "island",
+    "expansion": "Unglued",
+    "expansionSlug": "unglued",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850322d59fa724009566906": {
+    "name": "Turnabout",
+    "slug": "pidw-turnabout-9-rare",
+    "nameSlug": "turnabout",
+    "expansion": "IDW Comics Inserts",
+    "expansionSlug": "idw-comics-inserts",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502bc959fa72400954aeef": {
+    "name": "Ancient Adamantoise",
+    "slug": "fin-ancient-adamantoise-172-mythic",
+    "nameSlug": "ancient-adamantoise",
+    "expansion": "Final Fantasy",
+    "expansionSlug": "final-fantasy",
+    "finishes": [
+      "Standard",
+      "Foil"
     ]
   }
 }
