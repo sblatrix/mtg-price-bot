@@ -27590,5 +27590,25 @@
       "Foil",
       "Standard"
     ]
+  },
+  "68502bca59fa72400954b348": {
+    "name": "Annul",
+    "slug": "usg-annul-59-common",
+    "nameSlug": "annul",
+    "expansion": "Urza's Saga",
+    "expansionSlug": "urzas-saga",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502bc759fa724009549c05": {
+    "name": "Adarkar Wastes",
+    "slug": "pdmu-adarkar-wastes-243s-rare",
+    "nameSlug": "adarkar-wastes",
+    "expansion": "Dominaria United Promos",
+    "expansionSlug": "dominaria-united-promos",
+    "finishes": [
+      "Foil"
+    ]
   }
 }

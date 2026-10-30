@@ -1,5 +1,57 @@
 [
   {
+    "name": "Iron Man, Tony Stark",
+    "expansion": "Marvel Super Heroes Commander",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 3.25,
+    "ref_price": 4.7,
+    "discount_pct": 30.9,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-10-30T15:48:55.969Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/marvel-super-heroes-commander/card/msc-iron-man-tony-stark-851-rare"
+  },
+  {
+    "name": "Annul",
+    "expansion": "Urza's Saga",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 2.16,
+    "ref_price": 3.1,
+    "discount_pct": 30.3,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-10-30T16:07:12.959Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/urzas-saga/card/usg-annul-59-common"
+  },
+  {
+    "name": "Dusk Legion Zealot",
+    "expansion": "Rivals of Ixalan",
+    "finish": "Foil",
+    "language": "en",
+    "price_paid": 1.05,
+    "ref_price": 2.55,
+    "discount_pct": 58.8,
+    "confident": false,
+    "seller_country": "US",
+    "created_at": "2026-10-30T16:07:30.468Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/rivals-of-ixalan/card/rix-dusk-legion-zealot-70-common"
+  },
+  {
+    "name": "Avenging Hunter",
+    "expansion": "Commander Legends: Battle for Baldur's Gate",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 4.39,
+    "ref_price": 7.3,
+    "discount_pct": 39.9,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-10-30T16:07:41.268Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/commander-legends-battle-for-baldurs-gate/card/clb-avenging-hunter-215-common"
+  },
+  {
     "name": "Tetsuo, Imperial Champion",
     "expansion": "Secret Lair Drop",
     "finish": "Foil",
@@ -1246,57 +1298,5 @@
     "seller_country": "CA",
     "created_at": "2026-10-28T18:37:43.257Z",
     "url": "https://cardnexus.com/fr/explore/mtg/dragons-of-tarkir/card/dtk-dragonlord-silumgar-220-mythic"
-  },
-  {
-    "name": "Wan Shi Tong, Librarian",
-    "expansion": "Avatar: The Last Airbender",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 23.28,
-    "ref_price": 37.8,
-    "discount_pct": 38.4,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-10-28T18:40:52.838Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/avatar-the-last-airbender/card/tla-wan-shi-tong-librarian-78-mythic"
-  },
-  {
-    "name": "Flashback",
-    "expansion": "Secrets of Strixhaven",
-    "finish": "Foil",
-    "language": "en",
-    "price_paid": 2.6,
-    "ref_price": 3.35,
-    "discount_pct": 22.4,
-    "confident": false,
-    "seller_country": "US",
-    "created_at": "2026-10-28T18:40:52.838Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/secrets-of-strixhaven/card/sos-flashback-115-rare"
-  },
-  {
-    "name": "Traveling Chocobo",
-    "expansion": "Final Fantasy",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 11.68,
-    "ref_price": 17.15,
-    "discount_pct": 31.9,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-10-28T18:40:52.838Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/final-fantasy/card/fin-traveling-chocobo-210-mythic"
-  },
-  {
-    "name": "Molecule Man",
-    "expansion": "Marvel Super Heroes Commander",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 3.45,
-    "ref_price": 6.2,
-    "discount_pct": 44.4,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-10-28T18:40:52.838Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/marvel-super-heroes-commander/card/msc-molecule-man-9-rare"
   }
 ]
