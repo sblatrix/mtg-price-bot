@@ -1,5 +1,31 @@
 [
   {
+    "name": "Esper Origins",
+    "format": "standard",
+    "rarity": "rare",
+    "pct_of_decks": 10,
+    "pct_change": 10,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-10-30T11:43:58.847641+00:00",
+    "url": "https://www.mtggoldfish.com/price/final-fantasy/185/esper-origins#paper",
+    "summary": "Nouvelle entrée en standard : 10% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Engineered Explosives",
+    "format": "modern",
+    "rarity": "rare",
+    "pct_of_decks": 11,
+    "pct_change": 11,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-10-30T11:43:58.847641+00:00",
+    "url": "https://www.mtggoldfish.com/price/double-masters/252/engineered-explosives#paper",
+    "summary": "Nouvelle entrée en modern : 11% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Deceit",
     "format": "standard",
     "rarity": "mythic",
@@ -2571,32 +2597,6 @@
     "detected_at": "2026-07-27T09:20:41.092039+00:00",
     "url": "https://www.mtggoldfish.com/price/bloomburrow/9/dawns-truce#paper",
     "summary": "Nouvelle entrée en standard : 17% des decks du classement.",
-    "source": "MTGGoldfish"
-  },
-  {
-    "name": "Stifle",
-    "format": "legacy",
-    "rarity": "rare",
-    "pct_of_decks": 10,
-    "pct_change": 10,
-    "is_new_entry": true,
-    "in_post_release_window": false,
-    "detected_at": "2026-07-27T09:20:41.092039+00:00",
-    "url": "https://www.mtggoldfish.com/price/conspiracy/108/stifle#paper",
-    "summary": "Nouvelle entrée en legacy : 10% des decks du classement.",
-    "source": "MTGGoldfish"
-  },
-  {
-    "name": "Ghost Vacuum",
-    "format": "pioneer",
-    "rarity": "rare",
-    "pct_of_decks": 12,
-    "pct_change": 12,
-    "is_new_entry": true,
-    "in_post_release_window": false,
-    "detected_at": "2026-07-26T08:01:45.974314+00:00",
-    "url": "https://www.mtggoldfish.com/price/duskmourn-house-of-horror/248/ghost-vacuum#paper",
-    "summary": "Nouvelle entrée en pioneer : 12% des decks du classement.",
     "source": "MTGGoldfish"
   }
 ]
