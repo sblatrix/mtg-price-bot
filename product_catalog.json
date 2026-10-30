@@ -27610,5 +27610,87 @@
     "finishes": [
       "Foil"
     ]
+  },
+  "6a203ae13c32f48d1fce60c3": {
+    "name": "Mountain",
+    "slug": "sld-mountain-2419-rare",
+    "nameSlug": "mountain",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "6850317359fa72400956429c": {
+    "name": "Sword of the Animist",
+    "slug": "fic-sword-of-the-animist-362-rare",
+    "nameSlug": "sword-of-the-animist",
+    "expansion": "Final Fantasy Commander",
+    "expansionSlug": "final-fantasy-commander",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c2f59fa72400954db22": {
+    "name": "Clive, Ifrit's Dominant // Ifrit, Warden of Inferno",
+    "slug": "fin-clive-ifrits-dominant-ifrit-warden-of-inferno-530-mythic",
+    "nameSlug": "clive-ifrits-dominant-ifrit-warden-of-inferno",
+    "expansion": "Final Fantasy",
+    "expansionSlug": "final-fantasy",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "6850322f59fa7240095680a7": {
+    "name": "The One Ring",
+    "slug": "ltr-the-one-ring-246-mythic",
+    "nameSlug": "the-one-ring",
+    "expansion": "The Lord of the Rings: Tales of Middle-earth",
+    "expansionSlug": "the-lord-of-the-rings-tales-of-middle-earth",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6917ca37d403752343741fca": {
+    "name": "Zombie",
+    "slug": "ugl-zombie-91-special",
+    "nameSlug": "zombie",
+    "expansion": "Unglued",
+    "expansionSlug": "unglued",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502ef059fa72400955bef7": {
+    "name": "Mudslide",
+    "slug": "ice-mudslide-204-rare",
+    "nameSlug": "mudslide",
+    "expansion": "Ice Age",
+    "expansionSlug": "ice-age",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502ef159fa72400955c3e4": {
+    "name": "Millstone",
+    "slug": "3ed-millstone-265-rare",
+    "nameSlug": "millstone",
+    "expansion": "Revised Edition",
+    "expansionSlug": "revised-edition",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502eef59fa72400955b6e3": {
+    "name": "Meekstone",
+    "slug": "3ed-meekstone-264-rare",
+    "nameSlug": "meekstone",
+    "expansion": "Revised Edition",
+    "expansionSlug": "revised-edition",
+    "finishes": [
+      "Standard"
+    ]
   }
 }
