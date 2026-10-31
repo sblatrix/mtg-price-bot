@@ -7604,7 +7604,6 @@
     "expansion": "Reality Fracture",
     "expansionSlug": "reality-fracture",
     "finishes": [
-      "Foil",
       "Standard"
     ]
   },
@@ -16709,7 +16708,6 @@
     "expansion": "Foundations Commander",
     "expansionSlug": "foundations-commander",
     "finishes": [
-      "Foil",
       "Standard"
     ]
   },
@@ -17901,7 +17899,6 @@
     "expansion": "Foundations Commander",
     "expansionSlug": "foundations-commander",
     "finishes": [
-      "Foil",
       "Standard"
     ]
   },
@@ -27769,6 +27766,91 @@
     "nameSlug": "secret-lair-x-avatar-the-last-airbender-the-ember-island-players-non-foil-edition",
     "expansion": "Secret Lair Drop",
     "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68ee1d27b37fd6bebc325feb": {
+    "name": "Locke, Treasure Hunter",
+    "slug": "fic-locke-treasure-hunter-475-rare",
+    "nameSlug": "locke-treasure-hunter",
+    "expansion": "Final Fantasy Commander",
+    "expansionSlug": "final-fantasy-commander",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "6917ca3cd40375234374234e": {
+    "name": "Ozai, the Phoenix King",
+    "slug": "tla-ozai-the-phoenix-king-311-mythic",
+    "nameSlug": "ozai-the-phoenix-king",
+    "expansion": "Avatar: The Last Airbender",
+    "expansionSlug": "avatar-the-last-airbender",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502c9759fa72400954f743": {
+    "name": "Counterspell",
+    "slug": "mb2-counterspell-158-common",
+    "nameSlug": "counterspell",
+    "expansion": "Mystery Booster 2",
+    "expansionSlug": "mystery-booster-2",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502eef59fa72400955b7ad": {
+    "name": "Meekstone",
+    "slug": "mb2-meekstone-227-rare",
+    "nameSlug": "meekstone",
+    "expansion": "Mystery Booster 2",
+    "expansionSlug": "mystery-booster-2",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502bca59fa72400954b3cb": {
+    "name": "Ashaya, Soul of the Wild",
+    "slug": "dsc-ashaya-soul-of-the-wild-170-mythic",
+    "nameSlug": "ashaya-soul-of-the-wild",
+    "expansion": "Duskmourn: House of Horror Commander",
+    "expansionSlug": "duskmourn-house-of-horror-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502bc859fa724009549dcc": {
+    "name": "Aragorn, the Uniter",
+    "slug": "ltr-aragorn-the-uniter-192-mythic",
+    "nameSlug": "aragorn-the-uniter",
+    "expansion": "The Lord of the Rings: Tales of Middle-earth",
+    "expansionSlug": "the-lord-of-the-rings-tales-of-middle-earth",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850323059fa724009568a15": {
+    "name": "The Balrog of Moria",
+    "slug": "ltc-the-balrog-of-moria-449-rare",
+    "nameSlug": "the-balrog-of-moria",
+    "expansion": "Tales of Middle-earth Commander",
+    "expansionSlug": "tales-of-middle-earth-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6ab7b0083f5dccb136cfcd3b": {
+    "name": "Chandra's Ignition",
+    "slug": "fdc-chandras-ignition-145-rare",
+    "nameSlug": "chandras-ignition",
+    "expansion": "Foundations Commander",
+    "expansionSlug": "foundations-commander",
     "finishes": [
       "Standard"
     ]
