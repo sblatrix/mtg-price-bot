@@ -1,5 +1,44 @@
 [
   {
+    "name": "Mightform Harmonizer",
+    "format": "standard",
+    "rarity": "rare",
+    "pct_of_decks": 12,
+    "pct_change": 12,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-10-31T11:17:26.336192+00:00",
+    "url": "https://www.mtggoldfish.com/price/edge-of-eternities/200/mightform-harmonizer#paper",
+    "summary": "Nouvelle entrée en standard : 12% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Deceit",
+    "format": "standard",
+    "rarity": "mythic",
+    "pct_of_decks": 12,
+    "pct_change": 12,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-10-31T11:17:26.336192+00:00",
+    "url": "https://www.mtggoldfish.com/price/lorwyn-eclipsed/212/deceit#paper",
+    "summary": "Nouvelle entrée en standard : 12% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Clarion Conqueror",
+    "format": "modern",
+    "rarity": "rare",
+    "pct_of_decks": 12,
+    "pct_change": 12,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-10-31T11:17:26.336192+00:00",
+    "url": "https://www.mtggoldfish.com/price/tarkir-dragonstorm/5/clarion-conqueror#paper",
+    "summary": "Nouvelle entrée en modern : 12% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Esper Origins",
     "format": "standard",
     "rarity": "rare",
@@ -2558,45 +2597,6 @@
     "detected_at": "2026-07-29T08:13:40.506377+00:00",
     "url": "https://www.mtggoldfish.com/price/double-masters/303/trinisphere#paper",
     "summary": "Nouvelle entrée en modern : 17% des decks du classement.",
-    "source": "MTGGoldfish"
-  },
-  {
-    "name": "Abrupt Decay",
-    "format": "pioneer",
-    "rarity": "rare",
-    "pct_of_decks": 22,
-    "pct_change": 22,
-    "is_new_entry": true,
-    "in_post_release_window": false,
-    "detected_at": "2026-07-28T08:09:42.912066+00:00",
-    "url": "https://www.mtggoldfish.com/price/guilds-of-ravnica-guild-kits/57/abrupt-decay#paper",
-    "summary": "Nouvelle entrée en pioneer : 22% des decks du classement.",
-    "source": "MTGGoldfish"
-  },
-  {
-    "name": "Loran of the Third Path",
-    "format": "pioneer",
-    "rarity": "rare",
-    "pct_of_decks": 11,
-    "pct_change": 11,
-    "is_new_entry": true,
-    "in_post_release_window": false,
-    "detected_at": "2026-07-28T08:09:42.912066+00:00",
-    "url": "https://www.mtggoldfish.com/price/the-brothers-war/12/loran-of-the-third-path#paper",
-    "summary": "Nouvelle entrée en pioneer : 11% des decks du classement.",
-    "source": "MTGGoldfish"
-  },
-  {
-    "name": "Dawn's Truce",
-    "format": "standard",
-    "rarity": "rare",
-    "pct_of_decks": 17,
-    "pct_change": 17,
-    "is_new_entry": true,
-    "in_post_release_window": false,
-    "detected_at": "2026-07-27T09:20:41.092039+00:00",
-    "url": "https://www.mtggoldfish.com/price/bloomburrow/9/dawns-truce#paper",
-    "summary": "Nouvelle entrée en standard : 17% des decks du classement.",
     "source": "MTGGoldfish"
   }
 ]
