@@ -27960,5 +27960,99 @@
       "Standard",
       "Foil"
     ]
+  },
+  "68502df359fa724009557590": {
+    "name": "Hallowed Fountain",
+    "slug": "rvr-hallowed-fountain-280-rare",
+    "nameSlug": "hallowed-fountain",
+    "expansion": "Ravnica Remastered",
+    "expansionSlug": "ravnica-remastered",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6a96039ee74574ea912556b1": {
+    "name": "Reality Fracture Secret Lair Bundle",
+    "slug": "fra-reality-fracture-secret-lair-bundle",
+    "nameSlug": "reality-fracture-secret-lair-bundle",
+    "expansion": "Reality Fracture",
+    "expansionSlug": "reality-fracture",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850323059fa724009568b7c": {
+    "name": "Thoughtseize",
+    "slug": "2xm-thoughtseize-344-rare",
+    "nameSlug": "thoughtseize",
+    "expansion": "Double Masters",
+    "expansionSlug": "double-masters",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c2d59fa72400954bbac": {
+    "name": "Boros Charm",
+    "slug": "gk1-boros-charm-84-uncommon",
+    "nameSlug": "boros-charm",
+    "expansion": "GRN Guild Kit",
+    "expansionSlug": "grn-guild-kit",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502f7e59fa72400955e274": {
+    "name": "Phyrexian Furnace",
+    "slug": "wc97-phyrexian-furnace-pm155sb-uncommon",
+    "nameSlug": "phyrexian-furnace",
+    "expansion": "World Championship Decks 1997",
+    "expansionSlug": "world-championship-decks-1997",
+    "finishes": [
+      "Standard",
+      "Signed"
+    ]
+  },
+  "68502e6d59fa724009559225": {
+    "name": "Kytheon, Hero of Akros // Gideon, Battle-Forged",
+    "slug": "ps15-kytheon-hero-of-akros-gideon-battle-forged-23-mythic",
+    "nameSlug": "kytheon-hero-of-akros-gideon-battle-forged",
+    "expansion": "San Diego Comic-Con 2015",
+    "expansionSlug": "san-diego-comic-con-2015",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "6850317459fa724009564e2d": {
+    "name": "Sylvan Safekeeper",
+    "slug": "c14-sylvan-safekeeper-217-rare",
+    "nameSlug": "sylvan-safekeeper",
+    "expansion": "Commander 2014",
+    "expansionSlug": "commander-2014",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850301559fa72400955fe40": {
+    "name": "Pristine Talisman",
+    "slug": "brr-pristine-talisman-106z-uncommon",
+    "nameSlug": "pristine-talisman",
+    "expansion": "The Brothers' War Retro Artifacts",
+    "expansionSlug": "the-brothers-war-retro-artifacts",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "68502c9659fa72400954eb6a": {
+    "name": "Dispatch",
+    "slug": "pip-dispatch-159-uncommon",
+    "nameSlug": "dispatch",
+    "expansion": "Fallout",
+    "expansionSlug": "fallout",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
   }
 }
