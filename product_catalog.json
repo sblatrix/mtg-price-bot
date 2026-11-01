@@ -28461,5 +28461,26 @@
     "finishes": [
       "Foil"
     ]
+  },
+  "6917ca36d403752343741ee1": {
+    "name": "Arcane Signet",
+    "slug": "sld-arcane-signet-7065-rare",
+    "nameSlug": "arcane-signet",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502d7959fa72400955332a": {
+    "name": "Fork",
+    "slug": "3ed-fork-153-rare",
+    "nameSlug": "fork",
+    "expansion": "Revised Edition",
+    "expansionSlug": "revised-edition",
+    "finishes": [
+      "Standard"
+    ]
   }
 }
