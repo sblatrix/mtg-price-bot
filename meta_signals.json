@@ -1,5 +1,31 @@
 [
   {
+    "name": "Esper Origins",
+    "format": "standard",
+    "rarity": "rare",
+    "pct_of_decks": 10,
+    "pct_change": 10,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-11-01T12:07:53.231254+00:00",
+    "url": "https://www.mtggoldfish.com/price/final-fantasy/185/esper-origins#paper",
+    "summary": "Nouvelle entrée en standard : 10% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Fable of the Mirror-Breaker",
+    "format": "pioneer",
+    "rarity": "rare",
+    "pct_of_decks": 10,
+    "pct_change": 10,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-11-01T12:07:53.231254+00:00",
+    "url": "https://www.mtggoldfish.com/price/kamigawa-neon-dynasty/141/fable-of-the-mirror-breaker#paper",
+    "summary": "Nouvelle entrée en pioneer : 10% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Mightform Harmonizer",
     "format": "standard",
     "rarity": "rare",
@@ -2570,32 +2596,6 @@
     "in_post_release_window": false,
     "detected_at": "2026-08-02T07:58:45.350033+00:00",
     "url": "https://www.mtggoldfish.com/price/innistrad-remastered/5/emrakul-the-promised-end#paper",
-    "summary": "Nouvelle entrée en modern : 17% des decks du classement.",
-    "source": "MTGGoldfish"
-  },
-  {
-    "name": "Jeskai Revelation",
-    "format": "standard",
-    "rarity": "mythic",
-    "pct_of_decks": 24,
-    "pct_change": 24,
-    "is_new_entry": true,
-    "in_post_release_window": false,
-    "detected_at": "2026-07-29T08:13:40.506377+00:00",
-    "url": "https://www.mtggoldfish.com/price/tarkir-dragonstorm/196/jeskai-revelation#paper",
-    "summary": "Nouvelle entrée en standard : 24% des decks du classement.",
-    "source": "MTGGoldfish"
-  },
-  {
-    "name": "Trinisphere",
-    "format": "modern",
-    "rarity": "mythic",
-    "pct_of_decks": 17,
-    "pct_change": 17,
-    "is_new_entry": true,
-    "in_post_release_window": false,
-    "detected_at": "2026-07-29T08:13:40.506377+00:00",
-    "url": "https://www.mtggoldfish.com/price/double-masters/303/trinisphere#paper",
     "summary": "Nouvelle entrée en modern : 17% des decks du classement.",
     "source": "MTGGoldfish"
   }
