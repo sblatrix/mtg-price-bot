@@ -1,5 +1,31 @@
 [
   {
+    "name": "Asceticism",
+    "expansion": "Tales of Middle-earth Commander",
+    "finish": "Standard",
+    "language": "fr",
+    "price_paid": 8.0,
+    "ref_price": 10.35,
+    "discount_pct": 22.7,
+    "confident": true,
+    "seller_country": "FR",
+    "created_at": "2026-11-02T19:00:04.010Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/tales-of-middle-earth-commander/card/ltc-asceticism-233-rare"
+  },
+  {
+    "name": "Timberwatch Elf",
+    "expansion": "Commander 2014",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 1.67,
+    "ref_price": 2.6,
+    "discount_pct": 35.8,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-11-02T19:00:20.971Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/commander-2014/card/c14-timberwatch-elf-220-common"
+  },
+  {
     "name": "Minas Morgul, Dark Fortress",
     "expansion": "Tales of Middle-earth Commander",
     "finish": "Foil",
@@ -1272,31 +1298,5 @@
     "seller_country": "CA",
     "created_at": "2026-10-31T22:59:14.831Z",
     "url": "https://cardnexus.com/fr/explore/mtg/edge-of-eternities-stellar-sights/card/eos-raging-ravine-80-rare"
-  },
-  {
-    "name": "Dispatch",
-    "expansion": "Fallout",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 0.94,
-    "ref_price": 2.1,
-    "discount_pct": 55.2,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-10-31T17:21:16.004Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/fallout/card/pip-dispatch-159-uncommon"
-  },
-  {
-    "name": "Dragonhawk, Fate's Tempest",
-    "expansion": "Foundations Commander",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 1.16,
-    "ref_price": 2.1,
-    "discount_pct": 44.8,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-10-31T18:03:11.857Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/foundations-commander/card/fdc-dragonhawk-fates-tempest-151-mythic"
   }
 ]

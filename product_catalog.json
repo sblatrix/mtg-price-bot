@@ -29410,5 +29410,66 @@
       "Foil",
       "Standard"
     ]
+  },
+  "68502df259fa724009556ceb": {
+    "name": "Inkshield",
+    "slug": "dsc-inkshield-221-rare",
+    "nameSlug": "inkshield",
+    "expansion": "Duskmourn: House of Horror Commander",
+    "expansionSlug": "duskmourn-house-of-horror-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502d7b59fa724009554ab6": {
+    "name": "Giggling Skitterspike",
+    "slug": "dsc-giggling-skitterspike-39-rare",
+    "nameSlug": "giggling-skitterspike",
+    "expansion": "Duskmourn: House of Horror Commander",
+    "expansionSlug": "duskmourn-house-of-horror-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502c9559fa72400954e136": {
+    "name": "Daze",
+    "slug": "nem-daze-30-common",
+    "nameSlug": "daze",
+    "expansion": "Nemesis",
+    "expansionSlug": "nemesis",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850322d59fa7240095668aa": {
+    "name": "Timberwatch Elf",
+    "slug": "c14-timberwatch-elf-220-common",
+    "nameSlug": "timberwatch-elf",
+    "expansion": "Commander 2014",
+    "expansionSlug": "commander-2014",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502bc959fa72400954b1f3": {
+    "name": "Asceticism",
+    "slug": "ltc-asceticism-233-rare",
+    "nameSlug": "asceticism",
+    "expansion": "Tales of Middle-earth Commander",
+    "expansionSlug": "tales-of-middle-earth-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502df059fa724009555b1a": {
+    "name": "Hired Claw",
+    "slug": "pblb-hired-claw-140s-rare",
+    "nameSlug": "hired-claw",
+    "expansion": "Bloomburrow Promos",
+    "expansionSlug": "bloomburrow-promos",
+    "finishes": [
+      "Foil"
+    ]
   }
 }
