@@ -29271,5 +29271,144 @@
       "Standard",
       "Foil"
     ]
+  },
+  "6850301559fa72400955fe50": {
+    "name": "Ral, Crackling Wit",
+    "slug": "blb-ral-crackling-wit-341-mythic",
+    "nameSlug": "ral-crackling-wit",
+    "expansion": "Bloomburrow",
+    "expansionSlug": "bloomburrow",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d7959fa7240095537d4": {
+    "name": "Forest",
+    "slug": "lea-forest-295-common",
+    "nameSlug": "forest",
+    "expansion": "Limited Edition Alpha",
+    "expansionSlug": "limited-edition-alpha",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "685030bd59fa724009561eb0": {
+    "name": "Season of the Witch",
+    "slug": "drk-season-of-the-witch-52-rare",
+    "nameSlug": "season-of-the-witch",
+    "expansion": "The Dark",
+    "expansionSlug": "the-dark",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850301759fa724009560e44": {
+    "name": "Righteous Fury",
+    "slug": "p02-righteous-fury-21-rare",
+    "nameSlug": "righteous-fury",
+    "expansion": "Portal Second Age",
+    "expansionSlug": "portal-second-age",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502e6c59fa724009558f30": {
+    "name": "Kappa Cannoneer",
+    "slug": "mh3-kappa-cannoneer-401-rare",
+    "nameSlug": "kappa-cannoneer",
+    "expansion": "Modern Horizons 3",
+    "expansionSlug": "modern-horizons-3",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502c2f59fa72400954dc3b": {
+    "name": "Brazen Borrower // Petty Theft",
+    "slug": "spg-brazen-borrower-petty-theft-30-mythic",
+    "nameSlug": "brazen-borrower-petty-theft",
+    "expansion": "Special Guests",
+    "expansionSlug": "special-guests",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502e6c59fa724009558fe3": {
+    "name": "Legion Extruder",
+    "slug": "big-legion-extruder-12-mythic",
+    "nameSlug": "legion-extruder",
+    "expansion": "The Big Score",
+    "expansionSlug": "the-big-score",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d7959fa724009553148": {
+    "name": "Flooded Strand",
+    "slug": "mh3-flooded-strand-353-rare",
+    "nameSlug": "flooded-strand",
+    "expansion": "Modern Horizons 3",
+    "expansionSlug": "modern-horizons-3",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502c9559fa72400954e1c2": {
+    "name": "Craterhoof Behemoth",
+    "slug": "inr-craterhoof-behemoth-480-mythic",
+    "nameSlug": "craterhoof-behemoth",
+    "expansion": "Innistrad Remastered",
+    "expansionSlug": "innistrad-remastered",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502bc959fa72400954add7": {
+    "name": "Animar, Soul of Elements",
+    "slug": "2x2-animar-soul-of-elements-171-mythic",
+    "nameSlug": "animar-soul-of-elements",
+    "expansion": "Double Masters 2022",
+    "expansionSlug": "double-masters-2022",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685030be59fa7240095623ab": {
+    "name": "Second Chance",
+    "slug": "ulg-second-chance-41-rare",
+    "nameSlug": "second-chance",
+    "expansion": "Urza's Legacy",
+    "expansionSlug": "urzas-legacy",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c2e59fa72400954c6d5": {
+    "name": "City of Brass",
+    "slug": "chr-city-of-brass-112-rare",
+    "nameSlug": "city-of-brass",
+    "expansion": "Chronicles",
+    "expansionSlug": "chronicles",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6ab7b00e32bcf0a0e5a7e523": {
+    "name": "Samut, Tyrant of Naktamun",
+    "slug": "fra-samut-tyrant-of-naktamun-302-rare",
+    "nameSlug": "samut-tyrant-of-naktamun",
+    "expansion": "Reality Fracture",
+    "expansionSlug": "reality-fracture",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
   }
 }
