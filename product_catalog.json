@@ -29471,5 +29471,161 @@
     "finishes": [
       "Foil"
     ]
+  },
+  "68502d0659fa7240095529cd": {
+    "name": "Eater of the Dead",
+    "slug": "drk-eater-of-the-dead-44-uncommon",
+    "nameSlug": "eater-of-the-dead",
+    "expansion": "The Dark",
+    "expansionSlug": "the-dark",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850301559fa72400955fee0": {
+    "name": "Safe Haven",
+    "slug": "drk-safe-haven-118-rare",
+    "nameSlug": "safe-haven",
+    "expansion": "The Dark",
+    "expansionSlug": "the-dark",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502eee59fa72400955a8ec": {
+    "name": "Mana Vortex",
+    "slug": "drk-mana-vortex-31-rare",
+    "nameSlug": "mana-vortex",
+    "expansion": "The Dark",
+    "expansionSlug": "the-dark",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502f7d59fa72400955d53b": {
+    "name": "Norn's Choirmaster",
+    "slug": "onc-norns-choirmaster-46-rare",
+    "nameSlug": "norns-choirmaster",
+    "expansion": "Phyrexia: All Will Be One Commander",
+    "expansionSlug": "phyrexia-all-will-be-one-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "685032e459fa724009569761": {
+    "name": "Walking Ballista",
+    "slug": "mb2-walking-ballista-238-rare",
+    "nameSlug": "walking-ballista",
+    "expansion": "Mystery Booster 2",
+    "expansionSlug": "mystery-booster-2",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c9659fa72400954e88d": {
+    "name": "Compy Swarm",
+    "slug": "rex-compy-swarm-9-rare",
+    "nameSlug": "compy-swarm",
+    "expansion": "Jurassic World Collection",
+    "expansionSlug": "jurassic-world-collection",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850322d59fa724009566be0": {
+    "name": "Terramorphic Expanse",
+    "slug": "pip-terramorphic-expanse-841-common",
+    "nameSlug": "terramorphic-expanse",
+    "expansion": "Fallout",
+    "expansionSlug": "fallout",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "68502df159fa724009555d70": {
+    "name": "Greensleeves, Maro-Sorcerer",
+    "slug": "plst-greensleeves-maro-sorcerer-dmc-27-mythic",
+    "nameSlug": "greensleeves-maro-sorcerer",
+    "expansion": "The List",
+    "expansionSlug": "the-list",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850322f59fa724009568098": {
+    "name": "Thunderhawk Gunship",
+    "slug": "40k-thunderhawk-gunship-167-rare",
+    "nameSlug": "thunderhawk-gunship",
+    "expansion": "Warhammer 40,000 Commander",
+    "expansionSlug": "warhammer-40000-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850322e59fa724009567407": {
+    "name": "Tinybones, Trinket Thief",
+    "slug": "sld-tinybones-trinket-thief-1407-mythic",
+    "nameSlug": "tinybones-trinket-thief",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850322e59fa724009567620": {
+    "name": "Tyvar the Bellicose",
+    "slug": "mat-tyvar-the-bellicose-48-mythic",
+    "nameSlug": "tyvar-the-bellicose",
+    "expansion": "March of the Machine: The Aftermath",
+    "expansionSlug": "march-of-the-machine-the-aftermath",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c2d59fa72400954baf2": {
+    "name": "Birds of Paradise",
+    "slug": "dmr-birds-of-paradise-336-rare",
+    "nameSlug": "birds-of-paradise",
+    "expansion": "Dominaria Remastered",
+    "expansionSlug": "dominaria-remastered",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502d7a59fa724009554097": {
+    "name": "Gemstone Caverns",
+    "slug": "ltc-gemstone-caverns-394-mythic",
+    "nameSlug": "gemstone-caverns",
+    "expansion": "Tales of Middle-earth Commander",
+    "expansionSlug": "tales-of-middle-earth-commander",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "68502c2f59fa72400954d4c4": {
+    "name": "Castle Vantress",
+    "slug": "eld-castle-vantress-390-rare",
+    "nameSlug": "castle-vantress",
+    "expansion": "Throne of Eldraine",
+    "expansionSlug": "throne-of-eldraine",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502e6c59fa724009558698": {
+    "name": "Jeweled Amulet",
+    "slug": "ice-jeweled-amulet-326-uncommon",
+    "nameSlug": "jeweled-amulet",
+    "expansion": "Ice Age",
+    "expansionSlug": "ice-age",
+    "finishes": [
+      "Standard"
+    ]
   }
 }
