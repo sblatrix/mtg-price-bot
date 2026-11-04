@@ -30163,5 +30163,70 @@
       "Standard",
       "Foil"
     ]
+  },
+  "68502bc759fa724009549b00": {
+    "name": "Avenger of Zendikar",
+    "slug": "sld-avenger-of-zendikar-1900-mythic",
+    "nameSlug": "avenger-of-zendikar",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "6850322e59fa724009567150": {
+    "name": "Tymna the Weaver",
+    "slug": "fca-tymna-the-weaver-18-rare",
+    "nameSlug": "tymna-the-weaver",
+    "expansion": "Final Fantasy: Through the Ages",
+    "expansionSlug": "final-fantasy-through-the-ages",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6850317559fa724009565edd": {
+    "name": "Temporal Mastery",
+    "slug": "avr-temporal-mastery-81-mythic",
+    "nameSlug": "temporal-mastery",
+    "expansion": "Avacyn Restored",
+    "expansionSlug": "avacyn-restored",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d7b59fa72400955475e": {
+    "name": "Galadriel, Light of Valinor",
+    "slug": "ltc-galadriel-light-of-valinor-498-mythic",
+    "nameSlug": "galadriel-light-of-valinor",
+    "expansion": "Tales of Middle-earth Commander",
+    "expansionSlug": "tales-of-middle-earth-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502c9759fa72400954f7fe": {
+    "name": "Collected Company",
+    "slug": "dtk-collected-company-177-rare",
+    "nameSlug": "collected-company",
+    "expansion": "Dragons of Tarkir",
+    "expansionSlug": "dragons-of-tarkir",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6a22a72b3c32f48d1fdeaeb1": {
+    "name": "Aragorn, the Uniter",
+    "slug": "ltr-aragorn-the-uniter-741-mythic",
+    "nameSlug": "aragorn-the-uniter",
+    "expansion": "The Lord of the Rings: Tales of Middle-earth",
+    "expansionSlug": "the-lord-of-the-rings-tales-of-middle-earth",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
   }
 }
