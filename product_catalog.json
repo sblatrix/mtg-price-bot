@@ -30228,5 +30228,167 @@
       "Foil",
       "Standard"
     ]
+  },
+  "68502d7a59fa724009553f87": {
+    "name": "Flame of Anor",
+    "slug": "ltr-flame-of-anor-406-rare",
+    "nameSlug": "flame-of-anor",
+    "expansion": "The Lord of the Rings: Tales of Middle-earth",
+    "expansionSlug": "the-lord-of-the-rings-tales-of-middle-earth",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502f7e59fa72400955de72": {
+    "name": "Phyrexian Arena",
+    "slug": "one-phyrexian-arena-104-rare",
+    "nameSlug": "phyrexian-arena",
+    "expansion": "Phyrexia: All Will Be One",
+    "expansionSlug": "phyrexia-all-will-be-one",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d0559fa724009551848": {
+    "name": "Emergent Woodwurm",
+    "slug": "moc-emergent-woodwurm-37-rare",
+    "nameSlug": "emergent-woodwurm",
+    "expansion": "March of the Machine Commander",
+    "expansionSlug": "march-of-the-machine-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502e6e59fa724009559d1c": {
+    "name": "Losheel, Clockwork Scholar",
+    "slug": "c21-losheel-clockwork-scholar-18-rare",
+    "nameSlug": "losheel-clockwork-scholar",
+    "expansion": "Commander 2021",
+    "expansionSlug": "commander-2021",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502c9859fa724009550303": {
+    "name": "Dauthi Voidwalker",
+    "slug": "mh2-dauthi-voidwalker-81-rare",
+    "nameSlug": "dauthi-voidwalker",
+    "expansion": "Modern Horizons 2",
+    "expansionSlug": "modern-horizons-2",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502d0459fa724009550f9a": {
+    "name": "Elvish Warmaster",
+    "slug": "khm-elvish-warmaster-167-rare",
+    "nameSlug": "elvish-warmaster",
+    "expansion": "Kaldheim",
+    "expansionSlug": "kaldheim",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502eee59fa72400955a8af": {
+    "name": "Myojin of Life's Web",
+    "slug": "chk-myojin-of-lifes-web-229-rare",
+    "nameSlug": "myojin-of-lifes-web",
+    "expansion": "Champions of Kamigawa",
+    "expansionSlug": "champions-of-kamigawa",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685030be59fa724009562014": {
+    "name": "Saproling Burst",
+    "slug": "nem-saproling-burst-113-rare",
+    "nameSlug": "saproling-burst",
+    "expansion": "Nemesis",
+    "expansionSlug": "nemesis",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c9759fa72400954fb31": {
+    "name": "Cut Down",
+    "slug": "dmu-cut-down-89-uncommon",
+    "nameSlug": "cut-down",
+    "expansion": "Dominaria United",
+    "expansionSlug": "dominaria-united",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6ab7b00c8236619723637a7f": {
+    "name": "The Echoverse Fulcrum",
+    "slug": "fra-the-echoverse-fulcrum-169-mythic",
+    "nameSlug": "the-echoverse-fulcrum",
+    "expansion": "Reality Fracture",
+    "expansionSlug": "reality-fracture",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6aa7c23c6d1ed079fe7302f4": {
+    "name": "The Unluckiest Planeswalker",
+    "slug": "mbc-the-unluckiest-planeswalker-26-rare",
+    "nameSlug": "the-unluckiest-planeswalker",
+    "expansion": "Mystery Booster Commander Edition",
+    "expansionSlug": "mystery-booster-commander-edition",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6a62217ff033a2ce2c6a6bb3": {
+    "name": "Mox Amber",
+    "slug": "hoc-mox-amber-96-mythic",
+    "nameSlug": "mox-amber",
+    "expansion": "The Hobbit Eternal",
+    "expansionSlug": "the-hobbit-eternal",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6aa7c238290bb7242eadc60a": {
+    "name": "Quest for Renewal",
+    "slug": "sld-quest-for-renewal-2405-rare",
+    "nameSlug": "quest-for-renewal",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68ee1d28b37fd6bebc32606e": {
+    "name": "Swords to Plowshares",
+    "slug": "sld-swords-to-plowshares-2167-rare",
+    "nameSlug": "swords-to-plowshares",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "685030c059fa724009563ab4": {
+    "name": "Scalding Tarn",
+    "slug": "spg-scalding-tarn-117-mythic",
+    "nameSlug": "scalding-tarn",
+    "expansion": "Special Guests",
+    "expansionSlug": "special-guests",
+    "finishes": [
+      "Foil"
+    ]
   }
 }
