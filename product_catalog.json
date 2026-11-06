@@ -7329,7 +7329,6 @@
     "expansion": "Reality Fracture",
     "expansionSlug": "reality-fracture",
     "finishes": [
-      "Foil",
       "Standard"
     ]
   },
@@ -31579,6 +31578,341 @@
     "finishes": [
       "Foil",
       "Standard"
+    ]
+  },
+  "68502e6d59fa7240095591e2": {
+    "name": "Knucklebone Witch",
+    "slug": "lrw-knucklebone-witch-120-rare",
+    "nameSlug": "knucklebone-witch",
+    "expansion": "Lorwyn",
+    "expansionSlug": "lorwyn",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685032e459fa7240095692e4": {
+    "name": "Vigor",
+    "slug": "lrw-vigor-240-rare",
+    "nameSlug": "vigor",
+    "expansion": "Lorwyn",
+    "expansionSlug": "lorwyn",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685032e459fa724009569153": {
+    "name": "Wave of Reckoning",
+    "slug": "mmq-wave-of-reckoning-56-rare",
+    "nameSlug": "wave-of-reckoning",
+    "expansion": "Mercadian Masques",
+    "expansionSlug": "mercadian-masques",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6a22a72b3c32f48d1fdeaf73": {
+    "name": "Thor, God of Thunder",
+    "slug": "msh-thor-god-of-thunder-338-mythic",
+    "nameSlug": "thor-god-of-thunder",
+    "expansion": "Marvel Super Heroes",
+    "expansionSlug": "marvel-super-heroes",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6850317559fa724009565b98": {
+    "name": "Squee, Goblin Nabob",
+    "slug": "mmq-squee-goblin-nabob-214-rare",
+    "nameSlug": "squee-goblin-nabob",
+    "expansion": "Mercadian Masques",
+    "expansionSlug": "mercadian-masques",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6ab7b00bb297f9eb9cdf1ed7": {
+    "name": "Seasoned Cryomancer",
+    "slug": "fra-seasoned-cryomancer-38-mythic",
+    "nameSlug": "seasoned-cryomancer",
+    "expansion": "Reality Fracture",
+    "expansionSlug": "reality-fracture",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6ab7b00c56082d38bc5112ca": {
+    "name": "Samut, Hazoret's Champion",
+    "slug": "fra-samut-hazorets-champion-251-rare",
+    "nameSlug": "samut-hazorets-champion",
+    "expansion": "Reality Fracture",
+    "expansionSlug": "reality-fracture",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502f7c59fa72400955cadb": {
+    "name": "Parallax Tide",
+    "slug": "nem-parallax-tide-37-rare",
+    "nameSlug": "parallax-tide",
+    "expansion": "Nemesis",
+    "expansionSlug": "nemesis",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502df259fa724009556c62": {
+    "name": "Honor the Fallen",
+    "slug": "mmq-honor-the-fallen-21-rare",
+    "nameSlug": "honor-the-fallen",
+    "expansion": "Mercadian Masques",
+    "expansionSlug": "mercadian-masques",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502df359fa72400955787b": {
+    "name": "Grove of the Burnwillows",
+    "slug": "fut-grove-of-the-burnwillows-176-rare",
+    "nameSlug": "grove-of-the-burnwillows",
+    "expansion": "Future Sight",
+    "expansionSlug": "future-sight",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502df159fa72400955615a": {
+    "name": "Guiltfeeder",
+    "slug": "jud-guiltfeeder-68-rare",
+    "nameSlug": "guiltfeeder",
+    "expansion": "Judgment",
+    "expansionSlug": "judgment",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c2d59fa72400954c46a": {
+    "name": "Cabal Coffers",
+    "slug": "tor-cabal-coffers-139-uncommon",
+    "nameSlug": "cabal-coffers",
+    "expansion": "Torment",
+    "expansionSlug": "torment",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502bc859fa72400954a289": {
+    "name": "Atarka, World Render",
+    "slug": "frf-atarka-world-render-149-rare",
+    "nameSlug": "atarka-world-render",
+    "expansion": "Fate Reforged",
+    "expansionSlug": "fate-reforged",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502bc959fa72400954b01e": {
+    "name": "Back to Basics",
+    "slug": "usg-back-to-basics-62-rare",
+    "nameSlug": "back-to-basics",
+    "expansion": "Urza's Saga",
+    "expansionSlug": "urzas-saga",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502c9759fa72400954fc31": {
+    "name": "Darksteel Splicer",
+    "slug": "moc-darksteel-splicer-100-rare",
+    "nameSlug": "darksteel-splicer",
+    "expansion": "March of the Machine Commander",
+    "expansionSlug": "march-of-the-machine-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6a622182a404a7385417a662": {
+    "name": "Ajani Unrelenting",
+    "slug": "fra-ajani-unrelenting-242-mythic",
+    "nameSlug": "ajani-unrelenting",
+    "expansion": "Reality Fracture",
+    "expansionSlug": "reality-fracture",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6a62218285bb4df21e533c47": {
+    "name": "Ajani Resolute",
+    "slug": "fra-ajani-resolute-195-mythic",
+    "nameSlug": "ajani-resolute",
+    "expansion": "Reality Fracture",
+    "expansionSlug": "reality-fracture",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "685030bf59fa724009562e73": {
+    "name": "Scrawling Crawler",
+    "slug": "fdn-scrawling-crawler-354-rare",
+    "nameSlug": "scrawling-crawler",
+    "expansion": "Foundations",
+    "expansionSlug": "foundations",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502e6d59fa724009559b1f": {
+    "name": "Kiora, Behemoth Beckoner",
+    "slug": "sld-kiora-behemoth-beckoner-1700-rare",
+    "nameSlug": "kiora-behemoth-beckoner",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68ee1d28b37fd6bebc32606a": {
+    "name": "Voja, Jaws of the Conclave",
+    "slug": "sld-voja-jaws-of-the-conclave-2284-mythic",
+    "nameSlug": "voja-jaws-of-the-conclave",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c9759fa72400954f701": {
+    "name": "Counterspell",
+    "slug": "fca-counterspell-4-uncommon",
+    "nameSlug": "counterspell",
+    "expansion": "Final Fantasy: Through the Ages",
+    "expansionSlug": "final-fantasy-through-the-ages",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "69e1040993c168406dc0b404": {
+    "name": "Scaled Nurturer",
+    "slug": "sld-scaled-nurturer-7101-rare",
+    "nameSlug": "scaled-nurturer",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "69e1040993c168406dc0b495": {
+    "name": "Preordain",
+    "slug": "soa-preordain-86-rare",
+    "nameSlug": "preordain",
+    "expansion": "Secrets of Strixhaven Mystical Archive",
+    "expansionSlug": "secrets-of-strixhaven-mystical-archive",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850317559fa724009565e9a": {
+    "name": "Temporal Manipulation",
+    "slug": "spg-temporal-manipulation-82-mythic",
+    "nameSlug": "temporal-manipulation",
+    "expansion": "Special Guests",
+    "expansionSlug": "special-guests",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "69e1040993c168406dc0b4d1": {
+    "name": "Winds of Abandon",
+    "slug": "soa-winds-of-abandon-77-mythic",
+    "nameSlug": "winds-of-abandon",
+    "expansion": "Secrets of Strixhaven Mystical Archive",
+    "expansionSlug": "secrets-of-strixhaven-mystical-archive",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850317559fa7240095656b2": {
+    "name": "Stella Lee, Wild Card",
+    "slug": "otc-stella-lee-wild-card-3-mythic",
+    "nameSlug": "stella-lee-wild-card",
+    "expansion": "Outlaws of Thunder Junction Commander",
+    "expansionSlug": "outlaws-of-thunder-junction-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502df359fa72400955734d": {
+    "name": "Hazel's Brewmaster",
+    "slug": "blc-hazels-brewmaster-52-rare",
+    "nameSlug": "hazels-brewmaster",
+    "expansion": "Bloomburrow Commander",
+    "expansionSlug": "bloomburrow-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502c9659fa72400954ebd4": {
+    "name": "Command Tower",
+    "slug": "sld-command-tower-1697-rare",
+    "nameSlug": "command-tower",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502c2f59fa72400954d395": {
+    "name": "Chimil, the Inner Sun",
+    "slug": "lcc-chimil-the-inner-sun-106-mythic",
+    "nameSlug": "chimil-the-inner-sun",
+    "expansion": "The Lost Caverns of Ixalan Commander",
+    "expansionSlug": "the-lost-caverns-of-ixalan-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502eee59fa72400955a860": {
+    "name": "Mantle of the Ancients",
+    "slug": "woc-mantle-of-the-ancients-70-rare",
+    "nameSlug": "mantle-of-the-ancients",
+    "expansion": "Wilds of Eldraine Commander",
+    "expansionSlug": "wilds-of-eldraine-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502e6c59fa7240095587de": {
+    "name": "Iymrith, Desert Doom",
+    "slug": "afr-iymrith-desert-doom-290-mythic",
+    "nameSlug": "iymrith-desert-doom",
+    "expansion": "Adventures in the Forgotten Realms",
+    "expansionSlug": "adventures-in-the-forgotten-realms",
+    "finishes": [
+      "Standard",
+      "Foil"
     ]
   }
 }
