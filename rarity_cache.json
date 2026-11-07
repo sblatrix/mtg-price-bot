@@ -13478,5 +13478,45 @@
   "Overgrown Farmland|": {
     "rarity": "rare",
     "set": null
+  },
+  "Ponder <01a188ae-d5e0-7103-9741-5363dd368962>|trc": {
+    "rarity": null,
+    "set": "trc"
+  },
+  "Moonshadow <showcase>|ecl": {
+    "rarity": null,
+    "set": "ecl"
+  },
+  "Swiftfoot Boots <01a1793f-a2a8-7ca1-81d5-4a4199918e7a>|trc": {
+    "rarity": null,
+    "set": "trc"
+  },
+  "Beast Within <01a188ae-fbbb-7dbe-a993-8c71d8fa3de1>|trc": {
+    "rarity": null,
+    "set": "trc"
+  },
+  "Heroic Intervention <01a18d62-7891-7c28-970f-0fdf6b46586d>|trc": {
+    "rarity": null,
+    "set": "trc"
+  },
+  "Generous Gift|plist": {
+    "rarity": null,
+    "set": "plist"
+  },
+  "Frantic Search <01a17e65-20e6-746b-9204-94daf391ca3e>|trc": {
+    "rarity": null,
+    "set": "trc"
+  },
+  "Thing in the Ice|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Temporal Trespass|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Galvanic Iteration|": {
+    "rarity": "rare",
+    "set": null
   }
 }
