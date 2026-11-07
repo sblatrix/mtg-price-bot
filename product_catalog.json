@@ -31914,5 +31914,57 @@
       "Standard",
       "Foil"
     ]
+  },
+  "6aede1f47dfde3d23c1904b6": {
+    "name": "Lieutenant Commander Data",
+    "slug": "trk-lieutenant-commander-data-69-mythic",
+    "nameSlug": "lieutenant-commander-data",
+    "expansion": "Star Trek",
+    "expansionSlug": "star-trek",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6ab7b00f402dfd700d19cbe1": {
+    "name": "Pia, Aether Ascetic",
+    "slug": "fra-pia-aether-ascetic-264-uncommon",
+    "nameSlug": "pia-aether-ascetic",
+    "expansion": "Reality Fracture",
+    "expansionSlug": "reality-fracture",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "69837107345cd38d92706645": {
+    "name": "Commander Legends Commander Deck Reap the Tides",
+    "slug": "cmr-commander-legends-commander-deck-reap-the-tides",
+    "nameSlug": "commander-legends-commander-deck-reap-the-tides",
+    "expansion": "Commander Legends",
+    "expansionSlug": "commander-legends",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502bc959fa72400954a71e": {
+    "name": "Archmage of Runes",
+    "slug": "pfdn-archmage-of-runes-30s-rare",
+    "nameSlug": "archmage-of-runes",
+    "expansion": "Foundations Promos",
+    "expansionSlug": "foundations-promos",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "68502e6c59fa724009558c10": {
+    "name": "Lightning Bolt",
+    "slug": "gn3-lightning-bolt-83-uncommon",
+    "nameSlug": "lightning-bolt",
+    "expansion": "Game Night: Free-for-All",
+    "expansionSlug": "game-night-free-for-all",
+    "finishes": [
+      "Standard"
+    ]
   }
 }

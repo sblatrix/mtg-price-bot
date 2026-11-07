@@ -1,5 +1,44 @@
 [
   {
+    "name": "Lightning Bolt",
+    "expansion": "Game Night: Free-for-All",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 2.39,
+    "ref_price": 3.1,
+    "discount_pct": 22.9,
+    "confident": true,
+    "seller_country": "CA",
+    "created_at": "2026-11-07T10:06:05.718Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/game-night-free-for-all/card/gn3-lightning-bolt-83-uncommon"
+  },
+  {
+    "name": "Commander Legends Commander Deck Reap the Tides",
+    "expansion": "Commander Legends",
+    "finish": "Standard",
+    "language": "es",
+    "price_paid": 69.99,
+    "ref_price": 94.45,
+    "discount_pct": 25.9,
+    "confident": true,
+    "seller_country": "IT",
+    "created_at": "2026-11-07T10:37:11.963Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/commander-legends/card/cmr-commander-legends-commander-deck-reap-the-tides"
+  },
+  {
+    "name": "Roiling Canopy",
+    "expansion": "Reality Fracture",
+    "finish": "Foil",
+    "language": "fr",
+    "price_paid": 4.09,
+    "ref_price": 5.2,
+    "discount_pct": 21.3,
+    "confident": false,
+    "seller_country": "FR",
+    "created_at": "2026-11-07T11:13:23.676Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/reality-fracture/card/fra-roiling-canopy-380-rare"
+  },
+  {
     "name": "Iymrith, Desert Doom",
     "expansion": "Adventures in the Forgotten Realms",
     "finish": "Standard",
@@ -1259,44 +1298,5 @@
     "seller_country": "US",
     "created_at": "2026-11-05T06:42:07.463Z",
     "url": "https://cardnexus.com/fr/explore/mtg/foundations-commander/card/fdc-breath-weapon-142-common"
-  },
-  {
-    "name": "Elemental Bond",
-    "expansion": "Foundations Commander",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 2.3,
-    "ref_price": 2.95,
-    "discount_pct": 22.0,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-11-05T06:42:07.463Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/foundations-commander/card/fdc-elemental-bond-201-uncommon"
-  },
-  {
-    "name": "Dragonhawk, Fate's Tempest",
-    "expansion": "Foundations Commander",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 1.35,
-    "ref_price": 2.58,
-    "discount_pct": 47.7,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-11-05T06:42:07.463Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/foundations-commander/card/fdc-dragonhawk-fates-tempest-151-mythic"
-  },
-  {
-    "name": "Fyndhorn Elves",
-    "expansion": "Foundations Commander",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 1.33,
-    "ref_price": 2.9,
-    "discount_pct": 54.1,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-11-05T06:42:07.463Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/foundations-commander/card/fdc-fyndhorn-elves-204-common"
   }
 ]
