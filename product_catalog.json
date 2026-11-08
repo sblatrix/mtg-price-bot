@@ -32211,5 +32211,91 @@
     "finishes": [
       "Foil"
     ]
+  },
+  "6850322d59fa724009566ddf": {
+    "name": "The World Tree",
+    "slug": "plst-the-world-tree-khm-275-rare",
+    "nameSlug": "the-world-tree",
+    "expansion": "The List",
+    "expansionSlug": "the-list",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502eef59fa72400955b760": {
+    "name": "Mystic Remora",
+    "slug": "ice-mystic-remora-87-common",
+    "nameSlug": "mystic-remora",
+    "expansion": "Ice Age",
+    "expansionSlug": "ice-age",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502c9759fa72400954fb3e": {
+    "name": "Deathrite Shaman",
+    "slug": "ema-deathrite-shaman-215-rare",
+    "nameSlug": "deathrite-shaman",
+    "expansion": "Eternal Masters",
+    "expansionSlug": "eternal-masters",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6aede1edaedbc2a4672eb72b": {
+    "name": "Brazen Bluff",
+    "slug": "trk-brazen-bluff-140-rare",
+    "nameSlug": "brazen-bluff",
+    "expansion": "Star Trek",
+    "expansionSlug": "star-trek",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6aede1f17f7e40a7b738264e": {
+    "name": "Rok-Tahk, Budding Scientist",
+    "slug": "trk-rok-tahk-budding-scientist-211-mythic",
+    "nameSlug": "rok-tahk-budding-scientist",
+    "expansion": "Star Trek",
+    "expansionSlug": "star-trek",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502bc759fa724009549afc": {
+    "name": "Avenger of Zendikar",
+    "slug": "sld-avenger-of-zendikar-158-mythic",
+    "nameSlug": "avenger-of-zendikar",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502c9659fa72400954f3a8": {
+    "name": "Distorting Lens",
+    "slug": "mmq-distorting-lens-293-rare",
+    "nameSlug": "distorting-lens",
+    "expansion": "Mercadian Masques",
+    "expansionSlug": "mercadian-masques",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502c9559fa72400954e1c7": {
+    "name": "Commercial District",
+    "slug": "mkm-commercial-district-324-rare",
+    "nameSlug": "commercial-district",
+    "expansion": "Murders at Karlov Manor",
+    "expansionSlug": "murders-at-karlov-manor",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
