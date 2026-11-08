@@ -32104,5 +32104,71 @@
       "Standard",
       "Foil"
     ]
+  },
+  "6a34493fed43ceda0a4b943a": {
+    "name": "Kindred Discovery",
+    "slug": "msc-kindred-discovery-150-rare",
+    "nameSlug": "kindred-discovery",
+    "expansion": "Marvel Super Heroes Commander",
+    "expansionSlug": "marvel-super-heroes-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "685030bf59fa724009562e6f": {
+    "name": "Scrawling Crawler",
+    "slug": "fdn-scrawling-crawler-132-rare",
+    "nameSlug": "scrawling-crawler",
+    "expansion": "Foundations",
+    "expansionSlug": "foundations",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502bc759fa724009549ab7": {
+    "name": "Archivist of Oghma",
+    "slug": "clb-archivist-of-oghma-4-rare",
+    "nameSlug": "archivist-of-oghma",
+    "expansion": "Commander Legends: Battle for Baldur's Gate",
+    "expansionSlug": "commander-legends-battle-for-baldurs-gate",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685030bf59fa724009562fa4": {
+    "name": "Screaming Nemesis",
+    "slug": "dsk-screaming-nemesis-348-mythic",
+    "nameSlug": "screaming-nemesis",
+    "expansion": "Duskmourn: House of Horror",
+    "expansionSlug": "duskmourn-house-of-horror",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c9859fa72400955051b": {
+    "name": "Dawn's Truce",
+    "slug": "blb-dawns-truce-9-rare",
+    "nameSlug": "dawns-truce",
+    "expansion": "Bloomburrow",
+    "expansionSlug": "bloomburrow",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "69ae3412b8aecc4cebe7eb7c": {
+    "name": "Underworld Breach",
+    "slug": "pza-underworld-breach-10-mythic",
+    "nameSlug": "underworld-breach",
+    "expansion": "Teenage Mutant Ninja Turtles Source Material",
+    "expansionSlug": "teenage-mutant-ninja-turtles-source-material",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
   }
 }
