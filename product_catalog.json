@@ -32170,5 +32170,46 @@
       "Foil",
       "Standard"
     ]
+  },
+  "68502d7c59fa724009555057": {
+    "name": "Flayer of Loyalties",
+    "slug": "cmm-flayer-of-loyalties-715-rare",
+    "nameSlug": "flayer-of-loyalties",
+    "expansion": "Commander Masters",
+    "expansionSlug": "commander-masters",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502e6d59fa724009559728": {
+    "name": "Jadar, Ghoulcaller of Nephalia",
+    "slug": "mid-jadar-ghoulcaller-of-nephalia-315-rare",
+    "nameSlug": "jadar-ghoulcaller-of-nephalia",
+    "expansion": "Innistrad: Midnight Hunt",
+    "expansionSlug": "innistrad-midnight-hunt",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685030bd59fa724009561ca1": {
+    "name": "Sceptre of Eternal Glory",
+    "slug": "40k-sceptre-of-eternal-glory-166-rare",
+    "nameSlug": "sceptre-of-eternal-glory",
+    "expansion": "Warhammer 40,000 Commander",
+    "expansionSlug": "warhammer-40000-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502f7c59fa72400955d139": {
+    "name": "Park Heights Maverick",
+    "slug": "pncc-park-heights-maverick-63p-rare",
+    "nameSlug": "park-heights-maverick",
+    "expansion": "New Capenna Commander Promos",
+    "expansionSlug": "new-capenna-commander-promos",
+    "finishes": [
+      "Foil"
+    ]
   }
 }
