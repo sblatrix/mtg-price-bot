@@ -1,5 +1,18 @@
 [
   {
+    "name": "Nethergoyf",
+    "format": "modern",
+    "rarity": "mythic",
+    "pct_of_decks": 14,
+    "pct_change": 14,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-11-09T14:28:59.460256+00:00",
+    "url": "https://www.mtggoldfish.com/price/modern-horizons-3/103/nethergoyf#paper",
+    "summary": "Nouvelle entrée en modern : 14% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Clarion Conqueror",
     "format": "modern",
     "rarity": "rare",
@@ -2584,19 +2597,6 @@
     "detected_at": "2026-08-13T07:05:56.135164+00:00",
     "url": "https://www.mtggoldfish.com/price/innistrad-crimson-vow/38/thalia-guardian-of-thraben#paper",
     "summary": "Nouvelle entrée en legacy : 10% des decks du classement.",
-    "source": "MTGGoldfish"
-  },
-  {
-    "name": "Trinisphere",
-    "format": "modern",
-    "rarity": "mythic",
-    "pct_of_decks": 16,
-    "pct_change": 16,
-    "is_new_entry": true,
-    "in_post_release_window": false,
-    "detected_at": "2026-08-11T06:41:53.113564+00:00",
-    "url": "https://www.mtggoldfish.com/price/double-masters/303/trinisphere#paper",
-    "summary": "Nouvelle entrée en modern : 16% des decks du classement.",
     "source": "MTGGoldfish"
   }
 ]

@@ -13594,5 +13594,57 @@
   "Volatile Fault|": {
     "rarity": "uncommon",
     "set": null
+  },
+  "Street Wraith|dmr": {
+    "rarity": "common",
+    "set": "dmr"
+  },
+  "Dark Matter Manipulator <01a0a074-22a4-7832-8357-e0e8ef1f92fd>|fra": {
+    "rarity": null,
+    "set": "fra"
+  },
+  "Inquisition of Kozilek|2x2": {
+    "rarity": "uncommon",
+    "set": "2x2"
+  },
+  "Rampant Growth <01a188af-0774-78ab-9b5a-a52218c701c7>|trc": {
+    "rarity": null,
+    "set": "trc"
+  },
+  "Heroic Intervention <01a188af-0372-7174-92d1-d8f630c7b553>|trc": {
+    "rarity": null,
+    "set": "trc"
+  },
+  "Golden Demise|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Caretaker's Talent|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Kiora's Dismissal|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Kogla and Yidaro|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Yavimaya Hollow|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Genesis Device|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Tyrranax Rex|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Lost to Legend|": {
+    "rarity": "uncommon",
+    "set": null
   }
 }
