@@ -32532,5 +32532,91 @@
       "Foil",
       "Standard"
     ]
+  },
+  "68502ef059fa72400955c319": {
+    "name": "Mistrise Village",
+    "slug": "tdm-mistrise-village-261-rare",
+    "nameSlug": "mistrise-village",
+    "expansion": "Tarkir: Dragonstorm",
+    "expansionSlug": "tarkir-dragonstorm",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850317359fa72400956453b": {
+    "name": "Spawning Kraken",
+    "slug": "c21-spawning-kraken-33-rare",
+    "nameSlug": "spawning-kraken",
+    "expansion": "Commander 2021",
+    "expansionSlug": "commander-2021",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850317359fa72400956481d": {
+    "name": "Spectator Seating",
+    "slug": "cmr-spectator-seating-356-rare",
+    "nameSlug": "spectator-seating",
+    "expansion": "Commander Legends",
+    "expansionSlug": "commander-legends",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502bc859fa72400954a2f3": {
+    "name": "Athreos, God of Passage",
+    "slug": "plst-athreos-god-of-passage-jou-146-mythic",
+    "nameSlug": "athreos-god-of-passage",
+    "expansion": "The List",
+    "expansionSlug": "the-list",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6aede1ee94a34514839097cc": {
+    "name": "Mr. Spock, Science Officer",
+    "slug": "trk-mr-spock-science-officer-74-mythic",
+    "nameSlug": "mr-spock-science-officer",
+    "expansion": "Star Trek",
+    "expansionSlug": "star-trek",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6a62217ee01a62c16798e5ff": {
+    "name": "Godless Shrine",
+    "slug": "trk-godless-shrine-285-rare",
+    "nameSlug": "godless-shrine",
+    "expansion": "Star Trek",
+    "expansionSlug": "star-trek",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6aede1efc0d3a14274665f06": {
+    "name": "Borg Cube",
+    "slug": "trk-borg-cube-227-mythic",
+    "nameSlug": "borg-cube",
+    "expansion": "Star Trek",
+    "expansionSlug": "star-trek",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6a62217e3fcfefdb1b567c2d": {
+    "name": "Stomping Ground",
+    "slug": "trk-stomping-ground-299-rare",
+    "nameSlug": "stomping-ground",
+    "expansion": "Star Trek",
+    "expansionSlug": "star-trek",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
   }
 }
