@@ -32836,5 +32836,155 @@
       "Foil",
       "Standard"
     ]
+  },
+  "685030bf59fa724009562c98": {
+    "name": "Sinister Concierge",
+    "slug": "ncc-sinister-concierge-30-rare",
+    "nameSlug": "sinister-concierge",
+    "expansion": "New Capenna Commander",
+    "expansionSlug": "new-capenna-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502c2f59fa72400954d36f": {
+    "name": "Bloodthrone Vampire",
+    "slug": "roe-bloodthrone-vampire-98-common",
+    "nameSlug": "bloodthrone-vampire",
+    "expansion": "Rise of the Eldrazi",
+    "expansionSlug": "rise-of-the-eldrazi",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6aede1e1eeab7a2350598263": {
+    "name": "Lotus Cobra",
+    "slug": "trc-lotus-cobra-466-rare",
+    "nameSlug": "lotus-cobra",
+    "expansion": "Star Trek Commander",
+    "expansionSlug": "star-trek-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6aede1df14d44bb6ee4b8ca3": {
+    "name": "Exploration",
+    "slug": "trc-exploration-461-rare",
+    "nameSlug": "exploration",
+    "expansion": "Star Trek Commander",
+    "expansionSlug": "star-trek-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "69ae3412b8aecc4cebe7eb63": {
+    "name": "Nuka-Cola Vending Machine",
+    "slug": "sld-nuka-cola-vending-machine-2462-rare",
+    "nameSlug": "nuka-cola-vending-machine",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "696569d48b5e9ad6eb7b948e": {
+    "name": "Hexing Squelcher",
+    "slug": "ecl-hexing-squelcher-317-rare",
+    "nameSlug": "hexing-squelcher",
+    "expansion": "Lorwyn Eclipsed",
+    "expansionSlug": "lorwyn-eclipsed",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502e6c59fa7240095586d4": {
+    "name": "Last March of the Ents",
+    "slug": "ltr-last-march-of-the-ents-418-mythic",
+    "nameSlug": "last-march-of-the-ents",
+    "expansion": "The Lord of the Rings: Tales of Middle-earth",
+    "expansionSlug": "the-lord-of-the-rings-tales-of-middle-earth",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502e6c59fa7240095586a5": {
+    "name": "Jeweled Lotus",
+    "slug": "cmm-jeweled-lotus-702-mythic",
+    "nameSlug": "jeweled-lotus",
+    "expansion": "Commander Masters",
+    "expansionSlug": "commander-masters",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502e6e59fa724009559fd5": {
+    "name": "Kindred Dominance",
+    "slug": "woc-kindred-dominance-113-rare",
+    "nameSlug": "kindred-dominance",
+    "expansion": "Wilds of Eldraine Commander",
+    "expansionSlug": "wilds-of-eldraine-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850317359fa7240095645fb": {
+    "name": "Talisman of Resilience",
+    "slug": "h1r-talisman-of-resilience-37-uncommon",
+    "nameSlug": "talisman-of-resilience",
+    "expansion": "Modern Horizons 1 Timeshifts",
+    "expansionSlug": "modern-horizons-1-timeshifts",
+    "finishes": [
+      "Foil",
+      "Etched"
+    ]
+  },
+  "6850322d59fa7240095668ac": {
+    "name": "Timberwatch Elf",
+    "slug": "cma-timberwatch-elf-156-common",
+    "nameSlug": "timberwatch-elf",
+    "expansion": "Commander Anthology",
+    "expansionSlug": "commander-anthology",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6a622181b8a77c5163abca13": {
+    "name": "The Queen of Dale",
+    "slug": "hob-the-queen-of-dale-217-mythic",
+    "nameSlug": "the-queen-of-dale",
+    "expansion": "The Hobbit",
+    "expansionSlug": "the-hobbit",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6a6221823af70c3e119de33d": {
+    "name": "The Theorist, Jace Beleren",
+    "slug": "fra-the-theorist-jace-beleren-443-mythic",
+    "nameSlug": "the-theorist-jace-beleren",
+    "expansion": "Reality Fracture",
+    "expansionSlug": "reality-fracture",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "6917ca39d403752343742228": {
+    "name": "Fire Lord Azula",
+    "slug": "tla-fire-lord-azula-313-rare",
+    "nameSlug": "fire-lord-azula",
+    "expansion": "Avatar: The Last Airbender",
+    "expansionSlug": "avatar-the-last-airbender",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
   }
 }
