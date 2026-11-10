@@ -33276,5 +33276,58 @@
     "finishes": [
       "Standard"
     ]
+  },
+  "6850322e59fa7240095677c0": {
+    "name": "The Lost and the Damned",
+    "slug": "40k-the-lost-and-the-damned-129-uncommon",
+    "nameSlug": "the-lost-and-the-damned",
+    "expansion": "Warhammer 40,000 Commander",
+    "expansionSlug": "warhammer-40000-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502e6c59fa724009558a95": {
+    "name": "Lightning Bolt",
+    "slug": "2x2-lightning-bolt-361-uncommon",
+    "nameSlug": "lightning-bolt",
+    "expansion": "Double Masters 2022",
+    "expansionSlug": "double-masters-2022",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6850301659fa7240095606e9": {
+    "name": "Pyrokinesis",
+    "slug": "ath-pyrokinesis-47-uncommon",
+    "nameSlug": "pyrokinesis",
+    "expansion": "Anthologies",
+    "expansionSlug": "anthologies",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850323059fa724009568b82": {
+    "name": "Undead Alchemist",
+    "slug": "isd-undead-alchemist-84-rare",
+    "nameSlug": "undead-alchemist",
+    "expansion": "Innistrad",
+    "expansionSlug": "innistrad",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685032e659fa72400956a4db": {
+    "name": "Yavimaya Coast",
+    "slug": "apc-yavimaya-coast-143-rare",
+    "nameSlug": "yavimaya-coast",
+    "expansion": "Apocalypse",
+    "expansionSlug": "apocalypse",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
