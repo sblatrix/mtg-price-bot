@@ -1,5 +1,44 @@
 [
   {
+    "name": "Unlicensed Hearse",
+    "format": "pioneer",
+    "rarity": "rare",
+    "pct_of_decks": 24,
+    "pct_change": 24,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-11-10T13:50:32.467295+00:00",
+    "url": "https://www.mtggoldfish.com/price/streets-of-new-capenna/246/unlicensed-hearse#paper",
+    "summary": "Nouvelle entrée en pioneer : 24% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Invoke Despair",
+    "format": "pioneer",
+    "rarity": "rare",
+    "pct_of_decks": 14,
+    "pct_change": 14,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-11-10T13:50:32.467295+00:00",
+    "url": "https://www.mtggoldfish.com/price/kamigawa-neon-dynasty/101/invoke-despair#paper",
+    "summary": "Nouvelle entrée en pioneer : 14% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Solemn Simulacrum",
+    "format": "commander",
+    "rarity": "rare",
+    "pct_of_decks": 13,
+    "pct_change": 13,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-11-10T13:50:32.467295+00:00",
+    "url": "https://www.mtggoldfish.com/price/final-fantasy-commander/360/solemn-simulacrum#paper",
+    "summary": "Nouvelle entrée en commander : 13% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Nethergoyf",
     "format": "modern",
     "rarity": "mythic",
@@ -2558,45 +2597,6 @@
     "detected_at": "2026-08-14T07:02:35.591237+00:00",
     "url": "https://www.mtggoldfish.com/price/double-masters/303/trinisphere#paper",
     "summary": "Nouvelle entrée en modern : 16% des decks du classement.",
-    "source": "MTGGoldfish"
-  },
-  {
-    "name": "Stifle",
-    "format": "legacy",
-    "rarity": "rare",
-    "pct_of_decks": 10,
-    "pct_change": 10,
-    "is_new_entry": true,
-    "in_post_release_window": false,
-    "detected_at": "2026-08-14T07:02:35.591237+00:00",
-    "url": "https://www.mtggoldfish.com/price/conspiracy/108/stifle#paper",
-    "summary": "Nouvelle entrée en legacy : 10% des decks du classement.",
-    "source": "MTGGoldfish"
-  },
-  {
-    "name": "Emrakul, the Aeons Torn",
-    "format": "legacy",
-    "rarity": "mythic",
-    "pct_of_decks": 10,
-    "pct_change": 10,
-    "is_new_entry": true,
-    "in_post_release_window": false,
-    "detected_at": "2026-08-14T07:02:35.591237+00:00",
-    "url": "https://www.mtggoldfish.com/price/double-masters-2022/1/emrakul-the-aeons-torn#paper",
-    "summary": "Nouvelle entrée en legacy : 10% des decks du classement.",
-    "source": "MTGGoldfish"
-  },
-  {
-    "name": "Thalia, Guardian of Thraben",
-    "format": "legacy",
-    "rarity": "rare",
-    "pct_of_decks": 10,
-    "pct_change": 10,
-    "is_new_entry": true,
-    "in_post_release_window": false,
-    "detected_at": "2026-08-13T07:05:56.135164+00:00",
-    "url": "https://www.mtggoldfish.com/price/innistrad-crimson-vow/38/thalia-guardian-of-thraben#paper",
-    "summary": "Nouvelle entrée en legacy : 10% des decks du classement.",
     "source": "MTGGoldfish"
   }
 ]
