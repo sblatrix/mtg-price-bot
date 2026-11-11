@@ -1,5 +1,44 @@
 [
   {
+    "name": "Deadly Cover-Up",
+    "format": "standard",
+    "rarity": "rare",
+    "pct_of_decks": 16,
+    "pct_change": 16,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-11-11T13:01:24.688635+00:00",
+    "url": "https://www.mtggoldfish.com/price/ravnica-murders-at-karlov-manor/83/deadly-cover-up#paper",
+    "summary": "Nouvelle entrée en standard : 16% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Overlord of the Balemurk",
+    "format": "standard",
+    "rarity": "mythic",
+    "pct_of_decks": 11,
+    "pct_change": 11,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-11-11T13:01:24.688635+00:00",
+    "url": "https://www.mtggoldfish.com/price/duskmourn-house-of-horror/113/overlord-of-the-balemurk#paper",
+    "summary": "Nouvelle entrée en standard : 11% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Anger of the Gods",
+    "format": "pioneer",
+    "rarity": "rare",
+    "pct_of_decks": 9,
+    "pct_change": 9,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-11-11T13:01:24.688635+00:00",
+    "url": "https://www.mtggoldfish.com/price/iconic-masters/116/anger-of-the-gods#paper",
+    "summary": "Nouvelle entrée en pioneer : 9% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Unlicensed Hearse",
     "format": "pioneer",
     "rarity": "rare",
@@ -2558,45 +2597,6 @@
     "detected_at": "2026-08-14T07:02:35.591237+00:00",
     "url": "https://www.mtggoldfish.com/price/edge-of-eternities/51/consult-the-star-charts#paper",
     "summary": "Nouvelle entrée en standard : 19% des decks du classement.",
-    "source": "MTGGoldfish"
-  },
-  {
-    "name": "Deceit",
-    "format": "standard",
-    "rarity": "mythic",
-    "pct_of_decks": 18,
-    "pct_change": 18,
-    "is_new_entry": true,
-    "in_post_release_window": false,
-    "detected_at": "2026-08-14T07:02:35.591237+00:00",
-    "url": "https://www.mtggoldfish.com/price/lorwyn-eclipsed/212/deceit#paper",
-    "summary": "Nouvelle entrée en standard : 18% des decks du classement.",
-    "source": "MTGGoldfish"
-  },
-  {
-    "name": "Outrageous Robbery",
-    "format": "standard",
-    "rarity": "rare",
-    "pct_of_decks": 16,
-    "pct_change": 16,
-    "is_new_entry": true,
-    "in_post_release_window": false,
-    "detected_at": "2026-08-14T07:02:35.591237+00:00",
-    "url": "https://www.mtggoldfish.com/price/ravnica-murders-at-karlov-manor/97/outrageous-robbery#paper",
-    "summary": "Nouvelle entrée en standard : 16% des decks du classement.",
-    "source": "MTGGoldfish"
-  },
-  {
-    "name": "Trinisphere",
-    "format": "modern",
-    "rarity": "mythic",
-    "pct_of_decks": 16,
-    "pct_change": 16,
-    "is_new_entry": true,
-    "in_post_release_window": false,
-    "detected_at": "2026-08-14T07:02:35.591237+00:00",
-    "url": "https://www.mtggoldfish.com/price/double-masters/303/trinisphere#paper",
-    "summary": "Nouvelle entrée en modern : 16% des decks du classement.",
     "source": "MTGGoldfish"
   }
 ]
