@@ -1,5 +1,31 @@
 [
   {
+    "name": "Wan Shi Tong, Librarian",
+    "expansion": "Avatar: The Last Airbender",
+    "finish": "Foil",
+    "language": "en",
+    "price_paid": 71.4,
+    "ref_price": 99.2,
+    "discount_pct": 28.0,
+    "confident": false,
+    "seller_country": "US",
+    "created_at": "2026-11-12T00:04:03.232Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/avatar-the-last-airbender/card/tla-wan-shi-tong-librarian-320-mythic"
+  },
+  {
+    "name": "Sliver Hive",
+    "expansion": "Magic 2015",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 7.5,
+    "ref_price": 10.5,
+    "discount_pct": 28.6,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-11-12T00:09:55.679Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/magic-2015/card/m15-sliver-hive-247-rare"
+  },
+  {
     "name": "Quest for Renewal",
     "expansion": "Worldwake",
     "finish": "Standard",
@@ -1272,31 +1298,5 @@
     "seller_country": "US",
     "created_at": "2026-11-09T06:37:12.739Z",
     "url": "https://cardnexus.com/fr/explore/mtg/star-trek/card/trk-the-needs-of-the-many-25-rare"
-  },
-  {
-    "name": "Torbran, Thane of Red Fell",
-    "expansion": "Stardates",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 2.44,
-    "ref_price": 4,
-    "discount_pct": 39.0,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-11-09T06:37:14.299Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/stardates/card/sds-torbran-thane-of-red-fell-12-mythic"
-  },
-  {
-    "name": "Thada Adel, Acquisitor",
-    "expansion": "Stardates",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 4.64,
-    "ref_price": 5.98,
-    "discount_pct": 22.4,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-11-09T06:37:14.299Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/stardates/card/sds-thada-adel-acquisitor-5-mythic"
   }
 ]

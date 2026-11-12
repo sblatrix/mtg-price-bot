@@ -33793,5 +33793,26 @@
       "Standard",
       "Foil"
     ]
+  },
+  "68502c9659fa72400954f223": {
+    "name": "Crop Rotation",
+    "slug": "plst-crop-rotation-ddr-7-common",
+    "nameSlug": "crop-rotation",
+    "expansion": "The List",
+    "expansionSlug": "the-list",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6917ca3cd403752343742375": {
+    "name": "Wan Shi Tong, Librarian",
+    "slug": "tla-wan-shi-tong-librarian-320-mythic",
+    "nameSlug": "wan-shi-tong-librarian",
+    "expansion": "Avatar: The Last Airbender",
+    "expansionSlug": "avatar-the-last-airbender",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
   }
 }
