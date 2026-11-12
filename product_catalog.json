@@ -33976,5 +33976,60 @@
       "Standard",
       "Foil"
     ]
+  },
+  "6aede1f04ff6f4610d30b1d9": {
+    "name": "Deep Space 9",
+    "slug": "trk-deep-space-9-263-mythic",
+    "nameSlug": "deep-space-9",
+    "expansion": "Star Trek",
+    "expansionSlug": "star-trek",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6850317359fa724009564576": {
+    "name": "Sunstrike Legionnaire",
+    "slug": "lgn-sunstrike-legionnaire-22-rare",
+    "nameSlug": "sunstrike-legionnaire",
+    "expansion": "Legions",
+    "expansionSlug": "legions",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6a62217e4f8f1be6031cc759": {
+    "name": "Steam Vents",
+    "slug": "trk-steam-vents-298-rare",
+    "nameSlug": "steam-vents",
+    "expansion": "Star Trek",
+    "expansionSlug": "star-trek",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6850317559fa7240095659e8": {
+    "name": "Story Circle",
+    "slug": "mmq-story-circle-51-uncommon",
+    "nameSlug": "story-circle",
+    "expansion": "Mercadian Masques",
+    "expansionSlug": "mercadian-masques",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502e6d59fa7240095591d3": {
+    "name": "Jace, Memory Adept",
+    "slug": "m14-jace-memory-adept-60-mythic",
+    "nameSlug": "jace-memory-adept",
+    "expansion": "Magic 2014",
+    "expansionSlug": "magic-2014",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
