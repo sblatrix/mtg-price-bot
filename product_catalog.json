@@ -34488,5 +34488,26 @@
     "finishes": [
       "Foil"
     ]
+  },
+  "68502bc959fa72400954a87b": {
+    "name": "Angelic Skirmisher",
+    "slug": "pgtc-angelic-skirmisher-a11-rare",
+    "nameSlug": "angelic-skirmisher",
+    "expansion": "Gatecrash Promos",
+    "expansionSlug": "gatecrash-promos",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "685030c159fa724009563b5b": {
+    "name": "Soulgorger Orgg",
+    "slug": "jud-soulgorger-orgg-99-uncommon",
+    "nameSlug": "soulgorger-orgg",
+    "expansion": "Judgment",
+    "expansionSlug": "judgment",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
