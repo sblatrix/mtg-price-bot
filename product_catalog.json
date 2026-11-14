@@ -34648,5 +34648,91 @@
       "Standard",
       "Foil"
     ]
+  },
+  "68502bca59fa72400954b339": {
+    "name": "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger",
+    "slug": "mh3-ajani-nacatl-pariah-ajani-nacatl-avenger-442-mythic",
+    "nameSlug": "ajani-nacatl-pariah-ajani-nacatl-avenger",
+    "expansion": "Modern Horizons 3",
+    "expansionSlug": "modern-horizons-3",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502df159fa7240095565cf": {
+    "name": "Harvester of Misery",
+    "slug": "big-harvester-of-misery-39-mythic",
+    "nameSlug": "harvester-of-misery",
+    "expansion": "The Big Score",
+    "expansionSlug": "the-big-score",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502eef59fa72400955b398": {
+    "name": "Mountain",
+    "slug": "neo-mountain-300-common",
+    "nameSlug": "mountain",
+    "expansion": "Kamigawa: Neon Dynasty",
+    "expansionSlug": "kamigawa-neon-dynasty",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502bc959fa72400954af11": {
+    "name": "Animate Dead",
+    "slug": "plst-animate-dead-ema-78-uncommon",
+    "nameSlug": "animate-dead",
+    "expansion": "The List",
+    "expansionSlug": "the-list",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6aede1e9121d229a6f1c20d2": {
+    "name": "Command Beacon",
+    "slug": "trc-command-beacon-520-rare",
+    "nameSlug": "command-beacon",
+    "expansion": "Star Trek Commander",
+    "expansionSlug": "star-trek-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6aede1e71e94e012bd811d2d": {
+    "name": "U.S.S. Defiant, Mirror Migrant",
+    "slug": "trc-uss-defiant-mirror-migrant-124-rare",
+    "nameSlug": "uss-defiant-mirror-migrant",
+    "expansion": "Star Trek Commander",
+    "expansionSlug": "star-trek-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6aede1e451e89341c333ca07": {
+    "name": "Chief Kyle, Transporter Tech",
+    "slug": "trc-chief-kyle-transporter-tech-87-rare",
+    "nameSlug": "chief-kyle-transporter-tech",
+    "expansion": "Star Trek Commander",
+    "expansionSlug": "star-trek-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6a7097dea1fe8fbb577a1183": {
+    "name": "Desert Were-Worm",
+    "slug": "hob-desert-were-worm-261-rare",
+    "nameSlug": "desert-were-worm",
+    "expansion": "The Hobbit",
+    "expansionSlug": "the-hobbit",
+    "finishes": [
+      "Foil"
+    ]
   }
 }
