@@ -34811,5 +34811,136 @@
       "Standard",
       "Foil"
     ]
+  },
+  "6850317359fa7240095642e6": {
+    "name": "Spirit of the Night",
+    "slug": "mir-spirit-of-the-night-146-rare",
+    "nameSlug": "spirit-of-the-night",
+    "expansion": "Mirage",
+    "expansionSlug": "mirage",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502c9659fa72400954e7d9": {
+    "name": "Devastating Dreams",
+    "slug": "tor-devastating-dreams-95-rare",
+    "nameSlug": "devastating-dreams",
+    "expansion": "Torment",
+    "expansionSlug": "torment",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850322e59fa7240095676c2": {
+    "name": "Undercity Sewers",
+    "slug": "mkm-undercity-sewers-332-rare",
+    "nameSlug": "undercity-sewers",
+    "expansion": "Murders at Karlov Manor",
+    "expansionSlug": "murders-at-karlov-manor",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502df159fa7240095565f0": {
+    "name": "Harvester of Misery",
+    "slug": "big-harvester-of-misery-74-mythic",
+    "nameSlug": "harvester-of-misery",
+    "expansion": "The Big Score",
+    "expansionSlug": "the-big-score",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502ef159fa72400955c4c2": {
+    "name": "Mana Crypt",
+    "slug": "spg-mana-crypt-17-mythic",
+    "nameSlug": "mana-crypt",
+    "expansion": "Special Guests",
+    "expansionSlug": "special-guests",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c2f59fa72400954d1cc": {
+    "name": "Chalice of the Void",
+    "slug": "lcc-chalice-of-the-void-105-mythic",
+    "nameSlug": "chalice-of-the-void",
+    "expansion": "The Lost Caverns of Ixalan Commander",
+    "expansionSlug": "the-lost-caverns-of-ixalan-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6850322f59fa7240095680b5": {
+    "name": "The One Ring",
+    "slug": "ltr-the-one-ring-451-mythic",
+    "nameSlug": "the-one-ring",
+    "expansion": "The Lord of the Rings: Tales of Middle-earth",
+    "expansionSlug": "the-lord-of-the-rings-tales-of-middle-earth",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850322e59fa724009566fd1": {
+    "name": "Urza's Workshop",
+    "slug": "brc-urzas-workshop-51-rare",
+    "nameSlug": "urzas-workshop",
+    "expansion": "The Brothers' War Commander",
+    "expansionSlug": "the-brothers-war-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502f7d59fa72400955db80": {
+    "name": "Plains",
+    "slug": "sld-plains-46-rare",
+    "nameSlug": "plains",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Standard",
+      "Etched"
+    ]
+  },
+  "68502c9659fa72400954e9c0": {
+    "name": "Dismember",
+    "slug": "tsr-dismember-322-special",
+    "nameSlug": "dismember",
+    "expansion": "Time Spiral Remastered",
+    "expansionSlug": "time-spiral-remastered",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685032e559fa724009569ff3": {
+    "name": "War Room",
+    "slug": "cmr-war-room-716-rare",
+    "nameSlug": "war-room",
+    "expansion": "Commander Legends",
+    "expansionSlug": "commander-legends",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850322d59fa72400956667f": {
+    "name": "Uro, Titan of Nature's Wrath",
+    "slug": "thb-uro-titan-of-natures-wrath-229-mythic",
+    "nameSlug": "uro-titan-of-natures-wrath",
+    "expansion": "Theros Beyond Death",
+    "expansionSlug": "theros-beyond-death",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
