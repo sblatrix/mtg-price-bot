@@ -1,5 +1,18 @@
 [
   {
+    "name": "Raph & Mikey, Troublemakers",
+    "format": "pioneer",
+    "rarity": "rare",
+    "pct_of_decks": 9,
+    "pct_change": 9,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-11-14T12:34:57.949365+00:00",
+    "url": "https://www.mtggoldfish.com/price/teenage-mutant-ninja-turtles/167/raph-mikey-troublemakers#paper",
+    "summary": "Nouvelle entrée en pioneer : 9% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Mightform Harmonizer",
     "format": "standard",
     "rarity": "rare",
@@ -2584,19 +2597,6 @@
     "detected_at": "2026-08-15T06:16:16.809423+00:00",
     "url": "https://www.mtggoldfish.com/price/duskmourn-house-of-horror/94/doomsday-excruciator#paper",
     "summary": "Nouvelle entrée en standard : 16% des decks du classement.",
-    "source": "MTGGoldfish"
-  },
-  {
-    "name": "Walking Ballista",
-    "format": "modern",
-    "rarity": "rare",
-    "pct_of_decks": 11,
-    "pct_change": 11,
-    "is_new_entry": true,
-    "in_post_release_window": false,
-    "detected_at": "2026-08-15T06:16:16.809423+00:00",
-    "url": "https://www.mtggoldfish.com/price/final-fantasy-commander/371/walking-ballista#paper",
-    "summary": "Nouvelle entrée en modern : 11% des decks du classement.",
     "source": "MTGGoldfish"
   }
 ]

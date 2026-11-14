@@ -13802,5 +13802,41 @@
   "Earthshaker Khenra|": {
     "rarity": "rare",
     "set": null
+  },
+  "Raph & Mikey, Troublemakers|tmt": {
+    "rarity": "rare",
+    "set": "tmt"
+  },
+  "Brainstorm <01a188ae-d240-7c9c-8e1c-d05ead106b68>|trc": {
+    "rarity": null,
+    "set": "trc"
+  },
+  "Swords to Plowshares <01a17e65-075d-7220-8054-bb033becc545>|trc": {
+    "rarity": null,
+    "set": "trc"
+  },
+  "Arcane Signet <01a1793f-9302-7ec3-8ec9-8da922574d41>|trc": {
+    "rarity": null,
+    "set": "trc"
+  },
+  "Talisman of Progress <01a1793f-a7af-7870-8bda-56899708c07d>|trc": {
+    "rarity": null,
+    "set": "trc"
+  },
+  "Wayfarer's Bauble <01a1793f-aa5f-73ff-8145-25e78ac5c5b4>|trc": {
+    "rarity": null,
+    "set": "trc"
+  },
+  "Beacon Bolt|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Crackling Drake|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Scarlet Spider, Ben Reilly|": {
+    "rarity": "rare",
+    "set": null
   }
 }
