@@ -1,5 +1,44 @@
 [
   {
+    "name": "Solid Ground",
+    "expansion": "Avatar: The Last Airbender Eternal",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 1.68,
+    "ref_price": 2.85,
+    "discount_pct": 41.1,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-11-14T15:00:09.264Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/avatar-the-last-airbender-eternal/card/tle-solid-ground-142-uncommon"
+  },
+  {
+    "name": "Witch-king of Angmar",
+    "expansion": "The Hobbit Eternal",
+    "finish": "Foil",
+    "language": "en",
+    "price_paid": 13.77,
+    "ref_price": 17.7,
+    "discount_pct": 22.2,
+    "confident": false,
+    "seller_country": "US",
+    "created_at": "2026-11-14T15:09:18.745Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/the-hobbit-eternal/card/hoc-witch-king-of-angmar-20-mythic"
+  },
+  {
+    "name": "Engineered Plague",
+    "expansion": "Urza's Legacy",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 4.98,
+    "ref_price": 6.25,
+    "discount_pct": 20.3,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-11-14T15:15:09.607Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/urzas-legacy/card/ulg-engineered-plague-51-uncommon"
+  },
+  {
     "name": "Namor the Sub-Mariner",
     "expansion": "Marvel Super Heroes",
     "finish": "Standard",
@@ -1259,44 +1298,5 @@
     "seller_country": "US",
     "created_at": "2026-11-12T07:24:47.069Z",
     "url": "https://cardnexus.com/fr/explore/mtg/star-trek-commander/card/trc-own-the-day-73-rare"
-  },
-  {
-    "name": "Nurgle's Rot",
-    "expansion": "Warhammer 40,000 Commander",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 3.45,
-    "ref_price": 5,
-    "discount_pct": 31.0,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-11-12T07:53:22.477Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/warhammer-40000-commander/card/40k-nurgles-rot-45-uncommon"
-  },
-  {
-    "name": "Pest Control",
-    "expansion": "The Big Score",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 3.17,
-    "ref_price": 4.15,
-    "discount_pct": 23.6,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-11-12T08:30:48.197Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/the-big-score/card/big-pest-control-22-mythic"
-  },
-  {
-    "name": "Synapse Sliver",
-    "expansion": "Legions",
-    "finish": "Foil",
-    "language": "de",
-    "price_paid": 46.67,
-    "ref_price": 68.2,
-    "discount_pct": 31.6,
-    "confident": false,
-    "seller_country": "GB",
-    "created_at": "2026-11-12T08:46:22.607Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/legions/card/lgn-synapse-sliver-53-rare"
   }
 ]
