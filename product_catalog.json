@@ -34734,5 +34734,71 @@
     "finishes": [
       "Foil"
     ]
+  },
+  "6aede1e599f29b253813ea60": {
+    "name": "Emergency Regeneration",
+    "slug": "trc-emergency-regeneration-14-rare",
+    "nameSlug": "emergency-regeneration",
+    "expansion": "Star Trek Commander",
+    "expansionSlug": "star-trek-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6aede1ea74f8ca4af5fcc78c": {
+    "name": "Spot, Felis catus",
+    "slug": "trc-spot-felis-catus-29-rare",
+    "nameSlug": "spot-felis-catus",
+    "expansion": "Star Trek Commander",
+    "expansionSlug": "star-trek-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6aede1e2858af627103f0dce": {
+    "name": "Alhammarret's Archive",
+    "slug": "trc-alhammarrets-archive-484-mythic",
+    "nameSlug": "alhammarrets-archive",
+    "expansion": "Star Trek Commander",
+    "expansionSlug": "star-trek-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6a7b05b10266baec51b67825": {
+    "name": "Lotho, Corrupt Shirriff",
+    "slug": "hoc-lotho-corrupt-shirriff-34-mythic",
+    "nameSlug": "lotho-corrupt-shirriff",
+    "expansion": "The Hobbit Eternal",
+    "expansionSlug": "the-hobbit-eternal",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6a34493999faed63cfc650b8": {
+    "name": "Nico Minoru, Runaway",
+    "slug": "msc-nico-minoru-runaway-700-mythic",
+    "nameSlug": "nico-minoru-runaway",
+    "expansion": "Marvel Super Heroes Commander",
+    "expansionSlug": "marvel-super-heroes-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6a22a72b3c32f48d1fdeaf4a": {
+    "name": "Namor the Sub-Mariner",
+    "slug": "msh-namor-the-sub-mariner-362-mythic",
+    "nameSlug": "namor-the-sub-mariner",
+    "expansion": "Marvel Super Heroes",
+    "expansionSlug": "marvel-super-heroes",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
   }
 }
