@@ -34973,5 +34973,70 @@
     "finishes": [
       "Standard"
     ]
+  },
+  "68502c9559fa72400954e102": {
+    "name": "Cloud, Midgar Mercenary",
+    "slug": "fin-cloud-midgar-mercenary-10-mythic",
+    "nameSlug": "cloud-midgar-mercenary",
+    "expansion": "Final Fantasy",
+    "expansionSlug": "final-fantasy",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685032e659fa72400956a7d1": {
+    "name": "Vivi Ornitier",
+    "slug": "fin-vivi-ornitier-514-mythic",
+    "nameSlug": "vivi-ornitier",
+    "expansion": "Final Fantasy",
+    "expansionSlug": "final-fantasy",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502e6c59fa724009558664": {
+    "name": "Kefka, Court Mage // Kefka, Ruler of Ruin",
+    "slug": "fin-kefka-court-mage-kefka-ruler-of-ruin-398-mythic",
+    "nameSlug": "kefka-court-mage-kefka-ruler-of-ruin",
+    "expansion": "Final Fantasy",
+    "expansionSlug": "final-fantasy",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502c9559fa72400954e112": {
+    "name": "Cloud, Midgar Mercenary",
+    "slug": "fin-cloud-midgar-mercenary-375-mythic",
+    "nameSlug": "cloud-midgar-mercenary",
+    "expansion": "Final Fantasy",
+    "expansionSlug": "final-fantasy",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502e6e59fa724009559c2d": {
+    "name": "Junún Efreet",
+    "slug": "arn-junun-efreet-28-rare",
+    "nameSlug": "junun-efreet",
+    "expansion": "Arabian Nights",
+    "expansionSlug": "arabian-nights",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6aede1df645638400e4bf4ed": {
+    "name": "Sword of Light and Shadow",
+    "slug": "trc-sword-of-light-and-shadow-502-mythic",
+    "nameSlug": "sword-of-light-and-shadow",
+    "expansion": "Star Trek Commander",
+    "expansionSlug": "star-trek-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
   }
 }
