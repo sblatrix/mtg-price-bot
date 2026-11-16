@@ -17887,7 +17887,6 @@
     "expansion": "Foundations Commander",
     "expansionSlug": "foundations-commander",
     "finishes": [
-      "Foil",
       "Standard"
     ]
   },
@@ -35492,6 +35491,169 @@
     "expansion": "Legends",
     "expansionSlug": "legends",
     "finishes": [
+      "Standard"
+    ]
+  },
+  "6aede1dfc44c3028b80acd1d": {
+    "name": "Herald's Horn",
+    "slug": "trc-heralds-horn-493-uncommon",
+    "nameSlug": "heralds-horn",
+    "expansion": "Star Trek Commander",
+    "expansionSlug": "star-trek-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6aede1e29a830089529442fd": {
+    "name": "Shared Animosity",
+    "slug": "trc-shared-animosity-454-rare",
+    "nameSlug": "shared-animosity",
+    "expansion": "Star Trek Commander",
+    "expansionSlug": "star-trek-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6aede1e91b66d38d604387b4": {
+    "name": "Ancient Greenwarden",
+    "slug": "trc-ancient-greenwarden-457-mythic",
+    "nameSlug": "ancient-greenwarden",
+    "expansion": "Star Trek Commander",
+    "expansionSlug": "star-trek-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6aede1e5332ca32647017853": {
+    "name": "Guardian Project",
+    "slug": "trc-guardian-project-463-rare",
+    "nameSlug": "guardian-project",
+    "expansion": "Star Trek Commander",
+    "expansionSlug": "star-trek-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6aede1e8a93817094f19d729": {
+    "name": "Sea of Clouds",
+    "slug": "trc-sea-of-clouds-555-rare",
+    "nameSlug": "sea-of-clouds",
+    "expansion": "Star Trek Commander",
+    "expansionSlug": "star-trek-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6a34492d61888b3c15476bca": {
+    "name": "Lightning Greaves",
+    "slug": "msc-lightning-greaves-202-uncommon",
+    "nameSlug": "lightning-greaves",
+    "expansion": "Marvel Super Heroes Commander",
+    "expansionSlug": "marvel-super-heroes-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6a22a72b3c32f48d1fdeaee0": {
+    "name": "Iron Man, Bleeding Edge",
+    "slug": "msc-iron-man-bleeding-edge-626-rare",
+    "nameSlug": "iron-man-bleeding-edge",
+    "expansion": "Marvel Super Heroes Commander",
+    "expansionSlug": "marvel-super-heroes-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6a203ae13c32f48d1fce60d7": {
+    "name": "Spirit of the Hearth",
+    "slug": "sld-spirit-of-the-hearth-2654-rare",
+    "nameSlug": "spirit-of-the-hearth",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502bc859fa72400954a2f8": {
+    "name": "Arbor Elf",
+    "slug": "sld-arbor-elf-1317-rare",
+    "nameSlug": "arbor-elf",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502c2d59fa72400954bb8f": {
+    "name": "Boros Charm",
+    "slug": "fdn-boros-charm-721-uncommon",
+    "nameSlug": "boros-charm",
+    "expansion": "Foundations",
+    "expansionSlug": "foundations",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "6a7097df62d71b205e7f45df": {
+    "name": "Aragorn, the Uniter",
+    "slug": "hoc-aragorn-the-uniter-69-mythic",
+    "nameSlug": "aragorn-the-uniter",
+    "expansion": "The Hobbit Eternal",
+    "expansionSlug": "the-hobbit-eternal",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "68502eee59fa72400955a33c": {
+    "name": "Morphic Pool",
+    "slug": "clb-morphic-pool-603-rare",
+    "nameSlug": "morphic-pool",
+    "expansion": "Commander Legends: Battle for Baldur's Gate",
+    "expansionSlug": "commander-legends-battle-for-baldurs-gate",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502ef059fa72400955bd95": {
+    "name": "Nacatl War-Pride",
+    "slug": "fut-nacatl-war-pride-147-uncommon",
+    "nameSlug": "nacatl-war-pride",
+    "expansion": "Future Sight",
+    "expansionSlug": "future-sight",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6aa7c2373a966cd06efd5421": {
+    "name": "Sword of War and Peace",
+    "slug": "sld-sword-of-war-and-peace-2793-mythic",
+    "nameSlug": "sword-of-war-and-peace",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "69ae3412b8aecc4cebe7eb5e": {
+    "name": "Mutational Advantage",
+    "slug": "sld-mutational-advantage-2454-rare",
+    "nameSlug": "mutational-advantage",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil",
       "Standard"
     ]
   }
