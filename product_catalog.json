@@ -35250,5 +35250,37 @@
       "Standard",
       "Foil"
     ]
+  },
+  "6aede1f7f45f4ed1cfbb0db2": {
+    "name": "Sen Triplets",
+    "slug": "sds-sen-triplets-16-mythic",
+    "nameSlug": "sen-triplets",
+    "expansion": "Stardates",
+    "expansionSlug": "stardates",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6a622182ac203ab63f8bc3bc": {
+    "name": "Liliana the Repentant",
+    "slug": "fra-liliana-the-repentant-305-rare",
+    "nameSlug": "liliana-the-repentant",
+    "expansion": "Reality Fracture",
+    "expansionSlug": "reality-fracture",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6a622181295955dc9cc7dd0d": {
+    "name": "Bard, King of Dale",
+    "slug": "hob-bard-king-of-dale-280-mythic",
+    "nameSlug": "bard-king-of-dale",
+    "expansion": "The Hobbit",
+    "expansionSlug": "the-hobbit",
+    "finishes": [
+      "Foil"
+    ]
   }
 }
