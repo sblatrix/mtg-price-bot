@@ -1,5 +1,31 @@
 [
   {
+    "name": "Moonshadow",
+    "format": "modern",
+    "rarity": "mythic",
+    "pct_of_decks": 12,
+    "pct_change": 12,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-11-17T14:59:03.038983+00:00",
+    "url": "https://www.mtggoldfish.com/price/lorwyn-eclipsed/110/moonshadow#paper",
+    "summary": "Nouvelle entrée en modern : 12% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Invoke Despair",
+    "format": "pioneer",
+    "rarity": "rare",
+    "pct_of_decks": 15,
+    "pct_change": 15,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-11-17T14:59:03.038983+00:00",
+    "url": "https://www.mtggoldfish.com/price/kamigawa-neon-dynasty/101/invoke-despair#paper",
+    "summary": "Nouvelle entrée en pioneer : 15% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Get Lost",
     "format": "standard",
     "rarity": "rare",
@@ -2571,32 +2597,6 @@
     "detected_at": "2026-08-19T06:20:54.172230+00:00",
     "url": "https://www.mtggoldfish.com/price/tarkir-dragonstorm/196/jeskai-revelation#paper",
     "summary": "Nouvelle entrée en standard : 15% des decks du classement.",
-    "source": "MTGGoldfish"
-  },
-  {
-    "name": "Enduring Curiosity",
-    "format": "standard",
-    "rarity": "rare",
-    "pct_of_decks": 13,
-    "pct_change": 13,
-    "is_new_entry": true,
-    "in_post_release_window": false,
-    "detected_at": "2026-08-19T06:20:54.172230+00:00",
-    "url": "https://www.mtggoldfish.com/price/duskmourn-house-of-horror/51/enduring-curiosity#paper",
-    "summary": "Nouvelle entrée en standard : 13% des decks du classement.",
-    "source": "MTGGoldfish"
-  },
-  {
-    "name": "Wan Shi Tong, Librarian",
-    "format": "standard",
-    "rarity": "mythic",
-    "pct_of_decks": 12,
-    "pct_change": 12,
-    "is_new_entry": true,
-    "in_post_release_window": false,
-    "detected_at": "2026-08-19T06:20:54.172230+00:00",
-    "url": "https://www.mtggoldfish.com/price/avatar-the-last-airbender/78/wan-shi-tong-librarian#paper",
-    "summary": "Nouvelle entrée en standard : 12% des decks du classement.",
     "source": "MTGGoldfish"
   }
 ]
