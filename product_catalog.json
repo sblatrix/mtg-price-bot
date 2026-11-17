@@ -35656,5 +35656,141 @@
       "Foil",
       "Standard"
     ]
+  },
+  "68502e6d59fa72400955966e": {
+    "name": "Jacked Rabbit",
+    "slug": "blc-jacked-rabbit-45-rare",
+    "nameSlug": "jacked-rabbit",
+    "expansion": "Bloomburrow Commander",
+    "expansionSlug": "bloomburrow-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "685030be59fa7240095621a9": {
+    "name": "Shard of the Nightbringer",
+    "slug": "40k-shard-of-the-nightbringer-55-rare",
+    "nameSlug": "shard-of-the-nightbringer",
+    "expansion": "Warhammer 40,000 Commander",
+    "expansionSlug": "warhammer-40000-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502e6c59fa724009558d30": {
+    "name": "Llanowar Wastes",
+    "slug": "bro-llanowar-wastes-299-rare",
+    "nameSlug": "llanowar-wastes",
+    "expansion": "The Brothers' War",
+    "expansionSlug": "the-brothers-war",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502bc959fa72400954b079": {
+    "name": "Ascend from Avernus",
+    "slug": "clb-ascend-from-avernus-5-rare",
+    "nameSlug": "ascend-from-avernus",
+    "expansion": "Commander Legends: Battle for Baldur's Gate",
+    "expansionSlug": "commander-legends-battle-for-baldurs-gate",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850301559fa72400955fc43": {
+    "name": "Radiant Solar",
+    "slug": "afc-radiant-solar-9-rare",
+    "nameSlug": "radiant-solar",
+    "expansion": "Forgotten Realms Commander",
+    "expansionSlug": "forgotten-realms-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850301559fa72400955f5e6": {
+    "name": "Ruxa, Patient Professor",
+    "slug": "c21-ruxa-patient-professor-393-rare",
+    "nameSlug": "ruxa-patient-professor",
+    "expansion": "Commander 2021",
+    "expansionSlug": "commander-2021",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "685032e459fa724009569110": {
+    "name": "Victory Chimes",
+    "slug": "c21-victory-chimes-274-rare",
+    "nameSlug": "victory-chimes",
+    "expansion": "Commander 2021",
+    "expansionSlug": "commander-2021",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850301559fa72400955ff43": {
+    "name": "Rough // Tumble",
+    "slug": "tsr-rough-tumble-186-uncommon",
+    "nameSlug": "rough-tumble",
+    "expansion": "Time Spiral Remastered",
+    "expansionSlug": "time-spiral-remastered",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502bc959fa72400954a745": {
+    "name": "Baleful Strix",
+    "slug": "pca-baleful-strix-82-uncommon",
+    "nameSlug": "baleful-strix",
+    "expansion": "Planechase Anthology",
+    "expansionSlug": "planechase-anthology",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502eef59fa72400955b426": {
+    "name": "Mystic Forge",
+    "slug": "brr-mystic-forge-99-mythic",
+    "nameSlug": "mystic-forge",
+    "expansion": "The Brothers' War Retro Artifacts",
+    "expansionSlug": "the-brothers-war-retro-artifacts",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6a6221819c376fe9090bd1e6": {
+    "name": "The Lonely Mountain",
+    "slug": "hob-the-lonely-mountain-284-rare",
+    "nameSlug": "the-lonely-mountain",
+    "expansion": "The Hobbit",
+    "expansionSlug": "the-hobbit",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "68502c2f59fa72400954d574": {
+    "name": "Blasphemous Edict",
+    "slug": "fdn-blasphemous-edict-459-rare",
+    "nameSlug": "blasphemous-edict",
+    "expansion": "Foundations",
+    "expansionSlug": "foundations",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502bc659fa7240095490a5": {
+    "name": "Abhorrent Oculus",
+    "slug": "dsk-abhorrent-oculus-42-mythic",
+    "nameSlug": "abhorrent-oculus",
+    "expansion": "Duskmourn: House of Horror",
+    "expansionSlug": "duskmourn-house-of-horror",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
