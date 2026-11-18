@@ -1,5 +1,44 @@
 [
   {
+    "name": "Quantum Riddler",
+    "format": "modern",
+    "rarity": "mythic",
+    "pct_of_decks": 14,
+    "pct_change": 14,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-11-18T14:39:35.548059+00:00",
+    "url": "https://www.mtggoldfish.com/price/edge-of-eternities/72/quantum-riddler#paper",
+    "summary": "Nouvelle entrée en modern : 14% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "March of Otherworldly Light",
+    "format": "pioneer",
+    "rarity": "rare",
+    "pct_of_decks": 9,
+    "pct_change": 9,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-11-18T14:39:35.548059+00:00",
+    "url": "https://www.mtggoldfish.com/price/kamigawa-neon-dynasty/28/march-of-otherworldly-light#paper",
+    "summary": "Nouvelle entrée en pioneer : 9% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Quantum Riddler",
+    "format": "legacy",
+    "rarity": "mythic",
+    "pct_of_decks": 11,
+    "pct_change": 11,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-11-18T14:39:35.548059+00:00",
+    "url": "https://www.mtggoldfish.com/price/edge-of-eternities/72/quantum-riddler#paper",
+    "summary": "Nouvelle entrée en legacy : 11% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Moonshadow",
     "format": "modern",
     "rarity": "mythic",
@@ -2558,45 +2597,6 @@
     "detected_at": "2026-08-22T06:17:11.579137+00:00",
     "url": "https://www.mtggoldfish.com/price/double-masters-2022/1/emrakul-the-aeons-torn#paper",
     "summary": "Nouvelle entrée en legacy : 10% des decks du classement.",
-    "source": "MTGGoldfish"
-  },
-  {
-    "name": "Trinisphere",
-    "format": "modern",
-    "rarity": "mythic",
-    "pct_of_decks": 11,
-    "pct_change": 11,
-    "is_new_entry": true,
-    "in_post_release_window": false,
-    "detected_at": "2026-08-21T06:22:21.324261+00:00",
-    "url": "https://www.mtggoldfish.com/price/double-masters/303/trinisphere#paper",
-    "summary": "Nouvelle entrée en modern : 11% des decks du classement.",
-    "source": "MTGGoldfish"
-  },
-  {
-    "name": "Chalice of the Void",
-    "format": "legacy",
-    "rarity": "rare",
-    "pct_of_decks": 10,
-    "pct_change": 10,
-    "is_new_entry": true,
-    "in_post_release_window": false,
-    "detected_at": "2026-08-20T06:21:39.497910+00:00",
-    "url": "https://www.mtggoldfish.com/price/modern-masters/203/chalice-of-the-void#paper",
-    "summary": "Nouvelle entrée en legacy : 10% des decks du classement.",
-    "source": "MTGGoldfish"
-  },
-  {
-    "name": "Jeskai Revelation",
-    "format": "standard",
-    "rarity": "mythic",
-    "pct_of_decks": 15,
-    "pct_change": 15,
-    "is_new_entry": true,
-    "in_post_release_window": false,
-    "detected_at": "2026-08-19T06:20:54.172230+00:00",
-    "url": "https://www.mtggoldfish.com/price/tarkir-dragonstorm/196/jeskai-revelation#paper",
-    "summary": "Nouvelle entrée en standard : 15% des decks du classement.",
     "source": "MTGGoldfish"
   }
 ]
