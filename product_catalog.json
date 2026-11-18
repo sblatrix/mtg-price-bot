@@ -8579,7 +8579,6 @@
     "expansion": "Reality Fracture",
     "expansionSlug": "reality-fracture",
     "finishes": [
-      "Foil",
       "Standard"
     ]
   },
@@ -36045,6 +36044,451 @@
     "finishes": [
       "Standard",
       "Foil"
+    ]
+  },
+  "6aa7c23c7fbf42417394150e": {
+    "name": "Emrakul, the Exigent Doom",
+    "slug": "fra-emrakul-the-exigent-doom-423-mythic",
+    "nameSlug": "emrakul-the-exigent-doom",
+    "expansion": "Reality Fracture",
+    "expansionSlug": "reality-fracture",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68b9848affc22b0fa46d39a2": {
+    "name": "Saproling",
+    "slug": "plst-saproling-twoc-15-special",
+    "nameSlug": "saproling",
+    "expansion": "The List",
+    "expansionSlug": "the-list",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502e6b59fa72400955820b": {
+    "name": "Living Death",
+    "slug": "tmp-living-death-142-rare",
+    "nameSlug": "living-death",
+    "expansion": "Tempest",
+    "expansionSlug": "tempest",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502ef159fa72400955c440": {
+    "name": "Millstone",
+    "slug": "atq-millstone-56-uncommon",
+    "nameSlug": "millstone",
+    "expansion": "Antiquities",
+    "expansionSlug": "antiquities",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850317359fa7240095646e5": {
+    "name": "Swamp",
+    "slug": "parl-swamp-3-rare",
+    "nameSlug": "swamp",
+    "expansion": "Arena League 1996",
+    "expansionSlug": "arena-league-1996",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68b9848affc22b0fa46d3958": {
+    "name": "Avatar Aang // Aang, Master of Elements",
+    "slug": "tla-avatar-aang-aang-master-of-elements-207-mythic",
+    "nameSlug": "avatar-aang-aang-master-of-elements",
+    "expansion": "Avatar: The Last Airbender",
+    "expansionSlug": "avatar-the-last-airbender",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502e6d59fa7240095593f8": {
+    "name": "Kethis, the Hidden Hand",
+    "slug": "m20-kethis-the-hidden-hand-211-mythic",
+    "nameSlug": "kethis-the-hidden-hand",
+    "expansion": "Core Set 2020",
+    "expansionSlug": "core-set-2020",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502e6b59fa724009557f53": {
+    "name": "Kaalia of the Vast",
+    "slug": "cmd-kaalia-of-the-vast-206-mythic",
+    "nameSlug": "kaalia-of-the-vast",
+    "expansion": "Commander 2011",
+    "expansionSlug": "commander-2011",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502e6d59fa724009559aca": {
+    "name": "Luxior, Giada's Gift",
+    "slug": "snc-luxior-giadas-gift-240-mythic",
+    "nameSlug": "luxior-giadas-gift",
+    "expansion": "Streets of New Capenna",
+    "expansionSlug": "streets-of-new-capenna",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "687262e3620a85f87e0fe4e3": {
+    "name": "The Mightstone and Weakstone // Urza, Planeswalker",
+    "slug": "bro-the-mightstone-and-weakstone-urza-planeswalker-238-rare",
+    "nameSlug": "the-mightstone-and-weakstone-urza-planeswalker",
+    "expansion": "The Brothers' War",
+    "expansionSlug": "the-brothers-war",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502e6c59fa724009558ab5": {
+    "name": "Kuldotha Forgemaster",
+    "slug": "som-kuldotha-forgemaster-169-rare",
+    "nameSlug": "kuldotha-forgemaster",
+    "expansion": "Scars of Mirrodin",
+    "expansionSlug": "scars-of-mirrodin",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502ef059fa72400955bc23": {
+    "name": "Memnarch",
+    "slug": "dst-memnarch-129-rare",
+    "nameSlug": "memnarch",
+    "expansion": "Darksteel",
+    "expansionSlug": "darksteel",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502bc959fa72400954aefb": {
+    "name": "Arcbound Ravager",
+    "slug": "dst-arcbound-ravager-100-rare",
+    "nameSlug": "arcbound-ravager",
+    "expansion": "Darksteel",
+    "expansionSlug": "darksteel",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502bc759fa724009549b37": {
+    "name": "Alhammarret's Archive",
+    "slug": "plst-alhammarrets-archive-ori-221-mythic",
+    "nameSlug": "alhammarrets-archive",
+    "expansion": "The List",
+    "expansionSlug": "the-list",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502c9659fa72400954eee1": {
+    "name": "Conduit of Ruin",
+    "slug": "bfz-conduit-of-ruin-4-rare",
+    "nameSlug": "conduit-of-ruin",
+    "expansion": "Battle for Zendikar",
+    "expansionSlug": "battle-for-zendikar",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502e6d59fa7240095598a1": {
+    "name": "Karn, Scion of Urza",
+    "slug": "dom-karn-scion-of-urza-1-mythic",
+    "nameSlug": "karn-scion-of-urza",
+    "expansion": "Dominaria",
+    "expansionSlug": "dominaria",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502f7f59fa72400955e81d": {
+    "name": "Nyx Lotus",
+    "slug": "thb-nyx-lotus-235-rare",
+    "nameSlug": "nyx-lotus",
+    "expansion": "Theros Beyond Death",
+    "expansionSlug": "theros-beyond-death",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502bca59fa72400954b6c5": {
+    "name": "Batterskull",
+    "slug": "nph-batterskull-130-mythic",
+    "nameSlug": "batterskull",
+    "expansion": "New Phyrexia",
+    "expansionSlug": "new-phyrexia",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502e6b59fa724009557e4b": {
+    "name": "Lithoform Engine",
+    "slug": "brc-lithoform-engine-146-mythic",
+    "nameSlug": "lithoform-engine",
+    "expansion": "The Brothers' War Commander",
+    "expansionSlug": "the-brothers-war-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502bca59fa72400954b6a2": {
+    "name": "Batterskull",
+    "slug": "2xm-batterskull-234-mythic",
+    "nameSlug": "batterskull",
+    "expansion": "Double Masters",
+    "expansionSlug": "double-masters",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502d0659fa72400955232f": {
+    "name": "Engineered Explosives",
+    "slug": "5dn-engineered-explosives-118-rare",
+    "nameSlug": "engineered-explosives",
+    "expansion": "Fifth Dawn",
+    "expansionSlug": "fifth-dawn",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502ef159fa72400955c8ac": {
+    "name": "Mana Reflection",
+    "slug": "shm-mana-reflection-122-rare",
+    "nameSlug": "mana-reflection",
+    "expansion": "Shadowmoor",
+    "expansionSlug": "shadowmoor",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502bc859fa72400954a0aa": {
+    "name": "Allosaurus Rider",
+    "slug": "dd1-allosaurus-rider-2-rare",
+    "nameSlug": "allosaurus-rider",
+    "expansion": "Duel Decks: Elves vs. Goblins",
+    "expansionSlug": "duel-decks-elves-vs-goblins",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502df159fa724009556541": {
+    "name": "Harvest Season",
+    "slug": "akh-harvest-season-170-rare",
+    "nameSlug": "harvest-season",
+    "expansion": "Amonkhet",
+    "expansionSlug": "amonkhet",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850317459fa724009564fe4": {
+    "name": "Surrak and Goreclaw",
+    "slug": "mom-surrak-and-goreclaw-337-rare",
+    "nameSlug": "surrak-and-goreclaw",
+    "expansion": "March of the Machine",
+    "expansionSlug": "march-of-the-machine",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502ef059fa72400955bb68": {
+    "name": "Myth Unbound",
+    "slug": "c18-myth-unbound-32-rare",
+    "nameSlug": "myth-unbound",
+    "expansion": "Commander 2018",
+    "expansionSlug": "commander-2018",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502d7b59fa72400955446e": {
+    "name": "Generous Patron",
+    "slug": "fic-generous-patron-305-rare",
+    "nameSlug": "generous-patron",
+    "expansion": "Final Fantasy Commander",
+    "expansionSlug": "final-fantasy-commander",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850317659fa72400956646b": {
+    "name": "Tendershoot Dryad",
+    "slug": "prix-tendershoot-dryad-147s-rare",
+    "nameSlug": "tendershoot-dryad",
+    "expansion": "Rivals of Ixalan Promos",
+    "expansionSlug": "rivals-of-ixalan-promos",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "69e1040993c168406dc0b71f": {
+    "name": "Improvisation Capstone",
+    "slug": "sos-improvisation-capstone-120-mythic",
+    "nameSlug": "improvisation-capstone",
+    "expansion": "Secrets of Strixhaven",
+    "expansionSlug": "secrets-of-strixhaven",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "685030bf59fa724009562b4b": {
+    "name": "Scrap Mastery",
+    "slug": "c14-scrap-mastery-38-rare",
+    "nameSlug": "scrap-mastery",
+    "expansion": "Commander 2014",
+    "expansionSlug": "commander-2014",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502df159fa724009555f59": {
+    "name": "Heat Shimmer",
+    "slug": "lrw-heat-shimmer-175-rare",
+    "nameSlug": "heat-shimmer",
+    "expansion": "Lorwyn",
+    "expansionSlug": "lorwyn",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d0359fa7240095505cc": {
+    "name": "Dualcaster Mage",
+    "slug": "c20-dualcaster-mage-150-rare",
+    "nameSlug": "dualcaster-mage",
+    "expansion": "Commander 2020",
+    "expansionSlug": "commander-2020",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850301659fa724009560573": {
+    "name": "Reiterate",
+    "slug": "tsp-reiterate-175-rare",
+    "nameSlug": "reiterate",
+    "expansion": "Time Spiral",
+    "expansionSlug": "time-spiral",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685030c059fa7240095633a9": {
+    "name": "Siege-Gang Commander",
+    "slug": "scg-siege-gang-commander-103-rare",
+    "nameSlug": "siege-gang-commander",
+    "expansion": "Scourge",
+    "expansionSlug": "scourge",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d0359fa7240095505e4": {
+    "name": "Dualcaster Mage",
+    "slug": "jmp-dualcaster-mage-313-rare",
+    "nameSlug": "dualcaster-mage",
+    "expansion": "Jumpstart",
+    "expansionSlug": "jumpstart",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6aa7c23da014749e2c61730b": {
+    "name": "Overwrite the Multiverse",
+    "slug": "fra-overwrite-the-multiverse-445-mythic",
+    "nameSlug": "overwrite-the-multiverse",
+    "expansion": "Reality Fracture",
+    "expansionSlug": "reality-fracture",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "68502e6b59fa724009557e25": {
+    "name": "Lotho, Corrupt Shirriff",
+    "slug": "pltr-lotho-corrupt-shirriff-213s-rare",
+    "nameSlug": "lotho-corrupt-shirriff",
+    "expansion": "Tales of Middle-earth Promos",
+    "expansionSlug": "tales-of-middle-earth-promos",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "685032e459fa724009569561": {
+    "name": "Vilis, Broker of Blood",
+    "slug": "pm20-vilis-broker-of-blood-122p-rare",
+    "nameSlug": "vilis-broker-of-blood",
+    "expansion": "Core Set 2020 Promos",
+    "expansionSlug": "core-set-2020-promos",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502df159fa7240095566df": {
+    "name": "High Noon",
+    "slug": "otj-high-noon-314-rare",
+    "nameSlug": "high-noon",
+    "expansion": "Outlaws of Thunder Junction",
+    "expansionSlug": "outlaws-of-thunder-junction",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6aede1e23adf04e954f76000": {
+    "name": "Training Center",
+    "slug": "trc-training-center-572-rare",
+    "nameSlug": "training-center",
+    "expansion": "Star Trek Commander",
+    "expansionSlug": "star-trek-commander",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502ef059fa72400955ba43": {
+    "name": "Mox Opal",
+    "slug": "sld-mox-opal-1072-mythic",
+    "nameSlug": "mox-opal",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Etched"
+    ]
+  },
+  "6850301659fa7240095606c7": {
+    "name": "Recurring Nightmare",
+    "slug": "exo-recurring-nightmare-72-rare",
+    "nameSlug": "recurring-nightmare",
+    "expansion": "Exodus",
+    "expansionSlug": "exodus",
+    "finishes": [
+      "Standard"
     ]
   }
 }
