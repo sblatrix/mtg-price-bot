@@ -1,5 +1,18 @@
 [
   {
+    "name": "Abrupt Decay",
+    "format": "pioneer",
+    "rarity": "rare",
+    "pct_of_decks": 21,
+    "pct_change": 21,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-11-19T14:46:13.737741+00:00",
+    "url": "https://www.mtggoldfish.com/price/guilds-of-ravnica-guild-kits/57/abrupt-decay#paper",
+    "summary": "Nouvelle entrée en pioneer : 21% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Quantum Riddler",
     "format": "modern",
     "rarity": "mythic",
@@ -2584,19 +2597,6 @@
     "detected_at": "2026-08-23T06:18:32.059540+00:00",
     "url": "https://www.mtggoldfish.com/price/core-set-2020/227/grafdiggers-cage#paper",
     "summary": "Nouvelle entrée en modern : 11% des decks du classement.",
-    "source": "MTGGoldfish"
-  },
-  {
-    "name": "Emrakul, the Aeons Torn",
-    "format": "legacy",
-    "rarity": "mythic",
-    "pct_of_decks": 10,
-    "pct_change": 10,
-    "is_new_entry": true,
-    "in_post_release_window": false,
-    "detected_at": "2026-08-22T06:17:11.579137+00:00",
-    "url": "https://www.mtggoldfish.com/price/double-masters-2022/1/emrakul-the-aeons-torn#paper",
-    "summary": "Nouvelle entrée en legacy : 10% des decks du classement.",
     "source": "MTGGoldfish"
   }
 ]

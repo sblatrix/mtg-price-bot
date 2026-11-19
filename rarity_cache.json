@@ -13994,5 +13994,37 @@
   "Necrotic Hex|": {
     "rarity": "rare",
     "set": null
+  },
+  "Negate|bbd": {
+    "rarity": "common",
+    "set": "bbd"
+  },
+  "Carnivorous Cultivator <01a0a074-43c1-7b12-a0d7-0f363bc325d3>|fra": {
+    "rarity": null,
+    "set": "fra"
+  },
+  "Toxicrene|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Illness in the Ranks|": {
+    "rarity": "uncommon",
+    "set": null
+  },
+  "Leovold, Emissary of Trest|": {
+    "rarity": "mythic",
+    "set": null
+  },
+  "Bane of Progress|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "Archnemesis|": {
+    "rarity": "rare",
+    "set": null
+  },
+  "The Ur-dragon|": {
+    "rarity": "mythic",
+    "set": null
   }
 }
