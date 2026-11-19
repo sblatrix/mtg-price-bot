@@ -36587,5 +36587,37 @@
       "Foil",
       "Standard"
     ]
+  },
+  "68502bc859fa72400954a10c": {
+    "name": "Baleful Strix",
+    "slug": "2xm-baleful-strix-191-rare",
+    "nameSlug": "baleful-strix",
+    "expansion": "Double Masters",
+    "expansionSlug": "double-masters",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502f7d59fa72400955d89b": {
+    "name": "Nicol Bolas, God-Pharaoh",
+    "slug": "2x2-nicol-bolas-god-pharaoh-260-mythic",
+    "nameSlug": "nicol-bolas-god-pharaoh",
+    "expansion": "Double Masters 2022",
+    "expansionSlug": "double-masters-2022",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6a96039d8fc28490253fdf3b": {
+    "name": "Secret Lair Drop Secret Lair x Teenage Mutant Ninja Turtles VHS Villains Traditional Foil Edition",
+    "slug": "sld-secret-lair-drop-secret-lair-x-teenage-mutant-ninja-turtles-vhs-villains-traditional-foil-edition",
+    "nameSlug": "secret-lair-drop-secret-lair-x-teenage-mutant-ninja-turtles-vhs-villains-traditional-foil-edition",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Standard"
+    ]
   }
 }
