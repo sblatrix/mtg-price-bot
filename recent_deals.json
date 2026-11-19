@@ -1,5 +1,44 @@
 [
   {
+    "name": "Blazing Specter",
+    "expansion": "Invasion",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 2.64,
+    "ref_price": 4.2,
+    "discount_pct": 37.1,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-11-19T01:27:57.598Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/invasion/card/inv-blazing-specter-236-rare"
+  },
+  {
+    "name": "Sinister Concierge",
+    "expansion": "New Capenna Commander",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 1.03,
+    "ref_price": 2.1,
+    "discount_pct": 51.0,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-11-19T01:28:54.081Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/new-capenna-commander/card/ncc-sinister-concierge-30-rare"
+  },
+  {
+    "name": "Diamond City",
+    "expansion": "Fallout",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 2.0,
+    "ref_price": 3.15,
+    "discount_pct": 36.5,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-11-19T01:29:06.142Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/fallout/card/pip-diamond-city-147-rare"
+  },
+  {
     "name": "Spot, Felis catus",
     "expansion": "Star Trek Commander",
     "finish": "Standard",
@@ -1259,44 +1298,5 @@
     "seller_country": "US",
     "created_at": "2026-11-16T17:38:12.161Z",
     "url": "https://cardnexus.com/fr/explore/mtg/star-trek-commander/card/trc-the-immortal-sun-495-mythic"
-  },
-  {
-    "name": "Emergency Regeneration",
-    "expansion": "Star Trek Commander",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 2.37,
-    "ref_price": 3.1,
-    "discount_pct": 23.5,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-11-16T17:38:12.161Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/star-trek-commander/card/trc-emergency-regeneration-14-rare"
-  },
-  {
-    "name": "Loran of the Third Path",
-    "expansion": "Star Trek Commander",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 1.97,
-    "ref_price": 3.05,
-    "discount_pct": 35.4,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-11-16T17:38:13.500Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/star-trek-commander/card/trc-loran-of-the-third-path-424-rare"
-  },
-  {
-    "name": "Cryptic Command",
-    "expansion": "Star Trek Commander",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 1.71,
-    "ref_price": 3,
-    "discount_pct": 43.0,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-11-16T17:38:13.500Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/star-trek-commander/card/trc-cryptic-command-435-rare"
   }
 ]
