@@ -36501,5 +36501,91 @@
       "Standard",
       "Foil"
     ]
+  },
+  "685032e759fa72400956ac23": {
+    "name": "Whirling Dervish",
+    "slug": "leg-whirling-dervish-211-uncommon",
+    "nameSlug": "whirling-dervish",
+    "expansion": "Legends",
+    "expansionSlug": "legends",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502e6e59fa724009559eee": {
+    "name": "Jayemdae Tome",
+    "slug": "3ed-jayemdae-tome-258-rare",
+    "nameSlug": "jayemdae-tome",
+    "expansion": "Revised Edition",
+    "expansionSlug": "revised-edition",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6aa7c2396520b2664c3d0b32": {
+    "name": "Kutzil, Malamet Exemplar",
+    "slug": "sld-kutzil-malamet-exemplar-2782-rare",
+    "nameSlug": "kutzil-malamet-exemplar",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6aa7c23954a0a18ea56fe6cd": {
+    "name": "Konda's Banner",
+    "slug": "sld-kondas-banner-2772-rare",
+    "nameSlug": "kondas-banner",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6ad9e69aea5dfc7d4b4b27bb": {
+    "name": "Camaraderie",
+    "slug": "sld-camaraderie-7183-rare",
+    "nameSlug": "camaraderie",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6aa7c23a2a15da9666915bb6": {
+    "name": "Kona, Rescue Beastie",
+    "slug": "sld-kona-rescue-beastie-2785-rare",
+    "nameSlug": "kona-rescue-beastie",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6aa7c2387ff4b62e32a84429": {
+    "name": "Sisay, Weatherlight Captain",
+    "slug": "sld-sisay-weatherlight-captain-2778-rare",
+    "nameSlug": "sisay-weatherlight-captain",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6a22a72b3c32f48d1fdeaecc": {
+    "name": "Show and Tell",
+    "slug": "mar-show-and-tell-60-mythic",
+    "nameSlug": "show-and-tell",
+    "expansion": "Marvel Universe",
+    "expansionSlug": "marvel-universe",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
   }
 }
