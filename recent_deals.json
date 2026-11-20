@@ -1,5 +1,57 @@
 [
   {
+    "name": "Grafted Skullcap",
+    "expansion": "Urza's Saga",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 3.12,
+    "ref_price": 6,
+    "discount_pct": 48.0,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-11-20T17:01:09.729Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/urzas-saga/card/usg-grafted-skullcap-296-rare"
+  },
+  {
+    "name": "Undermine",
+    "expansion": "Duel Decks: Ajani vs. Nicol Bolas",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 1.57,
+    "ref_price": 2.6,
+    "discount_pct": 39.6,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-11-20T17:01:24.304Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/duel-decks-ajani-vs-nicol-bolas/card/ddh-undermine-62-rare"
+  },
+  {
+    "name": "Miirym, Sentinel Wyrm",
+    "expansion": "Commander Legends: Battle for Baldur's Gate",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 4.08,
+    "ref_price": 5.85,
+    "discount_pct": 30.3,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-11-20T17:02:21.530Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/commander-legends-battle-for-baldurs-gate/card/clb-miirym-sentinel-wyrm-284-rare"
+  },
+  {
+    "name": "Beast Whisperer",
+    "expansion": "Murders at Karlov Manor Commander",
+    "finish": "Standard",
+    "language": "en",
+    "price_paid": 5.42,
+    "ref_price": 7.65,
+    "discount_pct": 29.2,
+    "confident": true,
+    "seller_country": "US",
+    "created_at": "2026-11-20T17:02:39.539Z",
+    "url": "https://cardnexus.com/fr/explore/mtg/murders-at-karlov-manor-commander/card/mkc-beast-whisperer-166-rare"
+  },
+  {
     "name": "Tale's End",
     "expansion": "Core Set 2020",
     "finish": "Standard",
@@ -1246,57 +1298,5 @@
     "seller_country": "US",
     "created_at": "2026-11-17T17:37:53.101Z",
     "url": "https://cardnexus.com/fr/explore/mtg/final-fantasy-commander/card/fic-celes-rune-knight-201-mythic"
-  },
-  {
-    "name": "Unexpected Windfall",
-    "expansion": "Fallout",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 1.82,
-    "ref_price": 2.35,
-    "discount_pct": 22.6,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-11-17T17:47:37.109Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/fallout/card/pip-unexpected-windfall-193-common"
-  },
-  {
-    "name": "Crystalline Entity",
-    "expansion": "Star Trek",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 3.81,
-    "ref_price": 5,
-    "discount_pct": 23.8,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-11-17T18:05:15.966Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/star-trek/card/trk-crystalline-entity-261-mythic"
-  },
-  {
-    "name": "Eye of Nidhogg",
-    "expansion": "Final Fantasy Commander",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 2.22,
-    "ref_price": 2.85,
-    "discount_pct": 22.1,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-11-17T18:38:26.278Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/final-fantasy-commander/card/fic-eye-of-nidhogg-115-rare"
-  },
-  {
-    "name": "Withered Wretch",
-    "expansion": "Legions",
-    "finish": "Standard",
-    "language": "en",
-    "price_paid": 2.73,
-    "ref_price": 3.65,
-    "discount_pct": 25.2,
-    "confident": true,
-    "seller_country": "US",
-    "created_at": "2026-11-17T18:40:00.120Z",
-    "url": "https://cardnexus.com/fr/explore/mtg/legions/card/lgn-withered-wretch-86-uncommon"
   }
 ]
