@@ -37153,5 +37153,97 @@
     "finishes": [
       "Foil"
     ]
+  },
+  "6850317459fa72400956522b": {
+    "name": "Syncopate",
+    "slug": "ody-syncopate-103-common",
+    "nameSlug": "syncopate",
+    "expansion": "Odyssey",
+    "expansionSlug": "odyssey",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d7a59fa724009554293": {
+    "name": "Gaea's Cradle",
+    "slug": "usg-gaeas-cradle-321-rare",
+    "nameSlug": "gaeas-cradle",
+    "expansion": "Urza's Saga",
+    "expansionSlug": "urzas-saga",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502bca59fa72400954b2ba": {
+    "name": "Badlands",
+    "slug": "2ed-badlands-278-rare",
+    "nameSlug": "badlands",
+    "expansion": "Unlimited Edition",
+    "expansionSlug": "unlimited-edition",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502bc759fa724009549b2a": {
+    "name": "Bayou",
+    "slug": "3ed-bayou-283-rare",
+    "nameSlug": "bayou",
+    "expansion": "Revised Edition",
+    "expansionSlug": "revised-edition",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850322d59fa724009566750": {
+    "name": "Underground Sea",
+    "slug": "3ed-underground-sea-290-rare",
+    "nameSlug": "underground-sea",
+    "expansion": "Revised Edition",
+    "expansionSlug": "revised-edition",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "685032e459fa72400956959e": {
+    "name": "Volcanic Island",
+    "slug": "3ed-volcanic-island-291-rare",
+    "nameSlug": "volcanic-island",
+    "expansion": "Revised Edition",
+    "expansionSlug": "revised-edition",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850317659fa724009566493": {
+    "name": "Strip Mine",
+    "slug": "4ed-strip-mine-363-uncommon",
+    "nameSlug": "strip-mine",
+    "expansion": "Fourth Edition",
+    "expansionSlug": "fourth-edition",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502d0559fa724009551aed": {
+    "name": "Elemental Bond",
+    "slug": "c19-elemental-bond-163-uncommon",
+    "nameSlug": "elemental-bond",
+    "expansion": "Commander 2019",
+    "expansionSlug": "commander-2019",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850301759fa724009560be7": {
+    "name": "Reshape the Earth",
+    "slug": "cmr-reshape-the-earth-249-mythic",
+    "nameSlug": "reshape-the-earth",
+    "expansion": "Commander Legends",
+    "expansionSlug": "commander-legends",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
   }
 }
