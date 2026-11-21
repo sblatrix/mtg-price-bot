@@ -37050,5 +37050,108 @@
       "Standard",
       "Foil"
     ]
+  },
+  "6850301659fa7240095606ea": {
+    "name": "Pyrokinesis",
+    "slug": "ddl-pyrokinesis-32-uncommon",
+    "nameSlug": "pyrokinesis",
+    "expansion": "Duel Decks: Heroes vs. Monsters",
+    "expansionSlug": "duel-decks-heroes-vs-monsters",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6aa7c235404b8d9c59fe72a0": {
+    "name": "Sandstone Needle",
+    "slug": "plst-sandstone-needle-mmq-326-common",
+    "nameSlug": "sandstone-needle",
+    "expansion": "The List",
+    "expansionSlug": "the-list",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502df259fa724009556fa7": {
+    "name": "Iraxxa, Empress of Mars",
+    "slug": "who-iraxxa-empress-of-mars-89-uncommon",
+    "nameSlug": "iraxxa-empress-of-mars",
+    "expansion": "Doctor Who",
+    "expansionSlug": "doctor-who",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d0459fa72400955069a": {
+    "name": "Edgar, Charmed Groom // Edgar Markov's Coffin",
+    "slug": "dbl-edgar-charmed-groom-edgar-markovs-coffin-503-rare",
+    "nameSlug": "edgar-charmed-groom-edgar-markovs-coffin",
+    "expansion": "Innistrad: Double Feature",
+    "expansionSlug": "innistrad-double-feature",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "68502d7a59fa7240095539f0": {
+    "name": "Gitaxian Probe",
+    "slug": "nph-gitaxian-probe-35-common",
+    "nameSlug": "gitaxian-probe",
+    "expansion": "New Phyrexia",
+    "expansionSlug": "new-phyrexia",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6850317559fa7240095658b1": {
+    "name": "Swamp",
+    "slug": "2ed-swamp-295-common",
+    "nameSlug": "swamp",
+    "expansion": "Unlimited Edition",
+    "expansionSlug": "unlimited-edition",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502f7f59fa72400955eb06": {
+    "name": "Presence of the Master",
+    "slug": "leg-presence-of-the-master-31-uncommon",
+    "nameSlug": "presence-of-the-master",
+    "expansion": "Legends",
+    "expansionSlug": "legends",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502bc759fa7240095492a5": {
+    "name": "Al-abara's Carpet",
+    "slug": "leg-al-abaras-carpet-271-rare",
+    "nameSlug": "al-abaras-carpet",
+    "expansion": "Legends",
+    "expansionSlug": "legends",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "69837107345cd38d927062f4": {
+    "name": "Tarkir Dragonstorm Commander Deck Sultai Arisen",
+    "slug": "tdc-tarkir-dragonstorm-commander-deck-sultai-arisen",
+    "nameSlug": "tarkir-dragonstorm-commander-deck-sultai-arisen",
+    "expansion": "Tarkir: Dragonstorm Commander",
+    "expansionSlug": "tarkir-dragonstorm-commander",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68502c2f59fa72400954d9a4": {
+    "name": "Clifftop Retreat",
+    "slug": "pip-clifftop-retreat-1019-rare",
+    "nameSlug": "clifftop-retreat",
+    "expansion": "Fallout",
+    "expansionSlug": "fallout",
+    "finishes": [
+      "Foil"
+    ]
   }
 }
