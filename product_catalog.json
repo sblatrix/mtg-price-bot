@@ -37410,5 +37410,68 @@
       "Foil",
       "Standard"
     ]
+  },
+  "6a622181df116b6275a115db": {
+    "name": "The Queen of Dale",
+    "slug": "hob-the-queen-of-dale-24-mythic",
+    "nameSlug": "the-queen-of-dale",
+    "expansion": "The Hobbit",
+    "expansionSlug": "the-hobbit",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6a7097df3b3de095115acb10": {
+    "name": "Saruman of Many Colors",
+    "slug": "hoc-saruman-of-many-colors-35-mythic",
+    "nameSlug": "saruman-of-many-colors",
+    "expansion": "The Hobbit Eternal",
+    "expansionSlug": "the-hobbit-eternal",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502bc859fa72400954a084": {
+    "name": "Beast Whisperer",
+    "slug": "pgrn-beast-whisperer-123star-rare",
+    "nameSlug": "beast-whisperer",
+    "expansion": "Guilds of Ravnica Promos",
+    "expansionSlug": "guilds-of-ravnica-promos",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "6917ca37d403752343742019": {
+    "name": "Distant Melody",
+    "slug": "sld-distant-melody-2326-rare",
+    "nameSlug": "distant-melody",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil"
+    ]
+  },
+  "6850317359fa724009564153": {
+    "name": "Standstill",
+    "slug": "mb2-standstill-172-uncommon",
+    "nameSlug": "standstill",
+    "expansion": "Mystery Booster 2",
+    "expansionSlug": "mystery-booster-2",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "685030c059fa72400956357e": {
+    "name": "Shield Sphere",
+    "slug": "all-shield-sphere-129-uncommon",
+    "nameSlug": "shield-sphere",
+    "expansion": "Alliances",
+    "expansionSlug": "alliances",
+    "finishes": [
+      "Standard"
+    ]
   }
 }
