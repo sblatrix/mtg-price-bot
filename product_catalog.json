@@ -37473,5 +37473,69 @@
     "finishes": [
       "Standard"
     ]
+  },
+  "68502f7e59fa72400955e0fb": {
+    "name": "Plaguebearer",
+    "slug": "exo-plaguebearer-71-rare",
+    "nameSlug": "plaguebearer",
+    "expansion": "Exodus",
+    "expansionSlug": "exodus",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "68591a1e5f6860674f1f8161": {
+    "name": "Sacred Foundry",
+    "slug": "eoe-sacred-foundry-256-rare",
+    "nameSlug": "sacred-foundry",
+    "expansion": "Edge of Eternities",
+    "expansionSlug": "edge-of-eternities",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "69e1040993c168406dc0b3e4": {
+    "name": "Batwing Brume",
+    "slug": "sld-batwing-brume-2469-rare",
+    "nameSlug": "batwing-brume",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6917ca38d4037523437420e8": {
+    "name": "Demonic Consultation",
+    "slug": "slc-demonic-consultation-4-rare",
+    "nameSlug": "demonic-consultation",
+    "expansion": "Secret Lair Countdown",
+    "expansionSlug": "secret-lair-countdown",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "6aa7c22f61755bd6ebc9f2b3": {
+    "name": "Cave-In",
+    "slug": "plst-cave-in-mmq-180-rare",
+    "nameSlug": "cave-in",
+    "expansion": "The List",
+    "expansionSlug": "the-list",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6aede1f76c6065a5312f61f9": {
+    "name": "Mogis, God of Slaughter",
+    "slug": "sds-mogis-god-of-slaughter-26-mythic",
+    "nameSlug": "mogis-god-of-slaughter",
+    "expansion": "Stardates",
+    "expansionSlug": "stardates",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
   }
 }
