@@ -37785,5 +37785,119 @@
     "finishes": [
       "Standard"
     ]
+  },
+  "69e1040993c168406dc0b408": {
+    "name": "Sol Ring",
+    "slug": "sld-sol-ring-2539-rare",
+    "nameSlug": "sol-ring",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68591a1b5f6860674f1f8105": {
+    "name": "Tibalt's Trickery",
+    "slug": "sld-tibalts-trickery-7027-rare",
+    "nameSlug": "tibalts-trickery",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "68502f7f59fa72400955ef45": {
+    "name": "Peregrine Drake",
+    "slug": "sld-peregrine-drake-1488-rare",
+    "nameSlug": "peregrine-drake",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6850317459fa72400956510c": {
+    "name": "Storm, Force of Nature",
+    "slug": "sld-storm-force-of-nature-1742-mythic",
+    "nameSlug": "storm-force-of-nature",
+    "expansion": "Secret Lair Drop",
+    "expansionSlug": "secret-lair-drop",
+    "finishes": [
+      "Standard",
+      "Foil"
+    ]
+  },
+  "685032e759fa72400956aeb1": {
+    "name": "Windswept Heath",
+    "slug": "mh3-windswept-heath-440-rare",
+    "nameSlug": "windswept-heath",
+    "expansion": "Modern Horizons 3",
+    "expansionSlug": "modern-horizons-3",
+    "finishes": [
+      "Foil",
+      "Standard"
+    ]
+  },
+  "6aa7c22a478d55cff57bec10": {
+    "name": "Exhume",
+    "slug": "plst-exhume-usg-134-common",
+    "nameSlug": "exhume",
+    "expansion": "The List",
+    "expansionSlug": "the-list",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6aa7c22916cbae804180f602": {
+    "name": "Jetmir, Nexus of Revels",
+    "slug": "plst-jetmir-nexus-of-revels-snc-193-mythic",
+    "nameSlug": "jetmir-nexus-of-revels",
+    "expansion": "The List",
+    "expansionSlug": "the-list",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6aa7c22ebeb9fb1c924a7a66": {
+    "name": "Narset, Enlightened Exile",
+    "slug": "plst-narset-enlightened-exile-mat-38-mythic",
+    "nameSlug": "narset-enlightened-exile",
+    "expansion": "The List",
+    "expansionSlug": "the-list",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6aa7c232c5df9c639297bfe3": {
+    "name": "Jaheira, Friend of the Forest",
+    "slug": "plst-jaheira-friend-of-the-forest-clb-237-rare",
+    "nameSlug": "jaheira-friend-of-the-forest",
+    "expansion": "The List",
+    "expansionSlug": "the-list",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6aa7c22cd47bb51fb26a59db": {
+    "name": "Akroma, Vision of Ixidor",
+    "slug": "plst-akroma-vision-of-ixidor-cmr-2-mythic",
+    "nameSlug": "akroma-vision-of-ixidor",
+    "expansion": "The List",
+    "expansionSlug": "the-list",
+    "finishes": [
+      "Standard"
+    ]
+  },
+  "6aa7c232ea33ca6991150476": {
+    "name": "Misleading Signpost",
+    "slug": "plst-misleading-signpost-woc-11-rare",
+    "nameSlug": "misleading-signpost",
+    "expansion": "The List",
+    "expansionSlug": "the-list",
+    "finishes": [
+      "Standard"
+    ]
   }
 }
