@@ -1,5 +1,18 @@
 [
   {
+    "name": "Blade of the Bloodchief",
+    "format": "modern",
+    "rarity": "rare",
+    "pct_of_decks": 12,
+    "pct_change": 12,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-11-23T16:37:22.921390+00:00",
+    "url": "https://www.mtggoldfish.com/price/lost-caverns-of-ixalan-commander/300/blade-of-the-bloodchief#paper",
+    "summary": "Nouvelle entrée en modern : 12% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Leatherhead, Swamp Stalker",
     "format": "standard",
     "rarity": "rare",
@@ -2584,19 +2597,6 @@
     "detected_at": "2026-08-23T06:18:32.059540+00:00",
     "url": "https://www.mtggoldfish.com/price/final-fantasy/185/esper-origins#paper",
     "summary": "Nouvelle entrée en standard : 12% des decks du classement.",
-    "source": "MTGGoldfish"
-  },
-  {
-    "name": "Icetill Explorer",
-    "format": "standard",
-    "rarity": "rare",
-    "pct_of_decks": 11,
-    "pct_change": 11,
-    "is_new_entry": true,
-    "in_post_release_window": false,
-    "detected_at": "2026-08-23T06:18:32.059540+00:00",
-    "url": "https://www.mtggoldfish.com/price/edge-of-eternities/192/icetill-explorer#paper",
-    "summary": "Nouvelle entrée en standard : 11% des decks du classement.",
     "source": "MTGGoldfish"
   }
 ]
