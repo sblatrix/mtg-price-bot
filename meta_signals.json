@@ -1,5 +1,31 @@
 [
   {
+    "name": "Clarion Conqueror",
+    "format": "pioneer",
+    "rarity": "rare",
+    "pct_of_decks": 9,
+    "pct_change": 9,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-11-24T16:33:44.171796+00:00",
+    "url": "https://www.mtggoldfish.com/price/tarkir-dragonstorm/5/clarion-conqueror#paper",
+    "summary": "Nouvelle entrée en pioneer : 9% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Skyclave Apparition",
+    "format": "pioneer",
+    "rarity": "rare",
+    "pct_of_decks": 9,
+    "pct_change": 9,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-11-24T16:33:44.171796+00:00",
+    "url": "https://www.mtggoldfish.com/price/bloomburrow-commander/154/skyclave-apparition#paper",
+    "summary": "Nouvelle entrée en pioneer : 9% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Blade of the Bloodchief",
     "format": "modern",
     "rarity": "rare",
@@ -2571,32 +2597,6 @@
     "detected_at": "2026-08-24T06:30:38.842311+00:00",
     "url": "https://www.mtggoldfish.com/price/teenage-mutant-ninja-turtles-commander/47/blasphemous-act#paper",
     "summary": "Nouvelle entrée en commander : 18% des decks du classement.",
-    "source": "MTGGoldfish"
-  },
-  {
-    "name": "Torpor Orb",
-    "format": "standard",
-    "rarity": "mythic",
-    "pct_of_decks": 12,
-    "pct_change": 12,
-    "is_new_entry": true,
-    "in_post_release_window": false,
-    "detected_at": "2026-08-23T06:18:32.059540+00:00",
-    "url": "https://www.mtggoldfish.com/price/the-big-score/27/torpor-orb#paper",
-    "summary": "Nouvelle entrée en standard : 12% des decks du classement.",
-    "source": "MTGGoldfish"
-  },
-  {
-    "name": "Esper Origins",
-    "format": "standard",
-    "rarity": "rare",
-    "pct_of_decks": 12,
-    "pct_change": 12,
-    "is_new_entry": true,
-    "in_post_release_window": false,
-    "detected_at": "2026-08-23T06:18:32.059540+00:00",
-    "url": "https://www.mtggoldfish.com/price/final-fantasy/185/esper-origins#paper",
-    "summary": "Nouvelle entrée en standard : 12% des decks du classement.",
     "source": "MTGGoldfish"
   }
 ]
