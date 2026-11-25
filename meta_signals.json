@@ -1,5 +1,31 @@
 [
   {
+    "name": "Quantum Riddler",
+    "format": "modern",
+    "rarity": "mythic",
+    "pct_of_decks": 12,
+    "pct_change": 12,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-11-25T16:16:15.732125+00:00",
+    "url": "https://www.mtggoldfish.com/price/edge-of-eternities/72/quantum-riddler#paper",
+    "summary": "Nouvelle entrée en modern : 12% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Quantum Riddler",
+    "format": "legacy",
+    "rarity": "mythic",
+    "pct_of_decks": 11,
+    "pct_change": 11,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-11-25T16:16:15.732125+00:00",
+    "url": "https://www.mtggoldfish.com/price/edge-of-eternities/72/quantum-riddler#paper",
+    "summary": "Nouvelle entrée en legacy : 11% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Clarion Conqueror",
     "format": "pioneer",
     "rarity": "rare",
@@ -2571,32 +2597,6 @@
     "detected_at": "2026-08-25T06:22:10.641818+00:00",
     "url": "https://www.mtggoldfish.com/price/modern-horizons-3/103/nethergoyf#paper",
     "summary": "Nouvelle entrée en legacy : 11% des decks du classement.",
-    "source": "MTGGoldfish"
-  },
-  {
-    "name": "Sentinel of the Nameless City",
-    "format": "pioneer",
-    "rarity": "rare",
-    "pct_of_decks": 11,
-    "pct_change": 11,
-    "is_new_entry": true,
-    "in_post_release_window": false,
-    "detected_at": "2026-08-24T06:30:38.842311+00:00",
-    "url": "https://www.mtggoldfish.com/price/lost-caverns-of-ixalan/211/sentinel-of-the-nameless-city#paper",
-    "summary": "Nouvelle entrée en pioneer : 11% des decks du classement.",
-    "source": "MTGGoldfish"
-  },
-  {
-    "name": "Blasphemous Act",
-    "format": "commander",
-    "rarity": "rare",
-    "pct_of_decks": 18,
-    "pct_change": 18,
-    "is_new_entry": true,
-    "in_post_release_window": false,
-    "detected_at": "2026-08-24T06:30:38.842311+00:00",
-    "url": "https://www.mtggoldfish.com/price/teenage-mutant-ninja-turtles-commander/47/blasphemous-act#paper",
-    "summary": "Nouvelle entrée en commander : 18% des decks du classement.",
     "source": "MTGGoldfish"
   }
 ]
