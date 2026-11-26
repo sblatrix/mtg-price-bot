@@ -1,5 +1,31 @@
 [
   {
+    "name": "Ghost Vacuum",
+    "format": "standard",
+    "rarity": "rare",
+    "pct_of_decks": 26,
+    "pct_change": 26,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-11-26T15:53:08.370330+00:00",
+    "url": "https://www.mtggoldfish.com/price/duskmourn-house-of-horror/248/ghost-vacuum#paper",
+    "summary": "Nouvelle entrée en standard : 26% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
+    "name": "Trinisphere",
+    "format": "modern",
+    "rarity": "mythic",
+    "pct_of_decks": 22,
+    "pct_change": 22,
+    "is_new_entry": true,
+    "in_post_release_window": false,
+    "detected_at": "2026-11-26T15:53:08.370330+00:00",
+    "url": "https://www.mtggoldfish.com/price/double-masters/303/trinisphere#paper",
+    "summary": "Nouvelle entrée en modern : 22% des decks du classement.",
+    "source": "MTGGoldfish"
+  },
+  {
     "name": "Quantum Riddler",
     "format": "modern",
     "rarity": "mythic",
@@ -2571,32 +2597,6 @@
     "detected_at": "2026-08-25T06:22:10.641818+00:00",
     "url": "https://www.mtggoldfish.com/price/lorwyn-eclipsed/192/sapling-nursery#paper",
     "summary": "Nouvelle entrée en standard : 12% des decks du classement.",
-    "source": "MTGGoldfish"
-  },
-  {
-    "name": "Subtlety",
-    "format": "modern",
-    "rarity": "mythic",
-    "pct_of_decks": 10,
-    "pct_change": 10,
-    "is_new_entry": true,
-    "in_post_release_window": false,
-    "detected_at": "2026-08-25T06:22:10.641818+00:00",
-    "url": "https://www.mtggoldfish.com/price/modern-horizons-2/67/subtlety#paper",
-    "summary": "Nouvelle entrée en modern : 10% des decks du classement.",
-    "source": "MTGGoldfish"
-  },
-  {
-    "name": "Nethergoyf",
-    "format": "legacy",
-    "rarity": "mythic",
-    "pct_of_decks": 11,
-    "pct_change": 11,
-    "is_new_entry": true,
-    "in_post_release_window": false,
-    "detected_at": "2026-08-25T06:22:10.641818+00:00",
-    "url": "https://www.mtggoldfish.com/price/modern-horizons-3/103/nethergoyf#paper",
-    "summary": "Nouvelle entrée en legacy : 11% des decks du classement.",
     "source": "MTGGoldfish"
   }
 ]
