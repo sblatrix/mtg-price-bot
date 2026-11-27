@@ -14270,5 +14270,17 @@
   "Gylwain, Casting Director|": {
     "rarity": "mythic",
     "set": null
+  },
+  "Duress|dmr": {
+    "rarity": "common",
+    "set": "dmr"
+  },
+  "Grafdigger's Cage <planeswalker stamp>|m20": {
+    "rarity": null,
+    "set": "m20"
+  },
+  "Food Chain|": {
+    "rarity": "mythic",
+    "set": null
   }
 }
